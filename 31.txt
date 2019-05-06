@@ -1,0 +1,65 @@
+An information chain that could end contaminated seafood
+Plastics and chemicals pollute our oceans and contaminate seafood. Now, a new sea-to-plate data chain could track fish from ocean to local shops, clamping down on dishonest labelling.
+
+By Justin Calderon
+26 April 2019
+It has become a new, horrible norm. Our marine life is today being choked by  gathering minefield of plastic in our oceans. A rainbow runner fish with a disturbing kaleidoscopic of plastic bits in its liver. A mahi mahi fish with plastic bottle caps in its stomach. Or the mussels and clams, the filters of the sea, that harbor hidden microplastics, invisible to our naked eye.
+
+Our first reaction to this news is often disgust. But this reflex quickly gives way to a more sobering thought: the far-reaching impact of the  eight million metric tons of plastic pollution that enter our ocean every year.  Not just proof of our mounting ecological misdeeds, this catastrophe also directly threatens to poison us where we are truly vulnerable: our plates.  
+
+The prospects of such a future impact how we shop for food. Last year, a European shopper survey conducted by the research firm McKinsey & Company, reconfirmed a long-known trend: quality food continues to be more important than price. In other words, shoppers deeply care about consuming safe food, and willingly demonstrate it with their wallets.
+
+You might also like:
+
+The hunt for the fish pirates exploiting our seas
+The invisible killer of the oceans
+The new wonder products from nature
+The problem is that our modern industrial food network detaches us from any knowledge of our food＊s origin. In a strange twist of fate, we have become unfathomably clueless in a world oversaturated by information.
+
+That is all about to change. New technology is now bridging this information gap and returning the power of knowledge to consumers. By cataloging the long trail of supply chain data on encrypted ledgers, the nebulous world of the global food network will be exposed. Shoppers will soon be able to follow the ※story of the fish§ 每 a report card enclosing the product＊s original photo, place of catch, initial weight, species type, vessel and crew details, RFID tag number, catch water details and more.
+
+Food sold in this system will be more detailed that most online products we buy, and downright encyclopedic compared to online dating profiles.
+
+The first fish products to be transparently produced and traced 每 from ocean to point of sale 每 through these blockchain-enabled ledgers will hit supermarkets in New Zealand and the EU some time this year, says Alfred Cook, the Western and Central Pacific Tuna Programme Manager for the World Wildlife Foundation, who works in the project. The breakthrough comes after a pilot that started in June 2017, supported by the WWF, which hopes that enforced transparency in the supply chain will also prevent fish caught through slave labour from ending up unknowingly in our groceries.
+
+Uniting the siloes of modern food supply chains is one of the best examples of a real-world problem that only blockchain can solve
+
+To ensure no one is buying plastic-laden fish, geolocation information will show the catch was far from populated coastlines, and inspection certifications can be uploaded to demonstrate that product passed quality checks.
+
+Since the days of Bitcoin＊s 2017/18 boom and bust, blockchain technology, the foundation behind cryptocurrencies, has attracted exhausting levels of hype. Today there are countless startups across the globe souring for ways to apply the arcane ways of decentralised, encrypted ledgers to disrupt businesses large and small. Most are gimmicks.
+
+This one, however, feels different. Uniting the siloes of modern food supply chains is one of the best examples of a real-world problem that only blockchain can solve, and which promises to have an impact on the average shopper sooner than later.
+
+※The traditional supply chain is based on relationships and a complete lack of information from one actor to the next,§ says Brett Haywood, the New Zealand managing director of Sea Quest Fiji, the tuna fishing and processing company involved in the pioneering programme.
+
+※We know what we sell our fish for but we do not know what the next actor gets as a margin. On one hand it is not our business to know what the fish is sold for down the supply chain but on the other hand, we are subject to the inefficiencies of the actors down that chain,§ he explains.
+
+※While it has taken more time, the disruption that will be caused to traditional supply chains it is no less significant, as the primary producer can get closer to the end consumer,§ Haywood says.
+
+The technological infrastructure for this project has been around for several years, and chances are you＊ve already experienced it. Pioneering efforts were made in New Zealand and Australia in 2015 and 2016, and similar projects soon followed, including in Miami.
+
+To do traceability at scale is almost an impossible task 每 Tyler Mulvihull
+
+These programmes never provided great detail. Using automated identification technologies, such as radio frequency identification tags and 2D barcodes, food retailers provided instant data on product origin to consumers through smartphone applications. But until now comprehensive data of our food provenance has been lacking. Our modern supply chains have had too many isolated moving parts to assimilate.
+
+※An enormous amount of time is spent reconciling information between organisations because everyone maintains their own copy of a database,§ observes Tyler Mulvihill, co-founder of Viant, the Brooklyn-based company building the software on the public ethereum blockchain.
+
+Why is this technology even necessary?
+
+※End-to-end traceability is extremely difficult to do without blockchain because you have siloed data systems and if one of those chains break, the entire system breaks down,§ answered Mulvihill. ※To do traceability at scale is almost an impossible task,§ he added.
+
+Yet, conscientiously lifting the veal of a company＊s inner workings will not come as a sensible decision to many CEOs. The modern business world does not incentivise greater transparency, and changing the old way of doing things may take considerable time. Just think of any vertically integrated company: airing your product＊s more intimate details out in the open will reveal yourself to direct competitors. That is often not the wisest choice.
+
+※The problem is this information is controlled by what the supply chain actors wish to share and there has to be a revolution to change this,§ asserts Haywood. ※I believe that blockchain technology is the catalyst [to change], creating a relationship (at least knowledge based) between consumer and primary producer.§
+
+The idea of knowing where your food comes from is a privilege of those who are more or less economically secure 每 Robyn Metcalfe
+
+Marketing campaigns will pressure change, of course, as shoppers begin to naturally expect more transparency will their food. Yet, while the future will impose greater numbers of companies to connect to publically available ledgers, it must be said that this technology is very much here to solve a rich ※first-world problem§.
+
+※The idea of knowing where your food comes from is a privilege of those who are more or less economically secure,§ Robyn Metcalfe, director of the Food+City organisation at the University of Texas at Austin. ※Many city dwellers are in need of food on a more basic basis and therefore have no basic interest in knowing where it comes from. If we＊re only talking about those who are food secure, sure, there are technologies that they have the time and resources to enjoy.§
+
+Applications offering food information will abound, she predicts, and they will continue to become more sophisticated by the day.
+
+※Interacting with your food will become a thing,§ Metcalfe continues. ※This connection doesn＊t necessarily mean that people will have more power; it may be that knowing more about your food will be a convenience and in some cases, a form of entertainment.§
+
+In a world where the habitats of our seafood are becoming increasing under threat, such technologies could become a mandatory requisite for quality-sensitive shoppers. But an inundation of new information is no guarantee of an evolutionary shift, as many emerging technologies have often taught us, and such breakthroughs will always depend how well we are educated to utilise them.
