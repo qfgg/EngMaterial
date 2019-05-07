@@ -1,0 +1,33 @@
+Should AI be used to catch shoplifters?
+By Nell Lewis, CNN Business
+
+Updated 1035 GMT (1835 HKT) April 18, 2019
+VaakEye software monitors security-camera footage to spot suspicious behavior.
+VaakEye software monitors security-camera footage to spot suspicious behavior.
+London (CNN Business)New artificial intelligence software is being used in Japan to monitor the body language of shoppers and look for signs that they are planning to shoplift.
+
+The software, which is made by a Tokyo startup called Vaak, differs from similar products that work by matching faces to criminal records. Instead, VaakEye uses behavior to predict criminal action.
+Company founder Ryo Tanaka said his team fed the algorithm 100,000 hours worth of surveillance data to train it to monitor everything from the facial expressions of shoppers to their movements and clothing.
+Since VaakEye launched last month, it has been rolled out in 50 stores across Japan.
+Vaak claims that shoplifting losses dropped by 77% during a test period in local convenience stores. That could help reduce global retail costs from shoplifting, which hit $34 billion in 2017 according to the Global Shrink Index.
+Moral questions
+Using AI to catch thieves raises all kinds of ethical questions.
+"While the incentive is to prevent theft, is it legal or even moral to prevent someone from entering a store based on this software?" said Euromonitor retail analyst Michelle Grant.
+This should not be up to the software developer, says Tanaka. "What we provide is the information of the suspicious, detected image. We don't decide who is criminal, the shop decides who's criminal," he said.
+Europe is making AI rules now to avoid a new tech crisis
+Europe is making AI rules now to avoid a new tech crisis
+Yet that is precisely what concerns the human rights charity Liberty, which is campaigning to ban facial recognition technology in the United Kingdom.
+"A retail environment ！ a private body ！ is starting to perform something akin to a police function," said Hannah Couchman, Liberty's advocacy and policy officer.
+Liberty is also worried about the potential of AI to fuel discrimination. A 2018 study by MIT and Stanford University found that various commercial facial-analysis programs demonstrated skin-type and gender biases.
+Tanaka explains that since the Vaak software is based on behavior rather than race or gender, this should not be a problem. But Couchman remains skeptical.
+"With technologies that rely on algorithms ！ particularly in regards to human behavior ！ the potential for discrimination is always there," she said. "Humans have to teach the algorithm what to treat suspiciously."
+Customer consent
+Then there is the issue of transparency.
+"Are people aware of what's happening?" asked Couchman. "Do they consent? Is it meaningful consent? What happens to the data? How is it protected? Might it be shared?"
+Google scraps its controversial AI ethics council days after it was announced
+Google scraps its controversial AI ethics council days after it was announced
+Grant said consumers are willing to sacrifice some privacy for convenience ！ such as using face recognition for payment authentication ！ but only when they're aware the technology is being used.
+Tanaka does not dispute this. "There should be notice before they [customers] enter the store so that they can opt out," he said.
+"Governments should operate rules that make stores disclose information ！ where and what they analyze, how they use it, how long they use it," he said.
+Christopher Eastham, a specialist in AI at the law firm Fieldfisher, said the framework for regulating the technology is not yet in place.
+"There is a need for clarity from lawmakers and guidance from regulators, who will ultimately need to decide in what circumstances the use of this technology will be appropriate or desirable as a matter of public policy," he said.
