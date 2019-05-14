@@ -1,0 +1,114 @@
+WhatsApp discovers 'targeted' surveillance attack
+Dave Lee
+North America technology reporter
+14 May 2019
+
+WhatsApp has 1.5bn users, but it believed the attacks were highly-targeted
+Hackers were able to remotely install surveillance software on phones and other devices using a major vulnerability in messaging app WhatsApp, it has been confirmed.
+
+WhatsApp, which is owned by Facebook, said the attack targeted a "select number" of users, and was orchestrated by "an advanced cyber actor".
+
+A fix was rolled out on Friday.
+
+The attack was developed by Israeli security firm NSO Group, according to a report in the Financial Times.
+
+On Monday WhatsApp urged all of its 1.5bn users to update their apps as an added precaution.
+
+The attack was first discovered earlier this month.
+
+How was the security flaw used?
+It involved attackers using WhatsApp's voice calling function to ring a target's device. Even if the call was not picked up, the surveillance software would be installed, and, the FT reported, the call would often disappear from the device's call log.
+
+WhatsApp told the BBC its security team was the first to identify the flaw, and shared that information with human rights groups, selected security vendors and the US Department of Justice earlier this month.
+
+"The attack has all the hallmarks of a private company reportedly that works with governments to deliver spyware that takes over the functions of mobile phone operating systems,¡± the company said on Monday in a briefing document note for journalists.
+
+The firm also published an advisory to security specialists, in which it described the flaw as: "A buffer overflow vulnerability in WhatsApp VOIP stack allowed remote code execution via specially crafted series of SRTCP packets sent to a target phone number.¡±
+
+WhatsApp abused in Brazil's elections
+On the frontline of India's WhatsApp fake news war
+WhatsApp sets new rules after mob killings
+Who is behind the software?
+The NSO Group is an Israeli company that has been referred to in the past as a "cyber arms dealer".
+
+Its flagship software, Pegasus, has the ability to collect intimate data from a target device, including capturing data through the microphone and camera, and gathering location data.
+
+In a statement, the group said: "NSO's technology is licensed to authorised government agencies for the sole purpose of fighting crime and terror.
+
+"The company does not operate the system, and after a rigorous licensing and vetting process, intelligence and law enforcement determine how to use the technology to support their public safety missions. We investigate any credible allegations of misuse and if necessary, we take action, including shutting down the system.
+
+"Under no circumstances would NSO be involved in the operating or identifying of targets of its technology, which is solely operated by intelligence and law enforcement agencies. NSO would not or could not use its technology in its own right to target any person or organisation."
+
+Who has been targeted?
+WhatsApp said it was too early to know how many users had been affected by the vulnerability, although it added that suspected attacks were highly-targeted.
+
+According to Facebook's latest figures, WhatsApp has around 1.5bn users worldwide.
+
+Amnesty International, which said it had been targeted by tools created by the NSO Group in the past, said this attack was one human rights groups had long feared was possible.
+
+"They're able to infect your phone without you actually taking an action," said Danna Ingleton, deputy programme director for Amnesty Tech. She said there was mounting evidence that the tools were being used by regimes to keep prominent activists and journalists under surveillance.
+
+"There needs to be some accountability for this, it can't just continue to be a wild west, secretive industry."
+
+On Tuesday, a Tel Aviv court will hear a petition led by Amnesty International that calls for Israel's Ministry of Defence to revoke the NSO Group's licence to export its products.
+
+*******************
+
+German crossbow deaths: Police find more bodies
+13 May 2019
+Share
+Image copyrightAFP
+Image caption
+A property in Wittingen was sealed off by police after the latest gruesome discovery
+German police probing the deaths of three people shot with crossbow arrows in a rural Bavarian hotel near Passau have found two more female bodies in a flat 650km (400 miles) away.
+
+The flat in Wittingen had been occupied by a 30-year-old woman who was one of the victims found in the hotel room.
+
+The other two in the hotel room were a man and woman found in bed, hand-in-hand, impaled with several arrows.
+
+There was no sign of a fight, nor of another participant, police said.
+
+All five victims were resident in Germany.
+
+Image caption
+The hotel is in a popular hiking location near Passau in Bavaria
+Two crossbows were found lying in the hotel room and a third in a bag belonging to the group.
+
+The couple found in bed were a man aged 53 and a woman aged 33, both from the western state of Rhineland-Palatinate.
+
+Public prosecutor Walter Feiler told a news conference that the man had been shot twice in the head and three times in the chest, while the woman lying next to him had one wound in the head and another in the chest.
+
+The third victim, the 30-year-old woman, "was lying in front of the double bed and had one shot from a crossbow between the throat and the chin", he added.
+
+The German daily Merkur said that the 30-year-old woman was reportedly the sister of one of the women found in Wittingen. Merkur identified her only as "C" and said she had registered as an occupant of the flat in March.
+
+Image caption
+Undertakers removed the bodies from the flat in Wittingen
+Mystery group
+The Wittingen discovery came on Monday, as police investigated the hotel room deaths.
+
+Mr Feiler said it was not yet clear how long the bodies had been in the flat.
+
+"The corpses were found because one of the neighbours heard about the reports from Passau and told police that the letter box of the flat was overflowing and that a strange smell was coming from the flat," he said.
+
+The relationship between the three victims in the hotel also remains unclear. They had booked a room with a double bed and single bed for three nights, checking in on Friday, without ordering breakfast.
+
+The hotel is by the Ilz river near Passau, about 650km (400 miles) south of Wittingen.
+
+Crossbows can fire either bolts or short arrows. Hunting with bows or crossbows is banned in Germany.
+
+Image caption
+Three crossbows were found in the hotel room with the three bodies
+The first results of an autopsy are expected on Tuesday.
+
+Another hotel guest, who was staying in the hotel for a short break, told local newspaper Passauer Neue Presse that it had been a "completely quiet night".
+
+Police have seized a white truck, parked outside, which has stickers reportedly linked to a hunting club. It was registered in Westerwald, Rhineland-Palatinate.
+
+German media say one sticker has the letters FMJ - believed to be a reference to Full Metal Jacket crossbow arrows made by a US firm, Easton Hunting.
+
+A hotel guest said the man had a long white beard and the women were dressed in black, and described them as "strange".
+
+On arrival on Friday evening they simply wished other guests a "good evening", then went upstairs to their second-floor room with bottles of water and Coca-Cola, said the guest, quoted by Merkur.
+
+In Wittingen a neighbour quoted by Merkur described the 30-year-old woman as "always a bit odd - always dressed in black, sort of gothic".
