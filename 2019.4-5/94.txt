@@ -1,0 +1,136 @@
+Huawei's Android loss: How it affects you
+By Leo Kelion
+Technology desk editor
+20 May 2019
+Share
+Image copyrightREUTERS
+Image caption
+Huawei's smartphone division's success has been tied to the popularity of Google's Android
+The restrictions being placed on Huawei's access to the Android operating system will cast a long shadow over Tuesday's launch of the Chinese company's latest handsets.
+
+The firm has invited press from across the globe to London to witness the unveiling of its Honor 20 Series smartphones.
+
+The BBC understands the devices will still offer the full Android experience - including use of Google's own app store.
+
+But unless a clash with the US government is resolved, future launches are set to deliver a much more limited experience - assuming Huawei decides to run them off Android at all.
+
+As yet it is unclear whether the restrictions Google has imposed on Huawei will be long-lasting.
+
+Image caption
+Huawei had sent out this invitation to the launch of new smartphones under its Honor sub-brand
+Presumably Google does not want to break ties with what is the world's second bestselling Android phone-maker after Samsung - the Chinese firm recently said more than half a billion consumers use its handsets.
+
+In theory, the US's Bureau of Industry and Security could issue a licence to let Google continue the relationship or at least parts of it, or even make a U-turn and drop its restrictions altogether.
+
+But assuming the matter is not resolved soon, let's try and pick our way through the consequences.
+
+What exactly is Google doing?
+The US tech firm is suspending all business activity with Huawei related to "non-public" transfers of hardware, software and technical services.
+
+That does not mean that Huawei loses all access to Android, as the core operating system is an open source project. Any manufacturer can modify it and install it on their devices without having to get permission.
+
+But in practice, all the major vendors rely on a lot of support from Google.
+
+In addition, Google controls access to several add-on bits of software, including:
+
+the Play app store
+its own apps
+the Google Assistant virtual helper
+the Gmail email service
+tools that allow third-party services access to certain functions
+How does this affect existing Huawei handsets?
+Owners of Huawei or Honor phones will not find that they suddenly cannot install new apps or get updates for Google services.
+
+Image caption
+Huawei shipped about 3.1 million handsets to the UK between April 2018 and March 2019, according to analysts IDC, making it the third most popular brand after Apple and Samsung
+The reason is that their devices have already been certified under processes known as the Compatibility Test Suite (CTS) and the Vendor Test Suite (VTS).
+
+As a consequence, Google can provide them with new versions of its products and authorise downloads from its Play marketplace, without having to directly deal with Huawei itself.
+
+Huawei's use of Android restricted by Google
+Vodafone's 5G UK service to use Huawei kit at launch
+Why UK is at odds with its cyber-allies over Huawei
+However, matters become more complex when it comes to security updates.
+
+The way these typically work is that Google gives Android device-makers the code for its software fixes about one month before it reveals details to the public about the vulnerabilities involved.
+
+This gives manufacturers time to check the patches do not cause problems for their own proprietary software, and then to package up a customised version of the fixes as a download.
+
+Huawei will now only learn of the patches on the same day they are released to the Android Open Source Project (AOSP), meaning there will be a lag before it can distribute them.
+
+Image caption
+Huawei has promised to continue providing security updates for its smartphones
+That could theoretically result in a situation in which a serious flaw is revealed and Huawei's devices remain exposed for several days or weeks.
+
+How about new handsets?
+New phones will not be certified, and as a consequence will not be able to have Google Mobile Services (GMS) pre-installed.
+
+This includes a suite of Google's own apps including:
+
+the Play stores for apps, music and other media
+Google Photos
+YouTube
+Google Maps
+Google Drive cloud storage
+Google Duo video calls
+Some of these services will still be accessible via the web, but many would find that less convenient.
+
+The loss will not have much impact on China-based users, who are already blocked from accessing most of Google's facilities. But elsewhere, it could be a deal-breaker for many consumers.
+
+They would still be able to install third-party apps via alternative stores or a process known as side-loading.
+
+But Google prevents its own apps being installed on uncertified devices.
+
+Furthermore, losing access to GMS also means that third-party developers would not be able to tap into Google's application programming interfaces (APIs) on new devices.
+
+The consequences would be that their apps could lose some functions.
+
+Image caption
+Huawei would be unable to install the GMS suite of apps on its forthcoming phones
+"Let's say an app wants to send a notification to your device," Mishaal Rahman, editor-in-chief of the news site XDA-developers.com, explained to the BBC.
+
+"There's a really, really good chance that it's using Google Play Services for its push notification service. So any apps - even Twitter - could stop working with push notifications."
+
+Another example, he added, would be the loss of Casting, a facility that allows handsets to wirelessly stream audio and video to a TV or other equipment via a tap of an icon.
+
+What about future releases of Android?
+There has already been a lot of speculation that Huawei devices might be stuck with the current version of Android.
+
+But Mr Rahman believes that is unlikely to be the case since the next version - Android Q - will also be open source and Google has already shared most of the source code with Huawei and other partners.
+
+However, he added that things could be more tricky for the subsequent release - Android R - in 2020.
+
+"What happens is that Google's top partners - which includes companies like Huawei and Samsung - get early access to the preview code many months before the public beta release," he explained.
+
+"That gives them a big head-start on adapting their own software releases.
+
+"The impact on Huawei would be that it would lose several months of development time."
+
+Moreover, Mr Rahman added, even if the Chinese company was willing to accept it could only offer the operating system much later than its competitors, it would also face a marketing nightmare.
+
+"Android is actually a brand, and in order to use it your software must [be certified]," he explained.
+
+"So, even if Huawei continues to sell devices using the open source code, it cannot legally call its devices Android."
+
+So what is the alternative?
+Huawei told the BBC it would prefer to work with Android, but has created a new operating system as a Plan B
+
+"We have been making plans for this possible outcome - but it hasn't happened yet," Jeremy Thompson, Huawei's UK executive vice president said.
+
+"We have a parallel programme in place to develop an alternative¡­ which we think will delight our customers.
+
+"In the short-term it's not good news for Huawei, but I think we can manage that."
+
+Image caption
+Huawei's consumer business chief Richard Yu has also confirmed it has developed an alternative to Android
+In China, that might not be too disruptive a move, thanks to the fact that device-owners spend much of their time within WeChat - a platform that allows third-party apps to run within it.
+
+Furthermore, other developers are likely to be put under pressure to quickly release versions of their stand-alone apps for the new operating system.
+
+But elsewhere the move could be highly problematic.
+
+"Whatever they have cooked up is dead in the water," claimed Mr Rahman.
+
+"The critical part of success with a mobile OS is the number of apps available on the market.
+
+"And besides Apple's iOS, Android has the biggest developer platform."

@@ -1,0 +1,69 @@
+The criminals who fool doctors
+※Malingering§ 每 faking a sickness for an ulterior motive 每 is surprisingly common. Here are some of the ways in which doctors tell real illnesses from false ones.
+
+By Jules Montague
+22 May 2019
+They called him ※The Oddfather§. He was boss of New York＊s Genovese crime family and one of the most influential Mafia figures of his time. But for more than three decades, Vincent Gigante feigned insanity to avoid jail time, wandering around Greenwich village in a bathrobe and slippers. His niece, Rita Gigante, later remembered: ※He＊d abruptly stop and point and start mumbling gibberish. If he thought for sure he was being taped or filmed by the feds, he＊d really lay it on thick.§ Occasionally, he would pointedly ask parking meters if they would join him on a walk. FBI agents once arrived with a subpoena only to find Gigante standing naked in a running shower, clutching an open umbrella.
+
+But Gigante was malingering: a term that describes intentionally producing false symptoms, or grossly exaggerating existing ones, with an external incentive in mind. Those incentives include obtaining financial compensation, housing, or drugs, or avoiding work, military duty or criminal prosecution.
+
+Malingering is nothing new. David faked madness in the Bible to escape King Achish＊s wrath: ※So, as they watched, he feigned insanity and acted like a madman in their hands, drumming on the doors of the gate and drooling onto his beard.§ Odysseus took a similar approach to avoid being called to war, albeit unsuccessfully: ※when Odysseus pretended to rave, Palamedes followed him, and snatching Telemachus from Penelope's bosom, drew his sword as if he would kill him. And in his fear for the child Odysseus confessed that his madness was pretended, and he went to the war.§
+
+You might also like:
+? How do you treat someone who doesn＊t accept they＊re ill? 
+? The unique way that the Dutch treat mentally ill prisoners 
+? The very real pain of ＆imaginary＊ illnesses
+
+Malingering in the correctional system is common. In one study of 879 participants, 17.5% of those found incompetent to stand trial (and therefore dispatched to a state hospital rather than prison) were later identified to be faking their symptoms. In real life, James Lindsay, accused of murdering 15-year-old Emma Thomson, claimed to have paranoid schizophrenia, telling doctors that the devil had told him to kill a red-haired woman. The court learnt of his plan from a letter he sent to a friend while awaiting trial: ※I have a cunning plan to get into Carstairs Hospital and be released after eight years. If I go to prison for murder, I will get life.§ Eventually found guilty, Lindsay was sentenced to life in prison.
+
+Malingering might be relatively common. But identifying malingering is notoriously difficult. Feigned symptoms are frequently the ones most difficult to evaluate. There＊s no blood test or brain scan to confirm the hallucinations of schizophrenia, for example. The ※Hillside Strangler§ Kenneth Bianchi faked multiple personality disorder (now termed dissociative identity disorder), blaming his alter, ※Steve§, for the murders. He was ultimately rumbled but not before ※the psychiatrists... naively swallowed Mr Bianchi's story hook, line and sinker§, as the sentencing judge concluded.
+
+Detecting malingering begins with a search for over-exaggeration, contradictions and inconsistencies. For example, you might suspect someone＊s credibility if they report debilitating auditory hallucinations but seem unperturbed by them. Beware the bank robber who describes seeing ※a 30ft-tall, red giant smashing down the walls§ with remarkable composure. Another red flag for fakery is the suspect who endorses improbable symptoms, such as agreeing with the question, ※Have you ever believed that automobiles are members of an organised religion?§
+
+Malingerers often claim to have lost touch with reality. But their hallucinations can seem too convenient with ※psychotic justification§, as seen with the man charged with attempted rape who alleged a voice told him to ※Go commit a sex offence§ or the thief who claimed a mystery voice screamed, ※Stick up, stick up, stick up!§
+
+There are some other differences physicians can look for in episodes of genuine versus faked psychosis.
+
+In genuine psychosis, auditory hallucinations are usually intermittent (even if there＊s a sense they＊re always hovering in the background) and patients can sometimes resist commands if they＊re not acutely unwell. In contrast, malingerers frequently report continuous hallucinations and say they＊re compelled to follow all instructions. People with genuine hallucinations typically report that the voices are repetitive and identifiable, both male and female (in three quarters of patients), speak the same language as themselves (in 98% of patients) and originate in their own heads (in 88%). Conversely, here＊s an atypical presentation of voice hearing: unidentifiable voices of just one gender (or a gender that changes mid-sentence), only a child＊s voice, or a voice that sounds like a robot or animal. These atypical features raise suspicion for malingering but don＊t confirm it.
+
+Reports of visual hallucinations carry similar clues. In schizophrenia these are usually in colour and life-sized (religious figures, family members, animals) but malingerers instead tend to report exaggerated details: ※I just saw Big Bird.... He was 100ft tall!§ There are exceptions, though. Patients in alcohol withdrawal or with macular degeneration or schizophrenia can hallucinate Lilliputian figures (small animals or people). Here＊s one authentic description from a 25-year-old drinker: ※They were about a foot high, with funny colourful dresses, weird faces, big eyes and mouths. Some of them were also wearing spectacles.§
+
+So even with these general rules of thumb, pinpointing genuine psychosis remains challenging. A single feature cannot confirm malingering; instead each one points, in the right context, towards the possibility. It＊s also vital not to presume malingering and miss an authentic mental health disorder 每 not to mention that both can co-exist.
+
+To be as sure as possible, the next step is psychological testing.
+
+The basic premise might surprise you: some memory and recognition tests are so easy to pass that if the examinee performs badly, they may be trying to fail.
+
+In the most commonly used form of these symptom validity tests, an interviewee chooses between two possible answers. A score that is ※worse than chance§ (<50%) implies they＊re choosing to answer incorrectly (or, at least, a lack of cooperation).
+
+Take a simple version, the ※coin-in-the-hand§ test. It gauges claims of profound amnesia, a relatively common claim 每 memory loss is claimed by up to 45% of offenders in cases of homicide and around 8% of perpetrators of other violent crimes.
+
+If I＊m the examiner and you＊re the suspect, here＊s how it works: I hold a coin in one hand with both palms outstretched. You have your eyes open and can see which hand it＊s in. I ask you to close your eyes and count backwards from 10. Next, you open your eyes and tell me which hand the coin is in. I＊ve closed my fists but haven＊t moved the coin; there＊s no trickery here.
+
+Chances are you＊ll do really well. Even patients with severe genuine amnesia due to encephalitis performed excellently in the original study 每 all answered correctly for 10 trials. However, malingerers perform at or around chance.
+
+Nonetheless, caveats surround symptom validity tests, even the more complex ones. Although they imply lack of credibility, they can＊t prove it, nor can they ascertain motive. Some are better at ruling feigning out than ruling it in. And one study of litigation cases related to brain injury revealed that 19% of attorneys show their clients how psychology tests are used to detect malingering; although many of these tests are relatively resistant to coaching, that could have an effect.
+
+These challenges have propelled a quest to detect feigning using brain scans and measurements of the brain＊s electrical activity. Recently, researchers tested for malingered depression by analysing how patients moved a computer mouse: ※Individuals suffering from depression took more time to perform the mouse-based tasks compared to both truth-tellers and liars§, they reported, and ※machine-learning models reached a classification accuracy up to 96% in distinguishing liars from depressed patients and truth-tellers§. They acknowledged, nonetheless, that the data were not conclusive.
+
+Contemporary approaches, whether through brain scans or brain wave analysis, have so far proved unreliable and inadmissible in court. They also raise potential constitutional and human rights violations as to whether testing constitutes an illegal search or might comprise a right to ※privacy, silence, thought, and a fair trial§.
+
+Those ethical concerns extend to doctors: should they really be acting as professional lie catchers? Doctors aren＊t trained or competent to determine a patient＊s conscious awareness of any inconsistencies or the extent of their conscious intent to deceive. Ultimately, the court must decide upon a defendant＊s motives and credibility, even though expert medical opinions are critical in informing that decision. As the US Supreme Court decided on the court admissibility of polygraph testing in 1998, ※A fundamental premise of our criminal trial system is that the jury is the lie detector.§
+
+Gigante was eventually sentenced in 1997 to 12 years for racketeering and conspiracy to murder. In 2003, he admitted that he had been faking psychosis all along after informers from several Mafia organisations cast doubt on his claims and prosecutors filed audio evidence of him speaking lucidly to his prison visitors and directing Mafia business from behind bars in ※a coherent, careful and intelligent§ fashion.
+
+Gigante＊s malingering days were over. But he had fooled a long line of doctors along the way, securing 28 admissions to psychiatric hospitals, as well as diagnoses of schizophrenia and even ※dementia rooted in organic brain damage§.
+
+His sentencing judge concluded:
+
+※[Gigante] is a shadow of his former self, an old man finally brought to bay in his declining years after decades of vicious criminal tyranny. Familiar words of William Shakespeare are brought to mind:
+
+And one man in his time plays many parts ...
+
+Last scene of all,
+
+That ends this strange eventful history,
+
+Is second childishness ....§
+
+Gigante died in 2005. He was 77 years old. He＊ll hardly be the last criminal who tries to malinger their way out of jail time. Perhaps few, however, will manage to evade justice for quite as long as ※The Oddfather§ ultimately did.
