@@ -1,0 +1,46 @@
+Most self-driving companies say this tech is crucial. Elon Musk disagrees.
+Matt McFarland byline
+By Matt McFarland, CNN Business
+
+Updated 1834 GMT (0234 HKT) June 17, 2019
+
+Washington, DC (CNN Business)For most people building self-driving cars, lidar is viewed as a godsend. In recent years, enthusiasm for the technology has sparked shortages of the depth-measuring sensor, acquisitions of startups developing it and more than a billion dollars of investments.
+
+Tesla CEO Elon Musk says they're all wasting their time.
+"Lidar is a fool's errand," Musk said in April at a Tesla event. "Anyone relying on lidar is doomed. Doomed."
+Lidar, which stands for light detection and ranging, sends out pulses that bounce off objects and return to the sensor, telling it how far away things are.
+This point cloud shows where lidar pulses reflected off nearby objects, helping a car to understand its surroundings.
+This point cloud shows where lidar pulses reflected off nearby objects, helping a car to understand its surroundings.
+Companies with the most experience developing self-driving cars ¡ª including Alphabet's Waymo, Ford (F), and Amazon-backed Aurora ¡ª believe lidar is critical for safety. Lidar startups have raised $1.2 billion in the past five years, according to CB Insights which tracks venture capital. Lidar has other uses, such as making topographical maps, but most of the investing energy has surrounded autonomous driving.
+Tesla is taking a different approach. The company's bet -- that artificial intelligence-powered cameras will become so good that lidar will be pointless has thrust lidar startups into the spotlight. Musk is so confident in his approach, he has taken to insulting lidar publicly.
+"It seems like half the things Musk says are totally right, half are totally bonkers," said Austin Russell, CEO of Luminar, a Silicon Valley lidar startup.
+Elon Musk sets bold goals. But has he delivered?
+Elon Musk sets bold goals. But has he delivered?
+Louay Eldada, CEO of lidar startup Quanergy, said he received hundreds of questions from former colleagues and academics after Musk's comments, asking if Musk knew something everyone else didn't.
+Some industry insiders agree with Musk, but only to a point. Starsky Robotics, a self-driving truck startup, spurns lidar, believing it isn't needed. Starsky co-founder Kartik Tiwari recently wrote that lidar today lacks reliability, and has insufficient range for the distance a loaded tractor-trailer needs to see to stop on highways. Starsky admits lidar could help classify objects that camera and radar struggle with, but believes it's easier to ask a human teleoperator to step in when a confusing object is seen.
+Starsky is also focused on automating an easier self-driving challenge: highways. Starsky's remote human drivers take over as trucks exit highways and enter more challenging roads, which have cross traffic, pedestrians and cyclists.
+Eric Meyhofer, head of Uber's advanced technology division, tells CNN Business he doesn't expect lidar will be needed in five years, given how good cameras and radar will get. But for now Uber continues to use lidar for its self-driving cars.
+"We're going to develop lidar until we don't need to," Meyhofer said. "The problem is easier to solve with lidar. It lets us do things sooner."
+Lidar supporters view the technology as the third leg of a stool, a critical complement to the other sensors on a self-driving vehicle: cameras and radar. Some argue that if Tesla's cars included lidar, high-profile deaths involving the company's autopilot system might have been averted.
+Experts in the industry and academia with no vested interest in lidar tell CNN Business that lidar may have been helpful in those crashes because the autonomous driving system would benefit from additional data that is coming from a sensor that excels at seeing objects that the Tesla sensors struggle with. They also caution that it's still too early to know exactly what package of sensors will be needed for self-driving cars that drive better than humans.
+Musk says Tesla&#39;s pickup will cost under $50,000 and be better than the F-150
+Musk says Tesla's pickup will cost under $50,000 and be better than the F-150
+"Do you need lidar? No, you don't. But would that car operate safely, would it be able to operate in all conditions and certify itself, I believe no," said Sanjay Sood, who leads autonomous driving at the mapping company Here. "You can build a car without an airbag or anti-lock brakes, but you probably wouldn't want to."
+For cars to drive themselves, they'll rely in the future on some combination of cameras, radar and lidar to understand their surroundings. Each type of sensor has its strengths and weaknesses. Cameras boast high-resolution, but they don't work well in low light, and they struggle to determine depth, such as how close another vehicle is. Radar works well in bad weather, but has difficulty detecting fixed objects, like an emergency vehicle stopped on a road. Lidar's strength is measuring the exact distance to an object, whether it is moving or stationary. But it struggles during bad weather: The lidar laser points will bounce off raindrops, snowflakes or dust, obscuring things that are more important for it to see, like cars and pedestrians.
+A self-driving car from GM&#39;s Cruise has LIDAR sensors on its roof.
+A self-driving car from GM's Cruise has LIDAR sensors on its roof.
+"The more sensors you use, the better chance you have of getting it right," said Eben Frankenberg, CEO of Echodyne, a Kirkland, Washington-based company developing radar. "If your radar says it sees a duck in the road and your camera says that's a person with a walker, how do I break that tie?"
+Tesla argues that using lidar sidesteps the problem of visual recognition and gives a false sense of progress.
+"People drive with vision only, no lasers are involved. This seems to work quite well," Tesla director of artificial intelligence Andrej Karpathy said at Tesla's autonomy event. "Lidar points are a much less information-rich environment. Vision really understands the full details."
+The Autopilot system on Tesla's vehicles today relies on cameras and radar. In some cases, the cars can steer themselves, keep up with the traffic and make lane changes to pass other vehicles.
+But Tesla warns drivers that they must be ready to take over at any moment. Tesla's other automated driving features are gradually rolling out, such as automated lane changing, which was released earlier this year. These partially autonomous features are called advanced driver-assistance systems, and they require the human driver to remain engaged.
+Tesla plans to incrementally update the software until its cars are capable of full self-driving, a term that governing bodies haven't standardized. Musk has promised a fleet of robo-taxis on roads next year, but he often misses his own deadlines.
+A handful of deaths involving Tesla Autopilot point to the shortcomings that can accompany not using lidar, according to experts.
+Two Tesla drivers died in separate but similar crashes on Florida roads in the last three years. Both drivers were killed when their Teslas crashed into tractor-trailers that were turning in front of them. A National Transportation Safety Board report on a 2016 crash found that the tractor-trailer was not detected before the crash. The agency's preliminary report on a crash this March found that Autopilot did not execute evasive maneuvers and struck the truck at 68 mph.
+Joshua Brown died in 2016 when his Tesla crashed into a tractor-trailer, ripping off the roof.
+Joshua Brown died in 2016 when his Tesla crashed into a tractor-trailer, ripping off the roof.
+Radar waves will bounce under a tractor-trailer, according to Frankenberg, the radar startup CEO, making the car think there's a clear path ahead. Cameras can struggle to differentiate a white side of a truck from a bright sky overhead.
+"The system would be better and have higher reliability if it included lidar," said John Dolan, a professor at the Carnegie Mellon University Robotics Institute. "It's definitely going to see a large truck or vehicle that's crossing in front of you."
+A Daimler research paper on state-of-the-art radar concluded that radar isn't sufficient for full self-driving, and developments are needed to comprehensively understand stationary objects. In March 2018, a man died using Autopilot when his Model X crashed into a concrete barrier on a California highway. An NTSB preliminary report on the crash found that the Tesla accelerated in the three seconds before the crash, and no precrash braking or evasive steering movement was detected.
+Tesla declined to comment on the debate over lidar, and the suggestion it would make Autopilot safer.
+"I like Elon, I like his spirit and I relate to his passion," said Marta Hall, president of Velodyne, a lidar production company. "But I don't like the irresponsible talk."
