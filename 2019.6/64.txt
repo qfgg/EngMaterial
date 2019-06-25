@@ -1,0 +1,38 @@
+Commonly prescribed drugs are tied to nearly 50% higher dementia risk in older adults, study says
+CNN Digital Expansion 2016 Jacqueline Howard
+By Jacqueline Howard, CNN
+
+Updated 1719 GMT (0119 HKT) June 24, 2019
+What is dementia?
+
+(CNN)Scientists have long found a possible link between anticholinergic drugs and an increased risk of dementia.
+
+A study published in the journal JAMA Internal Medicine on Monday suggests that the link is strongest for certain classes of anticholinergic drugs -- particularly antidepressants, bladder antimuscarinics, antipsychotics and antiepileptic drugs.
+Certain common medications tied to 30% higher dementia risk, study finds
+Certain common medications tied to 30% higher dementia risk, study finds
+Researchers wrote in the study that "there was nearly a 50% increased odds of dementia" associated with a total anticholinergic exposure of more than 1,095 daily doses within a 10-year period, which is equivalent to an older adult taking a strong anticholinergic medication daily for at least three years, compared with no exposure.
+"The study is important because it strengthens a growing body of evidence showing that strong anticholinergic drugs have long term associations with dementia risk," said Carol Coupland, professor of medical statistics in primary care at the University of Nottingham in the United Kingdom and first author of the study.
+"It also highlights which types of anticholinergic drugs have the strongest associations. This is important information for physicians to know when considering whether to prescribe these drugs," she said, adding "this is an observational study so no firm conclusions can be drawn about whether these anticholinergic drugs cause dementia."
+She said that people taking these medications are advised not to stop them without consulting with their doctor first, as that could be harmful.
+Common over-the-counter drugs can hurt your brain
+Common over-the-counter drugs can hurt your brain
+The study involved analyzing data on 284,343 adults in the United Kingdom, aged 55 and older, between 2004 and 2016. The data came from QResearch, a large database of anonymized health records.
+The researchers identified each adult's anticholinergic exposure based on details of their prescriptions. The researchers found the most frequently prescribed anticholinergic drugs were antidepressants, drugs to treat vertigo, motion sickness or vomiting and bladder antimuscarinic drugs, such as to treat overactive bladder.
+The researchers also took a close look at who was diagnosed with dementia and found that 58,769 of the patients had a dementia diagnosis.
+The researchers found no significant increases in dementia risk associated with antihistamines, skeletal muscle relaxants, gastrointestinal antispasmodics, antiarrhythmics, or antimuscarinic bronchodilators, according to the data, but associations were found among other classes of anticholinergic drugs.
+The researchers found that the odds of dementia increased from 1.06 among those with the lowest anticholinergic exposure to 1.49 among those with the highest exposure, compared with having no prescriptions for anticholinergic drugs.
+The study had some limitations, including that some patients may not have taken their prescribed medication as directed, so anticholinergic exposure levels could have been misclassified. The researchers found only an association between anticholinergic drugs and dementia risk, not a causal relationship.
+"However, if this association is causal, the population-attributable fractions indicate that around 10% of dementia diagnoses are attributable to anticholinergic drug exposure, which would equate, for example, to around 20,000 of the 209,600 new cases of dementia per year in the United Kingdom," the researchers wrote in the study.
+What is Lewy body dementia?
+
+What is Lewy body dementia? 03:25
+Since the study shows only an association, more research is needed to "clarify whether anticholinergic medications truly represent a reversible risk factor" for dementia, wrote experts Noll Campbell, Richard Holden and Dr. Malaz Boustani in an editorial that published alongside the new study in JAMA Internal Medicine.
+"Additionally, deprescribing trials can evaluate potential harms of stopping anticholinergic medications, such as worsening symptoms of depression, incontinence, or pain, as well as the potential unintended increase in acute health care utilization," Campbell, Holden and Boustani wrote in the editorial.
+"With little evidence of causation, the next steps for research on anticholinergic medications in older adults must improve knowledge of the effect of deprescribing interventions on cognitive outcomes and important safety outcomes such as symptom control, quality of life, and health care utilization," they wrote. "We propose deprescribing research as a high priority."
+Get CNN Health's weekly newsletter
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+
+It has been well known that anticholinergic agents and confusion or memory issues are linked, but the new study investigated this association over a long period of time, said Dr. Douglas Scharre, director of the division of cognitive neurology at the Ohio State University Wexner Medical Center in Columbus, who was not involved in the study.
+He encouraged any patients who might have questions about this association to talk to their physicians.
+"I spend a lot of my time in the memory disorder clinic seeing geriatric patients and taking people off medications, mostly ones that have anticholinergic properties, and many times there can be another drug out there that has less anticholinergic impact or is non-anticholinergic that may work," Scharre said.
+"Some of the medications that they list in the study may be quite critical and important and are well worth the person taking for their seizures or their psychosis, and so it's a risk-benefit discussion," he added. "So have a conversation with your doctor."
