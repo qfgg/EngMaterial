@@ -1,0 +1,29 @@
+New flaw discovered on Boeing 737 Max, sources say
+By Shimon Prokupecz, Drew Griffin and Gregory Wallace, CNN
+
+Updated 0014 GMT (0814 HKT) June 27, 2019
+
+(CNN)A new flaw has been discovered in the computer system for the Boeing 737 Max that could push the plane downward, according to two sources familiar with the testing, an issue that is expected to further delay the aircraft's return to service.
+
+A series of simulator flights to test new software developed by Boeing revealed the flaw, according to one of the sources.
+737 Max pilot sues Boeing for career damage, &#39;severe emotional and mental stress&#39;
+737 Max pilot sues Boeing for career damage, 'severe emotional and mental stress'
+The latest versions of Boeing's popular jet were grounded in March after two crashes -- Lion Air flight 610 and Ethiopian Airlines flight 302 -- that killed 346 people.
+While the crashes remain under investigation, preliminary reports showed that a new stabilization system pushed both planes into steep nosedives from which the pilots could not recover. The issue is known in aviation vernacular as runaway stabilizer trim.
+Boeing announced it could break the chain of events that led to both crashes by developing a software fix that would limit the potency of that stabilization system.
+In simulator tests, government pilots discovered that a microprocessor failure could push the nose of the plane toward the ground. It is not known whether the microprocessor played a role in either crash.
+When testing the potential failure of the microprocessor in the simulators, "it was difficult for the test pilots to recover in a matter of seconds," one of the sources said. "And if you can't recover in a matter of seconds, that's an unreasonable risk."
+This is the flight simulator and manual used to train pilots of doomed Ethiopian Airlines flight
+This is the flight simulator and manual used to train pilots of doomed Ethiopian Airlines flight
+Boeing engineers are now trying to address the issue, which has led to another delay in recertifying the 737 Max.
+"The safety of our airplanes is Boeing's highest priority," the company said in a statement.
+Boeing said that the Federal Aviation Administration "identified an additional requirement that it has asked the company to address through the software changes that the company has been developing for the past eight months."
+"Boeing agrees with the FAA's decision and request, and is working on the required software," the company said, adding that "Boeing will not offer the 737 MAX for certification by the FAA until we have satisfied all requirements for certification of the MAX and its safe return to service."
+The sources say Boeing engineers are trying to determine if the microprocessor issue can be fixed by reprogramming software or if replacing the physical microprocessors on each 737 Max aircraft may be required.
+Pilot training also undergoing update
+In preparation for the airplane's return to service, Boeing and the FAA are also working out details of additional training for 737 MAX pilots, which could include additional simulator time, the sources said.
+Boeing and the FAA are working with the European, Brazilian and Canadian civil aviation authorities.
+Boeing has proposed computer-based training which could be completed quickly and on an iPad. Pilots unions, as well as "Miracle on the Hudson" hero Chelsey Sullenberger, have said such training cannot be adequately experienced on an iPad.
+The FAA is still actively considering whether more time consuming and expensive simulator training will be required, according to both sources.
+Gregory Martin, an FAA spokesman, said Wednesday the regulator "is following a thorough process, not a prescribed timeline, for returning the Boeing 737 Max to passenger service."
+"The FAA will lift the aircraft's prohibition order when we deem it is safe to do so," the spokesman said. "We continue to evaluate Boeing's software modification and we are still developing necessary training requirements."
