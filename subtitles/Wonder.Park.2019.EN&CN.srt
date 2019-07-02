@@ -1,0 +1,6073 @@
+﻿1
+00:00:01,000 --> 00:00:08,000
+{\move(200,210,200,275,0,1000)}{\fad(800,400)}{\clip(100,210,300,275)}{\shad0.5}{\4c&H000000&}{\fn方正黑体简体}{\fs18}{\b0}{\c&HEA9E00&}{\bord0\fn方正黑体简体}本字幕由网络爱好者联盟原创翻译
+{\c&HFDFDFD&}欢迎加入我们 {\fn方正黑体简体}{\fs18}{\b0}{\c&H00B9FF&}www.ZiMuZu.pub
+{\c&H0C95C2&}{\fs12}在保留译者名单的前提下任何人不需要经得我们的同意
+可用本字幕做任何用途因此所产生的后果由您自行承担
+
+2
+00:00:08,000 --> 00:00:13,000
+{\pos(200,216)}{\clip(201,214,201,216)\t(0,600,2,\clip(110,214,292,216))\t(4200,4800,2,\clip(201,214,201,216))}{\alpha50\c&HC6BCA5&}{\be1\bord0\shad0}{\fs28}{\fscx1600\fscy10}■
+
+3
+00:00:08,000 --> 00:00:13,000
+{\clip(80,216,392,216)\t(600,1000,2,\clip(80,192,392,240))\t(4200,4600,2,\clip(80,216,392,216))}{\i0}{\fn微软雅黑}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}{\pos(200,233)}翻\h译
+
+{\fs14}{\c&HF4A40D&}Charles#Zhang\h\h\h\h低调付付\h\h\h\h左派青年\h\h\h\hsummer_j2000\h\h\h\h忌廉喵的小仙女\h\h\h\h为小李子拔刀
+
+4
+00:00:13,000 --> 00:00:18,000
+{\pos(200,216)}{\clip(201,214,201,216)\t(0,600,2,\clip(60,214,392,216))\t(4200,4800,2,\clip(201,214,201,216))}{\alpha50\c&HC6BCA5&}{\be1\bord0\shad0}{\fs28}{\fscx1600\fscy10}■
+
+5
+00:00:13,000 --> 00:00:18,000
+{\clip(60,216,392,216)\t(600,1000,2,\clip(60,192,392,240))\t(4200,4600,2,\clip(60,216,392,216))}{\i0}{\fn微软雅黑}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}{\pos(200,233)}翻\h译
+
+{\fs14}{\c&HF4A40D&}圆周率lfy\h\h\h\h不用霸王辛道长\h\h\h\hraptor05\h\h\h\h不要辣不要麻不要香菜不要葱\h\h\h\h扒虾爬子大师\h\h\h\h我要头发不要校对
+
+6
+00:00:18,000 --> 00:00:24,000
+{\pos(200,216)}{\clip(201,214,201,216)\t(0,600,2,\clip(150,214,252,216))\t(4200,4800,2,\clip(201,214,201,216))}{\alpha50\c&HC6BCA5&}{\be1\bord0\shad0}{\fs28}{\fscx1600\fscy10}■
+
+7
+00:00:18,000 --> 00:00:24,000
+{\clip(110,216,292,216)\t(600,1000,2,\clip(110,192,292,240))\t(4200,4600,2,\clip(110,216,292,216))}{\i0}{\fn微软雅黑}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}{\pos(200,233)}校对\h&\h后期
+
+{\fs14}{\c&HF4A40D&}吃薯条不想蘸酱\h\h\h\h大红
+
+8
+00:00:24,000 --> 00:00:32,000
+{\clip(62,224,336,224)\t(1000,1400,2,\clip(62,204,336,224))\t(7600,8000,\clip(62,224,336,224))}{\i0}{\fn微软雅黑}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}{\pos(200,220)}片头推广合作洽谈：{\fs14}{\c&HF4A40D&}请联系普罗米修斯邮箱{\c&H2455FF&} PLMXS2016@GmaiL.com
+
+9
+00:00:31,790 --> 00:00:35,050
+{\r译文字幕}妈妈  快点  是时候开放神奇乐园了
+{\r原文字幕}Mom, come on. It's time to open the park.
+
+10
+00:00:35,060 --> 00:00:37,390
+{\r译文字幕}哦对  我们开始吧
+{\r原文字幕}Oh, right. Here we go.
+
+11
+00:00:37,390 --> 00:00:40,330
+{\r译文字幕}又是神奇乐园里的一天
+{\r原文字幕}It was another day in Wonderland,
+
+12
+00:00:40,330 --> 00:00:43,600
+{\r译文字幕}史上最妙不可言的华丽游乐园
+{\r原文字幕}the most splendiferous amusement park ever.
+
+13
+00:00:43,600 --> 00:00:46,000
+{\r译文字幕}皮纳特要建新的过山车吗
+{\r原文字幕}And Peanut was creating a new ride?
+
+14
+00:00:46,000 --> 00:00:47,530
+{\r译文字幕}还没呢
+{\r原文字幕}Not yet.
+
+15
+00:00:47,540 --> 00:00:52,300
+{\r译文字幕}首先  吉祥物们正准备打开大门
+{\r原文字幕}First, the mascots were getting ready to open the gates.
+
+16
+00:00:52,310 --> 00:00:55,670
+{\r译文字幕}各位早上好  我们开始吧
+{\r原文字幕}All right, guys. Good morning! Let's do it!
+
+17
+00:00:55,680 --> 00:00:57,280
+{\r译文字幕}现在  大家都靠过来
+{\r原文字幕}Now, everyone, bring it in.
+
+18
+00:00:57,280 --> 00:00:58,740
+{\r译文字幕}人们喜欢来神奇乐园
+{\r原文字幕}People love coming to Wonderland
+
+19
+00:00:58,750 --> 00:01:00,410
+{\r译文字幕}因为在这里能享受最欢乐的时光
+{\r原文字幕}because it's the best time ever.
+
+20
+00:01:00,410 --> 00:01:01,890
+{\r译文字幕}多亏有了你们
+{\r原文字幕}And that's thanks to you.
+
+21
+00:01:01,890 --> 00:01:03,080
+{\r译文字幕}因为你们是
+{\r原文字幕}Because who are you?
+
+22
+00:01:03,080 --> 00:01:05,350
+{\r译文字幕}我们是神奇乐园的奇迹
+{\r原文字幕}We are the wonder in Wonderland.
+
+23
+00:01:05,350 --> 00:01:07,090
+{\r译文字幕}我听不见哦
+{\r原文字幕}I can't hear you.
+
+24
+00:01:07,090 --> 00:01:09,660
+{\r译文字幕}我们是神奇乐园的奇迹
+{\r原文字幕}We are the wonder in Wonderland.
+
+25
+00:01:09,660 --> 00:01:10,590
+{\r译文字幕}再来一次
+{\r原文字幕}One more time.
+
+26
+00:01:10,590 --> 00:01:14,430
+{\r译文字幕}我们是神奇乐园的奇迹
+{\r原文字幕}We are the wonder in Wonderland!
+
+27
+00:01:14,430 --> 00:01:15,690
+{\r译文字幕}没错  就是这样
+{\r原文字幕}Yes, you are!
+
+28
+00:01:15,700 --> 00:01:18,400
+{\r译文字幕}最后一个到达齿轮秋千的人是烂鳄梨
+{\r原文字幕}Last one to Clockwork Swings is a rotten avocado!
+
+29
+00:01:21,300 --> 00:01:22,900
+{\r译文字幕}谁想来拨动开关呀
+{\r原文字幕}Who wants to flip the switch?
+
+30
+00:01:22,900 --> 00:01:24,970
+{\r译文字幕}-你来吧  哥们  -不  你来吧
+{\r原文字幕}Why don't you go ahead, brother? No, you go, brother.
+
+31
+00:01:24,970 --> 00:01:26,230
+{\r译文字幕}不不不  你来
+{\r原文字幕}No, no, no, no, you go.
+
+32
+00:01:26,230 --> 00:01:27,840
+{\r译文字幕}要不你们俩一起动手  怎么样
+{\r原文字幕}How about you both flip it?
+
+33
+00:01:44,230 --> 00:01:47,960
+{\r译文字幕}欢迎欢迎  这将会是美好的一天
+{\r原文字幕}Welcome! Boy, it's gonna be a great day.
+
+34
+00:01:47,960 --> 00:01:52,300
+{\r译文字幕}因为从乐园打开的那一刻起
+{\r原文字幕}I know that because we've had literally nothing but wondrous days
+
+35
+00:01:52,300 --> 00:01:54,100
+{\r译文字幕}在这里度过的每一分钟都会无比奇妙
+{\r原文字幕}since the moment we opened!
+
+36
+00:01:54,100 --> 00:01:56,470
+{\r译文字幕}你们有听过脱水的笑话吗
+{\r原文字幕}Did you hear the joke about dehydration?
+
+37
+00:01:56,470 --> 00:01:56,700
+{\r译文字幕}没有
+{\r原文字幕}No.
+
+38
+00:01:56,700 --> 00:01:59,100
+{\r译文字幕}没错  因为脱水这件事
+{\r原文字幕}That's right, because there is absolutely
+
+39
+00:01:59,110 --> 00:02:01,310
+{\r译文字幕}完全没有笑点
+{\r原文字幕}nothing funny about dehydration.
+
+40
+00:02:01,310 --> 00:02:02,440
+{\r译文字幕}去吧
+{\r原文字幕}Go along!
+
+41
+00:02:02,440 --> 00:02:04,740
+{\r译文字幕}葛蕾塔  我们能和你合个影吗
+{\r原文字幕}Greta! Can we take a picture with you?
+
+42
+00:02:04,750 --> 00:02:06,550
+{\r译文字幕}当然了  过来  过来
+{\r原文字幕}Of course. Come in, come in, come in.
+
+43
+00:02:06,550 --> 00:02:07,890
+{\r译文字幕}好的  准备好了吗
+{\r原文字幕}Okay, ready?
+
+44
+00:02:07,890 --> 00:02:10,020
+{\r译文字幕}一  二  三  哼噜
+{\r原文字幕}One, two, three, snort!
+
+45
+00:02:14,060 --> 00:02:16,720
+{\r译文字幕}格斯  库珀  跷跷板二号没有在动
+{\r原文字幕}Gus! Cooper! Teeter number two isn't tottering.
+
+46
+00:02:16,720 --> 00:02:17,960
+{\r译文字幕}-包在我们身上  -收到
+{\r原文字幕}- We're on it. - Copy that.
+
+47
+00:02:17,960 --> 00:02:19,860
+{\r译文字幕}海狸双胞胎兄弟  出动
+{\r原文字幕}Beaver twin brothers, activate!
+
+48
+00:02:23,530 --> 00:02:26,300
+{\r译文字幕}-尾巴对对拍  库珀  -哈哈
+{\r原文字幕}- Tail slap, Coop. - Ha-ha!
+
+49
+00:02:26,300 --> 00:02:28,530
+{\r译文字幕}快看  是他
+{\r原文字幕}Look, it's him!
+
+50
+00:02:28,540 --> 00:02:31,740
+{\r译文字幕}大家早上好哇
+{\r原文字幕}Whoo! Good morning, everyone!
+
+51
+00:02:31,740 --> 00:02:33,610
+{\r译文字幕}你们太棒了
+{\r原文字幕}You're splendiferous!
+
+52
+00:02:33,610 --> 00:02:36,180
+{\r译文字幕}皮纳特  嗨  皮纳特
+{\r原文字幕}Peanut! Hi, Peanut!
+
+53
+00:02:36,180 --> 00:02:37,680
+{\r译文字幕}感谢你们出来游玩
+{\r原文字幕}Thanks for coming out.
+
+54
+00:02:37,680 --> 00:02:39,810
+{\r译文字幕}你们这群人长得可真漂亮
+{\r原文字幕}You're a great-looking group.
+
+55
+00:02:40,750 --> 00:02:42,550
+{\r译文字幕}今天将会是神奇之地的奇迹之日
+{\r原文字幕}Today's gonna be filled with the wonder
+
+56
+00:02:42,550 --> 00:02:45,850
+{\r译文字幕}而这片神奇之地就是
+{\r原文字幕}of this wonderful land we call
+
+57
+00:02:45,850 --> 00:02:47,920
+{\r译文字幕}神奇乐园
+{\r原文字幕}Wonderland!
+
+58
+00:02:47,920 --> 00:02:49,910
+{\r译文字幕}看看他  他可真讨喜
+{\r原文字幕}Look at him. He's so charming!
+
+59
+00:02:49,910 --> 00:02:51,460
+{\r译文字幕}还能说会道
+{\r原文字幕}Such a way with words.
+
+60
+00:02:51,460 --> 00:02:53,630
+{\r译文字幕}好了各位  谁想看皮纳特
+{\r原文字幕}All right, folks, who here wants to see Peanut
+
+61
+00:02:53,630 --> 00:02:56,300
+{\r译文字幕}坐上全新的空中战机
+{\r原文字幕}ride the brand new SkyFlinger?
+
+62
+00:02:57,430 --> 00:02:59,070
+{\r译文字幕}太妙了
+{\r原文字幕}Terrific!
+
+63
+00:03:02,470 --> 00:03:04,800
+{\r译文字幕}这里还有空位吗
+{\r原文字幕}Room for one more in this SkyFlinger?
+
+64
+00:03:04,810 --> 00:03:07,640
+{\r译文字幕}你得坐稳了  孩子
+{\r原文字幕}You might want to hold on, kid.
+
+65
+00:03:12,680 --> 00:03:14,310
+{\r译文字幕}-嗨  -嗨
+{\r原文字幕}- Hi! - Hey!
+
+66
+00:03:17,790 --> 00:03:20,050
+{\r译文字幕}-你拿到神奇猩猩了吗  -没呢
+{\r原文字幕}- Have you pick up your WonderChimp doll yet? - No.
+
+67
+00:03:20,050 --> 00:03:23,360
+{\r译文字幕}那还等什么呢  快来吧
+{\r原文字幕}Well, what are you waiting for? Come on!
+
+68
+00:03:28,460 --> 00:03:32,260
+{\r译文字幕}神奇猩猩就在这里  嗒哒
+{\r原文字幕}And here are the WonderChimps. Ha!
+
+69
+00:03:32,270 --> 00:03:35,600
+{\r译文字幕}有5200种造型可供选择
+{\r原文字幕}5,200 different outfits to pick from.
+
+70
+00:03:35,600 --> 00:03:37,900
+{\r译文字幕}太太太棒啦
+{\r原文字幕}Splen-diddy-doo!
+
+71
+00:03:37,910 --> 00:03:40,470
+{\r译文字幕}你太棒啦
+{\r原文字幕}You're splendiferous!
+
+72
+00:03:40,470 --> 00:03:42,240
+{\r译文字幕}你今天要创造什么呢  皮纳特
+{\r原文字幕}What are you creating today, Peanut?
+
+73
+00:03:42,240 --> 00:03:43,610
+{\r译文字幕}是的  没错
+{\r原文字幕}Oh, yes, that's right!
+
+74
+00:03:43,610 --> 00:03:46,710
+{\r译文字幕}今天我们要开放旋转木马
+{\r原文字幕}Today is the day we're opening the carousel.
+
+75
+00:03:46,710 --> 00:03:48,650
+{\r译文字幕}它是一个绝世美人儿
+{\r原文字幕}Oh, and she's gonna be a real beaut.
+
+76
+00:03:48,650 --> 00:03:51,120
+{\r译文字幕}我用了最好的纯种马
+{\r原文字幕}I've got the finest thoroughbred horses...
+
+77
+00:03:51,120 --> 00:03:52,120
+{\r译文字幕}说真的嘛
+{\r原文字幕}Really?
+
+78
+00:03:55,690 --> 00:03:59,020
+{\r译文字幕}听上去有点老调重弹了
+{\r原文字幕}That sounds kinda been there, done that.
+
+79
+00:03:59,030 --> 00:04:01,090
+{\r译文字幕}我们可以想个更好的
+{\r原文字幕}I think we can do better.
+
+80
+00:04:01,100 --> 00:04:02,140
+{\r译文字幕}你说得对
+{\r原文字幕}And You're right.
+
+81
+00:04:02,140 --> 00:04:04,100
+{\r译文字幕}我觉得皮纳特能造个更好的
+{\r原文字幕}I think Peanut deserves better.
+
+82
+00:04:04,100 --> 00:04:05,800
+{\r译文字幕}你来想一个吧  妈妈
+{\r原文字幕}You come up with it, Mom!
+
+83
+00:04:05,800 --> 00:04:07,670
+{\r译文字幕}我可得听听这位年轻远见家的意见
+{\r原文字幕}How could I not defer to the young visionary
+
+84
+00:04:07,670 --> 00:04:09,870
+{\r译文字幕}她可是想出了空中战机呢
+{\r原文字幕}who came up with "The SkyFlinger"?
+
+85
+00:04:09,870 --> 00:04:12,500
+{\r译文字幕}嘿  别取笑我  我那时才五岁
+{\r原文字幕}Hey, don't make fun of me. I was only five.
+
+86
+00:04:12,510 --> 00:04:14,370
+{\r译文字幕}我不是在取笑你  小傻瓜
+{\r原文字幕}I wasn't making fun of you, silly.
+
+87
+00:04:14,380 --> 00:04:17,840
+{\r译文字幕}我只是喜欢听你出主意
+{\r原文字幕}I just like it when the ideas come from you.
+
+88
+00:04:17,850 --> 00:04:20,310
+{\r译文字幕}现在  想一想
+{\r原文字幕}Now, think.
+
+89
+00:04:20,310 --> 00:04:23,220
+{\r译文字幕}皮纳特应该在旋转木马上放什么动物
+{\r原文字幕}What kind of animal should Peanut put on your carousel?
+
+90
+00:04:24,190 --> 00:04:27,090
+{\r译文字幕}-鱼  -随便什么鱼吗
+{\r原文字幕}- Fish! - Just like any fish?
+
+91
+00:04:27,090 --> 00:04:28,250
+{\r译文字幕}会飞的鱼
+{\r原文字幕}Flying fish!
+
+92
+00:04:28,260 --> 00:04:30,860
+{\r译文字幕}推动鱼鳍的时候  鱼就会动起来
+{\r原文字幕}And when you push the fin, the fish will come to life.
+
+93
+00:04:30,860 --> 00:04:33,130
+{\r译文字幕}它们可以飞遍整个乐园
+{\r原文字幕}And you could fly them all over the park.
+
+94
+00:04:34,400 --> 00:04:36,530
+{\r译文字幕}正好说到点子上了  琼
+{\r原文字幕}Ooh, now we're talking, June.
+
+95
+00:04:37,000 --> 00:04:38,000
+{\r译文字幕}好
+{\r原文字幕}Okay,
+
+96
+00:04:38,000 --> 00:04:41,730
+{\r译文字幕}你只需要把记号笔给皮纳特
+{\r原文字幕}all you have to do is give Peanut his marker,
+
+97
+00:04:41,740 --> 00:04:44,800
+{\r译文字幕}然后悄悄告诉皮纳特
+{\r原文字幕}and whisper your wish into Peanut's ear.
+
+98
+00:04:44,810 --> 00:04:48,440
+{\r译文字幕}皮纳特  我们想要你做的就是
+{\r原文字幕}Now, Peanut, here's what we want you to do.
+
+99
+00:04:48,440 --> 00:04:50,640
+{\r译文字幕}在神奇乐园里真的可以做到
+{\r原文字幕}You really can do that in Wonderland.
+
+100
+00:04:50,640 --> 00:04:52,080
+{\r译文字幕}做旋转木马  但不是用马
+{\r原文字幕}Make a carousel, but instead of horses... Hmm?
+
+101
+00:04:52,080 --> 00:04:54,020
+{\r译文字幕}而是用飞鱼
+{\r原文字幕}make flying fish.
+
+102
+00:04:54,320 --> 00:04:55,380
+{\r译文字幕}好的
+{\r原文字幕}Okay.
+
+103
+00:05:02,620 --> 00:05:04,130
+{\r译文字幕}妙笔快生花
+{\r原文字幕}Splendiferous.
+
+104
+00:05:17,870 --> 00:05:20,040
+{\r译文字幕}你今天想去哪儿呢
+{\r原文字幕}Where would you like to go today?
+
+105
+00:05:22,910 --> 00:05:25,510
+{\r译文字幕}谢谢你  不管你是谁
+{\r原文字幕}Thank you, whoever you are,
+
+106
+00:05:25,510 --> 00:05:27,710
+{\r译文字幕}无论你来自哪里
+{\r原文字幕}wherever you come from.
+
+107
+00:05:27,720 --> 00:05:30,080
+{\r译文字幕}当鱼掠过小吃摊的时候
+{\r原文字幕}And when the fish fly through the concession stand,
+
+108
+00:05:30,080 --> 00:05:32,020
+{\r译文字幕}人们会把爆米花扔到空中喂它们
+{\r原文字幕}people will throw popcorn in the air to feed them.
+
+109
+00:05:32,020 --> 00:05:34,620
+{\r译文字幕}只要布莫不先把爆米花吃完的话
+{\r原文字幕}So long as Boomer doesn't eat all the popcorn first.
+
+110
+00:05:34,620 --> 00:05:36,310
+{\r译文字幕}好了  琼  该睡觉了
+{\r原文字幕}Okay, June, time for bed.
+
+111
+00:05:36,320 --> 00:05:36,820
+{\r译文字幕}哦不
+{\r原文字幕}Oh, no!
+
+112
+00:05:36,820 --> 00:05:39,290
+{\r译文字幕}再等一会儿好吗  拜托
+{\r原文字幕}A little longer? Please?
+
+113
+00:05:40,430 --> 00:05:42,560
+{\r译文字幕}不行  你明天还要上学呢
+{\r原文字幕}Nope, you've got school tomorrow.
+
+114
+00:05:42,560 --> 00:05:44,130
+{\r译文字幕}如果我们再不认真对待的话
+{\r原文字幕}And you've got a DVR that's gonna
+
+115
+00:05:44,130 --> 00:05:46,570
+{\r译文字幕}你的录像机的存储空间就快满了
+{\r原文字幕}run out of storage unless we start getting serious.
+
+116
+00:05:46,570 --> 00:05:48,200
+{\r译文字幕}-但是  -别  别怪通信员
+{\r原文字幕}- Oh, but... - No, don't blame the messenger.
+
+117
+00:05:48,200 --> 00:05:52,170
+{\r译文字幕}我要着手删除一些东西了
+{\r原文字幕}I am just gonna have to start making some very aggressive deletes.
+
+118
+00:05:52,170 --> 00:05:53,910
+{\r译文字幕}你个讨厌的家伙
+{\r原文字幕}You stinker.
+
+119
+00:05:53,910 --> 00:05:56,240
+{\r译文字幕}好吧  小琼琼  今晚就到这了
+{\r原文字幕}Okay, June Bug, that's it for tonight.
+
+120
+00:05:59,810 --> 00:06:02,050
+{\r译文字幕}妈妈
+{\r原文字幕}Um, Mom,
+
+121
+00:06:02,050 --> 00:06:05,650
+{\r译文字幕}你觉得神奇乐园是真实存在的吗
+{\r原文字幕}do you ever feel like Wonderland is real?
+
+122
+00:06:05,650 --> 00:06:08,720
+{\r译文字幕}或者可能是真的
+{\r原文字幕}Or maybe it could be?
+
+123
+00:06:08,720 --> 00:06:10,190
+{\r译文字幕}当然有可能
+{\r原文字幕}Of course it could be.
+
+124
+00:06:10,190 --> 00:06:11,890
+{\r译文字幕}真的吗  你怎么知道
+{\r原文字幕}Really? How do you know?
+
+125
+00:06:11,890 --> 00:06:15,190
+{\r译文字幕}因为我认识那个创造出神奇乐园的女孩
+{\r原文字幕}Because I know the girl who imagined it
+
+126
+00:06:15,190 --> 00:06:17,160
+{\r译文字幕}她什么都可以做到
+{\r原文字幕}and she can do anything.
+
+127
+00:06:17,160 --> 00:06:18,570
+{\r译文字幕}-我吗  -是呀
+{\r原文字幕}- Me? - Oh, yeah.
+
+128
+00:06:18,570 --> 00:06:20,100
+{\r译文字幕}晚安  小琼琼
+{\r原文字幕}Good night, June Bug.
+
+129
+00:06:24,140 --> 00:06:26,110
+{\r译文字幕}明天是个大日子  伙计们
+{\r原文字幕}Big day tomorrow, guys.
+
+130
+00:06:28,740 --> 00:06:32,380
+{\r译文字幕}是时候让神奇乐园变成真的了
+{\r原文字幕}Hmm... Time to make Wonderland real.
+
+131
+00:06:46,560 --> 00:06:48,230
+{\r译文字幕}早上好  琼·贝利
+{\r原文字幕}Good morning, June Bailey.
+
+132
+00:06:48,230 --> 00:06:50,500
+{\r译文字幕}班基  就是今天了
+{\r原文字幕}Banky, today is the day.
+
+133
+00:06:50,500 --> 00:06:52,830
+{\r译文字幕}摩天环车工程开工啦
+{\r原文字幕}Operation Loop-De-Loop is a go!
+
+134
+00:06:52,830 --> 00:06:55,800
+{\r译文字幕}但我还没喝早茶呢
+{\r原文字幕}But I haven't even had my morning coffee.
+
+135
+00:07:03,780 --> 00:07:05,610
+{\r译文字幕}好极了
+{\r原文字幕}Splendiferous!
+
+136
+00:07:11,720 --> 00:07:14,590
+{\r译文字幕}这个放在坡道下面  这个多拿一点
+{\r原文字幕}That goes under the ramp. Yeah, more of those.
+
+137
+00:07:15,990 --> 00:07:20,090
+{\r译文字幕}这个丢掉也没关系  还需要多一点钉子
+{\r原文字幕}Eh, no one will miss that. We're gonna need more nails.
+
+138
+00:07:20,090 --> 00:07:22,960
+{\r译文字幕}干得很棒  就是这样
+{\r原文字幕}Good job. Now, that's what I'm talking about!
+
+139
+00:07:24,530 --> 00:07:25,870
+{\r译文字幕}干得漂亮
+{\r原文字幕}Great work.
+
+140
+00:07:32,740 --> 00:07:36,610
+{\r译文字幕}他们说这是不可能成功的  但是看好了
+{\r原文字幕}They said it couldn't be done, but behold!
+
+141
+00:07:36,610 --> 00:07:38,740
+{\r译文字幕}伟大奇迹
+{\r原文字幕}The Grand Wonder!
+
+142
+00:07:38,750 --> 00:07:40,880
+{\r译文字幕}-谁说这不可能成功的  -他们
+{\r原文字幕}- Who said it couldn't be done? - They.
+
+143
+00:07:40,880 --> 00:07:42,920
+{\r译文字幕}-他们是谁  -这只是种表达方式
+{\r原文字幕}- Who's "they"? - It's just an expression.
+
+144
+00:07:42,920 --> 00:07:45,150
+{\r译文字幕}别抠字眼来拆我的台
+{\r原文字幕}Don't bust me on a technicality.
+
+145
+00:07:45,150 --> 00:07:47,290
+{\r译文字幕}562英尺的滑道
+{\r原文字幕}562 feet of track!
+
+146
+00:07:47,290 --> 00:07:50,890
+{\r译文字幕}带有虫洞的星际宇航基地
+{\r原文字幕}An intergalactic spaceport complete with wormhole!
+
+147
+00:07:50,890 --> 00:07:52,890
+{\r译文字幕}而"pièce de résistance"
+{\r原文字幕}And pièce de résistance...
+
+148
+00:07:52,890 --> 00:07:55,390
+{\r译文字幕}就是法语里超级棒的意思
+{\r原文字幕}That's French for "super awesome."
+
+149
+00:07:55,400 --> 00:07:57,330
+{\r译文字幕}一个真正的摩天环车
+{\r原文字幕}a genuine loop-de-loop!
+
+150
+00:07:58,400 --> 00:08:01,700
+{\r译文字幕}你刚说垂直落差有多高
+{\r原文字幕}Uh... How high did you say the vertical drop is?
+
+151
+00:08:01,700 --> 00:08:03,500
+{\r译文字幕}48.8英尺
+{\r原文字幕}48.8 feet.
+
+152
+00:08:03,510 --> 00:08:07,610
+{\r译文字幕}对没有概念的人来说就是14.87米
+{\r原文字幕}That's 14.87 meters for the uninitiated. Uh...
+
+153
+00:08:07,610 --> 00:08:08,940
+{\r译文字幕}试运行启动
+{\r原文字幕}Commencing test run.
+
+154
+00:08:08,940 --> 00:08:11,240
+{\r译文字幕}所有准备已就绪
+{\r原文字幕}All systems are a go. Uh...
+
+155
+00:08:11,250 --> 00:08:15,750
+{\r译文字幕}-5 4 3 2 1  -咱能谈谈吗
+{\r原文字幕}- Five, four, three, two, one. - Can we talk about this?
+
+156
+00:08:15,750 --> 00:08:17,990
+{\r译文字幕}发射员
+{\r原文字幕}Launcher!
+
+157
+00:08:19,350 --> 00:08:22,020
+{\r译文字幕}点火发射
+{\r原文字幕}We have ignitialization!
+
+158
+00:08:29,600 --> 00:08:31,260
+{\r译文字幕}不
+{\r原文字幕}Oh, no!
+
+159
+00:08:31,270 --> 00:08:32,470
+{\r译文字幕}小桃的绳子掉了
+{\r原文字幕}Peaches is loose!
+
+160
+00:08:33,070 --> 00:08:34,470
+{\r译文字幕}启动应急措施
+{\r原文字幕}Launching countermeasures.
+
+161
+00:08:37,140 --> 00:08:38,400
+{\r译文字幕}哦  天哪
+{\r原文字幕}Oh... Oh, gosh.
+
+162
+00:08:38,410 --> 00:08:39,940
+{\r译文字幕}启动涡轮发射器
+{\r原文字幕}Engage turbo launcher!
+
+163
+00:08:45,010 --> 00:08:46,780
+{\r译文字幕}老公  你有看到我的手机吗
+{\r原文字幕}Honey, have you seen my cell phone?
+
+164
+00:08:50,950 --> 00:08:52,550
+{\r译文字幕}打开宇航基地
+{\r原文字幕}Open the spaceport.
+
+165
+00:08:52,550 --> 00:08:55,120
+{\r译文字幕}马上  马上  低头
+{\r原文字幕}I'm trying, I'm trying! Duck!
+
+166
+00:08:57,220 --> 00:08:59,760
+{\r译文字幕}极速穿越黑洞
+{\r原文字幕}Warp speed through a black hole.
+
+167
+00:08:59,760 --> 00:09:02,230
+{\r译文字幕}好了  准备停车了
+{\r原文字幕}Okay, ready to stop now.
+
+168
+00:09:02,230 --> 00:09:05,230
+{\r译文字幕}不可能  高潮来了
+{\r原文字幕}No way! Time for the grand finale.
+
+169
+00:09:05,230 --> 00:09:07,430
+{\r译文字幕}启动推进器
+{\r原文字幕}Firing thrusters!
+
+170
+00:09:16,610 --> 00:09:17,840
+{\r译文字幕}刹车  刹车  刹车
+{\r原文字幕}Brake, brake, brake!
+
+171
+00:09:18,910 --> 00:09:20,450
+{\r译文字幕}坏了  坏了  坏了
+{\r原文字幕}It broke, broke, broke.
+
+172
+00:09:35,730 --> 00:09:37,400
+{\r译文字幕}注意  当心  不
+{\r原文字幕}Look out! Watch out, no!
+
+173
+00:09:39,130 --> 00:09:41,730
+{\r译文字幕}给  用这个撬动左侧的推进器
+{\r原文字幕}Here. Use this to pry the thrusters on the left.
+
+174
+00:09:41,740 --> 00:09:43,400
+{\r译文字幕}这不是方向盘吗
+{\r原文字幕}Isn't that the steering wheel?
+
+175
+00:09:43,400 --> 00:09:44,840
+{\r译文字幕}本来是  动作快点
+{\r原文字幕}It was. Now hurry!
+
+176
+00:09:44,840 --> 00:09:48,070
+{\r译文字幕}-没有用啊  -不要敲  用撬
+{\r原文字幕}- It's not working! - Don't bang. Pry, pry, pry!
+
+177
+00:09:48,080 --> 00:09:50,210
+{\r译文字幕}-快点  快点  -我在努力  努力
+{\r原文字幕}- Hurry, hurry! - I'm trying, I'm trying!
+
+178
+00:09:54,250 --> 00:09:55,810
+{\r译文字幕}琼  我爱你
+{\r原文字幕}I love you, June!
+
+179
+00:10:02,090 --> 00:10:04,890
+{\r译文字幕}我还活着  感谢克利须那神
+{\r原文字幕}I'm alive! Thank Krishna.
+
+180
+00:10:02,090 --> 00:10:04,890
+{\r译文字幕}{\an8}克利须那神: 是印度教诸神中最广受崇拜的一位神祇，是诸神之首，世界之主
+
+181
+00:10:07,430 --> 00:10:09,430
+{\r译文字幕}这真是
+{\r原文字幕}That was...
+
+182
+00:10:09,430 --> 00:10:10,560
+{\r译文字幕}棒极了
+{\r原文字幕}awesome!
+
+183
+00:10:10,570 --> 00:10:12,570
+{\r译文字幕}-有没有人录下来  -你们太厉害了
+{\r原文字幕}- Did anyone video that? -You guys rock!
+
+184
+00:10:12,570 --> 00:10:13,730
+{\r译文字幕}下一个我来
+{\r原文字幕}I'm next!
+
+185
+00:10:13,740 --> 00:10:15,440
+{\r译文字幕}嘿  我的栅栏怎么回事
+{\r原文字幕}Hey! What happened to my fence?
+
+186
+00:10:15,800 --> 00:10:18,010
+{\r译文字幕}我的花园
+{\r原文字幕}Oh! My garden!
+
+187
+00:10:23,840 --> 00:10:25,980
+{\r译文字幕}一个消防栓要这么多钱吗
+{\r原文字幕}That much for one fire hydrant?
+
+188
+00:10:25,980 --> 00:10:27,710
+{\r译文字幕}我建议送去军事学校
+{\r原文字幕}My advice? Military school.
+
+189
+00:10:27,720 --> 00:10:30,580
+{\r译文字幕}他们会教你女儿学该守的规矩
+{\r原文字幕}They'll drill home the kind of discipline your daughter needs.
+
+190
+00:10:30,590 --> 00:10:34,390
+{\r译文字幕}不用担心  我们会惩罚她的  好吧
+{\r原文字幕}Don't you worry. She will be disciplined, all right.
+
+191
+00:10:35,790 --> 00:10:37,290
+{\r译文字幕}你能行吗
+{\r原文字幕}You got this?
+
+192
+00:10:37,290 --> 00:10:39,820
+{\r译文字幕}必须的  只要不用我去
+{\r原文字幕}If it means not having to be the one to try
+
+193
+00:10:39,820 --> 00:10:43,400
+{\r译文字幕}跟我们可爱的疯女儿讲道理的话
+{\r原文字幕}and talk sense into our adorable lunatic of a daughter, you bet.
+
+194
+00:10:43,400 --> 00:10:46,700
+{\r译文字幕}弗莱德  很高兴见到你  你妻子和
+{\r原文字幕}Fred! Good to see you. How are the wife and...
+
+195
+00:10:50,540 --> 00:10:52,180
+{\r译文字幕}你想说军事学校的事吗
+{\r原文字幕}The thing about military school?
+
+196
+00:10:52,180 --> 00:10:53,270
+{\r译文字幕}那些军事学校通常都很远
+{\r原文字幕}It's usually far away.
+
+197
+00:10:53,270 --> 00:10:54,940
+{\r译文字幕}你肯定会非常想我的
+{\r原文字幕}Think about how much you'd miss me.
+
+198
+00:10:54,940 --> 00:10:57,480
+{\r译文字幕}那样的话是谁受惩罚呢
+{\r原文字幕}Who would really be the one getting punished?
+
+199
+00:10:57,480 --> 00:11:00,150
+{\r译文字幕}我们不会送你去军事学校
+{\r原文字幕}We're not sending you to military school.
+
+200
+00:11:00,150 --> 00:11:02,080
+{\r译文字幕}-不会吗  -不会
+{\r原文字幕}- You're not? - Oh, no.
+
+201
+00:11:02,080 --> 00:11:03,940
+{\r译文字幕}因为军事学校不会让你做
+{\r原文字幕}Because military school doesn't have nearly
+
+202
+00:11:03,940 --> 00:11:06,080
+{\r译文字幕}接下来这么多的家务活
+{\r原文字幕}the amount of chores you're gonna be subjected to.
+
+203
+00:11:06,090 --> 00:11:08,760
+{\r译文字幕}看来我是自己给自己挖了个坑
+{\r原文字幕}I guess I walked right into that one.
+
+204
+00:11:08,760 --> 00:11:09,990
+{\r译文字幕}你到底在想什么  琼
+{\r原文字幕}What were you thinking, June?
+
+205
+00:11:09,990 --> 00:11:11,960
+{\r译文字幕}你知不知道你有多走运
+{\r原文字幕}Do you know how lucky you are?
+
+206
+00:11:11,960 --> 00:11:14,860
+{\r译文字幕}你可能会撞得不只是手上有淤青那么简单
+{\r原文字幕}Could have been a whole lot worse than a raspberry on your elbow.
+
+207
+00:11:14,860 --> 00:11:19,300
+{\r译文字幕}你不是说神奇乐园可能是真的吗
+{\r原文字幕}I was just listening to you. You said Wonderland could be real.
+
+208
+00:11:19,300 --> 00:11:21,670
+{\r译文字幕}还说我可以做成任何事情
+{\r原文字幕}And that I could do anything.
+
+209
+00:11:21,670 --> 00:11:25,340
+{\r译文字幕}我并非想让你停止天马行空的自由想象
+{\r原文字幕}I never want you to stop using your imagination, June Bug.
+
+210
+00:11:25,340 --> 00:11:29,480
+{\r译文字幕}但你也要切记想法要务实  行为要安全
+{\r原文字幕}But I need you to also remember to be practical and safe.
+
+211
+00:11:30,650 --> 00:11:34,110
+{\r译文字幕}如果你出事  我该怎么办呢
+{\r原文字幕}I can't imagine what I'd do if something happened to you.
+
+212
+00:11:34,110 --> 00:11:36,350
+{\r译文字幕}虽然我那样做是不对的
+{\r原文字幕}Even though I shouldn't have done it,
+
+213
+00:11:36,350 --> 00:11:39,180
+{\r译文字幕}但你觉得我造出来的东西酷吗
+{\r原文字幕}did you think what I built was cool?
+
+214
+00:11:39,190 --> 00:11:40,920
+{\r译文字幕}我怎么觉得并不重要
+{\r原文字幕}It doesn't matter what I think.
+
+215
+00:11:40,920 --> 00:11:44,720
+{\r译文字幕}但是格斯和库珀肯定会大吃一惊
+{\r原文字幕}But Gus and Cooper, on the other hand, would've been crazy impressed.
+
+216
+00:11:44,730 --> 00:11:45,960
+{\r译文字幕}是啊
+{\r原文字幕}Yeah.
+
+217
+00:11:45,960 --> 00:11:48,160
+{\r译文字幕}但是史蒂夫会吓出心脏病的  是吧
+{\r原文字幕}But Steve would've had a heart attack, huh?
+
+218
+00:11:48,160 --> 00:11:50,030
+{\r译文字幕}那是  当然了
+{\r原文字幕}Yes. Oh, yeah.
+
+219
+00:11:50,360 --> 00:11:51,360
+{\r译文字幕}所以
+{\r原文字幕}So,
+
+220
+00:11:51,370 --> 00:11:53,930
+{\r译文字幕}我们能继续建造神奇乐园吗
+{\r原文字幕}we can keep building more of Wonderland?
+
+221
+00:11:53,930 --> 00:11:56,070
+{\r译文字幕}当然可以
+{\r原文字幕}Yes, of course.
+
+222
+00:11:56,070 --> 00:11:59,470
+{\r译文字幕}但是你可不能再给邻居搞破坏了
+{\r原文字幕}But, June, without wrecking the neighborhood.
+
+223
+00:11:59,540 --> 00:12:03,500
+{\r译文字幕}对  不给邻居搞破坏
+{\r原文字幕}Right, whithout wrecking the neighberhood.
+
+224
+00:12:12,790 --> 00:12:14,290
+{\r译文字幕}太棒了
+{\r原文字幕}Yeah!
+
+225
+00:12:24,570 --> 00:12:28,400
+{\r译文字幕}皮纳特  这是我们想让你做的
+{\r原文字幕}Now, Peanut, here's what we want you to do.
+
+226
+00:12:28,400 --> 00:12:30,470
+{\r译文字幕}齿轮秋千是乐园的心脏
+{\r原文字幕}Clockwork Swings is the heart of the park.
+
+227
+00:12:30,470 --> 00:12:33,210
+{\r译文字幕}齿轮秋千一打开  神奇乐园就会活过来
+{\r原文字幕}And when it turns on, Wonderland comes to life!
+
+228
+00:12:34,540 --> 00:12:38,250
+{\r译文字幕}和宇航员琼一起在零重力空间漂浮
+{\r原文字幕}Floating through zero gravity with astronaut June.
+
+229
+00:12:41,880 --> 00:12:43,980
+{\r译文字幕}皮纳特  拿起你的马克笔
+{\r原文字幕}Peanut, take your marker...
+
+230
+00:12:43,980 --> 00:12:45,920
+{\r译文字幕}现在转动曲柄
+{\r原文字幕}Now turn the crank.
+
+231
+00:12:45,920 --> 00:12:47,220
+{\r译文字幕}看呐  这能行  成功了
+{\r原文字幕}Look! It worked! It worked!
+
+232
+00:12:55,800 --> 00:12:57,130
+{\r译文字幕}坐稳了  坐稳了
+{\r原文字幕}No, hold on! Hold on!
+
+233
+00:13:34,500 --> 00:13:35,670
+{\r译文字幕}不
+{\r原文字幕}No.
+
+234
+00:13:57,220 --> 00:13:59,430
+{\r译文字幕}弯曲吸管滑梯马上就完工了
+{\r原文字幕}Bendy Straw Slide is almost done.
+
+235
+00:13:59,430 --> 00:14:00,890
+{\r译文字幕}看看你
+{\r原文字幕}Look at you.
+
+236
+00:14:00,900 --> 00:14:04,260
+{\r译文字幕}过来  小可爱  我想和你谈几句
+{\r原文字幕}Come here, baby girl. I want to talk to you for a minute.
+
+237
+00:14:06,030 --> 00:14:08,840
+{\r译文字幕}我知道你已经知道妈妈病了
+{\r原文字幕}I know you know Mommy's sick.
+
+238
+00:14:10,510 --> 00:14:11,770
+{\r译文字幕}是啊
+{\r原文字幕}Yeah.
+
+239
+00:14:11,770 --> 00:14:15,510
+{\r译文字幕}有几位特别的医生或许能帮我治病
+{\r原文字幕}There are some special doctors who might be able to help me.
+
+240
+00:14:15,510 --> 00:14:18,580
+{\r译文字幕}但我去找他们治病就必须离开一阵子
+{\r原文字幕}But I have to go away for a while to see them.
+
+241
+00:14:19,510 --> 00:14:22,310
+{\r译文字幕}你要离开多久
+{\r原文字幕}For how long are you going away?
+
+242
+00:14:22,320 --> 00:14:24,720
+{\r译文字幕}这要看情况
+{\r原文字幕}Well, that just depends.
+
+243
+00:14:24,720 --> 00:14:28,760
+{\r译文字幕}但是相信我  我会尽我所能好起来的
+{\r原文字幕}But believe me, I am gonna do everything I can to try and get better.
+
+244
+00:14:29,190 --> 00:14:30,630
+{\r译文字幕}做个模范病人
+{\r原文字幕}Model patient.
+
+245
+00:14:31,930 --> 00:14:34,030
+{\r译文字幕}我们会去探望你妈妈的  宝贝女儿
+{\r原文字幕}And we'll go visit, honey.
+
+246
+00:14:34,030 --> 00:14:38,160
+{\r译文字幕}我知道这很吓人
+{\r原文字幕}Hey, I know this is scary,
+
+247
+00:14:38,170 --> 00:14:42,100
+{\r译文字幕}但你要保持内心的微光永远闪亮
+{\r原文字幕}but you keep that little light in you shining bright.
+
+248
+00:14:42,600 --> 00:14:44,570
+{\r译文字幕}我不知道自己能不能做到
+{\r原文字幕}I don't know if I can.
+
+249
+00:14:45,610 --> 00:14:47,410
+{\r译文字幕}我相信你能做到
+{\r原文字幕}Well, I do.
+
+250
+00:14:47,410 --> 00:14:51,610
+{\r译文字幕}因为你就是神奇乐园的奇迹
+{\r原文字幕}Because you are the wonder in Wonderland.
+
+251
+00:15:03,890 --> 00:15:05,290
+{\r译文字幕}好了
+{\r原文字幕}Whew. Okay.
+
+252
+00:15:23,780 --> 00:15:25,250
+{\r译文字幕}妈妈
+{\r原文字幕}Mom.
+
+253
+00:15:42,060 --> 00:15:44,230
+{\r译文字幕}嗯  我会的
+{\r原文字幕}Yeah, I will.
+
+254
+00:15:45,670 --> 00:15:47,900
+{\r译文字幕}你快回家了吗
+{\r原文字幕}Are you... Are you coming home soon?
+
+255
+00:15:50,940 --> 00:15:53,840
+{\r译文字幕}好吧  我也爱你  妈妈
+{\r原文字幕}Okay. I love you, too, Mom.
+
+256
+00:16:05,020 --> 00:16:08,790
+{\r译文字幕}保持内心的微光永远闪亮
+{\r原文字幕}Keep that little light in you shining bright.
+
+257
+00:16:10,960 --> 00:16:14,120
+{\r译文字幕}你觉得皮纳特会在旋转木马上放什么动物
+{\r原文字幕}What kind of animal should Peanut put on that carousel?
+
+258
+00:16:14,830 --> 00:16:18,830
+{\r译文字幕}你只需要把记号笔给皮纳特
+{\r原文字幕}All you have to do is give Peanut his marker,
+
+259
+00:16:18,830 --> 00:16:21,700
+{\r译文字幕}然后悄悄告诉皮纳特
+{\r原文字幕}and whisper your wish into Peanut's ear.
+
+260
+00:16:26,440 --> 00:16:27,640
+{\r译文字幕}我做不到
+{\r原文字幕}I can't.
+
+261
+00:16:58,940 --> 00:17:00,470
+{\r译文字幕}-嘿  琼  -嘿  班基
+{\r原文字幕}- Oh, hey, June. - Hey, Banky.
+
+262
+00:17:00,480 --> 00:17:02,480
+{\r译文字幕}我爸妈给我买了一套无人机装备
+{\r原文字幕}My parents got me this drone kit.
+
+263
+00:17:02,480 --> 00:17:04,680
+{\r译文字幕}你可以帮忙把它组装起来
+{\r原文字幕}And we could use your help putting it together.
+
+264
+00:17:04,680 --> 00:17:07,010
+{\r译文字幕}然后我们就可以把它用在神奇乐园里了
+{\r原文字幕}We could use it for Wonderland.
+
+265
+00:17:07,010 --> 00:17:09,220
+{\r译文字幕}去吧  小琼琼  看起来很好玩
+{\r原文字幕}Go on, June Bug. That'll be fun.
+
+266
+00:17:10,550 --> 00:17:13,550
+{\r译文字幕}这有没有经过FAA批准可在居民区使用
+{\r原文字幕}Is that FAA-certified for use in a residential area?
+
+267
+00:17:10,550 --> 00:17:13,550
+{\r译文字幕}{\an8}FAA: 美国联邦航空管理局
+
+268
+00:17:13,550 --> 00:17:15,960
+{\r译文字幕}这玩意儿可极其危险
+{\r原文字幕}Those things can be insanely hazardous.
+
+269
+00:17:15,960 --> 00:17:18,860
+{\r译文字幕}我们快无聊死了  可以说是无聊透顶
+{\r原文字幕}Well, we're insanely bored and, dare I say, desperate?
+
+270
+00:17:18,860 --> 00:17:22,930
+{\r译文字幕}我们一直在山坡上滚着玩
+{\r原文字幕}We've stooped to repeatedly rolling each other down a hill for fun,
+
+271
+00:17:22,930 --> 00:17:25,830
+{\r译文字幕}但我觉得拉杰快受不了了
+{\r原文字幕}and I don't think Raj can handle it anymore.
+
+272
+00:17:25,830 --> 00:17:29,570
+{\r译文字幕}能来个人让世界别转了吗
+{\r原文字幕}Will someone please stop the world from spinning?
+
+273
+00:17:30,870 --> 00:17:33,400
+{\r译文字幕}见到你很高兴  还是明天再说吧
+{\r原文字幕}Great seeing you. But maybe tomorrow.
+
+274
+00:17:33,410 --> 00:17:34,910
+{\r译文字幕}但是我
+{\r原文字幕}But I... Oh.
+
+275
+00:17:34,910 --> 00:17:39,310
+{\r译文字幕}抱歉了各位  今天没戏了
+{\r原文字幕}Sorry, guys. Not today.
+
+276
+00:17:39,310 --> 00:17:42,310
+{\r译文字幕}我们能谈谈你怎么了吗
+{\r原文字幕}Can we talk about what's going on with you?
+
+277
+00:17:42,320 --> 00:17:44,520
+{\r译文字幕}他们只想着玩神奇乐园
+{\r原文字幕}All they want to do is play with Wonderland.
+
+278
+00:17:44,520 --> 00:17:45,200
+{\r译文字幕}你知道的
+{\r原文字幕}Well you know
+
+279
+00:17:45,290 --> 00:17:47,250
+{\r译文字幕}爸爸  不行  不行
+{\r原文字幕}Dad. No! No, no, no.
+
+280
+00:17:47,260 --> 00:17:48,790
+{\r译文字幕}别大惊小怪 这压根不是什么大事儿
+{\r原文字幕}Don't make this a thing. It's not a thing.
+
+281
+00:17:48,790 --> 00:17:51,820
+{\r译文字幕}就算有事  也只是小事
+{\r原文字幕}Well, it is a thing, but the thing is, it's not a thing.
+
+282
+00:17:53,490 --> 00:17:56,130
+{\r译文字幕}你说的明天  是指明天早上吗
+{\r原文字幕}When you say "tomorrow," you mean tomorrow morning?
+
+283
+00:17:56,130 --> 00:17:57,500
+{\r译文字幕}反正是明天就对了
+{\r原文字幕}Just tomorrow!
+
+284
+00:17:58,900 --> 00:18:00,570
+{\r译文字幕}来真的吗
+{\r原文字幕}Seriously?
+
+285
+00:18:00,570 --> 00:18:02,430
+{\r译文字幕}-是下午  -没想到 吧
+{\r原文字幕}- Afternoon! - Surprise!
+
+286
+00:18:02,440 --> 00:18:04,640
+{\r译文字幕}听说你想见见最喜欢的叔叔婶婶
+{\r原文字幕}Heard you wanted to see your favorite aunt and uncle.
+
+287
+00:18:04,640 --> 00:18:06,040
+{\r译文字幕}然而他们却叫我们过来了
+{\r原文字幕}But they sent us instead.
+
+288
+00:18:06,040 --> 00:18:07,910
+{\r译文字幕}这正是我跟她结婚的原因
+{\r原文字幕}Hey-O! That's why I married her!
+
+289
+00:18:07,910 --> 00:18:10,040
+{\r译文字幕}过来让叔叔抱一个  小屁孩
+{\r原文字幕}Now bring it in for the good stuff, kiddo.
+
+290
+00:18:10,040 --> 00:18:13,250
+{\r译文字幕}你真是一天一个样  都长这么大了
+{\r原文字幕}You're getting bigger every day. And so grown up.
+
+291
+00:18:13,250 --> 00:18:14,880
+{\r译文字幕}长大了  也变漂亮了
+{\r原文字幕}Grown up and beautiful.
+
+292
+00:18:14,880 --> 00:18:14,870
+{\r译文字幕}很高兴见到你们
+{\r原文字幕}It's good to see you,
+
+293
+00:18:15,420 --> 00:18:17,150
+{\r译文字幕}虽然你们老是喜欢捏我的脸颊
+{\r原文字幕}even though you always do this to my cheeks.
+
+294
+00:18:17,150 --> 00:18:18,550
+{\r译文字幕}这地方看起来真不错
+{\r原文字幕}Oh, the place looks great!
+
+295
+00:18:18,550 --> 00:18:20,720
+{\r译文字幕}老天  你们是搬家过来的吗
+{\r原文字幕}Jeez. What, did you pack the whole house?
+
+296
+00:18:20,720 --> 00:18:22,560
+{\r译文字幕}我还以为你们只是过来住两晚
+{\r原文字幕}I thought you guys were only coming for two nights.
+
+297
+00:18:22,560 --> 00:18:23,890
+{\r译文字幕}只是一些必需品
+{\r原文字幕}Well, it's just the essentials.
+
+298
+00:18:23,890 --> 00:18:25,360
+{\r译文字幕}我们买的是成套的东西
+{\r原文字幕}And anyway, we bought a set...
+
+299
+00:18:25,360 --> 00:18:26,760
+{\r译文字幕}就想要把包装袋全用上
+{\r原文字幕}and we wanted to use all the bags.
+
+300
+00:18:26,760 --> 00:18:28,760
+{\r译文字幕}-把礼物拿出来  -对了
+{\r原文字幕}- Oh, get the present. - Right.
+
+301
+00:18:28,760 --> 00:18:30,460
+{\r译文字幕}我们把它放哪了
+{\r原文字幕}Now, where did we put it?
+
+302
+00:18:30,460 --> 00:18:33,070
+{\r译文字幕}我们有礼物给你哦  是
+{\r原文字幕}We have a present for you, June. It's
+
+303
+00:18:33,070 --> 00:18:35,130
+{\r译文字幕}一个摩天轮
+{\r原文字幕}a Ferris wheel!
+
+304
+00:18:35,140 --> 00:18:38,500
+{\r译文字幕}我试着包装一下  但是
+{\r原文字幕}Uh... I tried wrapping it, but wrapping circular things
+
+305
+00:18:38,510 --> 00:18:40,140
+{\r译文字幕}包装圆形的东西比我想象的难多了
+{\r原文字幕}is much harder than I would've imagined.
+
+306
+00:18:40,140 --> 00:18:44,080
+{\r译文字幕}把它放到你的神奇乐园模型里一定很合适
+{\r原文字幕}I thought it would just be perfect for your Wonderland model.
+
+307
+00:18:44,080 --> 00:18:46,450
+{\r译文字幕}你的神奇乐园呢
+{\r原文字幕}Where did all that go?
+
+308
+00:18:46,450 --> 00:18:48,080
+{\r译文字幕}我们把那些东西都收起来了
+{\r原文字幕}We put Wonderland away.
+
+309
+00:18:48,080 --> 00:18:49,380
+{\r译文字幕}那太可惜了
+{\r原文字幕}Well, that's a shame.
+
+310
+00:18:49,380 --> 00:18:51,680
+{\r译文字幕}我昨天还和你妈妈说要帮你建造它
+{\r原文字幕}I told your mom yesterday we'd help you build it.
+
+311
+00:18:51,690 --> 00:18:53,190
+{\r译文字幕}你的托尼叔叔在这方面可是行家
+{\r原文字幕}And I know your Uncle Tony!
+
+312
+00:18:53,190 --> 00:18:54,820
+{\r译文字幕}我也喜欢玩具
+{\r原文字幕}I'm not above playing with toys.
+
+313
+00:18:54,820 --> 00:18:58,120
+{\r译文字幕}我们把神奇乐园重建起来吧  小家伙
+{\r原文字幕}What do you say, tiny? Let's rebuild Wonderland.
+
+314
+00:18:59,330 --> 00:19:01,430
+{\r译文字幕}我们不如聊点别的
+{\r原文字幕}Hey, hey why don't we talk about something else?
+
+315
+00:19:01,430 --> 00:19:04,400
+{\r译文字幕}天气  纳税申报单  什么都行
+{\r原文字幕}Weather? Tax returns? Literally, anything else.
+
+316
+00:19:04,400 --> 00:19:06,360
+{\r译文字幕}看看我找到了什么
+{\r原文字幕}Oh, look what I found.
+
+317
+00:19:06,370 --> 00:19:07,670
+{\r译文字幕}什么
+{\r原文字幕}Wha...
+
+318
+00:19:07,670 --> 00:19:09,770
+{\r译文字幕}神奇乐园的设计图
+{\r原文字幕}It's the blueprint for Wonderland.
+
+319
+00:19:09,770 --> 00:19:11,640
+{\r译文字幕}我不玩神奇乐园了
+{\r原文字幕}I don't play with that anymore.
+
+320
+00:19:11,640 --> 00:19:14,440
+{\r译文字幕}-但是  -请把它收起来吧
+{\r原文字幕}- But, sweetheart...   - Please, put that away.
+
+321
+00:19:14,440 --> 00:19:16,980
+{\r译文字幕}-可是  -拜托了
+{\r原文字幕}- But...  - Just please!
+
+322
+00:19:16,980 --> 00:19:20,710
+{\r译文字幕}你和你妈妈一起创造了这么美好的东西
+{\r原文字幕}This is a beautiful thing you and your mom did together, darling.
+
+323
+00:19:20,720 --> 00:19:23,380
+{\r译文字幕}就像是真实存在的一样
+{\r原文字幕}To create something so real.
+
+324
+00:19:23,380 --> 00:19:24,620
+{\r译文字幕}你可以
+{\r原文字幕}You can...
+
+325
+00:19:24,620 --> 00:19:26,250
+{\r译文字幕}神奇乐园是假的  它不可能存在
+{\r原文字幕}Wonderland isn't real! It never could be real.
+
+326
+00:19:26,250 --> 00:19:30,590
+{\r译文字幕}就算是真的我也绝对不会去那里
+{\r原文字幕}And even if it was, it's the last place in the world I'd want to visit!
+
+327
+00:19:30,590 --> 00:19:32,320
+{\r译文字幕}不要
+{\r原文字幕}Oh, no.
+
+328
+00:19:32,330 --> 00:19:33,760
+{\r译文字幕}琼琼
+{\r原文字幕}Oh, Junie.
+
+329
+00:19:37,730 --> 00:19:39,400
+{\r译文字幕}-妈妈  -不  别去拿
+{\r原文字幕}- Mom!   - No, no, no wait!
+
+330
+00:19:47,170 --> 00:19:48,940
+{\r译文字幕}对不起
+{\r原文字幕}I'm sorry.
+
+331
+00:19:48,940 --> 00:19:50,040
+{\r译文字幕}孩子  等等
+{\r原文字幕}Sweetie, wait.
+
+332
+00:20:24,850 --> 00:20:27,310
+{\r译文字幕}-琼琼  好消息  -什么
+{\r原文字幕}- Hey, Junie! Great news!  - Huh?
+
+333
+00:20:27,320 --> 00:20:29,520
+{\r译文字幕}我有个好消息
+{\r原文字幕}I said great news!
+
+334
+00:20:29,520 --> 00:20:31,490
+{\r译文字幕}我马上就好
+{\r原文字幕}I'll be done in a minute!
+
+335
+00:20:33,120 --> 00:20:35,520
+{\r译文字幕}明天就要去数学夏令营了
+{\r原文字幕}Tomorrow is Math Camp!
+
+336
+00:20:35,520 --> 00:20:37,460
+{\r译文字幕}我知道给干净的房子打扫卫生
+{\r原文字幕}And I know it's important to clean
+
+337
+00:20:37,460 --> 00:20:38,920
+{\r译文字幕}是很重要的事
+{\r原文字幕}an already clean house...
+
+338
+00:20:38,930 --> 00:20:41,990
+{\r译文字幕}你不如把精力用在整理行李上
+{\r原文字幕}but why don't you channel this nervous energy into packing?
+
+339
+00:20:42,000 --> 00:20:43,530
+{\r译文字幕}这很危险
+{\r原文字幕}This is dangerous.
+
+340
+00:20:44,400 --> 00:20:45,930
+{\r译文字幕}我不会去数学夏令营的
+{\r原文字幕}And I'm not going to Math Camp.
+
+341
+00:20:45,930 --> 00:20:48,070
+{\r译文字幕}他们只会同情我
+{\r原文字幕}They're just gonna give me sad eyes.
+
+342
+00:20:48,070 --> 00:20:50,440
+{\r译文字幕}-琼琼  -再说了  我在家也没闲着
+{\r原文字幕}- Junie...   - Besides, I got a lot to do around here.
+
+343
+00:20:50,440 --> 00:20:52,320
+{\r译文字幕}你订的小麦草是三个月送一次
+{\r原文字幕}Is that a three-month or six-month renewal
+
+344
+00:20:52,330 --> 00:20:53,670
+{\r译文字幕}还是半年送一次
+{\r原文字幕}on your wheatgrass deliveries?
+
+345
+00:20:53,670 --> 00:20:55,670
+{\r译文字幕}-我填了半年一次  -我是想说
+{\r原文字幕}- I put in six.   - Uh, all I'm saying...
+
+346
+00:20:55,680 --> 00:20:57,580
+{\r译文字幕}你的甘油三酯指数还是偏高
+{\r原文字幕}Your triglycerides are still on the high end.
+
+347
+00:20:57,580 --> 00:20:59,550
+{\r译文字幕}对待身体可不能含糊
+{\r原文字幕}I'm not taking any chances with your health.
+
+348
+00:20:59,550 --> 00:21:01,950
+{\r译文字幕}琼  你不能一直待在家里
+{\r原文字幕}June, you can't stay in here forever.
+
+349
+00:21:01,950 --> 00:21:04,990
+{\r译文字幕}这个夏天我应该在家里照顾你
+{\r原文字幕}Look, I just know I need to be home this summer to take care of you.
+
+350
+00:21:05,750 --> 00:21:08,220
+{\r译文字幕}没搞错吧  这个还有三天就过期了
+{\r原文字幕}Really? This expires in three days.
+
+351
+00:21:08,220 --> 00:21:10,220
+{\r译文字幕}日期太接近了
+{\r原文字幕}You're cutting it way too close.
+
+352
+00:21:10,220 --> 00:21:14,160
+{\r译文字幕}琼  今天我自己穿好衣服  做了早餐
+{\r原文字幕}June, today I got dressed and made breakfast all by myself
+
+353
+00:21:14,160 --> 00:21:16,830
+{\r译文字幕}就和过去的41年一样
+{\r原文字幕}as I have been doing for the last 41 years.
+
+354
+00:21:16,830 --> 00:21:19,320
+{\r译文字幕}八岁之前我还需要有人帮忙
+{\r原文字幕}The first seven I needed a little help,
+
+355
+00:21:19,320 --> 00:21:21,230
+{\r译文字幕}但是现在我能自己解决
+{\r原文字幕}but since then I've been okay.
+
+356
+00:21:28,240 --> 00:21:30,780
+{\r译文字幕}我不会去夏令营的
+{\r原文字幕}I am not going to Math Camp.
+
+357
+00:21:33,950 --> 00:21:36,250
+{\r译文字幕}不要把牛油果和香蕉放在一起
+{\r原文字幕}Don't put the avocados next to the bananas.
+
+358
+00:21:36,250 --> 00:21:37,320
+{\r译文字幕}放一起会熟的更快
+{\r原文字幕}They ripen too fast.
+
+359
+00:21:37,320 --> 00:21:38,980
+{\r译文字幕}烤面包机调到三档温度就行了
+{\r原文字幕}And leave the toaster set to three.
+
+360
+00:21:38,990 --> 00:21:40,850
+{\r译文字幕}边上烤焦了就不好吃了
+{\r原文字幕}You know you don't like it when the edges are too crispy.
+
+361
+00:21:40,860 --> 00:21:42,290
+{\r译文字幕}我早上烤的面包不会有问题的
+{\r原文字幕}My morning toast will be fine.
+
+362
+00:21:42,290 --> 00:21:44,660
+{\r译文字幕}冰箱里的牛奶可能会过期  检查一下
+{\r原文字幕}Oh, and the milk in the fridge could be out of date, so check it.
+
+363
+00:21:44,660 --> 00:21:46,260
+{\r译文字幕}琼 琼 我自己能行
+{\r原文字幕}June, June, I'm gonna be okay.
+
+364
+00:21:46,260 --> 00:21:48,130
+{\r译文字幕}我知道这对你来说是一大步
+{\r原文字幕}I know this is a big step.
+
+365
+00:21:48,130 --> 00:21:51,730
+{\r译文字幕}你去了的话妈妈和我都会为你骄傲
+{\r原文字幕}Mom and I are both proud of you for going.
+
+366
+00:21:51,730 --> 00:21:55,900
+{\r译文字幕}去算盘障碍赛大干一场吧
+{\r原文字幕}Now you get out there on Abacus Obstacle Course and skin a knee.
+
+367
+00:21:57,410 --> 00:21:58,610
+{\r译文字幕}好
+{\r原文字幕}Okay.
+
+368
+00:21:59,810 --> 00:22:00,810
+{\r译文字幕}你保证
+{\r原文字幕}Promise?
+
+369
+00:22:01,610 --> 00:22:03,080
+{\r译文字幕}我保证
+{\r原文字幕}I promise.
+
+370
+00:22:11,890 --> 00:22:15,220
+{\r译文字幕}-班基  -琼·贝利  我给你占了座
+{\r原文字幕}- Hey ya, Banky.  - Hey, June Bailey. Saved you a seat.
+
+371
+00:22:15,220 --> 00:22:19,030
+{\r译文字幕}这绝对是我人生中最棒的夏天
+{\r原文字幕}This is gonna be the best summer ever!
+
+372
+00:22:19,560 --> 00:22:20,830
+{\r译文字幕}再见
+{\r原文字幕}Oh. Goodbye!
+
+373
+00:22:27,170 --> 00:22:28,930
+{\r译文字幕}嗨  同学们
+{\r原文字幕}Hey, campers!
+
+374
+00:22:28,940 --> 00:22:33,770
+{\r译文字幕}大家都准备好去棒棒夏令营了吗
+{\r原文字幕}Okay, everybody here is heading to Camp Awe Sum, right?
+
+375
+00:22:33,770 --> 00:22:37,980
+{\r译文字幕}如果没有  那你可上错车了
+{\r原文字幕}If you're not, you're on the rhom-bus.
+
+376
+00:22:40,280 --> 00:22:41,950
+{\r译文字幕}我就喜欢她的几何学笑话
+{\r原文字幕}I love geometry humor.
+
+377
+00:22:41,950 --> 00:22:44,640
+{\r译文字幕}我可以先讲讲我在棒棒夏令营
+{\r原文字幕}Now, I could start off with a million stories
+
+378
+00:22:44,640 --> 00:22:46,620
+{\r译文字幕}发生的无数个故事
+{\r原文字幕}about my summers at Camp Awe Sum,
+
+379
+00:22:46,620 --> 00:22:49,760
+{\r译文字幕}但我可不想转移话题
+{\r原文字幕}but I wouldn't want to go off on a tangent!
+
+380
+00:22:49,760 --> 00:22:52,290
+{\r译文字幕}你们懂我的笑点吗
+{\r原文字幕}Are you getting my angle?
+
+381
+00:22:55,030 --> 00:22:57,100
+{\r译文字幕}一  二  三  四
+{\r原文字幕}A-one, two... A-one, two-three, four.
+
+382
+00:23:29,360 --> 00:23:32,830
+{\r译文字幕}我不该来夏令营的  我真糊涂
+{\r原文字幕}This is a terrible mistake. What was I thinking?
+
+383
+00:23:41,680 --> 00:23:43,640
+{\r译文字幕}琼  我很好
+{\r原文字幕}June, I'm okay.
+
+384
+00:23:47,110 --> 00:23:50,680
+{\r译文字幕}今天我自己穿好衣服还做了早餐
+{\r原文字幕}Today I got dressed and made breakfast all by myself.
+
+385
+00:23:59,190 --> 00:24:00,690
+{\r译文字幕}天哪
+{\r原文字幕}Oh, no!
+
+386
+00:24:00,690 --> 00:24:03,130
+{\r译文字幕}不能一整个暑假都让他独自在家
+{\r原文字幕}I can't leave him alone for an entire summer!
+
+387
+00:24:03,130 --> 00:24:04,730
+{\r译文字幕}为什么钝角三角形...
+{\r原文字幕}Why is the obtuse triangle...
+
+388
+00:24:04,730 --> 00:24:06,600
+{\r译文字幕}班基  我要你帮我  我要回家
+{\r原文字幕}Banky, I need your help. I need to get home.
+
+389
+00:24:06,600 --> 00:24:08,190
+{\r译文字幕}什么  你爸爸会生气的
+{\r原文字幕}What? Your dad'll flip!
+
+390
+00:24:08,190 --> 00:24:10,540
+{\r译文字幕}你会被禁足一辈子的
+{\r原文字幕}We're talking eternal groundation.
+
+391
+00:24:10,540 --> 00:24:12,400
+{\r译文字幕}但他根本照顾不了自己
+{\r原文字幕}But he knows he can't function without me.
+
+392
+00:24:12,410 --> 00:24:15,740
+{\r译文字幕}他说"想你"  简直就是求救
+{\r原文字幕}Look at this. "Miss you." It's like a cry for help!
+
+393
+00:24:15,740 --> 00:24:17,050
+{\r译文字幕}不是吧  琼
+{\r原文字幕}Uh. I don't know, June.
+
+394
+00:24:17,050 --> 00:24:20,050
+{\r译文字幕}我觉得你可能过度解读了
+{\r原文字幕}I think you might be reading a bit too much into this.
+
+395
+00:24:20,050 --> 00:24:21,620
+{\r译文字幕}我顺着登山路线穿过森林
+{\r原文字幕}I'll take the hiking trails through the forest
+
+396
+00:24:21,620 --> 00:24:22,520
+{\r译文字幕}午饭前就能到家
+{\r原文字幕}and be there before lunch.
+
+397
+00:24:22,520 --> 00:24:23,650
+{\r译文字幕}这很容易
+{\r原文字幕}It's a no-brainer.
+
+398
+00:24:23,650 --> 00:24:25,750
+{\r译文字幕}但我得先下车
+{\r原文字幕}But first I need to get off this bus.
+
+399
+00:24:25,750 --> 00:24:27,290
+{\r译文字幕}你得帮我
+{\r原文字幕}And you have to help me.
+
+400
+00:24:27,290 --> 00:24:28,290
+{\r译文字幕}求你了
+{\r原文字幕}Please!
+
+401
+00:24:30,460 --> 00:24:31,720
+{\r译文字幕}-好吧  -太棒了
+{\r原文字幕}- Okay.  - Yes!
+
+402
+00:24:31,730 --> 00:24:34,460
+{\r译文字幕}-班基我都想亲你了  -真的吗
+{\r原文字幕}- Banky, I could kiss you.  - Really?
+
+403
+00:24:34,460 --> 00:24:35,930
+{\r译文字幕}-呃  不  -好吧
+{\r原文字幕}- Ew, no.  - Right.
+
+404
+00:24:35,930 --> 00:24:38,260
+{\r译文字幕}我看看有什么用得上的
+{\r原文字幕}Now, what can I use?
+
+405
+00:24:38,270 --> 00:24:39,330
+{\r译文字幕}好了
+{\r原文字幕}Okay.
+
+406
+00:24:39,330 --> 00:24:41,370
+{\r译文字幕}你在学校演过戏对吧
+{\r原文字幕}You did the school play, right?
+
+407
+00:24:41,370 --> 00:24:43,270
+{\r译文字幕}替补演员算吗
+{\r原文字幕}Does second understudy count?
+
+408
+00:24:43,270 --> 00:24:45,740
+{\r译文字幕}差不多  你知道该怎么做
+{\r原文字幕}Uh, close enough. You know what to do.
+
+409
+00:24:48,140 --> 00:24:53,350
+{\r译文字幕}天啊  我现在感觉不是很舒服
+{\r原文字幕}Oh, no! I don't think I'm feeling very well at this moment.
+
+410
+00:24:53,350 --> 00:24:55,010
+{\r译文字幕}我觉得我要
+{\r原文字幕}I think I might...
+
+411
+00:24:55,020 --> 00:24:57,480
+{\r译文字幕}我要忍不住了
+{\r原文字幕}I don't think I can hold it down!
+
+412
+00:24:57,490 --> 00:24:59,620
+{\r译文字幕}忍不住了
+{\r原文字幕}I can't hold it no more!
+
+413
+00:24:59,620 --> 00:25:01,690
+{\r译文字幕}天啊  我要吐了
+{\r原文字幕}Oh, no! It's here!
+
+414
+00:25:01,690 --> 00:25:03,990
+{\r译文字幕}要吐了
+{\r原文字幕}It's here!
+
+415
+00:25:05,530 --> 00:25:06,890
+{\r译文字幕}你吐得太恶心了
+{\r原文字幕}Ugh, you chucked a yuck!
+
+416
+00:25:06,890 --> 00:25:08,460
+{\r译文字幕}停车
+{\r原文字幕}Stop the bus!
+
+417
+00:25:13,640 --> 00:25:16,300
+{\r译文字幕}好了  不准随便乱走
+{\r原文字幕}Okay, nobody wander off!
+
+418
+00:25:16,300 --> 00:25:18,770
+{\r译文字幕}小心有蛇
+{\r原文字幕}And watch out for snakes.
+
+419
+00:25:18,770 --> 00:25:20,010
+{\r译文字幕}它们到处都是
+{\r原文字幕}They're everywhere.
+
+420
+00:25:20,010 --> 00:25:21,710
+{\r译文字幕}蛇
+{\r原文字幕}Snakes?
+
+421
+00:25:21,710 --> 00:25:25,240
+{\r译文字幕}琼  琼  琼
+{\r原文字幕}June? June? June?
+
+422
+00:25:25,250 --> 00:25:26,650
+{\r译文字幕}做得好  班基
+{\r原文字幕}Nice one, Banky.
+
+423
+00:25:26,650 --> 00:25:28,050
+{\r译文字幕}你吐的超恶心的
+{\r原文字幕}You chucked a yuck!
+
+424
+00:25:28,050 --> 00:25:29,950
+{\r译文字幕}有一次我吃了玉米热狗后生病了
+{\r原文字幕}I got sick from a corndog once.
+
+425
+00:25:29,950 --> 00:25:32,320
+{\r译文字幕}我整个人从内到外都疼
+{\r原文字幕}It hurt all the way inside of my bones.
+
+426
+00:25:32,320 --> 00:25:34,720
+{\r译文字幕}我妈说是因为那热狗已经放了两周
+{\r原文字幕}My mom said it was because it was two weeks old.
+
+427
+00:25:34,720 --> 00:25:38,460
+{\r译文字幕}但我用微波炉加热后就超级好吃的
+{\r原文字幕}But I put it in the microwave and it was delicious.
+
+428
+00:25:40,960 --> 00:25:43,100
+{\r译文字幕}我的天啊
+{\r原文字幕}Holy hypotenuse!
+
+429
+00:25:43,100 --> 00:25:44,800
+{\r译文字幕}对  肯定是因为吃了玉米热狗
+{\r原文字幕}Oh, yeah, definitely the corndog.
+
+430
+00:25:44,800 --> 00:25:46,970
+{\r译文字幕}好了  你是心悸发作了吗
+{\r原文字幕}Okay, are you having heart palpitations?
+
+431
+00:26:09,690 --> 00:26:12,760
+{\r译文字幕}等一下  这个为什么会在这
+{\r原文字幕}Wait. Why is this here?
+
+432
+00:26:33,680 --> 00:26:35,420
+{\r译文字幕}你  给我回来
+{\r原文字幕}Hey, get back here!
+
+433
+00:27:39,280 --> 00:27:40,280
+{\r译文字幕}痛
+{\r原文字幕}Ow.
+
+434
+00:27:42,520 --> 00:27:44,390
+{\r译文字幕}抓住你了
+{\r原文字幕}Gotcha!
+
+435
+00:29:12,870 --> 00:29:14,070
+{\r译文字幕}这是
+{\r原文字幕}Is this...
+
+436
+00:29:55,520 --> 00:29:57,320
+{\r译文字幕}不会吧
+{\r原文字幕}No way.
+
+437
+00:30:00,720 --> 00:30:03,290
+{\r译文字幕}这怎么可能
+{\r原文字幕}How is this possible?
+
+438
+00:30:05,660 --> 00:30:07,330
+{\r译文字幕}有人吗
+{\r原文字幕}Hello!
+
+439
+00:30:14,740 --> 00:30:16,200
+{\r译文字幕}你是
+{\r原文字幕}Are you...
+
+440
+00:30:19,570 --> 00:30:21,280
+{\r译文字幕}皮纳特
+{\r原文字幕}Peanut.
+
+441
+00:30:22,480 --> 00:30:24,610
+{\r译文字幕}我这是在
+{\r原文字幕}I'm in...
+
+442
+00:30:24,610 --> 00:30:26,350
+{\r译文字幕}神奇乐园
+{\r原文字幕}Wonderland.
+
+443
+00:30:30,890 --> 00:30:32,350
+{\r译文字幕}风暴云
+{\r原文字幕}Storm clouds?
+
+444
+00:30:32,350 --> 00:30:35,350
+{\r译文字幕}神奇乐园里不应该有风暴云的
+{\r原文字幕}There shouldn't be storm clouds in Wonderland.
+
+445
+00:30:35,360 --> 00:30:38,120
+{\r译文字幕}布莫  我们跟不上了
+{\r原文字幕}Boomer! We can't keep up!
+
+446
+00:30:38,130 --> 00:30:40,090
+{\r译文字幕}是欢迎熊布莫吗
+{\r原文字幕}Boomer the Welcome Bear?
+
+447
+00:30:40,090 --> 00:30:41,090
+{\r译文字幕}他也在这吗
+{\r原文字幕}He's here, too?
+
+448
+00:30:43,870 --> 00:30:46,630
+{\r译文字幕}快逃命吧
+{\r原文字幕}Run for your life!
+
+449
+00:30:46,630 --> 00:30:48,500
+{\r译文字幕}带上她  快跑  小个子
+{\r原文字幕}Grab her! Get moving, pipsqueak!
+
+450
+00:30:48,500 --> 00:30:49,140
+{\r译文字幕}这是怎么回事
+{\r原文字幕}What's going on?
+
+451
+00:30:49,140 --> 00:30:50,300
+{\r译文字幕}我们为什么要追布莫
+{\r原文字幕}Why are we chasing Boomer?
+
+452
+00:30:50,300 --> 00:30:51,660
+{\r译文字幕}我们没有追他
+{\r原文字幕}Oh, we're not chasing him.
+
+453
+00:30:51,660 --> 00:30:52,770
+{\r译文字幕}是他们在追我们
+{\r原文字幕}They're chasing us!
+
+454
+00:30:55,310 --> 00:30:56,740
+{\r译文字幕}去火箭路集合
+{\r原文字幕}Regroup at Rocket Road!
+
+455
+00:30:56,740 --> 00:31:00,180
+{\r译文字幕}逃到安全的地方呀  小短腿快逃呀
+{\r原文字幕}Skipping to safety, skipping to safety! Tra-la-la-la!
+
+456
+00:31:03,320 --> 00:31:05,000
+{\r译文字幕}-格斯  去放下篷子  -好
+{\r原文字幕}- Gus, gnaw that awning down.  - I'm on it.
+
+457
+00:31:05,010 --> 00:31:05,990
+{\r译文字幕}库珀  去启动泵
+{\r原文字幕}Cooper, start the pump.
+
+458
+00:31:05,990 --> 00:31:06,490
+{\r译文字幕}史蒂夫
+{\r原文字幕}Steve...
+
+459
+00:31:06,490 --> 00:31:07,790
+{\r译文字幕}我来起草逃离计划
+{\r原文字幕}I'll draft up an exit plan.
+
+460
+00:31:07,790 --> 00:31:08,690
+{\r译文字幕}你去做诱饵
+{\r原文字幕}you're the bait.
+
+461
+00:31:08,690 --> 00:31:10,660
+{\r译文字幕}当然是我了  诱饵走咯
+{\r原文字幕}Of course I am. Baiting away.
+
+462
+00:31:17,570 --> 00:31:19,900
+{\r译文字幕}布莫  你要拿命来保护她
+{\r原文字幕}Boomer, you protect her with your life. Hey!
+
+463
+00:31:19,900 --> 00:31:21,970
+{\r译文字幕}嘿  布莫 这里发生了什么
+{\r原文字幕}Hey, Boomer. What is going on around here?
+
+464
+00:31:21,970 --> 00:31:23,970
+{\r译文字幕}这看起来像什么  我们在打仗啊
+{\r原文字幕}What does it look like? We're at war!
+
+465
+00:31:25,040 --> 00:31:27,640
+{\r译文字幕}打战  神奇乐园中是没有战争的
+{\r原文字幕}War? There's no fighting in Wonderland.
+
+466
+00:31:27,640 --> 00:31:28,390
+{\r译文字幕}待着别动
+{\r原文字幕}Stay put.
+
+467
+00:31:28,390 --> 00:31:31,110
+{\r译文字幕}如果被他们发现  他们会
+{\r原文字幕}Because if they see us, they will...
+
+468
+00:31:32,850 --> 00:31:34,150
+{\r译文字幕}自己救自己吧
+{\r原文字幕}Save yourself!
+
+469
+00:31:34,150 --> 00:31:34,620
+{\r译文字幕}他们就会怎样
+{\r原文字幕}They'll what?
+
+470
+00:31:34,620 --> 00:31:35,580
+{\r译文字幕}布莫  别说一半啊
+{\r原文字幕}Boomer, finish the sentence.
+
+471
+00:31:35,580 --> 00:31:36,850
+{\r译文字幕}他们就会怎样
+{\r原文字幕}They'll what?
+
+472
+00:31:46,590 --> 00:31:49,190
+{\r译文字幕}为什么他们在破坏乐园
+{\r原文字幕}Why are they destroying the park?
+
+473
+00:31:49,200 --> 00:31:50,930
+{\r译文字幕}各位  你们好呀
+{\r原文字幕}Hey, you guys!
+
+474
+00:31:50,930 --> 00:31:53,070
+{\r译文字幕}我在这里呀
+{\r原文字幕}Over here!
+
+475
+00:31:53,070 --> 00:31:55,370
+{\r译文字幕}放马过来吧
+{\r原文字幕}Dinner is served.
+
+476
+00:31:56,140 --> 00:31:58,170
+{\r译文字幕}神奇乐园  麻烦出现
+{\r原文字幕}Wonderland, we have a problem.
+
+477
+00:32:00,810 --> 00:32:02,740
+{\r译文字幕}史蒂夫  等一下
+{\r原文字幕}Steve, hold it.
+
+478
+00:32:02,740 --> 00:32:03,810
+{\r译文字幕}哦上天啊
+{\r原文字幕}Uh... Oh, dear.
+
+479
+00:32:05,150 --> 00:32:06,710
+{\r译文字幕}-坚持住  -我在坚持
+{\r原文字幕}- Hold it.  - I am holding it.
+
+480
+00:32:06,710 --> 00:32:09,050
+{\r译文字幕}我真的在坚持啊
+{\r原文字幕}I'm literally holding it.
+
+481
+00:32:09,050 --> 00:32:10,420
+{\r译文字幕}-坚持住  -天啊
+{\r原文字幕}- Hold it.  - Ahhh!
+
+482
+00:32:10,420 --> 00:32:13,790
+{\r译文字幕}不我不行了  我不干了我要溜了
+{\r原文字幕}Oh, no, I've dropped it! I've dropped it and I left it!
+
+483
+00:32:14,890 --> 00:32:16,860
+{\r译文字幕}我要离开这里
+{\r原文字幕}Uh, I'm out of here.
+
+484
+00:32:22,330 --> 00:32:24,360
+{\r译文字幕}格斯  库珀  给火箭泵油
+{\r原文字幕}Gus, Cooper, pump the rocket!
+
+485
+00:32:24,360 --> 00:32:26,570
+{\r译文字幕}我们要开始啦
+{\r原文字幕}We got to boom-shaka-boom!
+
+486
+00:32:26,570 --> 00:32:28,000
+{\r译文字幕}一二一二一二一二
+{\r原文字幕}Boom-shaka-boom! Boom-shaka-boom!
+
+487
+00:32:33,640 --> 00:32:36,980
+{\r译文字幕}锁定装载  倒数了伙计们
+{\r原文字幕}Locked and loaded. Countdown, guys!
+
+488
+00:32:36,980 --> 00:32:39,380
+{\r译文字幕}四  三
+{\r原文字幕}Four... Three...
+
+489
+00:32:39,380 --> 00:32:42,250
+{\r译文字幕}逃到安全的地方去呀  逃呀
+{\r原文字幕}Skipping to safety! Skipping to safety!
+
+490
+00:32:42,250 --> 00:32:44,650
+{\r译文字幕}我快要逃离危险啦
+{\r原文字幕}I'm almost out of danger!
+
+491
+00:32:44,650 --> 00:32:46,250
+{\r译文字幕}继续打泵  伙计们
+{\r原文字幕}Keep pumping, guys!
+
+492
+00:32:46,250 --> 00:32:48,450
+{\r译文字幕}一二一二一二一二
+{\r原文字幕}Boom-shaka-boom! Boom-shaka-boom!
+
+493
+00:32:48,460 --> 00:32:51,520
+{\r译文字幕}真可爱  但是太闹心了
+{\r原文字幕}So cute! But so naughty.
+
+494
+00:32:51,530 --> 00:32:52,630
+{\r译文字幕}系好安全带吧
+{\r原文字幕}Now buckle up,
+
+495
+00:32:52,630 --> 00:32:54,130
+{\r译文字幕}僵尸猩猩们
+{\r原文字幕}Chimpanzombies.
+
+496
+00:32:54,130 --> 00:32:55,330
+{\r译文字幕}一
+{\r原文字幕}one!
+
+497
+00:32:59,870 --> 00:33:01,440
+{\r译文字幕}我就是世界顶级的诱饵
+{\r原文字幕}World-class bait.
+
+498
+00:33:05,440 --> 00:33:09,210
+{\r译文字幕}这不是真的  我这是在做梦
+{\r原文字幕}This isn't really happening. I'm... I'm having a fever dream.
+
+499
+00:33:11,410 --> 00:33:12,950
+{\r译文字幕}啊我这里很敏感的
+{\r原文字幕}Ah, I'm sensitive there!
+
+500
+00:33:12,950 --> 00:33:14,380
+{\r译文字幕}快看那里  你看
+{\r原文字幕}Hey! Ow! Hey!
+
+501
+00:33:14,380 --> 00:33:15,310
+{\r译文字幕}去搜查一下  那个背包
+{\r原文字幕}Check it. Backpack!
+
+502
+00:33:15,310 --> 00:33:16,480
+{\r译文字幕}嘻嘻  我闻到零食的味道
+{\r原文字幕}Ooh, ooh, I smell treats!
+
+503
+00:33:16,480 --> 00:33:18,450
+{\r译文字幕}我的  我先说的
+{\r原文字幕}Dibs! I call dibs!
+
+504
+00:33:18,450 --> 00:33:21,550
+{\r译文字幕}嘿  那是我的  还给我
+{\r原文字幕}Hey! That's mine! Give it back! Whoo!
+
+505
+00:33:21,560 --> 00:33:24,620
+{\r译文字幕}耶宝贝  击掌  击两次
+{\r原文字幕}Boom, baby. Foot five! Foot ten! Oh, yeah!
+
+506
+00:33:24,630 --> 00:33:27,430
+{\r译文字幕}你丫的  你个混蛋
+{\r原文字幕}You son of a woodchip. Ow! Splinterface.
+
+507
+00:33:27,430 --> 00:33:29,830
+{\r译文字幕}我就只是来看一下  可以吧
+{\r原文字幕}Let's have a little lookie-loo, shall we?
+
+508
+00:33:29,830 --> 00:33:31,190
+{\r译文字幕}自我提醒一下
+{\r原文字幕}With a self-reminder
+
+509
+00:33:31,190 --> 00:33:34,500
+{\r译文字幕}这完全是侵犯别人隐私的行为
+{\r原文字幕}that this is an utter invasion of another's privacy.
+
+510
+00:33:34,500 --> 00:33:36,100
+{\r译文字幕}等一下  小可爱
+{\r原文字幕}Hold the roll, cutie-pie.
+
+511
+00:33:36,100 --> 00:33:37,870
+{\r译文字幕}啊  我投降
+{\r原文字幕}Ahhh! I surrender!
+
+512
+00:33:37,870 --> 00:33:40,710
+{\r译文字幕}脚下有锋利的物体  安全员已到现场
+{\r原文字幕}Sharp objects underfoot. Safety Officer onsite.
+
+513
+00:33:40,710 --> 00:33:42,580
+{\r译文字幕}你刚才是叫我小甜心吗  啊
+{\r原文字幕}Did you just call me cutie-pie? Ahhh!
+
+514
+00:33:42,580 --> 00:33:44,780
+{\r译文字幕}僵尸猩猩把她抓了  是不是
+{\r原文字幕}The Chimpanzombies got her, didn't they?
+
+515
+00:33:44,780 --> 00:33:45,850
+{\r译文字幕}都是我的错
+{\r原文字幕}It's all my doing.
+
+516
+00:33:45,850 --> 00:33:49,580
+{\r译文字幕}都怪我有迟发性冬眠障碍
+{\r原文字幕}All thanks to a late-onset hibernation disorder.
+
+517
+00:33:51,090 --> 00:33:53,120
+{\r译文字幕}没事的  他们没有抓住我
+{\r原文字幕}Uh, it's okay. They didn't get me.
+
+518
+00:33:53,120 --> 00:33:56,190
+{\r译文字幕}哦  谢天谢地  否则我永远都
+{\r原文字幕}Oh, thank heavens! I couldn't have lived with my...
+
+519
+00:33:57,930 --> 00:34:00,330
+{\r译文字幕}等等  布莫从不睡觉
+{\r原文字幕}Wait, Boomer never sleeps.
+
+520
+00:34:00,330 --> 00:34:01,730
+{\r译文字幕}嘿  小心点
+{\r原文字幕}Hey, watch it!
+
+521
+00:34:01,730 --> 00:34:04,730
+{\r译文字幕}你们这是怎么了  你们看起来很
+{\r原文字幕}What happened to you guys? You're so...
+
+522
+00:34:04,730 --> 00:34:06,900
+{\r译文字幕}我觉得你想说的是可悲
+{\r原文字幕}I think the word you're looking for is "pathetic."
+
+523
+00:34:06,900 --> 00:34:09,640
+{\r译文字幕}-我可没这么说  -你没必要说
+{\r原文字幕}- I didn't say that. - Ugh, you didn't have to.
+
+524
+00:34:09,640 --> 00:34:12,040
+{\r译文字幕}你有名字吗  酷女孩
+{\r原文字幕}So, you got a name, haircut?
+
+525
+00:34:12,040 --> 00:34:13,440
+{\r译文字幕}-我是琼  -你好  琼
+{\r原文字幕}- I am June. - Hello, June.
+
+526
+00:34:13,440 --> 00:34:16,140
+{\r译文字幕}-我叫  -史蒂夫  我知道你是谁
+{\r原文字幕}- My name is... - Steve. I know who you are.
+
+527
+00:34:16,140 --> 00:34:17,340
+{\r译文字幕}你认识我们吗
+{\r原文字幕}You know who we are?
+
+528
+00:34:17,340 --> 00:34:19,480
+{\r译文字幕}我觉得不会有人记得我们  疼
+{\r原文字幕}I didn't think anybody still remembered. Ow!
+
+529
+00:34:19,480 --> 00:34:22,750
+{\r译文字幕}你们是神奇乐园里的奇迹
+{\r原文字幕}You guys are the wonder in Wonderland.
+
+530
+00:34:22,750 --> 00:34:24,880
+{\r译文字幕}起码曾经是
+{\r原文字幕}Or at least you were.
+
+531
+00:34:24,890 --> 00:34:27,090
+{\r译文字幕}这里发生了什么
+{\r原文字幕}What happened to this place?
+
+532
+00:34:27,090 --> 00:34:28,750
+{\r译文字幕}黑暗来袭
+{\r原文字幕}The Darkness happened.
+
+533
+00:34:28,760 --> 00:34:32,220
+{\r译文字幕}它是在齿轮秋千变慢的时候出现的
+{\r原文字幕}It came when Clockwork Swings began to slow.
+
+534
+00:34:32,230 --> 00:34:33,290
+{\r译文字幕}还带来了
+{\r原文字幕}And brought with it...
+
+535
+00:34:33,290 --> 00:34:35,090
+{\r译文字幕}好吧  把手放下来  甘道夫
+{\r原文字幕}All right, bring it down, Gandalf.
+
+536
+00:34:35,100 --> 00:34:37,160
+{\r译文字幕}哦  好的
+{\r原文字幕}Oh, right.
+
+537
+00:34:37,170 --> 00:34:39,030
+{\r译文字幕}好了  我们继续
+{\r原文字幕}Okay, here we go.
+
+538
+00:34:39,030 --> 00:34:42,170
+{\r译文字幕}那天和往常一样
+{\r原文字幕}It was a day just like any other here in Wonderland
+
+539
+00:34:42,170 --> 00:34:44,170
+{\r译文字幕}但奇怪的事情发生了
+{\r原文字幕}when the strangest thing happened.
+
+540
+00:34:44,170 --> 00:34:47,440
+{\r译文字幕}齿轮秋千  也就是乐园的核心
+{\r原文字幕}Clockwork Swings, the heart of the park,
+
+541
+00:34:47,440 --> 00:34:49,080
+{\r译文字幕}完全停止了运作
+{\r原文字幕}came to a dead stop.
+
+542
+00:34:52,180 --> 00:34:56,720
+{\r译文字幕}那是我们第一次见到它  黑暗.
+{\r原文字幕}And that's when we first saw it. The Darkness.
+
+543
+00:34:56,720 --> 00:34:57,970
+{\r译文字幕}随之而来的邪恶物质
+{\r原文字幕}It brought an evil
+
+544
+00:34:57,970 --> 00:35:00,350
+{\r译文字幕}把神奇猩猩玩偶
+{\r原文字幕}that transformed the WonderChimp dolls
+
+545
+00:35:00,350 --> 00:35:03,860
+{\r译文字幕}变成了一群僵尸猩猩
+{\r原文字幕}into an army of Chimpanzombies.
+
+546
+00:35:09,100 --> 00:35:12,830
+{\r译文字幕}从那以后僵尸猩猩每天都在打仗
+{\r原文字幕}Every day since, the Chimpanzombies have waged war,
+
+547
+00:35:12,830 --> 00:35:18,240
+{\r译文字幕}他们把乐园拆成碎片一块块喂给黑暗
+{\r原文字幕}tearing apart the park and feeding it piece by piece into the Darkness,
+
+548
+00:35:18,240 --> 00:35:20,740
+{\r译文字幕}乐园彻底消失了
+{\r原文字幕}never to be seen again.
+
+549
+00:35:20,740 --> 00:35:22,900
+{\r译文字幕}你们没有办法吗
+{\r原文字幕}There was nothing you could do?
+
+550
+00:35:22,900 --> 00:35:24,010
+{\r译文字幕}连皮纳特也束手无策吗
+{\r原文字幕}Not even Peanut?
+
+551
+00:35:24,010 --> 00:35:25,510
+{\r译文字幕}皮纳特在哪
+{\r原文字幕}Where is Peanut?
+
+552
+00:35:25,510 --> 00:35:27,140
+{\r译文字幕}他冒险独自离开
+{\r原文字幕}He ventured out on his own to try
+
+553
+00:35:27,140 --> 00:35:29,480
+{\r译文字幕}想要亲自重启齿轮秋千
+{\r原文字幕}and restart Clockwork Swings by hand.
+
+554
+00:35:29,480 --> 00:35:33,120
+{\r译文字幕}为什么他不施魔法
+{\r原文字幕}Then why didn't he use his magic?
+
+555
+00:35:33,120 --> 00:35:36,260
+{\r译文字幕}他只说重启齿轮秋千
+{\r原文字幕}He just said that he knew restarting Clockwork Swings
+
+556
+00:35:36,260 --> 00:35:40,660
+{\r译文字幕}是让神奇乐园起死回生的唯一方法
+{\r原文字幕}was the only way to bring the life back into Wonderland.
+
+557
+00:35:41,200 --> 00:35:42,260
+{\r译文字幕}但是
+{\r原文字幕}But...
+
+558
+00:35:49,900 --> 00:35:53,510
+{\r译文字幕}我们失去了重启齿轮秋千的希望
+{\r原文字幕}And we lost any hope of turning Clockwork Swings back on,
+
+559
+00:35:53,510 --> 00:35:56,840
+{\r译文字幕}再也见不到乐园恢复往日荣光的那天了
+{\r原文字幕}and one day restoring the park to all its former glory.
+
+560
+00:35:56,840 --> 00:35:59,510
+{\r译文字幕}-齿轮秋千  -你拿着的是什么
+{\r原文字幕}- Clockwork Swings. - What you got?
+
+561
+00:35:59,510 --> 00:36:01,780
+{\r译文字幕}这是  乐园的设计图吗
+{\r原文字幕}It's a blueprint... Of the park?
+
+562
+00:36:01,780 --> 00:36:04,380
+{\r译文字幕}像是墨菲特小姐把她的名字涂鸦在上面
+{\r原文字幕}Seems like Little Miss Muffet graffitied her name on it.
+
+563
+00:36:04,380 --> 00:36:05,550
+{\r译文字幕}这不是涂鸦
+{\r原文字幕}It's not graffiti.
+
+564
+00:36:05,550 --> 00:36:07,690
+{\r译文字幕}你怎么会有神奇乐园的设计图
+{\r原文字幕}How do you have a blueprint of Wonderland?
+
+565
+00:36:09,660 --> 00:36:13,590
+{\r译文字幕}我小时候和我妈妈创造了神奇乐园
+{\r原文字幕}My mom and I invented Wonderland when I was little,
+
+566
+00:36:13,590 --> 00:36:17,400
+{\r译文字幕}不知怎的  它变成真的了
+{\r原文字幕}and somehow it came to life.
+
+567
+00:36:19,600 --> 00:36:21,430
+{\r译文字幕}这真是最
+{\r原文字幕}That's got to be the most...
+
+568
+00:36:21,440 --> 00:36:25,000
+{\r译文字幕}棒的消息了
+{\r原文字幕}Splendiferous news ever!
+
+569
+00:36:25,010 --> 00:36:27,070
+{\r译文字幕}你为什么不去睡觉呢  布莫
+{\r原文字幕}Why don't you just go back to sleep, Boomer?
+
+570
+00:36:27,070 --> 00:36:28,640
+{\r译文字幕}不  我相信她的眼神
+{\r原文字幕}No, I believe it in her eyes.
+
+571
+00:36:28,640 --> 00:36:31,480
+{\r译文字幕}因为如果她真是神奇乐园的建造者
+{\r原文字幕}Because if she really is the creator of Wonderland,
+
+572
+00:36:31,480 --> 00:36:33,810
+{\r译文字幕}那她一定可以修好齿轮秋千
+{\r原文字幕}she can fix Clockwork Swings.
+
+573
+00:36:33,810 --> 00:36:35,180
+{\r译文字幕}额
+{\r原文字幕}Well...
+
+574
+00:36:35,180 --> 00:36:36,880
+{\r译文字幕}等等  这不是我们讨论的重点吧
+{\r原文字幕}Well, that is not where I thought this discourse was heading.
+
+575
+00:36:36,880 --> 00:36:39,350
+{\r译文字幕}我还以为你是一个
+{\r原文字幕}I was imagining that you were a...
+
+576
+00:36:39,350 --> 00:36:40,520
+{\r译文字幕}蜜蜂
+{\r原文字幕}Honeybee!
+
+577
+00:36:40,520 --> 00:36:42,350
+{\r译文字幕}我不是蜜蜂
+{\r原文字幕}Huh? I'm not a honeybee.
+
+578
+00:36:42,360 --> 00:36:43,420
+{\r译文字幕}-兔子  -什么
+{\r原文字幕}- Rabbit! - Huh?
+
+579
+00:36:43,420 --> 00:36:45,660
+{\r译文字幕}史蒂夫  别让我们丢脸
+{\r原文字幕}Steve, you're embarrassing the team.
+
+580
+00:36:45,660 --> 00:36:46,860
+{\r译文字幕}死亡
+{\r原文字幕}Death!
+
+581
+00:36:46,860 --> 00:36:49,860
+{\r译文字幕}我现在很疑惑什么是死亡兔子
+{\r原文字幕}I am so confused right now about what a Death Rabbit is.
+
+582
+00:36:51,770 --> 00:36:54,600
+{\r译文字幕}布莫  去保护安全屋  大家分散跑
+{\r原文字幕}Boomer, go secure the safe house. Guys, scatter!
+
+583
+00:36:59,040 --> 00:37:01,410
+{\r译文字幕}两人一组  我要葛蕾塔
+{\r原文字幕}Buddy system! I call Greta!
+
+584
+00:37:04,250 --> 00:37:06,750
+{\r译文字幕}算了算了  我要琼
+{\r原文字幕}Never mind! I call June!
+
+585
+00:37:08,450 --> 00:37:10,120
+{\r译文字幕}-我们必须离开这里  -说得好
+{\r原文字幕}- We got to get out of here. - Good plan.
+
+586
+00:37:10,120 --> 00:37:13,190
+{\r译文字幕}-快想  快想  -数到五我们就跑
+{\r原文字幕}- Think, June. Think, think, think. - We go in five.
+
+587
+00:37:13,190 --> 00:37:16,120
+{\r译文字幕}-那行不通  -收到  我数到三了
+{\r原文字幕}- That could never work. - Roger that. We run in three.
+
+588
+00:37:16,120 --> 00:37:17,660
+{\r译文字幕}那不可能行的通
+{\r原文字幕}That couldn't possibly work.
+
+589
+00:37:17,660 --> 00:37:21,900
+{\r译文字幕}然后我们跳  竭尽全力去跳
+{\r原文字幕}Then we skip. Skip like there's no tomorrow.
+
+590
+00:37:22,800 --> 00:37:24,800
+{\r译文字幕}欢迎来到神奇乐园
+{\r原文字幕}Welcome to Wonderland.
+
+591
+00:37:24,800 --> 00:37:28,630
+{\r译文字幕}跳到安全的地方  跳  啊
+{\r原文字幕}Skipping to safety. Skipping... Ahhh! Tra-la-la-la.
+
+592
+00:37:28,640 --> 00:37:31,040
+{\r译文字幕}你太棒啦  太太太棒啦
+{\r原文字幕}You're splendiferous! Splen-diddy-doo!
+
+593
+00:37:32,440 --> 00:37:33,910
+{\r译文字幕}啦啦啦啦啦啦啦啦
+{\r原文字幕}Tra-la-la-la-la-la-la-la...
+
+594
+00:37:35,710 --> 00:37:38,140
+{\r译文字幕}跳  跳到安全的地方
+{\r原文字幕}Skipping to, skipping to safety.
+
+595
+00:37:38,150 --> 00:37:40,480
+{\r译文字幕}动起来  快动起来  推动鱼鳍的时候
+{\r原文字幕}Please work, please work. When you push the fin,
+
+596
+00:37:40,480 --> 00:37:42,820
+{\r译文字幕}飞鱼就会复活
+{\r原文字幕}the fish'll come to life!
+
+597
+00:37:58,530 --> 00:38:02,700
+{\r译文字幕}小心  它在你身后
+{\r原文字幕}Look out! It's right behind you!
+
+598
+00:38:02,700 --> 00:38:04,710
+{\r译文字幕}你想停下来吃点冰淇淋吗
+{\r原文字幕}Would you like to stop for an ice cream?
+
+599
+00:38:04,710 --> 00:38:05,800
+{\r译文字幕}不  去出口  去出口
+{\r原文字幕}No! Exit, exit, exit!
+
+600
+00:38:05,810 --> 00:38:09,180
+{\r译文字幕}随时都要将手和腿放在车内
+{\r原文字幕}Keep your arms and legs inside the ride at all times!
+
+601
+00:38:10,510 --> 00:38:12,580
+{\r译文字幕}今天就别想了  僵尸猩猩
+{\r原文字幕}Not today, Chimpanzombies!
+
+602
+00:38:13,080 --> 00:38:14,550
+{\r译文字幕}回见啦
+{\r原文字幕}See you later.
+
+603
+00:38:14,550 --> 00:38:16,050
+{\r译文字幕}好的  很快回去
+{\r原文字幕}Okay. Come back soon.
+
+604
+00:38:19,690 --> 00:38:21,420
+{\r译文字幕}我怎么回来了
+{\r原文字幕}How did I get back here?
+
+605
+00:38:33,570 --> 00:38:35,070
+{\r译文字幕}你太棒啦
+{\r原文字幕}You're splendiferous!
+
+606
+00:38:35,070 --> 00:38:36,570
+{\r译文字幕}太太太棒啦
+{\r原文字幕}Splen-diddy-doo!
+
+607
+00:38:39,510 --> 00:38:43,110
+{\r译文字幕}坏僵尸猩猩  坏僵尸猩猩
+{\r原文字幕}Bad Chimpanzombies! Bad Chimpanzombies!
+
+608
+00:38:51,850 --> 00:38:53,490
+{\r译文字幕}我来了  琼
+{\r原文字幕}I got you, June!
+
+609
+00:39:06,300 --> 00:39:09,300
+{\r译文字幕}神奇乐园的每一天都无比奇妙
+{\r原文字幕}Every day is a wonderful day in Wonderland!
+
+610
+00:39:09,300 --> 00:39:11,400
+{\r译文字幕}哦  我的尾巴
+{\r原文字幕}Oh, my tail.
+
+611
+00:39:11,410 --> 00:39:12,940
+{\r译文字幕}快点  快点
+{\r原文字幕}Come on, hurry!
+
+612
+00:39:18,380 --> 00:39:21,380
+{\r译文字幕}格斯  库珀  检查北侧西侧的电线
+{\r原文字幕}Gus, Cooper, check the north and west perimeter wires.
+
+613
+00:39:21,380 --> 00:39:24,050
+{\r译文字幕}史蒂夫  上瞭望台确保我们没有被跟踪
+{\r原文字幕}Steve, get to lookout and make sure we weren't followed.
+
+614
+00:39:24,050 --> 00:39:25,380
+{\r译文字幕}收到
+{\r原文字幕}Roger that.
+
+615
+00:39:25,390 --> 00:39:26,720
+{\r译文字幕}你还活着
+{\r原文字幕}You're alive!
+
+616
+00:39:26,720 --> 00:39:29,120
+{\r译文字幕}我好担心  都不知道该怎么办
+{\r原文字幕}Oh, I was so worried, I didn't know what to do.
+
+617
+00:39:29,120 --> 00:39:31,020
+{\r译文字幕}我都开始烤棉花糖披萨饺了
+{\r原文字幕}I started baking marshmallow calzones.
+
+618
+00:39:31,030 --> 00:39:32,720
+{\r译文字幕}我们失去了欢乐世界  布莫
+{\r原文字幕}We lost Happy Happy Land, Boomer.
+
+619
+00:39:32,730 --> 00:39:33,730
+{\r译文字幕}是吗  天哪
+{\r原文字幕}We did? Oh, my.
+
+620
+00:39:33,730 --> 00:39:36,060
+{\r译文字幕}乐园已经被毁了大半
+{\r原文字幕}That's over half the park gone now.
+
+621
+00:39:36,060 --> 00:39:37,630
+{\r译文字幕}如果失去另一半要怎么办
+{\r原文字幕}What happens if we lose the other half?
+
+622
+00:39:37,630 --> 00:39:40,100
+{\r译文字幕}是啊  我们该怎么办
+{\r原文字幕}Yeah. What's gonna happen to us?
+
+623
+00:39:40,100 --> 00:39:41,130
+{\r译文字幕}我不知道
+{\r原文字幕}I don't know.
+
+624
+00:39:41,140 --> 00:39:43,670
+{\r译文字幕}-但至少我们还有披萨饺  -还有她
+{\r原文字幕}But at least we got calzones! And her.
+
+625
+00:39:43,670 --> 00:39:46,640
+{\r译文字幕}她  情况不对的时候她只知道往出口跑
+{\r原文字幕}Her? When the going got tough, she ran for the exits.
+
+626
+00:39:46,640 --> 00:39:48,170
+{\r译文字幕}我得回家找我爸爸
+{\r原文字幕}I need to get home to my dad.
+
+627
+00:39:48,180 --> 00:39:49,900
+{\r译文字幕}而且如果真是她创造了神奇乐园
+{\r原文字幕}And if she really did create Wonderland,
+
+628
+00:39:49,900 --> 00:39:50,840
+{\r译文字幕}鬼知道是什么意思
+{\r原文字幕}whatever that means,
+
+629
+00:39:50,850 --> 00:39:53,910
+{\r译文字幕}她就会知道那些出口已经不存在了
+{\r原文字幕}she would know that those exits aren't even exits anymore!
+
+630
+00:39:53,910 --> 00:39:56,550
+{\r译文字幕}但是我和妈妈创建乐园时它们还在的
+{\r原文字幕}Well, they were exits when my mom and I created the park.
+
+631
+00:39:56,550 --> 00:39:59,320
+{\r译文字幕}很抱歉  整个地方都乱套时我不在这里
+{\r原文字幕}Sorry I wasn't around when this whole place went haywire,
+
+632
+00:39:59,320 --> 00:40:03,190
+{\r译文字幕}而且标记为"出口"的出口也出不去了
+{\r原文字幕}and it became impossible to exit from an exit marked "exit."
+
+633
+00:40:03,190 --> 00:40:04,860
+{\r译文字幕}你们知道吗  "出口"这个动词
+{\r原文字幕}Did you know the verb "exit"
+
+634
+00:40:04,860 --> 00:40:06,600
+{\r译文字幕}源于拉丁动词"exeoexitum"
+{\r原文字幕}comes from the Latin verb exeoexitum
+
+635
+00:40:06,600 --> 00:40:07,810
+{\r译文字幕}而这个词又派生于希腊语动词
+{\r原文字幕}which derives from the Greek verb
+
+636
+00:40:07,810 --> 00:40:09,830
+{\r原文字幕}"eximexite"
+eximeexite?
+
+637
+00:40:13,700 --> 00:40:15,000
+{\r译文字幕}看来我打扰了
+{\r原文字幕}Seems I have backed
+
+638
+00:40:15,000 --> 00:40:17,140
+{\r译文字幕}你们的谈话
+{\r原文字幕}into the middle of something here.
+
+639
+00:40:17,140 --> 00:40:22,340
+{\r译文字幕}退出群聊  哔  哔  哔
+{\r原文字幕}Backing out! Beep, beep, beep...
+
+640
+00:40:23,110 --> 00:40:24,080
+{\r译文字幕}哔
+{\r原文字幕}Beep.
+
+641
+00:40:24,080 --> 00:40:26,980
+{\r译文字幕}好了  我们知道打开出口的唯一方法
+{\r原文字幕}Okay, so we know the only way to open the exits
+
+642
+00:40:26,980 --> 00:40:29,050
+{\r译文字幕}就是使乐园恢复运转
+{\r原文字幕}is to get the park back up and running.
+
+643
+00:40:29,050 --> 00:40:32,250
+{\r译文字幕}而让齿轮秋千重新转起来是关键
+{\r原文字幕}Turning on Clockwork Swings is the key to that.
+
+644
+00:40:32,250 --> 00:40:33,890
+{\r译文字幕}别让女孩抱太大希望  布莫
+{\r原文字幕}Oh, don't get the girl's hopes up, Boomer.
+
+645
+00:40:33,890 --> 00:40:35,590
+{\r译文字幕}没办法再运作起来了
+{\r原文字幕}There's no way to turn it back on.
+
+646
+00:40:35,590 --> 00:40:37,120
+{\r译文字幕}我们去看过很多次了
+{\r原文字幕}Yeah, we've been there a bunch of times.
+
+647
+00:40:37,130 --> 00:40:38,290
+{\r译文字幕}各个方面都检查了
+{\r原文字幕}Looked at it every which way.
+
+648
+00:40:38,290 --> 00:40:39,430
+{\r译文字幕}是我全方位检查
+{\r原文字幕}I looked at it every which way,
+
+649
+00:40:39,430 --> 00:40:40,530
+{\r译文字幕}他只是坐在那里吃木片薯片
+{\r原文字幕}he just sat there eating woodchips.
+
+650
+00:40:40,530 --> 00:40:42,260
+{\r译文字幕}-我那时候饿了  -他就坐在那里
+{\r原文字幕}- I was hungry! - He just sat there...
+
+651
+00:40:42,260 --> 00:40:44,530
+{\r译文字幕}-还困了  -在我全面检查的时候
+{\r原文字幕}- And sleepy. - while I looked at it every which way.
+
+652
+00:40:44,530 --> 00:40:45,730
+{\r译文字幕}但她还没看过
+{\r原文字幕}But she hasn't.
+
+653
+00:40:45,730 --> 00:40:48,900
+{\r译文字幕}如果她创造了它  她就能修好它
+{\r原文字幕}And if she created it, she can fix it. Uh...
+
+654
+00:40:48,900 --> 00:40:53,510
+{\r译文字幕}所以神奇乐园只是你想象虚构出来的吗
+{\r原文字幕}So Wonderland is just a figment of your imagination?
+
+655
+00:40:53,510 --> 00:40:55,140
+{\r译文字幕}可以这样说吧
+{\r原文字幕}Something like that.
+
+656
+00:40:55,140 --> 00:40:55,730
+{\r译文字幕}让我猜猜
+{\r原文字幕}And, uh, let me guess.
+
+657
+00:40:55,730 --> 00:40:58,880
+{\r译文字幕}也就是说我们都是你幻想出来的
+{\r原文字幕}That means we're all figments of your imagination.
+
+658
+00:40:58,880 --> 00:41:01,610
+{\r译文字幕}也不能完全说是
+{\r原文字幕}I wouldn't put it exactly like...
+
+659
+00:41:01,620 --> 00:41:03,950
+{\r译文字幕}哦  存在主义危机
+{\r原文字幕}Oh, an existential crisis!
+
+660
+00:41:03,950 --> 00:41:07,290
+{\r译文字幕}我就知道今天还缺了些什么
+{\r原文字幕}I knew this day was missing something.
+
+661
+00:41:07,290 --> 00:41:09,860
+{\r译文字幕}那你也能想象到要我们转动脑筋
+{\r原文字幕}Well, you can imagine this may be a little hard
+
+662
+00:41:09,860 --> 00:41:11,690
+{\r译文字幕}可能会有点困难
+{\r原文字幕}for us to wrap our heads around.
+
+663
+00:41:11,690 --> 00:41:16,360
+{\r译文字幕}也许你可以给我一些证据
+{\r原文字幕}Perhaps you will indulge me with some proof?
+
+664
+00:41:16,360 --> 00:41:17,860
+{\r译文字幕}好吧
+{\r原文字幕}Fine.
+
+665
+00:41:17,870 --> 00:41:20,300
+{\r译文字幕}每天早上史蒂夫都会喝早茶
+{\r原文字幕}Every morning, Steve drinks his morning tea,
+
+666
+00:41:20,300 --> 00:41:22,130
+{\r译文字幕}2.6克伯爵茶
+{\r原文字幕}2.6 grams of loose Earl Grey
+
+667
+00:41:22,140 --> 00:41:26,000
+{\r译文字幕}倒入250毫升86.1度的开水
+{\r原文字幕}to 250 milliliters of 86.1 degree water
+
+668
+00:41:26,010 --> 00:41:28,340
+{\r译文字幕}浸泡3分11秒
+{\r原文字幕}steeped for three minutes and 11 seconds
+
+669
+00:41:28,340 --> 00:41:32,110
+{\r译文字幕}再加上一点杏仁奶来完美点缀
+{\r原文字幕}and garnished to perfection with a spot of almond milk.
+
+670
+00:41:34,750 --> 00:41:37,820
+{\r译文字幕}看吧  琼万岁
+{\r原文字幕}See? All hail June!
+
+671
+00:41:37,820 --> 00:41:40,120
+{\r译文字幕}好吧  先别高兴得太早
+{\r原文字幕}Yeah, let's not get carried away.
+
+672
+00:41:40,120 --> 00:41:44,020
+{\r译文字幕}不过或许我能修好齿轮秋千
+{\r原文字幕}But I may be able to fix Clockwork Swings.
+
+673
+00:41:44,020 --> 00:41:46,530
+{\r译文字幕}-皮纳特本来是我们的纽带  -纽带
+{\r原文字幕}- Peanut was the glue around here. - The glue?
+
+674
+00:41:46,530 --> 00:41:49,030
+{\r译文字幕}纽带  他让我们大家聚在了一起
+{\r原文字幕}The glue. He kept us all together.
+
+675
+00:41:49,960 --> 00:41:52,330
+{\r译文字幕}看  大伙们都经历了太多
+{\r原文字幕}Look, these guys have suffered a lot already.
+
+676
+00:41:52,330 --> 00:41:53,930
+{\r译文字幕}我愿意听从你的指挥
+{\r原文字幕}And I'm willing to follow your lead here,
+
+677
+00:41:53,930 --> 00:41:55,900
+{\r译文字幕}因为我实在没有办法了
+{\r原文字幕}because I'm running out of options.
+
+678
+00:41:55,900 --> 00:41:58,870
+{\r译文字幕}但你必须向我保证真的还有机会
+{\r原文字幕}But you've got to promise me there's a real shot at this.
+
+679
+00:41:58,870 --> 00:42:02,710
+{\r译文字幕}所以请告诉我  我们的指望不会落空
+{\r原文字幕}So tell me that you're not serving up false hope.
+
+680
+00:42:02,710 --> 00:42:06,850
+{\r译文字幕}我很擅长修理东西
+{\r原文字幕}Well, I was pretty good at fixing things.
+
+681
+00:42:06,850 --> 00:42:10,490
+{\r译文字幕}但你得带我到齿轮秋千那里去
+{\r原文字幕}But you got to get me to Clockwork Swings.
+
+682
+00:42:24,030 --> 00:42:27,270
+{\r译文字幕}哇  大奇迹
+{\r原文字幕}Wow, The Grand Wonder.
+
+683
+00:42:27,270 --> 00:42:30,070
+{\r译文字幕}比我想象的还要大
+{\r原文字幕}It's even bigger than I thought.
+
+684
+00:42:32,410 --> 00:42:35,710
+{\r译文字幕}别慢吞吞的  钟表秋千就在前面
+{\r原文字幕}Come on, slowpokes. The Clocks are just up ahead.
+
+685
+00:42:35,710 --> 00:42:37,710
+{\r译文字幕}你是怎么做到的  琼
+{\r原文字幕}Oh, how did you do it, June? Huh?
+
+686
+00:42:37,710 --> 00:42:41,350
+{\r译文字幕}能创造出这么一个不在人间行走的女子
+{\r原文字幕}To create such a woman who doesn't walk through this world.
+
+687
+00:42:41,350 --> 00:42:42,850
+{\r译文字幕}她是用滑的
+{\r原文字幕}She glides!
+
+688
+00:42:44,990 --> 00:42:50,020
+{\r译文字幕}那丝滑的红发  那勾人的獠牙
+{\r原文字幕}That silken red hair. Those come-hither tusks.
+
+689
+00:42:50,020 --> 00:42:52,020
+{\r译文字幕}-葛蕾塔  -你想干什么
+{\r原文字幕}- Greta? - Oh, what do you want?
+
+690
+00:42:52,030 --> 00:42:54,760
+{\r译文字幕}不  没什么  点名而已
+{\r原文字幕}What? No, nothing here. Just a bit of a roll call.
+
+691
+00:42:54,760 --> 00:42:56,830
+{\r译文字幕}史蒂夫  到
+{\r原文字幕}"Steve!" "Present and accounted for."
+
+692
+00:42:56,830 --> 00:42:58,700
+{\r译文字幕}点名结束
+{\r原文字幕}Roll call complete.
+
+693
+00:43:08,540 --> 00:43:10,480
+{\r译文字幕}哦  天哪
+{\r原文字幕}Oh, boy.
+
+694
+00:43:10,480 --> 00:43:14,520
+{\r译文字幕}这比我们做的模型还要复杂一点
+{\r原文字幕}This is a little more complicated than the model we made.
+
+695
+00:43:21,990 --> 00:43:25,660
+{\r译文字幕}看起来液压系统是密封的
+{\r原文字幕}The hydraulics seem to be sealed and stuff.
+
+696
+00:43:25,660 --> 00:43:28,060
+{\r译文字幕}没有泄漏什么的  嗯
+{\r原文字幕}No leaks or anything, um...
+
+697
+00:43:28,060 --> 00:43:30,860
+{\r译文字幕}肯定是某个齿轮卡住了
+{\r原文字幕}It must be that one of the gears is jammed.
+
+698
+00:43:30,860 --> 00:43:33,070
+{\r译文字幕}找到了  她正在修理
+{\r原文字幕}Eureka! She's fixing it.
+
+699
+00:43:33,070 --> 00:43:35,170
+{\r译文字幕}我们在见证一个奇迹
+{\r原文字幕}We're witnessing a miracle.
+
+700
+00:43:35,170 --> 00:43:38,810
+{\r译文字幕}更像是在诊断  说不上是奇迹
+{\r原文字幕}More of a diagnosis and certainly not a miracle,
+
+701
+00:43:38,810 --> 00:43:42,740
+{\r译文字幕}但这确实是比以往还要好的解决方案
+{\r原文字幕}but it does bring us closer to a solution than we've ever been before.
+
+702
+00:43:45,210 --> 00:43:48,590
+{\r译文字幕}如果你是想发表意见
+{\r原文字幕}If you're trying to make a statement,
+
+703
+00:43:48,590 --> 00:43:50,420
+{\r译文字幕}那就来吧  大块头
+{\r原文字幕}have at me, big guy.
+
+704
+00:43:51,220 --> 00:43:52,650
+{\r译文字幕}必须让这个设备运行起来
+{\r原文字幕}Got to get this ride started.
+
+705
+00:43:52,650 --> 00:43:55,890
+{\r译文字幕}我知道你有答案  请告诉我答案
+{\r原文字幕}I know you have the answer. Please tell me the answer!
+
+706
+00:43:55,890 --> 00:43:58,890
+{\r译文字幕}-上面写了什么  -我看不见
+{\r原文字幕}- Well, what does it say? - I can't see!
+
+707
+00:43:58,890 --> 00:44:00,790
+{\r译文字幕}被我的名字挡住了
+{\r原文字幕}My name's covering it.
+
+708
+00:44:00,800 --> 00:44:03,430
+{\r译文字幕}什么鬼啊  太不优秀了
+{\r原文字幕}What the chuck? Unsplendiferous.
+
+709
+00:44:03,430 --> 00:44:05,770
+{\r译文字幕}不用担心  实施B计划
+{\r原文字幕}Not to worry! Plan B it is.
+
+710
+00:44:05,770 --> 00:44:07,730
+{\r译文字幕}那到底是什么呢
+{\r原文字幕}Which is what, exactly?
+
+711
+00:44:07,740 --> 00:44:10,370
+{\r译文字幕}妈妈  为什么你要写在这上面
+{\r原文字幕}Mom, why did you write on this?
+
+712
+00:44:10,370 --> 00:44:11,800
+{\r译文字幕}以前上面有什么
+{\r原文字幕}What used to be there?
+
+713
+00:44:11,810 --> 00:44:13,640
+{\r译文字幕}我不知道  但我得搞清楚
+{\r原文字幕}I don't know. I got to figure this out.
+
+714
+00:44:13,640 --> 00:44:14,990
+{\r译文字幕}别跟我说这种话  琼
+{\r原文字幕}Don't do this to me, June.
+
+715
+00:44:14,990 --> 00:44:16,540
+{\r译文字幕}这不是你的设计图吗
+{\r原文字幕}It's your blueprint, isn't it?
+
+716
+00:44:16,540 --> 00:44:18,810
+{\r译文字幕}是啊  但我已经好久
+{\r原文字幕}Yeah. But it's been a while since I...
+
+717
+00:44:18,810 --> 00:44:22,180
+{\r译文字幕}如果是多项选择题  我能多答对几个
+{\r原文字幕}If the test were multiple choice, I'd do much better.
+
+718
+00:44:22,180 --> 00:44:24,380
+{\r译文字幕}躲开找掩护  躲开找掩护
+{\r原文字幕}Duck and cover! Duck and cover!
+
+719
+00:44:25,790 --> 00:44:27,320
+{\r译文字幕}嘿  快回来
+{\r原文字幕}Hey, get back here! Whoa!
+
+720
+00:44:27,320 --> 00:44:30,320
+{\r译文字幕}-我抓到了  -不  是我抓到了
+{\r原文字幕}- I got it!  - No, I got it.
+
+721
+00:44:30,320 --> 00:44:32,160
+{\r译文字幕}我们需要那块设计图
+{\r原文字幕}We need that blueprint!
+
+722
+00:44:32,160 --> 00:44:33,190
+{\r译文字幕}库珀  快抓住它
+{\r原文字幕}Get it, Coop!
+
+723
+00:44:33,190 --> 00:44:36,530
+{\r译文字幕}这一点都不好玩  布莫  天哪…
+{\r原文字幕}This is not fun. Boomer, for goodness...
+
+724
+00:44:41,200 --> 00:44:45,410
+{\r译文字幕}不  别过去  烟花瀑布是死亡陷阱
+{\r原文字幕}No! No, stop! Fireworks Falls is a death trap!
+
+725
+00:44:45,670 --> 00:44:47,470
+{\r译文字幕}滚开
+{\r原文字幕}Get off.
+
+726
+00:44:47,480 --> 00:44:49,210
+{\r译文字幕}我说停下
+{\r原文字幕}Stand down, I say!
+
+727
+00:44:54,110 --> 00:44:55,680
+{\r译文字幕}必须把它拿回来  那个不能丢
+{\r原文字幕}We have to get it! We can't lose it.
+
+728
+00:44:55,680 --> 00:44:57,040
+{\r译文字幕}把我扔过去  我去拿
+{\r原文字幕}Throw me! I'll get it!
+
+729
+00:44:57,040 --> 00:44:57,880
+{\r译文字幕}不  扔我过去
+{\r原文字幕}No, throw me!
+
+730
+00:44:59,950 --> 00:45:01,690
+{\r译文字幕}-不  这是我的主意  -哦天哪
+{\r原文字幕}- No, it was my idea! - Oh, gosh.
+
+731
+00:45:01,690 --> 00:45:04,560
+{\r译文字幕}我抓到了  是我的  你戳我眼睛了
+{\r原文字幕}I got it, I got it! Mine! You poked me in the eye!
+
+732
+00:45:05,530 --> 00:45:07,230
+{\r译文字幕}都怪你  为什么总是怪我
+{\r原文字幕}Your fault. Why is it always my fault?
+
+733
+00:45:07,230 --> 00:45:09,760
+{\r译文字幕}你们玩我呢吧
+{\r原文字幕}You've got to be kidding me!
+
+734
+00:45:09,760 --> 00:45:12,430
+{\r译文字幕}够了
+{\r原文字幕}Enough!
+
+735
+00:45:12,430 --> 00:45:15,600
+{\r译文字幕}我命令你们离开这个平台
+{\r原文字幕}I command you to remove yourself from this platform!
+
+736
+00:45:15,600 --> 00:45:19,970
+{\r译文字幕}我受够了你们这几个月来一直胡闹
+{\r原文字幕}I have been putting up with this reckless abandon for months on end,
+
+737
+00:45:19,970 --> 00:45:23,070
+{\r译文字幕}我的灵魂受到了侵蚀
+{\r原文字幕}and it is chipping away at my soul.
+
+738
+00:45:23,080 --> 00:45:25,550
+{\r译文字幕}我太累了…
+{\r原文字幕}I'm so very tired...
+
+739
+00:45:25,550 --> 00:45:27,410
+{\r译文字幕}那是什么声音
+{\r原文字幕}What is that sound?
+
+740
+00:45:29,850 --> 00:45:31,920
+{\r译文字幕}哦  不
+{\r原文字幕}Oh, no.
+
+741
+00:45:31,920 --> 00:45:33,420
+{\r译文字幕}哦  我的老天鹅
+{\r原文字幕}Oh, deary me.
+
+742
+00:45:36,390 --> 00:45:40,090
+{\r译文字幕}不要慌  我们到高地去
+{\r原文字幕}Okay, fear not. We simply must reach higher ground.
+
+743
+00:45:40,090 --> 00:45:44,060
+{\r译文字幕}高处都是一心想让我们死的密探
+{\r原文字幕}Ahhh! Which is teeming with agent provocateurs bent on our demise!
+
+744
+00:45:44,060 --> 00:45:46,000
+{\r译文字幕}停  前往神奇乐园
+{\r原文字幕}Stop, drop and roll to Wonderland!
+
+745
+00:45:46,000 --> 00:45:47,800
+{\r译文字幕}点火  点火  点火  点火  点火
+{\r原文字幕}Fire! Fire! Fire! Fire! Fire! Fire! Fire!
+
+746
+00:45:53,610 --> 00:45:54,610
+{\r译文字幕}快跑
+{\r原文字幕}Run!
+
+747
+00:45:55,380 --> 00:45:57,040
+{\r译文字幕}大家各自逃命去
+{\r原文字幕}Every man for himself!
+
+748
+00:46:17,300 --> 00:46:19,700
+{\r译文字幕}-用你背上的刺  史蒂夫  -有道理
+{\r原文字幕}- Use your quills, Steve! - Quite right.
+
+749
+00:46:22,900 --> 00:46:24,440
+{\r译文字幕}没错  我就知道
+{\r原文字幕}Yeah, of course.
+
+750
+00:46:27,780 --> 00:46:29,070
+{\r译文字幕}大家还好吗
+{\r原文字幕}Everyone okay?
+
+751
+00:46:29,080 --> 00:46:30,910
+{\r译文字幕}等等  琼呢
+{\r原文字幕}Wait, where's June?
+
+752
+00:46:30,910 --> 00:46:34,010
+{\r译文字幕}-呃  在那儿  -哦不
+{\r原文字幕}- Uh, there. - Oh, no.
+
+753
+00:46:34,010 --> 00:46:36,310
+{\r译文字幕}坚持住  琼  你会没事的
+{\r原文字幕}Hold on, June! You'll be okay!
+
+754
+00:46:36,320 --> 00:46:38,190
+{\r译文字幕}你说起来容易
+{\r原文字幕}Easy for you to say.
+
+755
+00:46:50,670 --> 00:46:52,130
+{\r译文字幕}救命
+{\r原文字幕}Help!
+
+756
+00:46:56,200 --> 00:46:57,810
+{\r译文字幕}谢谢  布莫
+{\r原文字幕}Thanks, Boomer!
+
+757
+00:47:25,130 --> 00:47:26,930
+{\r译文字幕}-你做到了  -干得漂亮
+{\r原文字幕}- You did it! - Well done!
+
+758
+00:47:26,940 --> 00:47:29,300
+{\r译文字幕}我在桥上与你们会和
+{\r原文字幕}Meet me at the bridge!
+
+759
+00:47:33,740 --> 00:47:35,540
+{\r译文字幕}也许不会
+{\r原文字幕}Or not.
+
+760
+00:47:42,750 --> 00:47:44,580
+{\r译文字幕}不用再这么做了
+{\r原文字幕}Don't need to do that again.
+
+761
+00:47:59,770 --> 00:48:01,600
+{\r译文字幕}零重力空间
+{\r原文字幕}Zero-G Land.
+
+762
+00:48:25,430 --> 00:48:27,160
+{\r译文字幕}皮纳特
+{\r原文字幕}Peanut?
+
+763
+00:48:27,160 --> 00:48:29,830
+{\r译文字幕}哦  天哪  嘿  皮纳特
+{\r原文字幕}Oh, my gosh! Hey, Peanut!
+
+764
+00:48:32,030 --> 00:48:33,370
+{\r译文字幕}你在哪
+{\r原文字幕}Where did you...
+
+765
+00:48:33,370 --> 00:48:35,770
+{\r译文字幕}-你在做什么  -我就知道你还活着
+{\r原文字幕}- What are you doing? - You're alive! I knew it!
+
+766
+00:48:35,770 --> 00:48:38,640
+{\r译文字幕}-你是谁  -葛蕾塔和布莫的朋友
+{\r原文字幕}- Who are you? - A friend of Greta and Boomer.
+
+767
+00:48:38,640 --> 00:48:39,780
+{\r译文字幕}事实上  每个人的朋友
+{\r原文字幕}Actually, everyone.
+
+768
+00:48:39,780 --> 00:48:42,110
+{\r译文字幕}他们肯定很高兴  我们去找他们吧
+{\r原文字幕}They're gonna be so happy. Let's go find them!
+
+769
+00:48:42,110 --> 00:48:42,950
+{\r译文字幕}不  不  不
+{\r原文字幕}No, no, no, no.
+
+770
+00:48:42,950 --> 00:48:45,810
+{\r译文字幕}快走吧  我在烟花瀑布和他们走丢了
+{\r原文字幕}Come on, I lost them at Fireworks Falls.
+
+771
+00:48:45,810 --> 00:48:47,910
+{\r译文字幕}皮纳特  你怎么了
+{\r原文字幕}Peanut, what happened to you?
+
+772
+00:48:47,920 --> 00:48:51,550
+{\r译文字幕}什么我怎么了  僵尸猩猩把我抓走了
+{\r原文字幕}What do you mean, what happened to me? The Chimpanzombies had me.
+
+773
+00:48:51,550 --> 00:48:54,150
+{\r译文字幕}然后我逃了出来  跑到了这里
+{\r原文字幕}I was able to escape, and I made it up here.
+
+774
+00:48:54,150 --> 00:48:57,290
+{\r译文字幕}-然后现在你  -现在我在整理糖果
+{\r原文字幕}- And now you're... - And now I'm sorting the candy.
+
+775
+00:48:57,290 --> 00:49:00,960
+{\r译文字幕}我刚到的时候这儿真是一团糟
+{\r原文字幕}It was a mess when I got here.
+
+776
+00:49:00,960 --> 00:49:02,090
+{\r译文字幕}相信我
+{\r原文字幕}Believe me.
+
+777
+00:49:02,100 --> 00:49:03,530
+{\r译文字幕}我必须把蓝的归到一起
+{\r原文字幕}I had to put the blues with the blues,
+
+778
+00:49:03,530 --> 00:49:04,860
+{\r译文字幕}把绿的归到一起
+{\r原文字幕}and the greens with the greens...
+
+779
+00:49:04,870 --> 00:49:06,500
+{\r译文字幕}如果你害怕乐园
+{\r原文字幕}If you're scared of the park...
+
+780
+00:49:06,500 --> 00:49:08,800
+{\r译文字幕}我不害怕乐园  我只是
+{\r原文字幕}I'm not scared of the park. It's just...
+
+781
+00:49:08,800 --> 00:49:10,400
+{\r译文字幕}这里很安全
+{\r原文字幕}It's safe in here.
+
+782
+00:49:10,400 --> 00:49:13,370
+{\r译文字幕}-但你一个人  -在这里我很安全
+{\r原文字幕}- But you're alone. - Where nothing can hurt me.
+
+783
+00:49:13,370 --> 00:49:16,080
+{\r译文字幕}好吧  但你总不能一辈子呆在这里
+{\r原文字幕}Well, you can't stay in here forever.
+
+784
+00:49:16,080 --> 00:49:17,610
+{\r译文字幕}谁说不行
+{\r原文字幕}Says who?
+
+785
+00:49:17,610 --> 00:49:19,450
+{\r译文字幕}这种事又没有规定
+{\r原文字幕}There's no rules for something like this.
+
+786
+00:49:19,450 --> 00:49:22,550
+{\r译文字幕}我知道这怎么用  你只要挥动马克笔
+{\r原文字幕}I know how this works. You just wave your marker.
+
+787
+00:49:23,550 --> 00:49:25,480
+{\r译文字幕}我也希望它还能用
+{\r原文字幕}I wish it still worked that way.
+
+788
+00:49:25,490 --> 00:49:28,650
+{\r译文字幕}但你是了不起的皮纳特
+{\r原文字幕}But you're Peanut the Splendiferous.
+
+789
+00:49:28,660 --> 00:49:31,290
+{\r译文字幕}了不起  对  以前是
+{\r原文字幕}Splendiferous. Yeah, I used to be.
+
+790
+00:49:31,290 --> 00:49:34,730
+{\r译文字幕}神奇乐园的一切都是你创造的啊
+{\r原文字幕}All these amazing things in Wonderland came from you.
+
+791
+00:49:34,730 --> 00:49:36,360
+{\r译文字幕}那都是假的
+{\r原文字幕}That is a lie.
+
+792
+00:49:37,000 --> 00:49:39,230
+{\r译文字幕}我只是个传声筒
+{\r原文字幕}I was just the middleman.
+
+793
+00:49:39,230 --> 00:49:43,400
+{\r译文字幕}所有的想法  灵感  都来自
+{\r原文字幕}All the ideas, the inspiration, it came from...
+
+794
+00:49:43,400 --> 00:49:47,210
+{\r译文字幕}在你耳边低语的声音
+{\r原文字幕}A voice whispering in your ear.
+
+795
+00:49:47,210 --> 00:49:49,210
+{\r译文字幕}女人的声音
+{\r原文字幕}A woman's voice.
+
+796
+00:49:49,210 --> 00:49:51,780
+{\r译文字幕}你怎么知道的  我从未告诉过任何人
+{\r原文字幕}How do you know about that? I never told anyone.
+
+797
+00:49:52,350 --> 00:49:54,710
+{\r译文字幕}那不重要
+{\r原文字幕}It doesn't matter.
+
+798
+00:49:54,720 --> 00:49:56,520
+{\r译文字幕}而不久前
+{\r原文字幕}And not too long ago...
+
+799
+00:49:56,520 --> 00:49:59,890
+{\r译文字幕}她的声音就
+{\r原文字幕}The sound of her voice, it just...
+
+800
+00:49:59,890 --> 00:50:01,450
+{\r译文字幕}消失了
+{\r原文字幕}went away.
+
+801
+00:50:01,460 --> 00:50:04,690
+{\r译文字幕}然后黑暗开始了
+{\r原文字幕}And then the Darkness took over.
+
+802
+00:50:04,690 --> 00:50:08,030
+{\r译文字幕}我猜不管她是谁  她都把我忘了
+{\r原文字幕}I guess whoever she was, she forgot about me.
+
+803
+00:50:08,030 --> 00:50:09,360
+{\r译文字幕}可我一直在等
+{\r原文字幕}I kept waiting.
+
+804
+00:50:09,360 --> 00:50:10,560
+{\r译文字幕}我一直希望她能够回来
+{\r原文字幕}I kept hoping she would come back
+
+805
+00:50:10,570 --> 00:50:12,000
+{\r译文字幕}助我对抗黑暗
+{\r原文字幕}to help me fight against the Darkness,
+
+806
+00:50:12,000 --> 00:50:13,970
+{\r译文字幕}但我感到太
+{\r原文字幕}but I just felt so...
+
+807
+00:50:14,230 --> 00:50:15,770
+{\r译文字幕}孤单了
+{\r原文字幕}Alone.
+
+808
+00:50:29,420 --> 00:50:31,720
+{\r译文字幕}皮纳特  有件事我要告诉你
+{\r原文字幕}Peanut, there's something I need to tell...
+
+809
+00:50:31,720 --> 00:50:34,790
+{\r译文字幕}-别嘘我  这很重要  -我们得走了
+{\r原文字幕}- Don't shush me. This is important. - We have to go!
+
+810
+00:50:39,260 --> 00:50:40,030
+{\r译文字幕}他们找到我们了
+{\r原文字幕}They found us.
+
+811
+00:50:40,030 --> 00:50:41,500
+{\r译文字幕}他们一定是跟着你来的
+{\r原文字幕}They must have followed you in.
+
+812
+00:50:43,200 --> 00:50:44,900
+{\r译文字幕}我们得走了  立刻
+{\r原文字幕}We need to move now!
+
+813
+00:50:47,200 --> 00:50:48,600
+{\r译文字幕}你的记号笔
+{\r原文字幕}Your marker!
+
+814
+00:50:48,600 --> 00:50:50,670
+{\r译文字幕}-别管了  那笔没用了  -不是的
+{\r原文字幕}- Leave it. It's worthless! - No, it's not.
+
+815
+00:50:52,710 --> 00:50:54,070
+{\r译文字幕}当心
+{\r原文字幕}Look out!
+
+816
+00:50:54,080 --> 00:50:56,310
+{\r译文字幕}-天啊  -坚持住
+{\r原文字幕}- Oh, my gosh. - Hold on!
+
+817
+00:51:18,730 --> 00:51:19,730
+{\r译文字幕}不
+{\r原文字幕}Oh, no!
+
+818
+00:51:21,000 --> 00:51:22,130
+{\r译文字幕}抓住你啦
+{\r原文字幕}Gotcha!
+
+819
+00:51:24,240 --> 00:51:25,500
+{\r译文字幕}没有出口
+{\r原文字幕}There's no way out.
+
+820
+00:51:29,410 --> 00:51:31,080
+{\r译文字幕}你走那边
+{\r原文字幕}There is for you.
+
+821
+00:51:39,820 --> 00:51:41,490
+{\r译文字幕}琼  快走
+{\r原文字幕}June, go!
+
+822
+00:51:52,970 --> 00:51:54,040
+{\r译文字幕}有人吗
+{\r原文字幕}Guys?
+
+823
+00:51:55,170 --> 00:51:58,100
+{\r译文字幕}有人吗  布莫  葛蕾塔
+{\r原文字幕}Guys? Boomer? Greta?
+
+824
+00:51:58,110 --> 00:51:59,840
+{\r译文字幕}琼  你在哪
+{\r原文字幕}June! Where are you?
+
+825
+00:51:59,840 --> 00:52:00,970
+{\r译文字幕}我在这
+{\r原文字幕}Over here!
+
+826
+00:52:00,980 --> 00:52:02,890
+{\r译文字幕}我们到处找你
+{\r原文字幕}We've been looking all over for you.
+
+827
+00:52:02,890 --> 00:52:03,810
+{\r译文字幕}-我找到皮纳特了  -什么
+{\r原文字幕}- I found Peanut. - What?
+
+828
+00:52:03,810 --> 00:52:06,410
+{\r译文字幕}他躲在零重力区  他还活着
+{\r原文字幕}He was hiding in Zero-G Land. He's alive.
+
+829
+00:52:06,410 --> 00:52:07,950
+{\r译文字幕}-皮纳特还活着啊  -太棒了
+{\r原文字幕}Peanut's alive? How brilliant!
+
+830
+00:52:07,950 --> 00:52:09,720
+{\r译文字幕}但他被僵尸猩猩抓走了
+{\r原文字幕}But he was taken by the Chimpanzombies.
+
+831
+00:52:09,720 --> 00:52:11,680
+{\r译文字幕}他们把他抓去黑暗里了
+{\r原文字幕}They're carrying him to the Darkness!
+
+832
+00:52:11,690 --> 00:52:12,800
+{\r译文字幕}那我们去找他吧
+{\r原文字幕}Then let's go get him!
+
+833
+00:52:12,810 --> 00:52:14,520
+{\r译文字幕}但是我们要先把桥修好
+{\r原文字幕}But we need to rebuild that bridge.
+
+834
+00:52:14,520 --> 00:52:16,990
+{\r译文字幕}我们可以用旋转木马的支撑柱建桥
+{\r原文字幕}We could use the support posts of the old carousel.
+
+835
+00:52:16,990 --> 00:52:17,960
+{\r译文字幕}那些柱子太不结实了
+{\r原文字幕}They're too rickety.
+
+836
+00:52:17,960 --> 00:52:19,830
+{\r译文字幕}这点子很好  还有什么能用的
+{\r原文字幕}But it's the right idea. What else can we use?
+
+837
+00:52:19,830 --> 00:52:21,230
+{\r译文字幕}要快点想
+{\r原文字幕}Got to think fast.
+
+838
+00:52:21,230 --> 00:52:21,580
+{\r译文字幕}万一皮纳特有什么三长两短
+{\r原文字幕}If something bad were to happen to Peanut,
+
+839
+00:52:21,790 --> 00:52:23,530
+{\r译文字幕}我不能原谅我自己
+{\r原文字幕}I couldn't live with myself.
+
+840
+00:52:23,530 --> 00:52:24,930
+{\r译文字幕}等等  你说什么
+{\r原文字幕}Wait, wait, wait. What do you mean?
+
+841
+00:52:24,930 --> 00:52:27,400
+{\r译文字幕}都是我的错
+{\r原文字幕}It's all my fault.
+
+842
+00:52:27,400 --> 00:52:29,000
+{\r译文字幕}你做错什么了
+{\r原文字幕}What's all your fault?
+
+843
+00:52:29,000 --> 00:52:31,540
+{\r译文字幕}黑暗
+{\r原文字幕}The Darkness.
+
+844
+00:52:31,540 --> 00:52:34,810
+{\r译文字幕}我想可能是我创造出来的
+{\r原文字幕}I think maybe I did create it.
+
+845
+00:52:34,810 --> 00:52:37,580
+{\r译文字幕}我不是故意的  但应该就是我干的
+{\r原文字幕}I didn't mean to! But I think I did it.
+
+846
+00:52:37,580 --> 00:52:39,710
+{\r译文字幕}你是说你创造了黑暗吗
+{\r原文字幕}You created the Darkness?
+
+847
+00:52:40,210 --> 00:52:41,610
+{\r译文字幕}我不明白
+{\r原文字幕}I don't understand.
+
+848
+00:52:41,620 --> 00:52:43,940
+{\r译文字幕}如果你建造了神奇乐园
+{\r原文字幕}If you created Wonderland,
+
+849
+00:52:43,950 --> 00:52:46,220
+{\r译文字幕}为什么还要摧毁它呢
+{\r原文字幕}why would you want to destroy it?
+
+850
+00:52:46,220 --> 00:52:48,690
+{\r译文字幕}我不是故意的  我那时很害怕
+{\r原文字幕}It wasn't on purpose. I was afraid.
+
+851
+00:52:48,690 --> 00:52:51,390
+{\r译文字幕}结果黑暗占据了上风
+{\r原文字幕}The Darkness took over.
+
+852
+00:52:51,390 --> 00:52:55,900
+{\r译文字幕}我试过  只是我不再关心乐园了
+{\r原文字幕}I tried, but I just stopped caring about the park.
+
+853
+00:52:55,900 --> 00:52:58,460
+{\r译文字幕}不过没关系  我们还可以挽回
+{\r原文字幕}Anyway, it doesn't matter. We can fix it.
+
+854
+00:52:58,470 --> 00:53:00,270
+{\r译文字幕}用这个
+{\r原文字幕}With this!
+
+855
+00:53:00,270 --> 00:53:01,830
+{\r译文字幕}只要我们能找到穿越山谷的路
+{\r原文字幕}If we can find a way to cross that ravine,
+
+856
+00:53:01,830 --> 00:53:03,070
+{\r译文字幕}让这东西回到皮纳特手里
+{\r原文字幕}and put it back in Peanut's hands,
+
+857
+00:53:03,070 --> 00:53:05,700
+{\r译文字幕}我们就能让钟表秋千动起来
+{\r原文字幕}we can get Clockwork Swings up and running.
+
+858
+00:53:05,710 --> 00:53:06,640
+{\r译文字幕}相信我  我们可以
+{\r原文字幕}Trust me. We can...
+
+859
+00:53:06,640 --> 00:53:08,170
+{\r译文字幕}相信你  我们一直都相信你
+{\r原文字幕}Trust you? We've been trusting you!
+
+860
+00:53:08,180 --> 00:53:12,410
+{\r译文字幕}如果我们知道你是罪魁祸首
+{\r原文字幕}But if we knew you were the person responsible for all this?
+
+861
+00:53:12,410 --> 00:53:14,680
+{\r译文字幕}我们绝不会错信你
+{\r原文字幕}I never would've let us make that mistake.
+
+862
+00:53:16,420 --> 00:53:18,820
+{\r译文字幕}走吧各位  天黑了
+{\r原文字幕}Come on, guys, it's dark.
+
+863
+00:53:18,820 --> 00:53:20,660
+{\r译文字幕}我们自己解决这个烂摊子
+{\r原文字幕}We'll figure this out on our own.
+
+864
+00:53:27,830 --> 00:53:31,730
+{\r译文字幕}为什么  为什么你不在意了
+{\r原文字幕}Why would you stop... Why would you stop caring?
+
+865
+00:53:32,430 --> 00:53:34,100
+{\r译文字幕}我们做错了什么
+{\r原文字幕}What did we do wrong?
+
+866
+00:53:34,100 --> 00:53:37,640
+{\r译文字幕}你们什么也没做错  你们都很棒
+{\r原文字幕}You guys didn't do anything wrong. You guys are amazing.
+
+867
+00:53:42,580 --> 00:53:44,710
+{\r译文字幕}可是你创造了黑暗
+{\r原文字幕}You created the Darkness.
+
+868
+00:53:49,920 --> 00:53:51,190
+{\r译文字幕}布莫
+{\r原文字幕}Boomer.
+
+869
+00:54:07,340 --> 00:54:09,200
+{\r译文字幕}对不起  妈妈
+{\r原文字幕}I'm sorry, Mom.
+
+870
+00:54:20,750 --> 00:54:23,990
+{\r译文字幕}你就是神奇乐园的奇迹
+{\r原文字幕}You are the wonder in Wonderland.
+
+871
+00:54:35,330 --> 00:54:38,600
+{\r译文字幕}必须找到穿越的路
+{\r原文字幕}Got to find a way across.
+
+872
+00:55:21,640 --> 00:55:24,010
+{\r译文字幕}欢迎来到伟大奇迹
+{\r原文字幕}Welcome to the Grand Wonder!
+
+873
+00:55:24,010 --> 00:55:26,980
+{\r译文字幕}抱歉  布莫
+{\r原文字幕}Oops. Sorry, Boomer.
+
+874
+00:55:26,980 --> 00:55:30,120
+{\r译文字幕}欢迎来到伟大奇迹
+{\r原文字幕}Welcome to the Grand Wonder!
+
+875
+00:55:44,330 --> 00:55:47,600
+{\r译文字幕}什么可以用得到呢
+{\r原文字幕}Now, what can I use?
+
+876
+00:55:51,370 --> 00:55:52,570
+{\r译文字幕}有了
+{\r原文字幕}Ah. Got it.
+
+877
+00:56:11,090 --> 00:56:13,590
+{\r译文字幕}点火启动啦
+{\r原文字幕}We have ignitialization!
+
+878
+00:56:41,460 --> 00:56:43,990
+{\r译文字幕}不给邻居搞破坏
+{\r原文字幕}"Without wrecking the neighborhood."
+
+879
+00:57:00,310 --> 00:57:03,210
+{\r译文字幕}我跟你讲  肯定没有办法重建那座桥
+{\r原文字幕}I'm telling you, I don't see any way to rebuild that bridge.
+
+880
+00:57:03,210 --> 00:57:04,980
+{\r译文字幕}你这种心态肯定找不到办法
+{\r原文字幕}Yeah, well, not with that attitude.
+
+881
+00:57:04,980 --> 00:57:08,010
+{\r译文字幕}或许你们想来看看这个
+{\r原文字幕}Um, you may want to come and see this.
+
+882
+00:57:08,020 --> 00:57:10,020
+{\r译文字幕}听起来像是空中战机攻击
+{\r原文字幕}Sounds like another SkyFlinger attack.
+
+883
+00:57:15,720 --> 00:57:17,260
+{\r译文字幕}低调行事  待在后面
+{\r原文字幕}Stay low. Stay back.
+
+884
+00:57:17,260 --> 00:57:20,060
+{\r译文字幕}我会是皮纳特  天啊
+{\r原文字幕}Dang! Well, I'll be Peanut...oh!
+
+885
+00:57:22,800 --> 00:57:25,130
+{\r译文字幕}那是  那是琼
+{\r原文字幕}Is that... It's June!
+
+886
+00:57:26,730 --> 00:57:28,200
+{\r译文字幕}她做到了
+{\r原文字幕}She did it.
+
+887
+00:57:28,940 --> 00:57:31,340
+{\r译文字幕}她真的做到了
+{\r原文字幕}She's actually done it.
+
+888
+00:57:32,370 --> 00:57:33,840
+{\r译文字幕}你看到了吗
+{\r原文字幕}Would you look at that?
+
+889
+00:57:54,560 --> 00:57:56,600
+{\r译文字幕}这是怎么回事
+{\r原文字幕}So what's all this about?
+
+890
+00:57:56,600 --> 00:57:59,830
+{\r译文字幕}是时候让神奇乐园重生了
+{\r原文字幕}It's time to bring Wonderland back to life.
+
+891
+00:57:59,830 --> 00:58:01,700
+{\r译文字幕}你说什么
+{\r原文字幕}Huh? What?
+
+892
+00:58:01,700 --> 00:58:03,270
+{\r译文字幕}我知道我让你们失望了
+{\r原文字幕}I know I let you down.
+
+893
+00:58:03,270 --> 00:58:04,940
+{\r译文字幕}但我想让它回归正轨
+{\r原文字幕}But I want to make it right.
+
+894
+00:58:04,940 --> 00:58:07,020
+{\r译文字幕}你怎么知道这有用
+{\r原文字幕}How do you know it'll work?
+
+895
+00:58:07,030 --> 00:58:09,110
+{\r译文字幕}因为是我建造了这个地方
+{\r原文字幕}Because I built this place.
+
+896
+00:58:09,740 --> 00:58:11,580
+{\r译文字幕}我妈妈和我一起
+{\r原文字幕}My mom and I did.
+
+897
+00:58:11,580 --> 00:58:14,950
+{\r译文字幕}但她病了  我们不得不停下来
+{\r原文字幕}But she got sick and had to stop.
+
+898
+00:58:15,620 --> 00:58:17,350
+{\r译文字幕}我又很害怕
+{\r原文字幕}And I got scared.
+
+899
+00:58:18,690 --> 00:58:22,150
+{\r译文字幕}我太怕失去她  以至于迷失了自我
+{\r原文字幕}So scared of losing her that I lost myself.
+
+900
+00:58:22,160 --> 00:58:25,890
+{\r译文字幕}她不会喜欢我变成这个样子
+{\r原文字幕}And she would hate to see how I changed.
+
+901
+00:58:25,890 --> 00:58:27,500
+{\r译文字幕}也不会喜欢我们大家变成这个样子
+{\r原文字幕}How we've all changed.
+
+902
+00:58:28,630 --> 00:58:29,830
+{\r译文字幕}那现在就准备就绪吧
+{\r原文字幕}Now, buckle up!
+
+903
+00:58:29,830 --> 00:58:32,100
+{\r译文字幕}我们要像风一样坐那个过山车
+{\r原文字幕}We're gonna ride that coaster like the wind.
+
+904
+00:58:32,100 --> 00:58:33,070
+{\r译文字幕}谁跟我一起
+{\r原文字幕}Who's with me?
+
+905
+00:58:33,070 --> 00:58:35,800
+{\r译文字幕}-我跟你一起 琼  -我们都是
+{\r原文字幕}- I'm with you, June. - We are all with you.
+
+906
+00:58:35,800 --> 00:58:37,440
+{\r译文字幕}对 没错
+{\r原文字幕}Yeah, that's right.
+
+907
+00:58:37,440 --> 00:58:38,610
+{\r译文字幕}疼啊
+{\r原文字幕}Ow!
+
+908
+00:58:38,610 --> 00:58:39,810
+{\r译文字幕}我依然相信你
+{\r原文字幕}I still believe in you.
+
+909
+00:58:41,040 --> 00:58:43,440
+{\r译文字幕}我更像是那种两脚站地的类型
+{\r原文字幕}I'm more of a "two feet on the ground" kinda guy.
+
+910
+00:58:43,450 --> 00:58:46,650
+{\r译文字幕}那个过山车应该是有重量限制的吧
+{\r原文字幕}I think there's a weight restriction on that ride, isn't there?
+
+911
+00:58:46,650 --> 00:58:48,350
+{\r译文字幕}得了吧  布莫
+{\r原文字幕}Oh, come on, Boomer.
+
+912
+00:58:48,350 --> 00:58:51,320
+{\r译文字幕}绝对没门儿
+{\r原文字幕}There is absolutely no way...
+
+913
+00:58:51,320 --> 00:58:52,380
+{\r译文字幕}噢 不要
+{\r原文字幕}Oh, no.
+
+914
+00:58:52,390 --> 00:58:53,890
+{\r译文字幕}我决不
+{\r原文字幕}I will ev...
+
+915
+00:58:55,160 --> 00:58:56,820
+{\r译文字幕}呃 我们搞定
+{\r原文字幕}Uh, we got this.
+
+916
+00:58:56,820 --> 00:58:59,060
+{\r译文字幕}吃太多棉花糖披萨饺了
+{\r原文字幕}Too many marshmallow calzones.
+
+917
+00:59:06,600 --> 00:59:10,300
+{\r译文字幕}朋友们 我又做那个奇怪的绑架梦了
+{\r原文字幕}Hey, guys. I had that weird kidnapping dream again.
+
+918
+00:59:10,300 --> 00:59:11,940
+{\r译文字幕}我想知道那个梦是啥意思
+{\r原文字幕}I wonder what it means.
+
+919
+00:59:17,910 --> 00:59:19,960
+{\r译文字幕}布莫 我们马上上去
+{\r原文字幕}Boomer! We'll be right up!
+
+920
+00:59:19,970 --> 00:59:22,580
+{\r译文字幕}葛蕾塔去取另一辆车了
+{\r原文字幕}Greta just has to get the other cart!
+
+921
+00:59:22,580 --> 00:59:23,950
+{\r译文字幕}我想下去
+{\r原文字幕}I want to be down.
+
+922
+00:59:23,950 --> 00:59:27,090
+{\r译文字幕}-只有一个办法  -像小鸟一样飞下来
+{\r原文字幕}- Only one way down!  - Yeah, fly like a bird, bro.
+
+923
+00:59:27,090 --> 00:59:30,560
+{\r译文字幕}但我不是小鸟 鸟的嘴巴超可怕的
+{\r原文字幕}But I'm not a bird! Birds are terrifying, with those beaks,
+
+924
+00:59:30,560 --> 00:59:32,590
+{\r译文字幕}还有他们的爪子
+{\r原文字幕}and those talons,
+
+925
+00:59:32,590 --> 00:59:34,500
+{\r译文字幕}还有甲型流感
+{\r原文字幕}and influenza type A!
+
+926
+00:59:42,040 --> 00:59:42,980
+{\r译文字幕}快点呀  葛蕾塔
+{\r原文字幕}Come on, Greta.
+
+927
+00:59:42,980 --> 00:59:44,900
+{\r译文字幕}你们确定抵住轮子了对吧
+{\r原文字幕}You guys did block the wheels, right?
+
+928
+00:59:44,910 --> 00:59:47,170
+{\r译文字幕}-原来这个是这么用的啊  -完了
+{\r原文字幕}- Oh, that's what this is for! - Oops.
+
+929
+00:59:47,170 --> 00:59:49,070
+{\r译文字幕}各位
+{\r原文字幕}Ugh. Guys!
+
+930
+00:59:52,710 --> 00:59:54,510
+{\r译文字幕}这是什么几率的巧合
+{\r原文字幕}Huh. What are the odds?
+
+931
+00:59:54,520 --> 00:59:56,620
+{\r译文字幕}非常非常小的几率
+{\r原文字幕}Astronomically small.
+
+932
+00:59:56,620 --> 00:59:59,920
+{\r译文字幕}不不不不  不要啊
+{\r原文字幕}No, no, no. No!
+
+933
+01:00:01,720 --> 01:00:03,090
+{\r译文字幕}很好
+{\r原文字幕}Oh, terrific.
+
+934
+01:00:03,090 --> 01:00:06,390
+{\r译文字幕}天啊  他在盯着我看
+{\r原文字幕}Uh... Oh, gosh, he's looking at me.
+
+935
+01:00:06,800 --> 01:00:08,530
+{\r译文字幕}哦不不不
+{\r原文字幕}Oh, no, no.
+
+936
+01:00:08,530 --> 01:00:09,900
+{\r译文字幕}走开  走开
+{\r原文字幕}Shoo, shoo.
+
+937
+01:00:09,900 --> 01:00:11,270
+{\r译文字幕}快走开
+{\r原文字幕}Get out of here.
+
+938
+01:00:12,270 --> 01:00:16,600
+{\r译文字幕}乖乖鸟儿  嘿  你朋友们来啦
+{\r原文字幕}Nice birdie. Oh, hey! I hear your friends!
+
+939
+01:00:20,480 --> 01:00:21,940
+{\r译文字幕}求求你别动
+{\r原文字幕}Please don't move.
+
+940
+01:00:21,940 --> 01:00:23,710
+{\r译文字幕}你没听
+{\r原文字幕}You're not lis...
+
+941
+01:00:39,760 --> 01:00:42,500
+{\r译文字幕}哦不  不  不  不
+{\r原文字幕}Oh, no. No, no, no.
+
+942
+01:00:46,000 --> 01:00:48,270
+{\r译文字幕}你应该等着的
+{\r原文字幕}You were supposed to wait!
+
+943
+01:00:48,270 --> 01:00:50,370
+{\r译文字幕}他走反了 如果不给布莫掉头
+{\r原文字幕}He's going the wrong way! If we don't turn Boomer around...
+
+944
+01:00:50,370 --> 01:00:53,240
+{\r译文字幕}他会被炸成一个葱油饼
+{\r原文字幕}He'll be fried like a funnel cake!
+
+945
+01:00:53,240 --> 01:00:55,840
+{\r译文字幕}格斯  库珀  把上轨道降到下轨道
+{\r原文字幕}Gus, Cooper! Drop the upper track to the lower one,
+
+946
+01:00:55,840 --> 01:00:57,240
+{\r译文字幕}然后我们把布莫引到安全的滑道上
+{\r原文字幕}and we'll reroute Boomer to safety.
+
+947
+01:00:57,240 --> 01:00:58,680
+{\r译文字幕}收到
+{\r原文字幕}On it!
+
+948
+01:00:58,680 --> 01:00:59,600
+{\r译文字幕}我们需要一些结实的绳子
+{\r原文字幕}We'll need some kind of rope,
+
+949
+01:00:59,600 --> 01:01:00,680
+{\r译文字幕}要那些能够拉得住他的
+{\r原文字幕}something strong to stop him with.
+
+950
+01:01:00,680 --> 01:01:01,850
+{\r译文字幕}明白
+{\r原文字幕}Got it.
+
+951
+01:01:21,400 --> 01:01:24,070
+{\r译文字幕}快把我弄下去
+{\r原文字幕}Get me off of this thing!
+
+952
+01:01:24,070 --> 01:01:25,910
+{\r译文字幕}我们做不到了
+{\r原文字幕}We're not gonna make it!
+
+953
+01:01:29,280 --> 01:01:31,810
+{\r译文字幕}-哦老弟  -起码我们吃了顿晚饭
+{\r原文字幕}- Oh, man. - At least we got dinner.
+
+954
+01:01:33,820 --> 01:01:35,750
+{\r译文字幕}糟了
+{\r原文字幕}Oh, no!
+
+955
+01:01:35,750 --> 01:01:37,650
+{\r译文字幕}-甘草糖吗  -我们只找到了这个
+{\r原文字幕}- Licorice? - That's what we got.
+
+956
+01:01:37,650 --> 01:01:39,290
+{\r译文字幕}行  史蒂夫 把它发射给布莫
+{\r原文字幕}Ok. Steve, fire this to Boomer
+
+957
+01:01:39,290 --> 01:01:40,790
+{\r译文字幕}我们用这个拉住他
+{\r原文字幕}and we'll use it to slow him down.
+
+958
+01:01:40,790 --> 01:01:42,050
+{\r译文字幕}收到
+{\r原文字幕}Roger that.
+
+959
+01:01:44,020 --> 01:01:46,760
+{\r译文字幕}布莫 抓住绳子
+{\r原文字幕}Boomer! Catch the rope!
+
+960
+01:01:46,760 --> 01:01:48,130
+{\r译文字幕}好的
+{\r原文字幕}Okay!
+
+961
+01:01:48,130 --> 01:01:51,190
+{\r译文字幕}射程400米  风力3节  西南风
+{\r原文字幕}Range, 400 meters. Winds, three knots southwest.
+
+962
+01:01:51,190 --> 01:01:51,700
+{\r译文字幕}预备
+{\r原文字幕}Ready...
+
+963
+01:01:51,700 --> 01:01:52,960
+{\r译文字幕}救命  救命  救命
+{\r原文字幕}Help, help, help!
+
+964
+01:01:52,970 --> 01:01:54,170
+{\r译文字幕}瞄准
+{\r原文字幕}aim...
+
+965
+01:01:54,800 --> 01:01:56,000
+{\r译文字幕}发射
+{\r原文字幕}fire!
+
+966
+01:02:01,210 --> 01:02:02,070
+{\r译文字幕}疯了
+{\r原文字幕}Nuts.
+
+967
+01:02:02,080 --> 01:02:03,580
+{\r译文字幕}-好吧  那个没起作用  -你说呢
+{\r原文字幕}- Well, that didn't work. - Ya think?
+
+968
+01:02:04,550 --> 01:02:06,450
+{\r译文字幕}快让它停下来啊
+{\r原文字幕}Make it stop!
+
+969
+01:02:06,450 --> 01:02:08,210
+{\r译文字幕}等等  我们还是能穿过去的
+{\r原文字幕}Wait, we could all still get across.
+
+970
+01:02:08,220 --> 01:02:10,250
+{\r译文字幕}大家拉紧绳子
+{\r原文字幕}Okay, everybody, pull tight!
+
+971
+01:02:15,920 --> 01:02:17,120
+{\r译文字幕}继续拉
+{\r原文字幕}Keep pulling.
+
+972
+01:02:24,060 --> 01:02:27,830
+{\r译文字幕}这对我们来说是个非常可怕的转折点
+{\r原文字幕}This is beginning to feel like a terrible turn of events for us all.
+
+973
+01:02:27,840 --> 01:02:29,140
+{\r译文字幕}我跟他一起
+{\r原文字幕}I'm with him.
+
+974
+01:02:30,870 --> 01:02:32,270
+{\r译文字幕}冲击准备
+{\r原文字幕}Brace for impact!
+
+975
+01:02:35,280 --> 01:02:37,240
+{\r译文字幕}我可以醒来了 醒来吧
+{\r原文字幕}I'm ready to wake up now, ready to wake up.
+
+976
+01:02:37,240 --> 01:02:39,040
+{\r译文字幕}布莫 你本来就醒着
+{\r原文字幕}You are awake, Boomer.
+
+977
+01:02:39,050 --> 01:02:42,450
+{\r译文字幕}我醒着吗 我醒着呢 我们做到了
+{\r原文字幕}I'm awake? I mean, I'm awake! We did it.
+
+978
+01:02:42,450 --> 01:02:45,220
+{\r译文字幕}-你做到了  -我做到了  做到了吗
+{\r原文字幕}- You did it. - I did it. I mean...I did it?
+
+979
+01:02:45,220 --> 01:02:47,690
+{\r译文字幕}-你是个男子汉  -你是个男子汉熊
+{\r原文字幕}- You da man! - You're the man-bear!
+
+980
+01:02:47,690 --> 01:02:49,960
+{\r译文字幕}我是男子汉
+{\r原文字幕}I'm the man!
+
+981
+01:02:49,960 --> 01:02:51,860
+{\r译文字幕}你是男子汉
+{\r原文字幕}You're the man,
+
+982
+01:02:51,860 --> 01:02:54,560
+{\r译文字幕}而我们只是动物王国中能够开口讲话的
+{\r原文字幕}and we are just the various members of the animal kingdom with the
+
+983
+01:02:54,560 --> 01:02:57,660
+{\r译文字幕}几种动物恰好挂在了男子汉旁边
+{\r原文字幕}power of speech hanging next to the man.
+
+984
+01:02:57,670 --> 01:02:59,300
+{\r译文字幕}没错
+{\r原文字幕}Yes, you are.
+
+985
+01:03:00,940 --> 01:03:02,670
+{\r译文字幕}你太棒啦
+{\r原文字幕}You're splendiferous!
+
+986
+01:03:15,220 --> 01:03:17,520
+{\r译文字幕}去他的芝士小饼干
+{\r原文字幕}Holy cheesy chips!
+
+987
+01:03:17,520 --> 01:03:19,220
+{\r译文字幕}哇塞
+{\r原文字幕}Oh, crikey!
+
+988
+01:03:21,520 --> 01:03:22,620
+{\r译文字幕}皮纳特
+{\r原文字幕}Peanut.
+
+989
+01:03:26,090 --> 01:03:28,390
+{\r译文字幕}我们来晚了
+{\r原文字幕}We're too late.
+
+990
+01:03:38,110 --> 01:03:41,440
+{\r译文字幕}天啊 我们现在该怎么办
+{\r原文字幕}Oh, gosh. What do we do now?
+
+991
+01:03:41,440 --> 01:03:44,080
+{\r译文字幕}-不是我们  -孩子  你有什么主意
+{\r原文字幕}- Not "we." - What do you have in mind, kid?
+
+992
+01:03:44,080 --> 01:03:46,280
+{\r译文字幕}现在是我该去做点什么了
+{\r原文字幕}It's about what I need to do.
+
+993
+01:03:46,280 --> 01:03:50,350
+{\r译文字幕}我要去黑暗中把皮纳特带回来
+{\r原文字幕}I need to go into the Darkness and bring Peanut back.
+
+994
+01:03:50,350 --> 01:03:52,690
+{\r译文字幕}-什么  不行  -她啥意思
+{\r原文字幕}- What? No! - What's she talking about?
+
+995
+01:03:56,620 --> 01:03:58,020
+{\r译文字幕}琼
+{\r原文字幕}June...
+
+996
+01:03:58,030 --> 01:04:02,130
+{\r译文字幕}它太强大了 没有人能活着出来
+{\r原文字幕}It's too powerful. Nothing ever comes out.
+
+997
+01:04:02,860 --> 01:04:04,470
+{\r译文字幕}我可以  葛蕾塔
+{\r原文字幕}I got this, Greta.
+
+998
+01:04:25,490 --> 01:04:28,520
+{\r译文字幕}我是神奇乐园的奇迹
+{\r原文字幕}I am the wonder in Wonderland.
+
+999
+01:04:30,270 --> 01:04:33,310
+{\r译文字幕}我是神奇乐园的奇迹
+{\r原文字幕}I am the wonder in Wonderland.
+
+1000
+01:04:35,100 --> 01:04:39,300
+{\r译文字幕}我是神奇乐园的奇迹
+{\r原文字幕}I am the wonder in Wonderland!
+
+1001
+01:05:03,160 --> 01:05:06,320
+{\r译文字幕}皮纳特  你在哪
+{\r原文字幕}Peanut? Where are you?
+
+1002
+01:05:06,330 --> 01:05:09,100
+{\r译文字幕}琼  是你吗
+{\r原文字幕}June? Is that you?
+
+1003
+01:05:09,100 --> 01:05:11,330
+{\r译文字幕}皮纳特  坚持住
+{\r原文字幕}Peanut! Hold on!
+
+1004
+01:05:16,000 --> 01:05:17,240
+{\r译文字幕}琼
+{\r原文字幕}June?
+
+1005
+01:05:17,240 --> 01:05:18,440
+{\r译文字幕}皮纳特
+{\r原文字幕}Peanut!
+
+1006
+01:05:28,520 --> 01:05:29,880
+{\r译文字幕}你没事吧  受伤了吗
+{\r原文字幕}Are you okay? Are you hurt?
+
+1007
+01:05:29,880 --> 01:05:31,450
+{\r译文字幕}我很难过他们也把你抓到这里
+{\r原文字幕}I'm so sorry they got you, too.
+
+1008
+01:05:31,450 --> 01:05:32,890
+{\r译文字幕}你得想办法把我们弄出去
+{\r原文字幕}You've got to get us out of here.
+
+1009
+01:05:32,890 --> 01:05:33,970
+{\r译文字幕}我也想啊
+{\r原文字幕}I wish I could.
+
+1010
+01:05:33,970 --> 01:05:37,320
+{\r译文字幕}但是我都说了  我的灵感离我而去
+{\r原文字幕}But I told you, my inspiration, she left me.
+
+1011
+01:05:37,320 --> 01:05:39,360
+{\r译文字幕}她再也没回来过
+{\r原文字幕}She's never coming back.
+
+1012
+01:05:39,360 --> 01:05:44,570
+{\r译文字幕}你不知道  她正在努力回到我们身边
+{\r原文字幕}You don't know that. She's out there, trying to get back to us.
+
+1013
+01:05:46,100 --> 01:05:48,370
+{\r译文字幕}-我们  -对
+{\r原文字幕}- Us? - Yeah.
+
+1014
+01:05:48,370 --> 01:05:51,340
+{\r译文字幕}她就是我妈妈  我最了解她的就是
+{\r原文字幕}She's my mom, and if there's one thing I know,
+
+1015
+01:05:51,340 --> 01:05:54,040
+{\r译文字幕}她决不放弃
+{\r原文字幕}it's that she is not giving up.
+
+1016
+01:05:54,040 --> 01:05:56,080
+{\r译文字幕}所以我们也决不放弃
+{\r原文字幕}So neither should we.
+
+1017
+01:05:56,080 --> 01:05:57,580
+{\r译文字幕}没有她的话
+{\r原文字幕}Without her,
+
+1018
+01:05:58,280 --> 01:06:00,580
+{\r译文字幕}我什么也不能创造
+{\r原文字幕}I'll never create again.
+
+1019
+01:06:00,580 --> 01:06:02,010
+{\r译文字幕}你能
+{\r原文字幕}Yes, you will.
+
+1020
+01:06:02,020 --> 01:06:04,050
+{\r译文字幕}不要向恐惧低头
+{\r原文字幕}Don't give in to the fear.
+
+1021
+01:06:04,050 --> 01:06:07,250
+{\r译文字幕}你内心的光比黑暗更强大
+{\r原文字幕}Your light is stronger than the Darkness.
+
+1022
+01:06:07,250 --> 01:06:09,160
+{\r译文字幕}-拿着  -但是没有她的话
+{\r原文字幕}- Now take this. - But without her...
+
+1023
+01:06:09,160 --> 01:06:11,690
+{\r译文字幕}你不用再担心了
+{\r原文字幕}You don't have to worry about that anymore.
+
+1024
+01:06:11,690 --> 01:06:13,130
+{\r译文字幕}什么意思
+{\r原文字幕}What do you mean?
+
+1025
+01:06:13,130 --> 01:06:14,460
+{\r译文字幕}因为
+{\r原文字幕}Because...
+
+1026
+01:06:15,130 --> 01:06:16,930
+{\r译文字幕}我在这
+{\r原文字幕}I'm here.
+
+1027
+01:06:16,930 --> 01:06:21,130
+{\r译文字幕}皮纳特  用弯曲吸管做一个
+{\r原文字幕}Peanut, build us the biggest slide in the whole wide world
+
+1028
+01:06:21,140 --> 01:06:23,710
+{\r译文字幕}全世界最大的滑梯
+{\r原文字幕}and make it out of bendy straws.
+
+1029
+01:06:29,140 --> 01:06:31,880
+{\r译文字幕}好让我们离开这里
+{\r原文字幕}Now let's get out of here.
+
+1030
+01:06:31,880 --> 01:06:34,550
+{\r译文字幕}弯曲吸管
+{\r原文字幕}Bendy straws, hmm?
+
+1031
+01:06:34,550 --> 01:06:37,750
+{\r译文字幕}听起来是一个无与伦比的主意
+{\r原文字幕}That sounds like a splendiferous idea!
+
+1032
+01:06:37,750 --> 01:06:39,550
+{\r译文字幕}马上就做
+{\r原文字幕}Coming right up.
+
+1033
+01:06:49,030 --> 01:06:50,570
+{\r译文字幕}快点  再做一个
+{\r原文字幕}Quick, make another one!
+
+1034
+01:06:57,910 --> 01:06:59,640
+{\r译文字幕}去齿轮秋千
+{\r原文字幕}To Clockwork Swings!
+
+1035
+01:07:02,310 --> 01:07:03,510
+{\r译文字幕}看
+{\r原文字幕}Look.
+
+1036
+01:07:03,510 --> 01:07:05,410
+{\r译文字幕}她成功了  他们成功了
+{\r原文字幕}She's doing it! They made it!
+
+1037
+01:07:05,410 --> 01:07:07,350
+{\r译文字幕}拍拍尾巴  哦吼
+{\r原文字幕}Well, slap my tail. Tally ho!
+
+1038
+01:07:08,120 --> 01:07:09,320
+{\r译文字幕}天啊
+{\r原文字幕}Oh, dear.
+
+1039
+01:07:13,760 --> 01:07:15,110
+{\r译文字幕}我们得去帮他们
+{\r原文字幕}We've got to help them.
+
+1040
+01:07:15,120 --> 01:07:16,620
+{\r译文字幕}这就去  坐稳了  琼
+{\r原文字幕}That we do. Hang on, June!
+
+1041
+01:07:23,800 --> 01:07:25,130
+{\r译文字幕}太棒了
+{\r原文字幕}Well done!
+
+1042
+01:07:25,130 --> 01:07:27,330
+{\r译文字幕}我觉得我欠你们一个说法
+{\r原文字幕}Guess I owe you guys an explanation, huh?
+
+1043
+01:07:27,330 --> 01:07:29,070
+{\r译文字幕}我们很高兴你还活着
+{\r原文字幕}We're just happy you're alive.
+
+1044
+01:07:29,070 --> 01:07:32,100
+{\r译文字幕}既然你回来了  那就开始修那些齿轮
+{\r原文字幕}And since you are, how about you get those clocks started
+
+1045
+01:07:32,110 --> 01:07:33,470
+{\r译文字幕}让我们的乐园重获生机吧
+{\r原文字幕}and bring our park back to life?
+
+1046
+01:07:33,470 --> 01:07:36,310
+{\r译文字幕}义不容辞  但是要怎么修呢
+{\r原文字幕}It's the least I can do! But how?
+
+1047
+01:07:38,910 --> 01:07:40,410
+{\r译文字幕}等一下
+{\r原文字幕}Wait a minute.
+
+1048
+01:07:42,220 --> 01:07:45,550
+{\r译文字幕}我的名字  我的乐园  我的名字
+{\r原文字幕}My name. My park, my name.
+
+1049
+01:07:45,550 --> 01:07:48,490
+{\r译文字幕}葛蕾塔  如果我们集体牺牲了
+{\r原文字幕}Greta, if we all end up crashing to our collective deaths,
+
+1050
+01:07:48,490 --> 01:07:49,720
+{\r译文字幕}现在我想对你说
+{\r原文字幕}I just want you to know
+
+1051
+01:07:49,720 --> 01:07:52,460
+{\r译文字幕}我为你疯狂  宝贝  为你疯狂
+{\r原文字幕}I burn for you, baby! I burn hot!
+
+1052
+01:07:52,460 --> 01:07:55,560
+{\r译文字幕}我对你的爱愈燃愈烈
+{\r原文字幕}My oven is on extra fuego!
+
+1053
+01:07:55,560 --> 01:07:58,630
+{\r译文字幕}我觉得你也很帅  史蒂夫
+{\r原文字幕}I think you're cute, too, Steve.
+
+1054
+01:07:58,630 --> 01:08:02,570
+{\r译文字幕}等等  她说了什么  她说了什么
+{\r原文字幕}Wait, what? What did she say? What did she say?
+
+1055
+01:08:03,240 --> 01:08:05,040
+{\r译文字幕}齿轮
+{\r原文字幕}The gears.
+
+1056
+01:08:05,040 --> 01:08:06,480
+{\r译文字幕}妈妈  你不只是把我的名字写在这上面
+{\r原文字幕}Mom, you weren't writing over the clocks,
+
+1057
+01:08:06,480 --> 01:08:07,670
+{\r译文字幕}你是在告诉我解决办法啊
+{\r原文字幕}you were telling me how to fix it.
+
+1058
+01:08:07,680 --> 01:08:10,080
+{\r译文字幕}怎样启动时钟让它重获生机
+{\r原文字幕}How to jumpstart the clocks back to life!
+
+1059
+01:08:10,080 --> 01:08:10,990
+{\r译文字幕}写我的名字
+{\r原文字幕}Write my name!
+
+1060
+01:08:10,990 --> 01:08:13,150
+{\r译文字幕}按照我名字的形状来做吸管来转动齿轮
+{\r原文字幕}Turn the gears by writing my name!
+
+1061
+01:08:13,150 --> 01:08:15,050
+{\r译文字幕}齿轮  大家坚持住
+{\r原文字幕}The gears! Hold on, everybody!
+
+1062
+01:08:18,820 --> 01:08:20,620
+{\r译文字幕}成功了  成功了
+{\r原文字幕}It's working, it's working!
+
+1063
+01:08:22,690 --> 01:08:24,360
+{\r译文字幕}-不  -小心
+{\r原文字幕}- Oh, no! - Watch it!
+
+1064
+01:08:24,360 --> 01:08:25,560
+{\r译文字幕}坚持住
+{\r原文字幕}Hold on!
+
+1065
+01:08:26,730 --> 01:08:28,990
+{\r译文字幕}小心
+{\r原文字幕}Look out!
+
+1066
+01:08:29,000 --> 01:08:30,030
+{\r译文字幕}继续做
+{\r原文字幕}Keep going!
+
+1067
+01:08:32,430 --> 01:08:34,330
+{\r译文字幕}上上上  我们要做个U
+{\r原文字幕}Go, go, go! We need the "U."
+
+1068
+01:08:38,110 --> 01:08:40,070
+{\r译文字幕}欢迎来到神奇乐园
+{\r原文字幕}Welcome to Wonderland!
+
+1069
+01:08:41,180 --> 01:08:43,610
+{\r译文字幕}往右  往右
+{\r原文字幕}Now right, right!
+
+1070
+01:08:43,610 --> 01:08:45,310
+{\r译文字幕}海狸双胞胎兄弟  出动
+{\r原文字幕}Beaver twin brothers, activate!
+
+1071
+01:08:47,320 --> 01:08:48,910
+{\r译文字幕}尾巴打脸大法
+{\r原文字幕}Tail to the face!
+
+1072
+01:08:48,920 --> 01:08:50,690
+{\r译文字幕}好  再做个N  快点
+{\r原文字幕}Okay, now the "N." Hurry!
+
+1073
+01:08:54,090 --> 01:08:55,390
+{\r译文字幕}把我发射出去  葛蕾塔
+{\r原文字幕}Launch me, Greta.
+
+1074
+01:08:55,390 --> 01:08:56,920
+{\r译文字幕}-把你发射出去  -发射我
+{\r原文字幕}- Launch you? - Launch me.
+
+1075
+01:08:56,920 --> 01:08:59,290
+{\r译文字幕}为了神奇乐园  为了葛蕾塔
+{\r原文字幕}For Wonderland! For Greta!
+
+1076
+01:08:59,290 --> 01:09:01,760
+{\r译文字幕}为了自由
+{\r原文字幕}For freedom!
+
+1077
+01:09:06,930 --> 01:09:08,500
+{\r译文字幕}搞定
+{\r原文字幕}Nailed it.
+
+1078
+01:09:08,500 --> 01:09:09,770
+{\r译文字幕}我们搞定了  琼
+{\r原文字幕}We got this, June.
+
+1079
+01:09:10,270 --> 01:09:11,610
+{\r译文字幕}准备好了吗
+{\r原文字幕}You ready?
+
+1080
+01:09:11,910 --> 01:09:12,970
+{\r译文字幕}跳
+{\r原文字幕}Jump!
+
+1081
+01:09:37,570 --> 01:09:40,940
+{\r译文字幕}看  乐园重获生机了
+{\r原文字幕}Look, the park! It's coming back to life!
+
+1082
+01:09:49,010 --> 01:09:50,340
+{\r译文字幕}拍拍尾巴  库珀
+{\r原文字幕}Tail slap, Cooper!
+
+1083
+01:09:50,340 --> 01:09:52,550
+{\r译文字幕}太棒了  干得漂亮
+{\r原文字幕}Well done! A cracking job!
+
+1084
+01:09:55,980 --> 01:09:57,590
+{\r译文字幕}你真是太棒啦
+{\r原文字幕}You're splendiferous!
+
+1085
+01:10:01,420 --> 01:10:04,090
+{\r译文字幕}看看是哪个神奇猩猩回来了
+{\r原文字幕}Aw, look who's back to being WonderChimps.
+
+1086
+01:10:04,090 --> 01:10:05,960
+{\r译文字幕}跳个舞  跳个舞
+{\r原文字幕}Do a little dance. Do your little dance.
+
+1087
+01:10:05,960 --> 01:10:07,360
+{\r译文字幕}跳个小神奇猩猩之舞
+{\r原文字幕}Do your little WonderChimp dance.
+
+1088
+01:10:07,360 --> 01:10:08,730
+{\r译文字幕}看看他们多可爱
+{\r原文字幕}Look how cute they are!
+
+1089
+01:10:18,770 --> 01:10:21,170
+{\r译文字幕}来吧布莫  客人在等着我们呢
+{\r原文字幕}Come on, Boomer. There's guests to welcome.
+
+1090
+01:10:21,180 --> 01:10:24,080
+{\r译文字幕}我们要重建乐园  还要照顾客人
+{\r原文字幕}And things to build. And people to take care of.
+
+1091
+01:10:24,080 --> 01:10:25,340
+{\r译文字幕}完全正确
+{\r原文字幕}Quite right.
+
+1092
+01:10:25,350 --> 01:10:26,830
+{\r译文字幕}现在我们已经找回了团队纽带
+{\r原文字幕}And now that we've got our glue back,
+
+1093
+01:10:26,830 --> 01:10:27,650
+{\r译文字幕}我们将一往直前
+{\r原文字幕}nothing can stop us.
+
+1094
+01:10:27,650 --> 01:10:30,150
+{\r译文字幕}我  团队纽带  不  我不是
+{\r原文字幕}Me? The glue? No, I'm not the glue.
+
+1095
+01:10:30,150 --> 01:10:31,960
+{\r译文字幕}你才是团队纽带  葛蕾塔
+{\r原文字幕}You're the glue, Greta.
+
+1096
+01:10:31,960 --> 01:10:33,350
+{\r译文字幕}你一直都是
+{\r原文字幕}You always have been.
+
+1097
+01:10:33,350 --> 01:10:35,820
+{\r译文字幕}-是不是  兄弟们  -没错
+{\r原文字幕}- Isn't that right, gang? - Yeah!
+
+1098
+01:10:35,820 --> 01:10:37,590
+{\r译文字幕}你们好暖
+{\r原文字幕}Aw, you guys.
+
+1099
+01:10:37,590 --> 01:10:40,590
+{\r译文字幕}来吧  我们去播撒一些奇迹
+{\r原文字幕}Come on, let's go spread some wonder!
+
+1100
+01:10:40,590 --> 01:10:42,560
+{\r译文字幕}-对  我们就这么做  -我先来
+{\r原文字幕}- Yeah, that's how we do it. - Me first!
+
+1101
+01:10:43,300 --> 01:10:44,560
+{\r译文字幕}等等
+{\r原文字幕}Wait.
+
+1102
+01:10:44,570 --> 01:10:46,800
+{\r译文字幕}你呢  琼  你呢
+{\r原文字幕}What about you, June? Yeah, what about you?
+
+1103
+01:10:46,800 --> 01:10:50,070
+{\r译文字幕}我想我该回家了
+{\r原文字幕}Well, I probably should be getting home.
+
+1104
+01:10:50,070 --> 01:10:53,240
+{\r译文字幕}你要走了  没有你我们可怎么办
+{\r原文字幕}You're leaving? What are we gonna do without you?
+
+1105
+01:10:54,880 --> 01:10:58,410
+{\r译文字幕}你们就像往常一样
+{\r原文字幕}You're gonna do what you always do.
+
+1106
+01:10:58,410 --> 01:11:01,450
+{\r译文字幕}来  聚过来
+{\r原文字幕}Come on, bring it in.
+
+1107
+01:11:01,450 --> 01:11:05,580
+{\r译文字幕}在这里你们应有尽有
+{\r原文字幕}You have everything you need right here.
+
+1108
+01:11:05,590 --> 01:11:08,220
+{\r译文字幕}因为我们是谁
+{\r原文字幕}Because who are we?
+
+1109
+01:11:08,220 --> 01:11:11,260
+{\r译文字幕}我们是神奇乐园的奇迹
+{\r原文字幕}We are the wonder in Wonderland.
+
+1110
+01:11:11,260 --> 01:11:13,430
+{\r译文字幕}大点声
+{\r原文字幕}I can't hear you!
+
+1111
+01:11:13,430 --> 01:11:16,230
+{\r译文字幕}我们是神奇乐园的奇迹
+{\r原文字幕}We are the wonder in Wonderland.
+
+1112
+01:11:16,230 --> 01:11:18,500
+{\r译文字幕}再来一次
+{\r原文字幕}One more time!
+
+1113
+01:11:18,500 --> 01:11:21,800
+{\r译文字幕}我们是神奇乐园的奇迹
+{\r原文字幕}We are the wonder in Wonderland!
+
+1114
+01:11:22,470 --> 01:11:23,940
+{\r译文字幕}现在去接待客人吧
+{\r原文字幕}Now fall out.
+
+1115
+01:11:23,940 --> 01:11:25,470
+{\r译文字幕}欢迎
+{\r原文字幕}Welcome!
+
+1116
+01:11:25,470 --> 01:11:28,640
+{\r译文字幕}男孩儿  今天会是开心的一天
+{\r原文字幕}Boy, it's gonna be a great day.
+
+1117
+01:11:36,550 --> 01:11:38,080
+{\r译文字幕}我们开始吧
+{\r原文字幕}Let's do this thing!
+
+1118
+01:11:38,090 --> 01:11:39,520
+{\r译文字幕}准备好了
+{\r原文字幕}Good to go.
+
+1119
+01:11:39,520 --> 01:11:41,220
+{\r译文字幕}等着
+{\r原文字幕}Wait for it...
+
+1120
+01:11:42,190 --> 01:11:43,890
+{\r译文字幕}哒哒
+{\r原文字幕}Ta-da!
+
+1121
+01:11:45,490 --> 01:11:47,160
+{\r译文字幕}黑暗
+{\r原文字幕}The Darkness.
+
+1122
+01:11:47,160 --> 01:11:48,830
+{\r译文字幕}还在那儿
+{\r原文字幕}It's still there.
+
+1123
+01:11:48,830 --> 01:11:51,960
+{\r译文字幕}也许它永远不会消失
+{\r原文字幕}Maybe it'll never really fully go away.
+
+1124
+01:11:51,970 --> 01:11:54,370
+{\r译文字幕}也许它的存在是为了提醒我们
+{\r原文字幕}Maybe it's there to remind us
+
+1125
+01:11:54,370 --> 01:11:58,070
+{\r译文字幕}去看看我们身边的光芒
+{\r原文字幕}to look at the light that surrounds us.
+
+1126
+01:11:59,610 --> 01:12:02,540
+{\r译文字幕}请享受我们最新的景点  弯曲吸管滑梯
+{\r原文字幕}Please enjoy our newest attraction, Bendy Straw Slide,
+
+1127
+01:12:02,540 --> 01:12:06,950
+{\r译文字幕}我个人在极端条件下进行了安全测试
+{\r原文字幕}which I have personally safety tested under extreme conditions.
+
+1128
+01:12:06,950 --> 01:12:10,180
+{\r译文字幕}说到你身边的光
+{\r原文字幕}Speaking of the light that surrounds you...
+
+1129
+01:12:11,920 --> 01:12:13,320
+{\r译文字幕}史蒂夫
+{\r原文字幕}Steve!
+
+1130
+01:12:13,320 --> 01:12:15,020
+{\r译文字幕}你来了
+{\r原文字幕}Ah, here we are.
+
+1131
+01:12:15,020 --> 01:12:17,760
+{\r译文字幕}来吧  你可以请我吃爆米花
+{\r原文字幕}Come on, I'll let you buy me some popcorn.
+
+1132
+01:12:17,760 --> 01:12:21,160
+{\r译文字幕}好的  我马上来  我只要
+{\r原文字幕}Yep, I'll be right there! I just need to... Well...
+
+1133
+01:12:21,900 --> 01:12:24,330
+{\r译文字幕}等我的心跳平复下来
+{\r原文字幕}Wait for my heart to settle.
+
+1134
+01:12:31,410 --> 01:12:33,610
+{\r译文字幕}你会在风中听到我的声音
+{\r原文字幕}You'll hear me in the wind.
+
+1135
+01:12:33,610 --> 01:12:34,870
+{\r译文字幕}我知道
+{\r原文字幕}Oh, I know I will.
+
+1136
+01:12:34,880 --> 01:12:37,780
+{\r译文字幕}我们会在这里等你的  永远
+{\r原文字幕}And we'll be here for you. Always.
+
+1137
+01:12:37,780 --> 01:12:39,180
+{\r译文字幕}你好  皮纳特
+{\r原文字幕}Hey, Peanut!
+
+1138
+01:12:40,680 --> 01:12:43,250
+{\r译文字幕}这地方真是太美了
+{\r原文字幕}This place really is splendiferous!
+
+1139
+01:12:44,320 --> 01:12:45,650
+{\r译文字幕}是啊
+{\r原文字幕}Yep.
+
+1140
+01:12:46,390 --> 01:12:48,760
+{\r译文字幕}真是太棒了
+{\r原文字幕}Splendiferous!
+
+1141
+01:13:12,750 --> 01:13:15,010
+{\r译文字幕}我们有芦笋  菠菜  甘蓝
+{\r原文字幕}We got asparagus, spinach, brussels...
+
+1142
+01:13:15,020 --> 01:13:18,020
+{\r译文字幕}啊  你在这儿  我隐藏的最爱
+{\r原文字幕}Ah, there you are, my hidden sweet.
+
+1143
+01:13:22,120 --> 01:13:23,660
+{\r译文字幕}老爸
+{\r原文字幕}Dad!
+
+1144
+01:13:24,090 --> 01:13:25,920
+{\r译文字幕}小琼琼
+{\r原文字幕}June Bug?
+
+1145
+01:13:25,930 --> 01:13:28,560
+{\r译文字幕}琼  你没事吧  你怎么了
+{\r原文字幕}June, are you okay? What happened to you?
+
+1146
+01:13:28,560 --> 01:13:30,720
+{\r译文字幕}我很抱歉我没告诉你去哪儿
+{\r原文字幕}I'm so sorry for being gone a whole night
+
+1147
+01:13:30,720 --> 01:13:32,430
+{\r译文字幕}并且消失了一整晚
+{\r原文字幕}and not telling you where I was.
+
+1148
+01:13:32,430 --> 01:13:34,340
+{\r译文字幕}什么  我半个小时前刚把你
+{\r原文字幕}What? I just dropped you off at
+
+1149
+01:13:34,340 --> 01:13:35,900
+{\r译文字幕}送去数学夏令营
+{\r原文字幕}Math Camp 30 minutes ago.
+
+1150
+01:13:37,610 --> 01:13:39,070
+{\r译文字幕}别在意
+{\r原文字幕}Never mind.
+
+1151
+01:13:44,280 --> 01:13:46,550
+{\r译文字幕}如果你回来是因为担心我
+{\r原文字幕}If you did this because you're worried about me...
+
+1152
+01:13:46,550 --> 01:13:48,420
+{\r译文字幕}什么  担心你
+{\r原文字幕}Worry? About you?
+
+1153
+01:13:49,020 --> 01:13:50,280
+{\r译文字幕}你又没事
+{\r原文字幕}You're fine!
+
+1154
+01:13:50,950 --> 01:13:53,020
+{\r译文字幕}实际上  你是太棒了
+{\r原文字幕}Actually, you're awesome.
+
+1155
+01:13:55,460 --> 01:13:57,690
+{\r译文字幕}我有很多事要告诉妈妈
+{\r原文字幕}I have so much to tell Mom about.
+
+1156
+01:14:00,030 --> 01:14:01,090
+{\r译文字幕}琼琼
+{\r原文字幕}Uh, Junie...
+
+1157
+01:14:01,100 --> 01:14:02,430
+{\r译文字幕}在你把我送回数学夏令营之前
+{\r原文字幕}And before you bring up going back to Math Camp,
+
+1158
+01:14:02,430 --> 01:14:03,560
+{\r译文字幕}你得知道
+{\r原文字幕}you have to know
+
+1159
+01:14:03,570 --> 01:14:04,900
+{\r译文字幕}我是不会回去的
+{\r原文字幕}it's not happening.
+
+1160
+01:14:04,900 --> 01:14:06,500
+{\r译文字幕}我有很多活要干
+{\r原文字幕}I have way too much work to do.
+
+1161
+01:14:06,500 --> 01:14:09,140
+{\r译文字幕}-比如呢  -弥补浪费的时间
+{\r原文字幕}- Such as? - Making up for lost time.
+
+1162
+01:14:09,970 --> 01:14:11,140
+{\r译文字幕}那是
+{\r原文字幕}Is that...
+
+1163
+01:14:24,890 --> 01:14:27,220
+{\r译文字幕}邻居会喜欢的
+{\r原文字幕}The neighborhood will love this.
+
+1164
+01:14:27,220 --> 01:14:29,760
+{\r译文字幕}琼琼  我回来了  我买了日用品回来
+{\r原文字幕}Junie, I'm home! I got the rest of the supplies.
+
+1165
+01:14:29,760 --> 01:14:32,360
+{\r译文字幕}嘿  爸爸  再来一点
+{\r原文字幕}Hey, Dad! Just a few more...
+
+1166
+01:14:32,360 --> 01:14:35,030
+{\r译文字幕}女儿  我忙着呢  你能开下门吗
+{\r原文字幕}Honey, my hands are full. Can you get that?
+
+1167
+01:14:35,700 --> 01:14:37,130
+{\r译文字幕}当然  爸爸
+{\r原文字幕}Sure thing, Dad.
+
+1168
+01:14:38,230 --> 01:14:40,390
+{\r译文字幕}嘿  琼   我把所有横幅都挂上了
+{\r原文字幕}Hey June! I strung up all the banners.
+
+1169
+01:14:40,390 --> 01:14:41,100
+{\r译文字幕}接下来要做什么
+{\r原文字幕}What's next?
+
+1170
+01:14:41,100 --> 01:14:43,720
+{\r译文字幕}太好了  你能在后面的栅栏上
+{\r原文字幕}Great. Can you make a big balloon arch
+
+1171
+01:14:43,720 --> 01:14:44,900
+{\r译文字幕}搭一个越过栅栏的气球拱门吗
+{\r原文字幕}over the back fence?
+
+1172
+01:14:44,910 --> 01:14:46,170
+{\r译文字幕}-没问题  -谢啦
+{\r原文字幕}- Yep! - Thanks.
+
+1173
+01:14:48,980 --> 01:14:52,110
+{\r译文字幕}你说的越过栅栏是指
+{\r原文字幕}When you say over the back fence, do you mean
+
+1174
+01:14:52,110 --> 01:14:56,350
+{\r译文字幕}比栅栏高还是指在栅栏后面
+{\r原文字幕}over the fence, like over it, or over the fence, like behind it?
+
+1175
+01:14:56,350 --> 01:14:58,250
+{\r译文字幕}越过栅栏是指比栅栏高
+{\r原文字幕}Over the fence, like over it.
+
+1176
+01:14:58,250 --> 01:15:01,290
+{\r译文字幕}明白了  比栅栏高  知道了
+{\r原文字幕}Oh. Ding! Over the fence. Got it.
+
+1177
+01:15:05,160 --> 01:15:07,150
+{\r译文字幕}拜托请告诉班基把它放在栅栏后面就好了
+{\r原文字幕}Can you please tell Banky to just put it behind the fence.
+
+1178
+01:15:07,150 --> 01:15:08,060
+{\r译文字幕}我必须完成手上的工作
+{\r原文字幕}I got to finish.
+
+1179
+01:15:08,060 --> 01:15:10,700
+{\r译文字幕}我想你应该去开门  琼
+{\r原文字幕}I think you should get the door, June.
+
+1180
+01:15:10,700 --> 01:15:12,470
+{\r译文字幕}但是
+{\r原文字幕}Huh. But...
+
+1181
+01:15:26,620 --> 01:15:28,110
+{\r译文字幕}妈妈
+{\r原文字幕}Mom.
+
+1182
+01:15:29,020 --> 01:15:30,950
+{\r译文字幕}你还傻站着干什么
+{\r原文字幕}What are you waiting for?
+
+1183
+01:15:31,390 --> 01:15:32,820
+{\r译文字幕}快过来
+{\r原文字幕}Come here.
+
+1184
+01:15:40,430 --> 01:15:42,060
+{\r译文字幕}很高兴见到你
+{\r原文字幕}I'm glad to see you.
+
+1185
+01:15:42,760 --> 01:15:44,500
+{\r译文字幕}你是不是
+{\r原文字幕}Are you...
+
+1186
+01:15:44,500 --> 01:15:46,400
+{\r译文字幕}我现在没事了  小琼琼
+{\r原文字幕}I'm okay now, June Bug.
+
+1187
+01:15:48,240 --> 01:15:49,700
+{\r译文字幕}我也是
+{\r原文字幕}So am I.
+
+1188
+01:15:49,700 --> 01:15:53,740
+{\r译文字幕}看来你有保持内心的微光永远闪亮
+{\r原文字幕}It looks like you kept your little light shining bright.
+
+1189
+01:15:53,740 --> 01:15:56,910
+{\r译文字幕}我有一个连你都不会相信的故事
+{\r原文字幕}I've got a story even you might not believe.
+
+1190
+01:15:56,910 --> 01:15:59,050
+{\r译文字幕}说来听听
+{\r原文字幕}Try me.
+
+1191
+01:16:02,920 --> 01:16:06,850
+{\r译文字幕}这真是太美妙了
+{\r原文字幕}Now that is splendiferous!
+
+1192
+01:16:14,400 --> 01:16:16,600
+{\r译文字幕}嘿  齿轮秋千
+{\r原文字幕}Hey, Clockwork Swings!
+
+1193
+01:16:18,200 --> 01:16:22,300
+{\r译文字幕}快点  神奇乐园现在开放
+{\r原文字幕}Come on! Wonderland is now open!
+
+1194
+01:16:33,650 --> 01:16:35,120
+{\r译文字幕}你真是太棒了
+{\r原文字幕}You're splendiferous!
+
+1195
+01:16:45,330 --> 01:16:49,230
+{\r译文字幕}各位  又是在神奇乐园中的一天
+{\r原文字幕}Okay, everyone. It was another day in Wonderland,
+
+1196
+01:16:49,230 --> 01:16:53,100
+{\r译文字幕}世界上最棒的游乐园
+{\r原文字幕}the most splendiferous amusement park in the world.
+
+1197
+01:16:53,100 --> 01:16:56,840
+{\r译文字幕}皮纳特很高兴能创造一个新项目
+{\r原文字幕}Peanut is excited to create a new ride.
+
+1198
+01:16:57,710 --> 01:17:00,240
+{\r译文字幕}有谁能提出建议吗
+{\r原文字幕}Anyone have any suggestions?
+
+1199
+01:17:01,410 --> 01:17:02,910
+{\r译文字幕}有  有  我
+{\r原文字幕}Yes, yes, yes!
+
+1200
+01:17:02,910 --> 01:17:04,110
+{\r译文字幕}琼  琼
+{\r原文字幕}June! June!
+
+1201
+01:17:04,110 --> 01:17:05,910
+{\r译文字幕}班基  你有什么想法
+{\r原文字幕}Banky, what are you thinking?
+
+1202
+01:17:05,910 --> 01:17:08,350
+{\r译文字幕}-一个摩天轮  -这是个好主意
+{\r原文字幕}- A Ferris wheel! - That's a great idea.
+
+1203
+01:17:08,350 --> 01:17:12,280
+{\r译文字幕}是一个普通老式的摩天轮吗
+{\r原文字幕}But are we thinking just like a regular old Ferris wheel?
+
+1204
+01:17:12,290 --> 01:17:15,150
+{\r译文字幕}用荧光棒做成的摩天轮
+{\r原文字幕}A Ferris wheel made out of glow sticks.
+
+1205
+01:17:15,160 --> 01:17:17,420
+{\r译文字幕}会飞的摩天轮
+{\r原文字幕}A Ferris wheel that flies!
+
+1206
+01:17:17,430 --> 01:17:21,930
+{\r译文字幕}荧光棒制成的飞天摩天轮  这是好主意
+{\r原文字幕}A flying Ferris wheel made of glow sticks. That's a great idea.
+
+1207
+01:17:21,930 --> 01:17:25,670
+{\r译文字幕}我想皮纳特需要马上知道这件事
+{\r原文字幕}I think Peanut needs to hear about this right away.
+
+1208
+01:17:25,670 --> 01:17:29,170
+{\r译文字幕}现在  皮纳特  我们想让你做这个
+{\r原文字幕}Now, Peanut, here's what we want you to do.
+
+1209
+01:17:29,170 --> 01:17:31,670
+{\r译文字幕}拿着你的记号笔来创造
+{\r原文字幕}Take your marker and create...
+
+1210
+01:17:31,670 --> 01:17:33,640
+{\r译文字幕}太好了  真棒
+{\r原文字幕}That's wonderful. Wonderful.
+
+1211
+01:17:33,640 --> 01:17:36,140
+{\r译文字幕}由荧光棒做成
+{\r原文字幕}made out of glow sticks.
+
+1212
+01:17:36,750 --> 01:17:38,310
+{\r译文字幕}荧光棒啊
+{\r原文字幕}Glow sticks, huh?
+
+1213
+01:17:38,310 --> 01:17:44,350
+{\r译文字幕}听起来像是个绝妙的主意
+{\r原文字幕}Ooh! Sounds like a splendiferous idea!
+
+1214
+01:17:44,350 --> 01:17:45,520
+{\r译文字幕}马上就来
+{\r原文字幕}Coming right up!
+
+1215
+01:17:50,190 --> 01:17:53,910
+{\r译文字幕}{\fs70\pos(190,100)}神奇乐园
+
