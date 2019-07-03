@@ -1,0 +1,32 @@
+The world's busiest transit lines, according to Google
+Karla Cripps, CNN ? Published 2nd July 2019
+
+The vast train network that criss-crosses subterranean Tokyo can be a confusing and intimidating place for the uninitiated -- particularly during rush hour. 
+(CNN) ¡ª You've just landed in an unfamiliar city after an excruciatingly long overnight flight.
+"It's rush hour," you think to yourself. "Forget the taxi. I'd better take the train into the city."
+What you didn't consider was the fact you're going to be fighting for space in a carriage so crowded you can barely breathe, all the while facing down the scowls of the locals as they shift their collective glance between you and your oversized suitcase.
+Related content
+Where are the world's best metro systems?
+Google Maps developers hope to alleviate that scenario with the latest addition to the tech giant's app, which they're calling "transit crowdedness predictions."
+The new feature lets you to check out the transit situations in more than 200 global cities, allowing you the option of postponing your journey if your desired route is a little too popular for comfort.
+To come up with the predictions, Google says it "analyzed aggregated and anonymized reports of crowdedness from Google Maps users from October 2018 to June 2019 during peak commuting hours (6 a.m. to 10 a.m.), and identified which lines had the highest number of crowdedness reports."
+According to Google Maps, New York's L train is the world's 10th busiest transit line. 
+According to Google Maps, New York's L train is the world's 10th busiest transit line.
+DON EMMERT/AFP/AFP/Getty Images
+That will explain those Google Maps notifications you might have been receiving, asking you to offer feedback on crowd conditions on the train, subway or bus you just rode.
+Using this data, they also compiled a list of the world's most-crowded transit lines. Though commuters in New York and Tokyo might feel like they've got the world beat, Buenos Aires and Sao Paulo actually dominate the list -- each of those South American cities has three transit lines in the top 10.
+New York's L train is the only transit line in the United States to make the list, while two Tokyo lines are included -- the only ones in Asia. Europe is represented too, with the Paris Metro's Line 13 snagging the number five spot.
+Here's the full top 10:
+1. Buenos Aires -- Urquiza Line
+2. S?o Paulo -- Line 11 (Coral)
+3. Buenos Aires -- Line A
+4. S?o Paulo -- Line 8 (Diamond)
+5. Paris -- Line 13
+6. Buenos Aires -- Line C
+7. Tokyo -- Chuo Line
+8. S?o Paulo -- Line 9 (Emerald)
+9. Tokyo -- Nippori-Toneri Liner
+10. New York -- L Train
+In addition to the crowdedness predictions, Google Maps has also introduced live updates on traffic delays for buses, which forecast holdups in hundreds of global cities.
+"This improves the accuracy of transit timing for over 60 million people," says a June 27 Google report announcing the feature.
+"This system, first launched in India three weeks ago, is driven by a machine learning model that combines real-time car traffic forecasts with data on bus routes and stops to better predict how long a bus trip will take."
