@@ -1,5 +1,6 @@
 a couple of
 a bunch of
+a frined of sb's
 a whole lot of
 all the way home
 all over
@@ -23,12 +24,14 @@ be about to
 be afraid of
 be in charge
 be into sth
+be more of sth
 be right back
 be right there
 be right over
 be scared
 be with sb (on sth)
 bite me
+black eye
 bowling alley
 brand new
 break in
@@ -78,6 +81,7 @@ drive you
 drop off
 I'm done
 I'm a dog person
+I'm here to see
 dwell on
 editing out any inconvenient data
 be on edge
@@ -90,6 +94,7 @@ fail you
 fall apart
 feel like
 feel better
+feel sorry for sb
 be fed up with
 figure out
 fill for sb
@@ -129,6 +134,7 @@ get hooked on
 better get going
 get along with sb
 get in there
+get in the way of
 get off me
 get rid of
 get lucky
@@ -151,6 +157,7 @@ he's gone
 good call
 sth grow on sb
 be grounded
+I guess not
 have a good one
 have any idea
 have no clue
@@ -200,19 +207,23 @@ knock/throw sb for a loop
 kick one's ass
 kill for sth
 sb is killing it
+leap of faith
 let you down
-let's cut to the chase
-let’s get it straight
+let's cut to the chase / let’s get it straight
 let go off me
 let it go
 leave sb alone
 I like it here
 like what
 lighten up
+line up for
+I can live with it
 look sharp
 look though
+long story short
 are you mad at me
 make amends
+make a confession
 make a wish
 make yourself at home
 knock yourself out
@@ -229,8 +240,7 @@ sb / sth is a mess
 sb went missing
 be more of
 my condolences
-mix sb up with sb
-mistaken sb for
+mix sb up with sb / mistaken sb for
 in the mood for
 in the long run / term
 name it
@@ -258,6 +268,7 @@ on special occasions
 on the house
 on one's own
 only if
+open your books to act two, scene two
 (a week) or so
 fight over a girl
 outrun sb
@@ -275,6 +286,7 @@ pop into one's head
 pop quiz
 pretty good
 pull over
+push me to the ground
 put up with
 put you through
 put some pressure on them
@@ -325,6 +337,7 @@ stand by
 stand clear
 stand sb up
 stare at
+stay away from sb
 stay with me. we are losing him
 stay put
 step down
@@ -343,7 +356,9 @@ take a pee
 take a look (around)
 take care
 take cover
+talk sb into doing
 talk back to
+I can tell by sth
 thanks for asking
 there you go
 It's right here
@@ -356,6 +371,7 @@ throw away
 toll free
 to the quick
 trash talk sb
+try my best
 turn against sb
 turn (it) on
 turn on sb
@@ -380,6 +396,7 @@ watch your head
 walk away from
 walk you
 walk you through the tasks
+want the money back
 wash out
 I'm wasted
 what took you so long
