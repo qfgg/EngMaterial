@@ -15,6 +15,7 @@ as soon as
 (BB) as in (Brandon Breyer)
 at half price
 at close range
+back to
 barge in
 beat around the bush
 beat sb to it
@@ -36,6 +37,7 @@ bowling alley
 brand new
 break in
 break a leg
+break the law
 bring it on
 bug a room
 bug sb
@@ -44,6 +46,7 @@ you are burning up
 have no business doing
 I'll buy you some time
 I don't buy it
+by the way
 my call
 calm down
 chill out
@@ -130,6 +133,7 @@ get back
 get out of
 get over
 get/ have a cold feet
+get a hold of sb
 get hooked on
 better get going
 get along with sb
@@ -181,18 +185,23 @@ how come
 how far would you go to
 hunt sb (down)
 He's impossible
+I'm afraid 
 I'm into it
 I'm in
 in a timeout
 in his shoes
-in the mood for / to do
 in plain view / sight
 in return
+in the grey area
+in the mood for / to do
+in the shape of
 invite sb over for sth
 in your favor
 is it just me, or (does he look disappointed)
 it sucks
+it's a shame
 it's best that
+it won't happen again
 jerk off
 join us
 I got no juice
@@ -201,6 +210,7 @@ keep going
 keep company
 keep sb plenty busy
 keep it down
+keep it that way
 keep this up
 knock it off
 knock/throw sb for a loop
@@ -221,6 +231,7 @@ I can live with it
 look sharp
 look though
 long story short
+lucky for you
 are you mad at me
 make amends
 make a confession
@@ -230,6 +241,7 @@ knock yourself out
 make out
 make your way to
 make it home
+makes it easier for us to
 make up
 man up
 I mean it
@@ -245,6 +257,7 @@ in the mood for
 in the long run / term
 name it
 narrow down
+nice shot
 night night
 no shit
 no way
@@ -277,9 +290,11 @@ out of luck
 out of ones mind
 out of practice
 want one of these
+over my head
 pass away
 her phone is dead
 pissed off
+pick it up
 she's got a point
 you made your point
 pop into one's head
@@ -318,7 +333,7 @@ side by side
 sign up
 sit around
 sleep in
-sleep tight
+sleep tight / good night / sweet dreams / night night
 shed light on
 shit my pants
 shut down
@@ -350,6 +365,7 @@ take a seat / have a seat / grab a seat
 take down
 take out
 take it easy (on sb)
+don't take it personal
 take a day off
 take a leak
 take a pee
@@ -399,6 +415,7 @@ walk you through the tasks
 want the money back
 wash out
 I'm wasted
+way too easy
 what took you so long
 whatever happened to loyalty
 what's going on
@@ -408,4 +425,6 @@ do you see where I'm going with this
 work out
 work on your self esteem
 worry about
+you're a quick study
 you are not helping
+you have potential
