@@ -25,6 +25,7 @@ believe in
 believe it or not
 be about to
 be afraid of
+be dressed
 be good at
 be in charge
 be into sth
@@ -118,6 +119,7 @@ forget about (this)
 for god's / christ sake
 for your record
 for your information
+for the first time in my life
 be freaked out
 that was really fun
 fuck with
@@ -139,7 +141,7 @@ get him
 get away
 get back
 get out of
-get over
+get over (sth)
 get/ have a cold feet
 get a hold of sb
 get hooked on
@@ -171,6 +173,8 @@ sth grow on sb
 be grounded
 I guess not
 has a better body
+hardly/not ... at all
+have an early night
 have a good one
 have any idea
 have enough of doing
@@ -195,10 +199,12 @@ hope for
 how come
 how far would you go to
 hunt sb (down)
+if I got the chance
 He's impossible
 I'm afraid 
 I'm into it
 I'm in
+in a mask
 in a timeout
 in his shoes
 in plain view / sight
@@ -214,6 +220,7 @@ it sucks
 it's only a matter of time
 it's a shame
 it's best that
+it's time for sb to do
 it won't happen again
 jerk off
 join us
@@ -238,11 +245,13 @@ let me out
 let me go
 let it go
 leave sb alone
+lie to sb
 I like it here
 like what
 lighten up
 line up for
 I can live with it
+lock down
 look for
 look sharp
 look though
@@ -257,7 +266,7 @@ make yourself at home
 knock yourself out
 make out
 make your way to
-make it home
+make it home / we could make the next showing
 makes it easier for us to
 make up
 man up
@@ -279,18 +288,23 @@ narrow down
 nice shot
 no big deal
 no shit
+no more homework
 no way
 no worries
 no offence - none taken 
+nobody comes in, nobody goes out
 it's none of your business / mind your own business
 not again
+not any more
 not if
 not today
 not even close
+not until
 now and again
 from now on
 it occurs to me
 offer to do
+one last thing
 on edge
 (I'm) on my way
 on the way back
@@ -305,6 +319,7 @@ open your books to act two, scene two
 (a week) or so
 fight over a girl
 outrun sb
+out of control
 out of line / cross a line
 out of luck
 out of ones mind
@@ -338,6 +353,7 @@ right now
 the right time
 rip a door off
 sth rocks
+risk sth for sth/sb
 round the clock
 rough on you
 rule out
@@ -372,6 +388,7 @@ so far
 so long
 sounds good
 be speeding
+spy on sb
 state-of-the-art
 stand by
 stand clear
@@ -382,6 +399,7 @@ stay with me. we are losing him
 stay put
 step down
 stick to
+stop doing
 be stuck with
 be stressed out
 be supposed to
@@ -414,6 +432,7 @@ toll free
 to the quick
 trash talk sb
 try my best
+try to do
 turn against sb
 turn (it) on
 turn (it) off
@@ -454,6 +473,9 @@ do you see where I'm going with this
 work out
 work on your self esteem
 worry about
+worth doing
+you bet
+you deserve better
 you're a quick study
 you are not helping
 you have potential
