@@ -80,6 +80,7 @@ come out of nowhere
 come over
 when it comes to
 come up with
+come with sb
 it's convenient that he died
 that's not cool
 wicked cool
@@ -202,6 +203,11 @@ hangover
 hang up on / put the phone down on
 hang on
 hear from
+help sb do sth
+help sb up
+help sb out
+help sb with
+help with sth
 here you go
 hide from
 hit him in the face
@@ -218,8 +224,9 @@ if I got the chance
 he's impossible
 I'm afraid 
 I'm into it
-I'm in
+sb's in
 I'm off (work)
+I'm okay with (that)
 in a mask
 in a timeout
 in his shoes
@@ -231,6 +238,7 @@ in the shape of
 invite sb over for sth
 in your favor
 is it just me, or (does he look disappointed)
+it depends
 it doesn't have to be
 it sucks
 it's only a matter of time
@@ -299,6 +307,7 @@ sb / sth is a mess
 in a mess
 sb went missing
 be more of
+most of the time
 move in with sb
 my condolences
 mix sb up with sb / mistaken sb for
@@ -349,6 +358,7 @@ out of ones mind
 out of practice
 want one of these
 over my head
+over the summer
 pass away
 pay off
 her phone is dead
@@ -368,6 +378,7 @@ put you through
 put some pressure on them
 put your weapon down
 put it off
+put it this/that way
 purpose in life
 quite down
 a regular (guy, microwave)
@@ -443,6 +454,7 @@ take cover
 take the edge off
 talk sb into doing
 talk back to
+tear us apart
 I can tell by sth
 thanks for asking
 the thought of
@@ -478,9 +490,6 @@ what are you up to tonight
 I was up all night
 you're up next
 give him a hand up
-help sb up
-help sb out
-help sb with
 update sb on sth
 I can really use that money
 use sth for doing
@@ -495,8 +504,9 @@ wash out
 I'm wasted
 way better/ way too easy
 what took you so long
-whatever happened to loyalty
+whatever happened to sth
 what's going on
+what's it gonna be
 what's with that
 what's the matter with you
 what's wrong with you
