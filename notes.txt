@@ -30,6 +30,7 @@ believe in
 believe it or not
 be about to
 be afraid of
+be bored of sth
 be dressed / get dressed
 be good at
 be in charge
@@ -48,6 +49,7 @@ bowling alley
 brand new
 break in
 break a leg
+break my heart
 break the law
 bring sb back
 bring it on
@@ -189,7 +191,6 @@ he's gone
 good call
 sth grow on sb
 be grounded
-I guess not
 has a better body
 hardly/not ... at all
 have a deal
@@ -225,11 +226,13 @@ how far would you go to
 hunt sb (down)
 if I got the chance
 he's impossible
+I guess not
 I'm afraid 
 I'm into it
 sb's in
 I'm off (work)
 I'm okay with (that)
+I was thinking (suggestion)
 in a mask
 in a timeout
 in his shoes
@@ -275,6 +278,7 @@ let sb in
 let sb out
 let sb go
 let it go
+leave behind
 leave sb alone
 lie to sb
 I like it here
@@ -291,7 +295,7 @@ look though
 long story short
 lucky for you
 are you mad at me
-make amends
+make amends / make it up to (you)
 make a confession
 make a difference
 make a wish
@@ -301,6 +305,7 @@ make out
 make your way to
 make it home / we could make the next showing
 makes it easier for us to
+make money`
 make up
 man up
 mean it
@@ -314,6 +319,7 @@ sb went missing
 be more of
 most of the time
 move in with sb
+my apologies to sb
 my condolences
 mix sb up with sb / mistaken sb for
 in the mood for
@@ -399,6 +405,7 @@ round the clock
 rough on you
 rule out
 run a red light
+say no to sb
 scare the shit out of
 see you soon
 see you later
@@ -427,8 +434,10 @@ sneak up on sb
 so be it
 so far
 so long
+so ready
 sounds good
 be speeding
+spend (my last week) doing sth
 spy on sb
 state-of-the-art
 stand by
@@ -465,6 +474,7 @@ I can tell by sth
 thanks for asking
 the thought of
 there you go
+there it is
 it's right here
 it's cold out here
 what's out there in the ocean
@@ -478,6 +488,7 @@ toll free
 to the quick
 trash my place
 trash talk sb
+trick sb into doing
 try my best
 try to do
 turn against sb
@@ -489,6 +500,7 @@ turn himself in to authorities
 turn out
 not my type
 under the circumstances
+up here
 how events unfold
 it's so unlike him
 it's up to you
