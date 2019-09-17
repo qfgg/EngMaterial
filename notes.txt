@@ -32,7 +32,8 @@ be about to
 be afraid of
 be bored of sth
 be dressed / get dressed
-be good at
+be good at doing sth
+be good with sth
 be in charge
 be in love with
 be into sth
@@ -42,6 +43,7 @@ be right there
 be right over
 be scared
 be screwed
+screw this
 be with sb (on sth)
 bite me
 black eye
@@ -120,6 +122,7 @@ feel like
 feel better
 feel free to do
 feel sorry for sb
+don't have feelings for
 be fed up with
 figure out
 fill for sb
@@ -168,6 +171,7 @@ get along with sb
 get in there
 get in the way of
 get off me
+get on (the table)
 get rid of
 get lucky
 get worse
@@ -186,6 +190,7 @@ go away
 go for (his knees)
 go off
 go on
+sth has been going on
 go through a lot
 he's gone
 good call
@@ -202,6 +207,7 @@ have no clue
 have sb do
 have fun
 have it wrong
+have sex
 hang out
 hangover
 hang up on / put the phone down on
@@ -230,8 +236,10 @@ I guess not
 I'm afraid 
 I'm into it
 sb's in
+I knew it
 I'm off (work)
 I'm okay with (that)
+I'm (so) lost
 I was thinking (suggestion)
 in a mask
 in a timeout
@@ -386,6 +394,7 @@ pretty good
 pull over
 push me to the ground
 put up with
+put you up to (this)
 put you through
 put some pressure on them
 put your weapon down
@@ -396,6 +405,7 @@ quite down
 a regular (guy, microwave)
 reach out to her
 out of reach
+refer to
 right now
 the right time
 rip a door off
@@ -425,6 +435,7 @@ sleep tight / good night / sweet dreams / night night
 slow down
 shed light on
 shit my pants
+show sb sth
 shut down
 shut up
 snap out of it
