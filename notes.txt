@@ -36,6 +36,7 @@ be good at doing sth
 be good with sth
 be in charge
 be in love with
+be in touch
 be into sth
 be more of sth
 be right back
@@ -86,6 +87,7 @@ sth come off
 come on
 come on in
 come out of nowhere
+come out of hiding
 come over
 when it comes to
 come up with
@@ -95,9 +97,10 @@ convince sb
 that's not cool
 wicked cool
 count me in
-cut it out
+cut it out / cut the crap
 cut out for
 dark horse
+dead end
 deal with
 die for
 dig in
@@ -156,7 +159,7 @@ from my point of view
 that was really fun
 fuck with
 fuck off
-I got your back / they have your back
+I got your back / they have your back / we are here for you
 I got it
 I gotta go
 that's gotta be / there's got to be
@@ -202,6 +205,7 @@ go for (his knees)
 go off
 go on
 sth has been going on
+went on that trip
 go through a lot
 go to the hospital
 he's gone / it's gone
@@ -239,6 +243,7 @@ holy shit
 a home
 be honest with sb
 I'm just being honest
+hook up with
 hope for
 how come
 how far would you go to
@@ -446,6 +451,7 @@ seek to
 seem like
 2 servings
 set a (good/great) example (for sb to do sth)
+set sth on fire
 on a shift
 be sick of
 side by side
@@ -491,6 +497,7 @@ take away (from sb)
 take a seat / have a seat / grab a seat
 take down
 take out
+take over
 take it easy (on sb)
 don't take it personal
 take a day off
@@ -500,6 +507,7 @@ take a look (around)
 take care
 take cover
 take the edge off
+take your time
 talk sb into doing
 talk back to
 tear us apart
@@ -514,12 +522,15 @@ it's cold out here
 what's out there in the ocean
 over there
 we are almost there
+that's noble of you
 that's not fair
+that's not how this game works
 this better be
 this whole time
 throw away
 toll free
 to the quick
+throw it on top
 trash my place
 trash talk sb
 trick sb into doing
@@ -561,7 +572,7 @@ what took you so long
 whatever happened to sth
 what's going on
 what's it gonna be
-what is it about
+what is it about / it's not about
 what's with that
 what's the matter with you
 what's the rush
@@ -578,3 +589,4 @@ you deserve better
 you're a quick study
 you are not helping
 you have potential
+he's the one who did sth
