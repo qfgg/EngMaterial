@@ -26,6 +26,7 @@ back to
 barge in
 beat around the bush
 beat sb to it
+beg for sth
 believe in
 believe it or not
 be about to
@@ -34,6 +35,7 @@ be bored of sth
 be dressed / get dressed
 be good at doing sth
 be good with sth
+be hard on sb
 be in charge
 be in love with
 be in touch
@@ -132,7 +134,7 @@ fall off (the table)
 feel like
 feel better
 feel free to do
-feel sorry for sb
+feel sorry/bad for sb
 don't have feelings for
 be fed up with
 figure out
@@ -161,6 +163,7 @@ fuck with
 fuck off
 I got your back / they have your back / we are here for you
 I got it
+you got that right
 I gotta go
 that's gotta be / there's got to be
 I've got to go
@@ -186,6 +189,7 @@ get in there
 get in the way of
 get off me
 get on (the table)
+(get) on your knees
 get rid of
 get lucky
 get worse
@@ -385,11 +389,12 @@ on edge
 on the way back
 I'm on it
 that's on me
+on one's own
+on patrol
 on special occasions
 on that note
 on the house
-on one's own
-on patrol
+on the job
 only if
 open your books to act two, scene two
 (a week) or so
@@ -418,6 +423,7 @@ pretty good
 pretty much
 pull over
 push me to the ground
+push sb off
 put up with
 put you up to (this)
 put you through
@@ -534,7 +540,8 @@ this better be
 this whole time
 throw away
 toll free
-to the quick
+(cut him) to the quick
+threaten to do sth
 throw it on top
 trash my place
 trash talk sb
@@ -592,6 +599,9 @@ worth doing
 you bet
 you deserve better
 you're a quick study
+he's the one who did sth
+need some time alone
+still nothing from sb
+there's something important I need to tell you
 you are not helping
 you have potential
-he's the one who did sth
