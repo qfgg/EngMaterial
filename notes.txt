@@ -72,6 +72,7 @@ burn down
 burn to ashes
 you are burning up
 have no business doing
+bust it open
 I'll buy you some time
 I don't buy it
 by far
@@ -120,6 +121,8 @@ cut out for
 dark horse
 dead end
 deal with
+depend on
+you did it
 die for
 dig in
 dissuade from
@@ -139,6 +142,7 @@ editing out any inconvenient data
 be on edge
 be on the edge of
 end up doing / end up with
+enough with
 enroll sb at ... school
 (every) once in a while
 everyday life
@@ -177,6 +181,7 @@ for the rest of your life
 force sb to do sth
 be freaked out
 from my point of view
+from the air
 that was really fun
 fuck with
 fuck off
@@ -216,7 +221,9 @@ get lucky
 get worse
 get sb's attention
 get sb's head around
+get sb home
 get (your ass) in the car
+get a better view
 give a shit
 give up (on)
 give in to
@@ -274,12 +281,14 @@ hit bottom
 hit him in the face
 hold on
 hold still
+hold the perfect temperature
 hole up
 holy shit
 a home
 be honest with sb
 I'm just being honest
 hook up with
+hop out
 hope for
 how come
 how far would you go to
@@ -379,6 +388,7 @@ make money
 make sb do sth
 make up
 man up
+mean business
 mean it
 mean to
 mean well
@@ -549,6 +559,7 @@ stay with me. we are losing him
 stay put / stay sealed
 steal sb's thunder
 step down
+step outside your comfort zone
 stick to
 stop doing
 be stuck in there
@@ -671,6 +682,7 @@ you are being ridiculous
 you are the only one (who can stop it)
 you are not helping
 you have potential
+that's why
 a way to what(end the game)
 where the garbage goes
 where they keep the medal
