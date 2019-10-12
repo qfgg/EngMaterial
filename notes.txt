@@ -3,7 +3,7 @@ a bunch of
 a frined of sb's
 a whole lot of
 after you
-all I'm asking
+all I'm asking is / all I ask is
 all day long
 all for what
 all-night
@@ -29,11 +29,13 @@ back to
 barge in
 beat around the bush
 beat sb to it
+beat the shit out of sb
 beg for sth
 believe in
 believe it or not
 be about to
 be afraid of
+be against
 be bored of sth
 be dressed / get dressed
 be fond of
@@ -119,6 +121,7 @@ convince sb
 that's not cool
 wicked cool
 count me in
+count on sb
 cut in line
 cut it out / cut the crap
 cut out for
@@ -179,6 +182,7 @@ for good
 for once
 for your record
 for your information
+for your own good
 for so long
 for years
 for the first time in my life
@@ -220,6 +224,7 @@ get in the way of
 get off me
 get on (the table)
 (get) on your knees
+get out of my way
 get past
 get rid of
 get lucky
@@ -230,6 +235,7 @@ get sb's head around
 get sb home
 get (your ass) in the car
 get a better view
+get to the point
 give a shit
 give up (on)
 give in to
@@ -261,7 +267,7 @@ have a deal
 have an early night
 have a good one
 have any idea
-have enough of doing
+have enough of doing / I've had enough of you
 have no clue
 have sb do
 have fun
@@ -276,6 +282,7 @@ head for
 head to
 just a heads-up
 hear from
+hear sb out
 help sb do sth
 help sb up
 help sb out
@@ -353,12 +360,14 @@ kick one's ass
 kill for sth
 sb is killing it
 kind of
+kneel down
 knock it off
 knock/throw sb for a loop
 sb is the boss
 lay down
 leap of faith
 let you down
+be straight with sb
 let's cut to the chase / get it/this straight
 let go off sb
 let sb in
@@ -396,6 +405,7 @@ make it home / we could make the next showing
 makes it easier for us to
 make money
 make sb do sth
+make the tough choices
 make up
 man up
 mean business
@@ -433,6 +443,7 @@ it's none of your business / mind your own business
 not again
 not any more
 not if
+not that
 not today
 not even close
 not until
@@ -464,7 +475,7 @@ out of control / under control
 out of line / cross a line
 out of luck
 out of ones mind
-out of order
+(go) out of order
 out of practice
 want one of these
 over my head
@@ -501,6 +512,7 @@ reach out to her
 out of reach
 refer to
 I relate to you
+a remote chance
 right away
 right now
 the right time
@@ -511,6 +523,7 @@ round the clock
 rough on you
 rule out
 run a red light
+save your skin
 say no to sb
 scare the shit out of
 see a doctor
@@ -522,6 +535,7 @@ see to it that
 seek to
 seem like
 seem to do
+sell sb out
 2 servings
 set a (good/great) example (for sb to do sth)
 set sth on fire
@@ -597,6 +611,8 @@ take turns
 take your time
 talk sb into doing
 talk back to
+talk for a second
+talk (some/a little) sense into sb
 tear us apart
 tell a secret
 I can tell by sth
@@ -627,10 +643,11 @@ trash talk sb
 trick sb into doing
 try me
 try my best
-try to do
+try to do / I'm trying to do
 turn against sb
 turn (it) on
 turn (it) off
+turn (it) over
 turn it up
 turn on sb
 turn himself in to authorities
@@ -689,6 +706,7 @@ don't even think about it
 he's the one who did sth
 need some time alone
 still nothing from sb
+I'm a man of my word
 is there any chance
 there's something important I need to tell you
 you are being ridiculous
