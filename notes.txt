@@ -108,6 +108,7 @@ chew up
 chicken out
 clean (it) up
 two seats in coach
+coin (it)
 come alone
 come by (to see)
 (this place is) coming down
@@ -183,6 +184,7 @@ fill me in on
 fill out this card
 find out
 finish what we started
+fire up
 fix (sth / sb) up
 other shops fold
 follow sb home from work
@@ -216,6 +218,7 @@ that's gotta be / there's got to be
 I've got to go
 I've got a dog
 got a little bit of a temper on me
+got something on my mind
 I get to
 I get fired
 I don't get that kid / don't get me wrong
@@ -307,6 +310,7 @@ help sb out
 help sb with
 help with sth
 here it is
+here we go
 here you go
 hide from
 hit bottom
@@ -519,7 +523,7 @@ pop into one's head
 pop quiz
 pretty good
 pretty much
-pull off
+pull (this) off
 pull over
 pull (sb) out
 pull yourself together
@@ -609,7 +613,7 @@ split up
 slip up
 spy on sb
 state-of-the-art
-stand by
+stand by / on standby
 stand clear
 stand sb up
 stare at
@@ -667,6 +671,7 @@ it's cold out here
 what's out there in the ocean
 over there
 we are almost there
+that's a good one
 that's noble of you
 that's not fair
 that's not how this game works
