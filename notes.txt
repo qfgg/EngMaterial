@@ -24,6 +24,7 @@ ask sb a favor
 as long as
 as soon as
 (BB) as in (Brandon Breyer)
+at all costs
 at half price
 at close range
 back out of
@@ -114,6 +115,7 @@ come by (to see)
 (this place is) coming down
 come from
 come in (1. get in; 2. radio)
+come in for supplies
 sth come off
 come on
 come on in
@@ -160,7 +162,7 @@ don't age
 editing out any inconvenient data
 be on edge
 be on the edge of
-end up doing / end up with
+end up doing / end up with / wind up
 enough with
 enroll sb at ... school
 (every) once in a while
@@ -207,6 +209,7 @@ force sb to do sth
 be freaked out
 from my point of view
 from the air
+fully functioning
 that was really fun
 fuck with
 fuck off
@@ -219,6 +222,7 @@ I've got to go
 I've got a dog
 got a little bit of a temper on me
 got something on my mind
+got a shot at doing
 I get to
 I get fired
 I don't get that kid / don't get me wrong
@@ -312,7 +316,7 @@ help with sth
 here it is
 here we go
 here you go
-hide from
+hide sth from sb
 hit bottom
 hit him in the face
 hold on
@@ -334,13 +338,15 @@ hustle up
 have the chance / if I got the chance
 he's impossible
 I guess not
-I'm afraid 
+I'm afraid
+I'm game
 I'm into it
 sb's in
 I knew it
 I'm off (work)
 I'm okay with (that)
 I'm (so) lost / you lost me there
+I've been there myself
 I was thinking (suggestion)
 I'm not through with you
 in a mask
@@ -414,6 +420,7 @@ look for
 look out for sb
 look sharp
 look though
+long face
 long story short
 lucky for you
 lure me out
@@ -479,6 +486,7 @@ now and again
 from now on
 it occurs to me
 offer to do
+old flame
 one last thing
 on edge
 (I'm) on my way
@@ -550,7 +558,7 @@ a remote chance
 right away
 right now
 the right time
-rip a door off
+rip (a door) off
 sth rocks
 risk sth for sth/sb
 roll the dice on
@@ -590,7 +598,8 @@ a shabby place
 shake on it
 shame on you
 shed light on
-shit my pants
+shit my pants / pee my pants
+shove them up your butt/ass
 show sb sth
 show up
 shut down
@@ -618,6 +627,7 @@ stand clear
 stand sb up
 stare at
 start it up
+start with sth
 stay away from sb
 stay with
 stay with me. we are losing him
@@ -716,6 +726,7 @@ use sth for doing
 the very same model
 wait it out
 wait up
+wallow in self-pity
 wake up
 watch your head
 watch out (for)
@@ -744,6 +755,7 @@ work as a team
 work out / didn't work out
 work on your self esteem
 work sb's ass off
+sth doesn't work that way
 worry about / I'm worried about sb
 worth doing
 would be better off
