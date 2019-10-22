@@ -16,9 +16,11 @@ all the way home
 all together
 all over
 and all
+and yet
 apart from
 apologize for
 are you kidding me / are you shitting me
+ask for
 ask her out
 ask sb a favor
 as long as
@@ -145,6 +147,7 @@ die for
 dig in
 dissuade from
 won't do much
+do-over
 I don't think so
 don't bother
 double for sb
@@ -156,7 +159,6 @@ drive you
 drop off
 I'm done / be done with (sth)
 I'm a dog person
-I'm here to see
 dwell on
 don't age
 editing out any inconvenient data
@@ -227,6 +229,8 @@ I get to
 I get fired
 I don't get that kid / don't get me wrong
 gotcha
+get it done
+get sb on sb's feet
 get sb laid
 get sb sth
 get sb to do
@@ -291,6 +295,7 @@ hardly/not ... at all
 have a deal
 have an early night
 have a good one
+have a panic attack
 have any idea
 have enough of doing / I've had enough of you
 have no clue
@@ -314,6 +319,7 @@ help sb out
 help sb with
 help with sth
 here it is
+here's the deal
 here we go
 here you go
 hide sth from sb
@@ -334,7 +340,7 @@ how come
 how far would you go to
 how hard can it be
 hunt sb (down)
-hustle up
+hustle / hustle up / hurry it up / chop-chop
 have the chance / if I got the chance
 he's impossible
 I guess not
@@ -348,12 +354,16 @@ I'm okay with (that)
 I'm (so) lost / you lost me there
 I've been there myself
 I was thinking (suggestion)
+I'm here to see
+I'm losing it
 I'm not through with you
 in a mask
 in a row
 in a timeout
+in battle
 in credit card debt
 in his shoes
+in motion
 in one piece
 in plain view / sight
 in return
@@ -448,6 +458,7 @@ mean it
 mean to
 mean well
 meet us at
+mess around
 mess with / fuck with
 sb / sth is a mess
 be messed up
@@ -465,6 +476,7 @@ america's most wanted
 in the long run / term
 name it
 narrow down
+never mind
 next to sb
 nice job
 nice shot
@@ -500,6 +512,7 @@ on patrol
 on special occasions
 on that note
 on the bright side
+we're on the clock
 on the house
 on the job
 on top of
@@ -517,6 +530,7 @@ out of ones mind
 (go) out of order
 out of practice
 want one of these
+want sb back
 over my head
 over the summer
 pass away
@@ -536,7 +550,7 @@ pretty much
 pull (this) off
 pull over
 pull (sb) out
-pull yourself together
+pull yourself together / get it together
 push me to the ground
 push sb off
 put up with
@@ -592,7 +606,7 @@ on a shift
 be sick of
 side by side
 sign up (for)
-sit around
+sit around / stand around
 sleep in
 sleep tight / good night / sweet dreams / night night
 slow down
@@ -620,6 +634,7 @@ be sorry for (what I said)
 sounds good
 be speeding
 spend (my last week) doing sth
+my head is splitting
 split up
 slip up
 spy on sb
@@ -629,6 +644,7 @@ stand clear
 stand sb up
 stare at
 start it up
+start over
 start with sth
 stay low / low key
 stay away from sb
@@ -676,6 +692,7 @@ I can tell by sth
 thanks for asking
 the thought of
 things have been (crazy)
+things look like
 think about doing sth
 there you go
 there it is
@@ -715,6 +732,7 @@ it's sb's turn / have sb's turn
 turn to
 not my type
 under the circumstances
+up a storm
 up here
 how events unfold
 it's so unlike him
@@ -727,6 +745,7 @@ update sb on sth
 I can really use that money
 use sth for doing
 the very same model
+wait around
 wait it out
 wait up
 wallow in self-pity
@@ -762,6 +781,7 @@ sth doesn't work that way
 worry about / I'm worried about sb
 worth doing
 would be better off
+be wrapped up
 you bet
 you deserve better
 you're a quick study
@@ -770,6 +790,7 @@ don't even think about it
 he's the one who did sth
 need some time alone
 still nothing from sb
+I will make you proud
 I'm a man of my word
 is there any chance
 there's something important I need to tell you
@@ -781,3 +802,4 @@ that's why
 a way to what(end the game)
 where the garbage goes
 where they keep the medal
+that suit does nothing for you ass
