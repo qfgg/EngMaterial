@@ -1,0 +1,646 @@
+﻿
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H00000000,&H00804000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.66,0:00:25.66,Default,,0000,0000,0000,,字幕校对+特效: 月亮花@MySiLU思路高清
+Dialogue: 0,0:00:46.66,0:00:51.39,Default,,0000,0000,0000,,在杨克镇之外，有另一个世界\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Out there There's a world outside of Yonkers #
+Dialogue: 0,0:00:51.47,0:00:56.07,Default,,0000,0000,0000,,在那遥远的地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Way out there beyond this hick town, Barnaby #
+Dialogue: 0,0:00:56.50,0:01:00.02,Default,,0000,0000,0000,,一个美丽的小镇，巴纳比\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# There's a slick town, Barnaby #
+Dialogue: 0,0:01:00.59,0:01:06.08,Default,,0000,0000,0000,,那里阳光明媚  繁星闪烁\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Out there Full of shine and full of sparkle #
+Dialogue: 0,0:01:06.16,0:01:11.13,Default,,0000,0000,0000,,轻合双眸 也能看到它在闪耀，巴纳比\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Close your eyes and see it glisten, Barnaby #
+Dialogue: 0,0:01:11.82,0:01:15.31,Default,,0000,0000,0000,,听啊，巴纳比\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Listen, Barnaby #
+Dialogue: 0,0:01:20.83,0:01:25.61,Default,,0000,0000,0000,,穿上你的节日盛装 外面的世界才宽广\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Put on your Sunday clothes There's lots of world out there #
+Dialogue: 0,0:01:25.75,0:01:29.69,Default,,0000,0000,0000,,甩掉那廉价的发油和雪茄\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Get out the brilliantine and dime cigars #
+Dialogue: 0,0:01:30.59,0:01:35.30,Default,,0000,0000,0000,,让我们在晚风中开始探险\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're gonna find adventure in the evening air #
+Dialogue: 0,0:01:35.58,0:01:40.45,Default,,0000,0000,0000,,一袭白衣的女子幽香了夜晚 灯光闪亮如同星辰\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Girls in white in a perfumed night. Where the lights are bright as the stars #
+Dialogue: 0,0:01:40.64,0:01:45.27,Default,,0000,0000,0000,,穿上你的节日盛装 我们驶过整座小镇\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Put on your Sunday clothes We're gonna ride through town #
+Dialogue: 0,0:01:45.75,0:01:50.06,Default,,0000,0000,0000,,我们乘坐敞篷马车\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# In one of those new horsedrawn open cars #
+Dialogue: 0,0:01:50.13,0:01:52.54,Default,,0000,0000,0000,,前去观看戴尔莫尼克（大饭店）的表演\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We'll see the shows at Delmonico's #
+Dialogue: 0,0:01:52.67,0:01:55.25,Default,,0000,0000,0000,,我们熙熙攘攘，启程回家\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And we'll close the town in a whirl #
+Dialogue: 0,0:01:55.35,0:02:00.18,Default,,0000,0000,0000,,我们亲吻心仪的女孩  我们充满青春活力\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And we won't come home until we've kissed a girl #
+Dialogue: 0,0:03:49.00,0:03:51.00,Default,,0000,0000,0000,,“Buy N Large加油站”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:03:54.00,0:03:56.00,Default,,0000,0000,0000,,“Buy N Large银行”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Buy N Large is your superstore #
+Dialogue: 0,0:04:04.00,0:04:06.30,Default,,0000,0000,0000,,“地球被垃圾覆盖 Buy N Large总裁宣称，全球进入紧急状况”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:04:09.00,0:04:11.00,Default,,0000,0000,0000,,WALL-E帮您摆脱垃圾\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:05:00.47,0:05:01.97,Default,,0000,0000,0000,,您家中垃圾成堆？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Too much garbage in your face?
+Dialogue: 0,0:05:02.25,0:05:04.33,Default,,0000,0000,0000,,太空中还空着呢！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's plenty of space out in space!
+Dialogue: 0,0:05:04.80,0:05:07.06,Default,,0000,0000,0000,,BNL星际航班每日出航\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}BNL star liners leaving each day.
+Dialogue: 0,0:05:07.33,0:05:09.88,Default,,0000,0000,0000,,我们将在您外出时 把您家中杂物收拾妥当\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We'll clean up the mess while you're away!
+Dialogue: 0,0:05:14.18,0:05:17.40,Default,,0000,0000,0000,,BNL舰队中的钻石，Axiom号 （Axiom：真理号）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The jewel of the BNL fleet, the Axiom.
+Dialogue: 0,0:05:17.58,0:05:19.81,Default,,0000,0000,0000,,它让您五年的太空之旅豪华舒适\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Spend your five-year cruise in style,
+Dialogue: 0,0:05:20.11,0:05:23.55,Default,,0000,0000,0000,,全天24小时无间断的周到服务 由全自动的机组人员提供\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}waited on 24 hours a day by our fully automated crew,
+Dialogue: 0,0:05:23.75,0:05:27.76,Default,,0000,0000,0000,,船长和机器人舵手 也将为您呈献无尽的娱乐\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}while your captain and autopilot
+Dialogue: 0,0:05:27.85,0:05:28.85,Default,,0000,0000,0000,,购物，就餐\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}chart a course for nonstop entertainment, fine dining,
+Dialogue: 0,0:05:28.93,0:05:33.15,Default,,0000,0000,0000,,全由畅通无阻的悬浮座椅效劳 连老奶奶都能享受其中乐趣\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and with our all-access hoverchairs, even Grandma can join the fun.
+Dialogue: 0,0:05:33.38,0:05:34.98,Default,,0000,0000,0000,,您无需步行\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's no need to walk.
+Dialogue: 0,0:05:35.14,0:05:38.64,Default,,0000,0000,0000,,Axiom号，星级航班公司的骄傲\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The Axiom. Putting the star in executive star liner.
+Dialogue: 0,0:05:38.92,0:05:43.16,Default,,0000,0000,0000,,正因为BNL 太空才最终被开拓\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Because at BNL, space is the final fun-tier!
+Dialogue: 0,0:06:45.12,0:06:48.29,Default,,0000,0000,0000,,…周日… 周日不做周一事…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# No Monday in your Sunday #
+Dialogue: 0,0:06:48.46,0:06:53.45,Default,,0000,0000,0000,,周日不穿周一装！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# No Monday in your Sunday clothes #
+Dialogue: 0,0:06:53.95,0:06:58.48,Default,,0000,0000,0000,,当你低落时 就请穿上盛装\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Put on your Sunday clothes when you feel down and out #
+Dialogue: 0,0:06:59.16,0:07:02.93,Default,,0000,0000,0000,,昂首走上街头 别忘拍照留念\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Strut down the street and have your picture took #
+Dialogue: 0,0:07:04.46,0:07:08.59,Default,,0000,0000,0000,,穿得梦幻 精神似乎也已大好\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Dressed like a dream Your spirits seem to turn about #
+Dialogue: 0,0:07:08.92,0:07:13.92,Default,,0000,0000,0000,,如果你的气色如周日 那才是真的神采飞扬！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# That Sunday shine is a certain sign. That you feel as fine as you look #
+Dialogue: 0,0:07:15.64,0:07:18.30,Default,,0000,0000,0000,,…关于\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:07:18.78,0:07:24.08,Default,,0000,0000,0000,,我们都将忆起…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And we'll recall #
+Dialogue: 0,0:07:24.71,0:07:30.71,Default,,0000,0000,0000,,…当流年似水\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# When time runs out #
+Dialogue: 0,0:07:32.25,0:07:38.25,Default,,0000,0000,0000,,只要…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# That it only #
+Dialogue: 0,0:07:38.92,0:07:44.92,Default,,0000,0000,0000,,…一瞬间\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# took a moment #
+Dialogue: 0,0:07:46.16,0:07:50.90,Default,,0000,0000,0000,,就被爱上…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# to be loved #
+Dialogue: 0,0:07:51.52,0:08:04.52,Default,,0000,0000,0000,,…一生一世！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# a whole life long #
+Dialogue: 0,0:08:19.25,0:08:24.14,Default,,0000,0000,0000,,这就是\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And that is all #
+Dialogue: 0,0:08:24.66,0:08:28.24,Default,,0000,0000,0000,,爱的真谛\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# that love's about #
+Dialogue: 0,0:08:51.31,0:08:56.31,Default,,0000,0000,0000,,…一瞬间\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}#... a moment #
+Dialogue: 0,0:08:57.35,0:09:02.05,Default,,0000,0000,0000,,就被爱上…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# To be loved #
+Dialogue: 0,0:09:02.06,0:09:15.06,Default,,0000,0000,0000,,…一生一世！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# a whole life long #
+Dialogue: 0,0:09:20.06,0:09:22.06,Default,,0000,0000,0000,,“警告 太阳能电量过低”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:20:01.64,0:20:05.96,Default,,0000,0000,0000,,靠近我，抱紧我\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Hold me close and hold me fast #
+Dialogue: 0,0:20:06.17,0:20:09.76,Default,,0000,0000,0000,,你施的魔咒\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# The magic spell you cast #
+Dialogue: 0,0:20:09.87,0:20:14.00,Default,,0000,0000,0000,,就是玫瑰人生\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# This is la vie en rose #
+Dialogue: 0,0:20:15.43,0:20:19.85,Default,,0000,0000,0000,,你吻我时，天堂都向我敞开\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# When you kiss me heaven sighs #
+Dialogue: 0,0:20:20.26,0:20:23.32,Default,,0000,0000,0000,,即使闭上双眼\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And though I close my eyes #
+Dialogue: 0,0:20:23.70,0:20:28.10,Default,,0000,0000,0000,,也能看到玫瑰人生\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# I see la vie en rose #
+Dialogue: 0,0:20:29.47,0:20:34.07,Default,,0000,0000,0000,,当你将我贴近心房\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# When you press me to your heart #
+Dialogue: 0,0:20:34.41,0:20:37.46,Default,,0000,0000,0000,,我就身处另一个世界\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# I'm in a world apart #
+Dialogue: 0,0:20:37.78,0:20:41.74,Default,,0000,0000,0000,,那里玫瑰遍地怒放\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# A world where roses bloom #
+Dialogue: 0,0:20:42.66,0:20:48.61,Default,,0000,0000,0000,,你开口说话 天使便会歌唱\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And when you speak Angels sing from above #
+Dialogue: 0,0:20:49.87,0:20:52.77,Default,,0000,0000,0000,,最平凡的语言\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Everyday words seem to #
+Dialogue: 0,0:20:53.24,0:20:57.09,Default,,0000,0000,0000,,也成了情歌\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}#turn into love songs #
+Dialogue: 0,0:22:20.81,0:22:22.24,Default,,0000,0000,0000,,取消 （就是不准小WALL-E牵牵小手哦）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:22:25.43,0:22:29.87,Default,,0000,0000,0000,,方位？数量？你是商贩机器人吗？ （在调查人口哈）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:22:30.00,0:22:31.42,Default,,0000,0000,0000,,指令？ （是问Wall-E接受何种语言指令）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}EVE: Directive?
+Dialogue: 0,0:22:32.45,0:22:33.65,Default,,0000,0000,0000,,指令？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}EVE: Directive?
+Dialogue: 0,0:22:42.66,0:22:43.74,Default,,0000,0000,0000,,嗒嗒~ (以为受到指令去执行预设功能)\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}WALL-E: Ta-da!
+Dialogue: 0,0:22:45.77,0:22:49.83,Default,,0000,0000,0000,,-指…令？ (是你给我的指令吗？) -指令？(这就是你的功能？)\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-(ENUNCIATING) Directive? -Directive?
+Dialogue: 0,0:22:50.70,0:22:52.04,Default,,0000,0000,0000,,分类完毕！ （知道Wall-E是扫垃圾的了）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Classified.
+Dialogue: 0,0:22:54.00,0:22:55.84,Default,,0000,0000,0000,,姓名？ （突然又好奇）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}EVE: Name?
+Dialogue: 0,0:22:57.42,0:23:00.46,Default,,0000,0000,0000,,Wa…Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:00.85,0:23:02.14,Default,,0000,0000,0000,,Wall-E？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:03.86,0:23:05.26,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:06.16,0:23:07.66,Default,,0000,0000,0000,,Eve\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:07.91,0:23:10.25,Default,,0000,0000,0000,,-E… -Eve！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:10.56,0:23:14.15,Default,,0000,0000,0000,,-E…A… -Eve！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:14.42,0:23:18.10,Default,,0000,0000,0000,,-Eve！ -Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:20.22,0:23:21.92,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:22.78,0:23:24.26,Default,,0000,0000,0000,,Eve\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:31.60,0:23:34.69,Default,,0000,0000,0000,,Eva！ E-E-Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:23:40.22,0:23:44.71,Default,,0000,0000,0000,,Wall-E…Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:24:10.62,0:24:12.02,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:24:26.35,0:24:28.68,Default,,0000,0000,0000,,这是我写的一首歌\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Here is a little song I wrote #
+Dialogue: 0,0:24:29.04,0:24:32.08,Default,,0000,0000,0000,,一个音符一个音符得唱… 别怕\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}#... note for note Don't worry #
+Dialogue: 0,0:24:34.11,0:24:35.57,Default,,0000,0000,0000,,开心点\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Be happy #
+Dialogue: 0,0:24:40.84,0:24:41.84,Default,,0000,0000,0000,,拿着\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here.
+Dialogue: 0,0:24:50.18,0:24:51.23,Default,,0000,0000,0000,,看\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}WALL-E: Look.
+Dialogue: 0,0:24:52.38,0:24:53.38,Default,,0000,0000,0000,,爆\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Pop.
+Dialogue: 0,0:24:54.15,0:24:55.35,Default,,0000,0000,0000,,(你来)啪\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You pop.
+Dialogue: 0,0:27:25.12,0:27:29.95,Default,,0000,0000,0000,,那就是\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And that is all #
+Dialogue: 0,0:27:30.36,0:27:34.85,Default,,0000,0000,0000,,爱的真谛\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# that love's about #
+Dialogue: 0,0:27:35.80,0:27:40.71,Default,,0000,0000,0000,,我们将忆起…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And we'll recall #
+Dialogue: 0,0:27:41.08,0:27:47.08,Default,,0000,0000,0000,,…当流年似水\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# When time runs out #
+Dialogue: 0,0:27:49.01,0:27:54.38,Default,,0000,0000,0000,,只要…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# That it only #
+Dialogue: 0,0:27:56.26,0:28:02.17,Default,,0000,0000,0000,,…一瞬间\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Took a moment #
+Dialogue: 0,0:28:02.85,0:28:05.03,Default,,0000,0000,0000,,就被爱上…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# to be loved #
+Dialogue: 0,0:28:05.18,0:28:06.41,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:28:08.14,0:28:20.14,Default,,0000,0000,0000,,…一生一世\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# A whole life long #
+Dialogue: 0,0:28:55.76,0:28:57.40,Default,,0000,0000,0000,,Eva？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:28:59.21,0:29:00.84,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:29:05.52,0:29:07.33,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:29:08.68,0:29:10.36,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:29:11.67,0:29:14.29,Default,,0000,0000,0000,,E-E-Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:32:18.62,0:32:20.50,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:32:23.43,0:32:25.46,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:32:31.40,0:32:33.18,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:32:36.59,0:32:37.79,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:33:05.28,0:33:07.93,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:34:01.09,0:34:02.09,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:36:25.10,0:36:26.30,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:36:50.30,0:36:52.30,Default,,0000,0000,0000,,“外来污染物”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:38:18.25,0:38:19.51,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:38:27.80,0:38:29.40,Default,,0000,0000,0000,,“外来污染物”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:38:51.43,0:38:52.43,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:39:26.71,0:39:28.16,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:39:31.48,0:39:37.06,Default,,0000,0000,0000,,那我们就离开车道 去看场太空虚拟赛车吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}so let's hover over to the driving range and hit a few virtual balls into space.
+Dialogue: 0,0:39:37.26,0:39:39.67,Default,,0000,0000,0000,,别，昨天我们已经干过这了 我不想再去\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, we did that yesterday. I don't want to do that.
+Dialogue: 0,0:39:39.87,0:39:43.49,Default,,0000,0000,0000,,-那你想干什么呢？ -我也不知道，总得干点什么\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Well, then what do you want to do? -I don't know. Something.
+Dialogue: 0,0:39:51.49,0:39:53.59,Default,,0000,0000,0000,,-我们刚卖了… -听着，我已经烦了…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look, I'm tired of having the same argument over and over.
+Dialogue: 0,0:40:04.45,0:40:06.29,Default,,0000,0000,0000,,机器人，这边！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bot, over here.
+Dialogue: 0,0:40:10.43,0:40:13.00,Default,,0000,0000,0000,,[欢迎光临 经济娱乐圈]\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:40:13.37,0:40:17.37,Default,,0000,0000,0000,,-我在隧道里，听不清 -原来你在这儿\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-I'm in a tunnel. I can't hear you. -There you are.
+Dialogue: 0,0:40:17.96,0:40:19.39,Default,,0000,0000,0000,,[时间12:15 气温22°C]\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:40:20.11,0:40:23.74,Default,,0000,0000,0000,,在Buy N Large 有您快乐所需的一切\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Buy N Large. Everything you need to be happy.
+Dialogue: 0,0:40:23.87,0:40:26.62,Default,,0000,0000,0000,,您的需求对我们至关重要\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your day is very important to us.
+Dialogue: 0,0:40:27.85,0:40:29.75,Default,,0000,0000,0000,,过来！ 拿着，拿着杯子\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, drink-bot.
+Dialogue: 0,0:40:30.08,0:40:31.37,Default,,0000,0000,0000,,嘿，拿着杯子！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here, take the cup. Hey, take the cup!
+Dialogue: 0,0:40:35.87,0:40:37.34,Default,,0000,0000,0000,,请勿乱动\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please remain stationary.
+Dialogue: 0,0:40:37.48,0:40:40.62,Default,,0000,0000,0000,,机器服务员将即刻赶到 为您提供帮助\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A service-bot will be here to assist you momentarily.
+Dialogue: 0,0:40:41.01,0:40:43.16,Default,,0000,0000,0000,,乘务员！帮帮我！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stewards! Hello!
+Dialogue: 0,0:40:43.38,0:40:44.82,Default,,0000,0000,0000,,请勿乱动！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Please remain stationary. -Help.
+Dialogue: 0,0:40:45.08,0:40:48.54,Default,,0000,0000,0000,,机器服务员将即刻赶到 为您提供帮助\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A service-bot will be here to assist you momentarily.
+Dialogue: 0,0:40:48.73,0:40:50.53,Default,,0000,0000,0000,,怎么回事？ 发生什么事了？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's that? What's going on?
+Dialogue: 0,0:40:53.36,0:40:55.15,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:40:56.85,0:40:58.03,Default,,0000,0000,0000,,John\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:40:58.06,0:41:01.22,Default,,0000,0000,0000,,-（看到）Eva吗？ -不是，我叫John\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Uh, no. John.
+Dialogue: 0,0:41:03.89,0:41:04.94,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:41:05.40,0:41:06.66,Default,,0000,0000,0000,,拜，Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bye, WALL-E.
+Dialogue: 0,0:41:12.82,0:41:15.98,Default,,0000,0000,0000,,A是Axiom的A 它是你美好的家园\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"A" is for Axiom, your home sweet home.
+Dialogue: 0,0:41:16.44,0:41:20.36,Default,,0000,0000,0000,,B是Buy N Large的B 它是你生活最好的伙伴\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"B" is for Buy N Large, your very best friend.
+Dialogue: 0,0:41:22.73,0:41:25.33,Default,,0000,0000,0000,,午餐时间，杯装食品哦\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Time for lunch in a cup.
+Dialogue: 0,0:41:31.29,0:41:33.37,Default,,0000,0000,0000,,（在这里）体验美丽！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Feel beautiful.
+Dialogue: 0,0:41:33.58,0:41:36.05,Default,,0000,0000,0000,,-我在学习呢 -我知道，亲爱的，嘿…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-It's the new you. Stunning. -You look great.
+Dialogue: 0,0:41:36.21,0:41:41.08,Default,,0000,0000,0000,,Axiom的消费者请注意！ 试试蓝色，最新时尚哦\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Attention, Axiom shoppers. Try blue. It's the new red.
+Dialogue: 0,0:41:48.49,0:41:50.78,Default,,0000,0000,0000,,约会？别提约会了，一提我就生气\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Date? Don't get me started on the date.
+Dialogue: 0,0:41:50.88,0:41:54.65,Default,,0000,0000,0000,,…之前的每一次约会 都完完全全是灾难！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Every holo-date I have been on has been a virtual disaster.
+Dialogue: 0,0:41:56.36,0:42:00.19,Default,,0000,0000,0000,,-我只是想找个不那么肤浅的人，你懂吗？ -嗯，我懂，亲爱的\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If I could just meet one, one who wasn't so superficial.
+Dialogue: 0,0:42:00.44,0:42:01.54,Default,,0000,0000,0000,,世上的男人那么多\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There are no good men out there.
+Dialogue: 0,0:42:01.62,0:42:05.32,Default,,0000,0000,0000,,嗯，我知道，我知道，因为我… 怎么回…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know. I know because I've...
+Dialogue: 0,0:42:14.69,0:42:15.95,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:42:16.98,0:42:19.50,Default,,0000,0000,0000,,-我叫Mary -Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:42:21.80,0:42:24.42,Default,,0000,0000,0000,,哦，哦，没问题，过吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh! Oh. Um, sure. You go ahead.
+Dialogue: 0,0:42:25.78,0:42:26.86,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:42:34.26,0:42:35.49,Default,,0000,0000,0000,,遮阳伞！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shade!
+Dialogue: 0,0:42:50.30,0:42:52.51,Default,,0000,0000,0000,,我都不知道我们还有游泳池！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I didn't know we had a pool!
+Dialogue: 0,0:43:59.14,0:44:00.97,Default,,0000,0000,0000,,船长，有要事，请上驾驶舱\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}AUTO: Captain, you are needed on the bridge.
+Dialogue: 0,0:44:22.78,0:44:24.25,Default,,0000,0000,0000,,我上甲板了！ （可能是梦话）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All hands on deck!
+Dialogue: 0,0:44:26.07,0:44:28.79,Default,,0000,0000,0000,,早上好 要打扮打扮吗？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Morning. Just a trim?
+Dialogue: 0,0:44:35.25,0:44:38.66,Default,,0000,0000,0000,,哦，我明白 我知道，亲爱的，我知道\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I see. I know, honey. I know.
+Dialogue: 0,0:44:38.96,0:44:41.66,Default,,0000,0000,0000,,快好了快好了 你看上去棒极了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm good, I am good. You look gorgeous.
+Dialogue: 0,0:45:02.19,0:45:03.48,Default,,0000,0000,0000,,-船长  -咖啡\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Sir? -Coffee.
+Dialogue: 0,0:45:13.63,0:45:15.30,Default,,0000,0000,0000,,船长…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir, the annual...
+Dialogue: 0,0:45:15.83,0:45:18.45,Default,,0000,0000,0000,,程序，Auto 做事要分主次\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Protocol, Auto. First things first.
+Dialogue: 0,0:45:19.03,0:45:20.99,Default,,0000,0000,0000,,计算机！状态报告\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Computer, status report.
+Dialogue: 0,0:45:23.01,0:45:25.02,Default,,0000,0000,0000,,-机械系统？  -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Mechanical systems. -Unchanged.
+Dialogue: 0,0:45:25.19,0:45:27.18,Default,,0000,0000,0000,,-反应堆核心温度？  -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Reactor core temperature. -Unchanged.
+Dialogue: 0,0:45:27.36,0:45:28.97,Default,,0000,0000,0000,,-乘客人数？  -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Passenger count. -Unchanged.
+Dialogue: 0,0:45:29.00,0:45:31.33,Default,,0000,0000,0000,,-食物供应？  -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Regenerative food buffet. -Unchanged.
+Dialogue: 0,0:45:31.48,0:45:33.36,Default,,0000,0000,0000,,-太空船维修基地？ -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Jacuzzi pH balance. -Unchanged.
+Dialogue: 0,0:45:33.50,0:45:35.54,Default,,0000,0000,0000,,-大气状态？  -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Atmospheric conditions. -Unchanged.
+Dialogue: 0,0:45:35.69,0:45:37.78,Default,,0000,0000,0000,,-环境状态？  -正常\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Laundry service volume. -Unchanged.
+Dialogue: 0,0:45:37.87,0:45:40.21,Default,,0000,0000,0000,,-好了，Auto -船长，我们有…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Okay, Auto. -Sir, the annual reconnaissance...
+Dialogue: 0,0:45:40.47,0:45:43.85,Default,,0000,0000,0000,,12:30了？Auto，你干嘛不叫醒我 做早晨的例行报告？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-12:30! Auto, why didn't you wake me for morning announcements?
+Dialogue: 0,0:45:46.47,0:45:49.03,Default,,0000,0000,0000,,老实说，这恐怕是我在这儿唯一能做的事\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Honestly, it's the one thing I get to do on this ship.
+Dialogue: 0,0:45:57.61,0:45:59.68,Default,,0000,0000,0000,,各位早上好啊\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, good morning, everybody,
+Dialogue: 0,0:45:59.87,0:46:05.28,Default,,0000,0000,0000,,今天将是你在船上度过的第255，642天\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and welcome to day 255,642 aboard the Axiom.
+Dialogue: 0,0:46:05.61,0:46:09.84,Default,,0000,0000,0000,,和平时一样，今天气候宜人 温度22摄氏度，阳光普照…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}As always, the weather is a balmy 72 degrees and sunny and...
+Dialogue: 0,0:46:10.39,0:46:14.37,Default,,0000,0000,0000,,哦，嘿，我看见飞船日志上显示 今天是我们五年巡游的…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, I see the ship's log is showing that today is our 700th anniversary
+Dialogue: 0,0:46:14.65,0:46:18.40,Default,,0000,0000,0000,,…700周年纪念日 我相信我们的父辈们…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}of our five-year cruise.
+Dialogue: 0,0:46:18.67,0:46:20.92,Default,,0000,0000,0000,,…将会很骄傲 因为700多年后的今天…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, I'm sure our forefathers would be proud to know that 700 years later
+Dialogue: 0,0:46:21.07,0:46:25.07,Default,,0000,0000,0000,,…我们还在做着和当初 他们做的一样的事情\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we'd be doing the exact same thing they were doing.
+Dialogue: 0,0:46:25.93,0:46:29.42,Default,,0000,0000,0000,,还有，记得下一次用餐要一份免费的…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So, be sure next mealtime to ask for your "free
+Dialogue: 0,0:46:29.60,0:46:35.30,Default,,0000,0000,0000,,…“Sep tu a centennial”杯装蛋糕！ 哇，看起来真不错\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"septuacentennial cupcake in a cup." Wow, look at that!
+Dialogue: 0,0:46:35.69,0:46:38.02,Default,,0000,0000,0000,,同时，今天我们还将…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Also today we have a...
+Dialogue: 0,0:46:38.88,0:46:41.68,Default,,0000,0000,0000,,嘿，嘿，Auto，那个按钮 干嘛一直闪？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, Auto, what's that flashing button?
+Dialogue: 0,0:46:42.49,0:46:45.75,Default,,0000,0000,0000,,船长，探测机器人Eve带来了好消息\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Captain, Probe One has returned positive.
+Dialogue: 0,0:46:46.83,0:46:48.30,Default,,0000,0000,0000,,好消息？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Positive?
+Dialogue: 0,0:46:58.24,0:47:00.13,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:47:00.83,0:47:06.13,Default,,0000,0000,0000,,可没有哪个机器人 带回来过好消息…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}ever come back positive before.
+Dialogue: 0,0:47:06.74,0:47:07.74,Default,,0000,0000,0000,,…从来没有\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:47:18.82,0:47:22.12,Default,,0000,0000,0000,,你好啊船长，恭喜！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Greetings and congratulations, Captain.
+Dialogue: 0,0:47:22.39,0:47:27.26,Default,,0000,0000,0000,,如果你看到这个录像，就说明我们的 外太空植物检测仪…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you are seeing this, that means your Extraterrestrial Vegetation Evaluator,
+Dialogue: 0,0:47:27.40,0:47:32.55,Default,,0000,0000,0000,,…也就是EVE探测器已经从地球 带回来一个经确认…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or EVE probe, has returned from Earth
+Dialogue: 0,0:47:32.70,0:47:35.13,Default,,0000,0000,0000,,…能进行光合作用的样本\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with a confirmed specimen of ongoing photosynthesis.
+Dialogue: 0,0:47:35.36,0:47:38.76,Default,,0000,0000,0000,,没错，这就是说，是时候回家了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's right. It means it's time to go back home.
+Dialogue: 0,0:47:39.00,0:47:41.89,Default,,0000,0000,0000,,家？我们回家？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Home? We're going back?
+Dialogue: 0,0:47:42.18,0:47:45.58,Default,,0000,0000,0000,,既然地球已经恢复到 生命可以延续的状态…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now that Earth has been restored to a life-sustaining status,
+Dialogue: 0,0:47:45.65,0:47:49.46,Default,,0000,0000,0000,,…嘿，那我们就可以开始 “二次移民计划”了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}by golly, we can begin Operation Recolonize.
+Dialogue: 0,0:47:58.78,0:48:02.23,Default,,0000,0000,0000,,只要依照手册上的指示，将植物…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Simply follow this manual's instructions
+Dialogue: 0,0:48:02.31,0:48:04.26,Default,,0000,0000,0000,,…放入飞船的探测槽\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to place the plant in your ship's holo-detector
+Dialogue: 0,0:48:04.30,0:48:09.04,Default,,0000,0000,0000,,Axiom将立即自动导航返回地球\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and the Axiom will immediately navigate your return to Earth.
+Dialogue: 0,0:48:09.14,0:48:10.37,Default,,0000,0000,0000,,这很容易吧！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-It's that easy. -Huh!
+Dialogue: 0,0:48:10.50,0:48:15.85,Default,,0000,0000,0000,,不过由于太空的微重力 你和你的乘客可能会…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now, due to the effects of microgravity,
+Dialogue: 0,0:48:16.21,0:48:18.34,Default,,0000,0000,0000,,…出现轻微的骨质疏松\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you and your passengers may have suffered some slight bone loss.
+Dialogue: 0,0:48:18.54,0:48:22.16,Default,,0000,0000,0000,,不过我相信 只要在飞船的跑步机上稍加锻炼…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But I'm sure a few laps around the ship's jogging track
+Dialogue: 0,0:48:22.39,0:48:24.42,Default,,0000,0000,0000,,…你们马上就能恢复正常的体型\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}will get you back in shape in no time.
+Dialogue: 0,0:48:24.82,0:48:26.02,Default,,0000,0000,0000,,我们还有跑步机？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We have a jogging track?
+Dialogue: 0,0:48:26.09,0:48:30.23,Default,,0000,0000,0000,,如果你有任何问题 只要参阅手册就好了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you have any further questions, just consult your operation manual.
+Dialogue: 0,0:48:30.93,0:48:33.17,Default,,0000,0000,0000,,等你回家，很快哦！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See you back home real soon.
+Dialogue: 0,0:48:36.51,0:48:38.57,Default,,0000,0000,0000,,操作手册\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Operate Manuel."
+Dialogue: 0,0:48:41.21,0:48:44.60,Default,,0000,0000,0000,,手册，读出指令！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Manuel, relay instructions.
+Dialogue: 0,0:48:45.97,0:48:47.18,Default,,0000,0000,0000,,手册！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Manuel?
+Dialogue: 0,0:48:54.82,0:48:57.46,Default,,0000,0000,0000,,哇！瞧瞧这！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wow. Will you look at that?
+Dialogue: 0,0:48:59.62,0:49:00.62,Default,,0000,0000,0000,,瞧瞧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's see.
+Dialogue: 0,0:49:02.64,0:49:04.02,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:49:04.13,0:49:06.16,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:49:10.08,0:49:11.28,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:49:15.58,0:49:17.15,Default,,0000,0000,0000,,那就打开看看吧！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, let's open her up.
+Dialogue: 0,0:49:18.30,0:49:21.86,Default,,0000,0000,0000,,第一步，语音命令 “确认取样”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Step one. Voice command, 'Confirm acquisition."'
+Dialogue: 0,0:49:22.25,0:49:23.64,Default,,0000,0000,0000,,确认取样\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Confirm acquisition.
+Dialogue: 0,0:49:34.43,0:49:35.87,Default,,0000,0000,0000,,语音识别以确认权限\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Voice authorization required.
+Dialogue: 0,0:49:35.91,0:49:37.11,Default,,0000,0000,0000,,额…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Uh... -CAPTAIN'S VOICE: Uh...
+Dialogue: 0,0:49:37.27,0:49:38.51,Default,,0000,0000,0000,,确认\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Accepted.
+Dialogue: 0,0:49:56.98,0:49:58.08,Default,,0000,0000,0000,,那…那东西在哪？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Where's the thingy? -Plant.
+Dialogue: 0,0:49:58.19,0:50:00.22,Default,,0000,0000,0000,,-植物！  -植物，对，对\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plant. Right. Right.
+Dialogue: 0,0:50:00.48,0:50:01.88,Default,,0000,0000,0000,,它在哪？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where is it?
+Dialogue: 0,0:50:02.84,0:50:05.87,Default,,0000,0000,0000,,或许我们漏掉了哪个步骤 重头再看看\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maybe we missed a step.
+Dialogue: 0,0:50:07.09,0:50:08.89,Default,,0000,0000,0000,,Wall-E！Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:50:12.13,0:50:14.30,Default,,0000,0000,0000,,-Eva？  -安静！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-EVE? -Plant!
+Dialogue: 0,0:50:15.27,0:50:17.30,Default,,0000,0000,0000,,再重新扫描试试，确认一下\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why don't you scan her to be sure?
+Dialogue: 0,0:50:23.72,0:50:28.07,Default,,0000,0000,0000,,没有发现样本，探测机器人记忆存储有误\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Contains no specimen. Probe's memory is faulty.
+Dialogue: 0,0:50:28.22,0:50:32.43,Default,,0000,0000,0000,,-那我们就不回地球了？  -不能\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-So then, we're not going to Earth? -Negative.
+Dialogue: 0,0:50:32.90,0:50:36.65,Default,,0000,0000,0000,,-那一切又恢复正常了，对吧？  -正确，船长\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-I guess things go back to normal, huh? -Correct, Captain.
+Dialogue: 0,0:50:37.26,0:50:38.56,Default,,0000,0000,0000,,哦，假警报！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Well, false alarm!
+Dialogue: 0,0:50:38.66,0:50:39.93,Default,,0000,0000,0000,,假警报\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}False alarm.
+Dialogue: 0,0:50:41.97,0:50:43.83,Default,,0000,0000,0000,,探测机器人肯定是出故障了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The probe must be defective.
+Dialogue: 0,0:50:44.54,0:50:47.49,Default,,0000,0000,0000,,GO-4！把它送去维修部\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}GO-4, send her to the repair ward,
+Dialogue: 0,0:50:48.16,0:50:51.16,Default,,0000,0000,0000,,我要一份她的检测报告 确认下她是不是…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and have them run diagnostics on her. Make sure she's not...
+Dialogue: 0,0:50:59.28,0:51:01.36,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:51:06.11,0:51:08.64,Default,,0000,0000,0000,,把Wall-E送去清理？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Have, uh, WALL-E cleaned.
+Dialogue: 0,0:51:14.54,0:51:15.81,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:51:17.47,0:51:18.67,Default,,0000,0000,0000,,分析\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Analyze.
+Dialogue: 0,0:51:20.67,0:51:22.97,Default,,0000,0000,0000,,分析结果： 外来污染物\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Analysis. Foreign contaminant.
+Dialogue: 0,0:51:23.61,0:51:25.29,Default,,0000,0000,0000,,此物质由三种基本物质组成…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Substance is a three-phase system
+Dialogue: 0,0:51:25.43,0:51:29.02,Default,,0000,0000,0000,,…其中包含多种自然元素的组合\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}composed of various combinations of naturally derived solids.
+Dialogue: 0,0:51:29.38,0:51:33.40,Default,,0000,0000,0000,,分析对象最常用的名称 是soil,dirt,Earth （都有土壤的意思）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Subject is most commonly referred to as soil, dirt, or earth.
+Dialogue: 0,0:51:33.51,0:51:34.83,Default,,0000,0000,0000,,Earth？ （土壤，地球）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Earth"?
+Dialogue: 0,0:51:37.21,0:51:39.26,Default,,0000,0000,0000,,解释一下“Earth”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Define "earth."
+Dialogue: 0,0:51:44.49,0:51:48.81,Default,,0000,0000,0000,,土地，有别于天空和海洋的星球表面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth, the surface of the world as distinct from the sky or sea.
+Dialogue: 0,0:51:48.90,0:51:49.90,Default,,0000,0000,0000,,哇！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wow.
+Dialogue: 0,0:51:50.70,0:51:52.96,Default,,0000,0000,0000,,解释“海洋”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Define "sea."
+Dialogue: 0,0:51:54.28,0:51:58.89,Default,,0000,0000,0000,,海洋，面积广阔的咸水水域 它们覆盖于绝大多数地球表面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sea, an expanse of salt water that covers most of the Earth's surface
+Dialogue: 0,0:51:59.07,0:52:01.02,Default,,0000,0000,0000,,…并且包围了各大洲\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and surrounds its landmasses foreign contaminant.
+Dialogue: 0,0:52:10.85,0:52:11.95,Default,,0000,0000,0000,,“外来污染物”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:52:21.05,0:52:22.05,Default,,0000,0000,0000,,“维修室”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:52:35.05,0:52:36.05,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:52:41.62,0:52:43.91,Default,,0000,0000,0000,,打扮一下？打扮一下？ 你看起来好极了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Just a trim? -You look gorgeous.
+Dialogue: 0,0:53:16.93,0:53:18.19,Default,,0000,0000,0000,,Eve！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:53:19.72,0:53:22.19,Default,,0000,0000,0000,,安全，安全，安全\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Clear, clear, clear.
+Dialogue: 0,0:53:30.72,0:53:31.99,Default,,0000,0000,0000,,“诊断”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:53:58.41,0:53:59.91,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:54:04.23,0:54:06.06,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:54:22.62,0:54:23.82,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:54:43.19,0:54:44.73,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:54:59.37,0:55:00.57,Default,,0000,0000,0000,,哦，天啊！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my.
+Dialogue: 0,0:55:01.72,0:55:03.15,Default,,0000,0000,0000,,停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Halt!
+Dialogue: 0,0:55:10.71,0:55:11.71,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:55:15.01,0:55:17.44,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,0:55:18.94,0:55:21.41,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,0:55:21.56,0:55:23.82,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,0:55:24.68,0:55:25.94,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:55:29.68,0:55:30.68,Default,,0000,0000,0000,,停下！停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Halt! Halt!
+Dialogue: 0,0:55:36.90,0:55:39.15,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,0:55:40.00,0:55:41.25,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:55:56.85,0:55:59.11,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,0:56:00.03,0:56:01.13,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:56:22.59,0:56:24.17,Default,,0000,0000,0000,,Eva？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:56:29.12,0:56:30.69,Default,,0000,0000,0000,,（回）地球\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth.
+Dialogue: 0,0:56:32.63,0:56:34.27,Default,,0000,0000,0000,,地球！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth.
+Dialogue: 0,0:56:50.28,0:56:51.48,Default,,0000,0000,0000,,（需要）指令\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Directive.
+Dialogue: 0,0:56:57.10,0:56:58.52,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:57:05.20,0:57:06.43,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:57:29.18,0:57:30.85,Default,,0000,0000,0000,,植物！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plant!
+Dialogue: 0,0:57:36.71,0:57:37.98,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:57:39.89,0:57:40.91,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:57:41.24,0:57:42.24,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:57:57.85,0:57:59.27,Default,,0000,0000,0000,,达到预定航行速度\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cruising speed.
+Dialogue: 0,0:58:00.73,0:58:02.85,Default,,0000,0000,0000,,现在可在舱内自由活动\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are now free to move about the cabin.
+Dialogue: 0,0:58:03.33,0:58:04.33,Default,,0000,0000,0000,,停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:58:14.48,0:58:17.22,Default,,0000,0000,0000,,20秒后将自爆\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Twenty seconds to self-destruct.
+Dialogue: 0,0:58:25.64,0:58:28.17,Default,,0000,0000,0000,,10秒后将自爆\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ten seconds to self-destruct.
+Dialogue: 0,0:58:29.59,0:58:35.20,Default,,0000,0000,0000,,10，9，8，7，6…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ten, nine, eight, seven,
+Dialogue: 0,0:58:35.67,0:58:40.09,Default,,0000,0000,0000,,5，4，3，2…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}six, five, four, three, two
+Dialogue: 0,0:58:47.77,0:58:49.43,Default,,0000,0000,0000,,不！不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}(WEAKLY) No. No.
+Dialogue: 0,0:58:52.51,0:58:55.09,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:58:56.34,0:58:57.86,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:59:05.42,0:59:06.68,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:59:11.53,0:59:12.95,Default,,0000,0000,0000,,Eve！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:59:27.82,0:59:29.16,Default,,0000,0000,0000,,-Wall-E -等…等…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:59:30.58,0:59:31.83,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:59:36.39,0:59:37.60,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,0:59:54.34,0:59:55.34,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:00:38.36,1:00:41.13,Default,,0000,0000,0000,,哦，好多星星啊！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, so many stars.
+Dialogue: 0,1:00:44.87,1:00:47.05,Default,,0000,0000,0000,,嘿！嘿，那是… 他叫什么来着？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Hey! Hey! That's what's-his-name! -Hey! What the...
+Dialogue: 0,1:00:47.46,1:00:49.16,Default,,0000,0000,0000,,-嘿，你干什么…  -看呐！看，看！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Look! Look at that. -Huh? What?
+Dialogue: 0,1:00:49.30,1:00:50.50,Default,,0000,0000,0000,,看那儿！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:00:51.06,1:00:55.78,Default,,0000,0000,0000,,嘿，我知道那小家伙 叫…Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey. I know that guy. It's, uh, WALL-E.
+Dialogue: 0,1:00:56.10,1:00:59.94,Default,,0000,0000,0000,,-就是他！Wall-E！嘿！是我啊，John！ -嗨，Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Hey, WALL-E! It's your buddy John. -Hi, WALL-E!
+Dialogue: 0,1:01:05.82,1:01:06.96,Default,,0000,0000,0000,,嗨\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi.
+Dialogue: 0,1:01:07.86,1:01:09.06,Default,,0000,0000,0000,,嗨\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi.
+Dialogue: 0,1:01:18.94,1:01:21.43,Default,,0000,0000,0000,,解释“舞会”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Define "hoedown."
+Dialogue: 0,1:01:21.58,1:01:25.66,Default,,0000,0000,0000,,舞会，一种社交场合 人们会在舞会中翩然起舞\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hoedown, a social gathering at which lively dancing would take place.
+Dialogue: 0,1:01:26.57,1:01:28.39,Default,,0000,0000,0000,,Auto！真是太神奇了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto, Earth is amazing!
+Dialogue: 0,1:01:28.63,1:01:30.42,Default,,0000,0000,0000,,这些东西叫农场！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}These are called "farms."
+Dialogue: 0,1:01:30.62,1:01:33.92,Default,,0000,0000,0000,,人类把种子种到地里 在上面浇水…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Humans would put seeds in the ground, pour water on them,
+Dialogue: 0,1:01:34.06,1:01:36.38,Default,,0000,0000,0000,,…然后食物就长出来了，比如披萨！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and they grow food, like pizza.
+Dialogue: 0,1:01:36.69,1:01:37.98,Default,,0000,0000,0000,,晚安，船长\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good night, Captain.
+Dialogue: 0,1:01:42.86,1:01:44.78,Default,,0000,0000,0000,,嘿！计算机！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Psst! Computer.
+Dialogue: 0,1:01:45.48,1:01:47.21,Default,,0000,0000,0000,,解释“舞蹈”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Define "dancing."
+Dialogue: 0,1:01:47.84,1:01:51.72,Default,,0000,0000,0000,,舞蹈，由两个人参与的一系列动作…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dancing, a series of movements involving two partners
+Dialogue: 0,1:01:52.07,1:01:55.85,Default,,0000,0000,0000,,…其速度，节奏与音乐高度和谐\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}where speed and rhythm match harmoniously with music.
+Dialogue: 0,1:02:02.19,1:02:03.27,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:02:13.54,1:02:16.05,Default,,0000,0000,0000,,露天浴场正在关闭\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The lido deck is now closing.
+Dialogue: 0,1:02:16.72,1:02:19.20,Default,,0000,0000,0000,,露天浴场正在关闭\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The lido deck is now closing.
+Dialogue: 0,1:02:21.93,1:02:23.43,Default,,0000,0000,0000,,-停下！ -你倒是来啊\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-JOHN: Stop that. -Make me.
+Dialogue: 0,1:02:24.06,1:02:25.69,Default,,0000,0000,0000,,我都不知道我们还有泳池\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I didn't know we had a pool.
+Dialogue: 0,1:02:26.13,1:02:28.20,Default,,0000,0000,0000,,禁止戏水，禁止潜水\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No splashing. No diving.
+Dialogue: 0,1:02:28.95,1:02:31.33,Default,,0000,0000,0000,,禁止戏水…禁止…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No splashing. No...
+Dialogue: 0,1:03:00.39,1:03:01.96,Default,,0000,0000,0000,,Eva！ （又打开功放“It only takes a moment…”）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:03:11.99,1:03:13.24,Default,,0000,0000,0000,,（这是）命令！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Directive.
+Dialogue: 0,1:03:25.67,1:03:27.09,Default,,0000,0000,0000,,完美的着陆！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Prepare for landing.
+Dialogue: 0,1:03:29.67,1:03:30.82,Default,,0000,0000,0000,,我们到了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"We're here, everybody."
+Dialogue: 0,1:03:30.94,1:03:34.20,Default,,0000,0000,0000,,耶，船长！船长，我们到了 真是太美了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Yay, Captain! Captain, we're home! It's so beautiful!"
+Dialogue: 0,1:03:34.38,1:03:37.32,Default,,0000,0000,0000,,啊，这不算什么 我很乐意为你们服务\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"No. It's nothing. I was pleased to do this.
+Dialogue: 0,1:03:37.49,1:03:40.00,Default,,0000,0000,0000,,这…这全是为了你们 不是为了我，这…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"It's all about you people. It's not about me."
+Dialogue: 0,1:03:45.30,1:03:46.50,Default,,0000,0000,0000,,怎么？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How?
+Dialogue: 0,1:03:47.37,1:03:48.99,Default,,0000,0000,0000,,你怎么拿到的？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How did you find it?
+Dialogue: 0,1:03:52.72,1:03:56.45,Default,,0000,0000,0000,,我们可以回家了！ 这是头一次！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We can go back home! For the first time!
+Dialogue: 0,1:03:57.04,1:03:57.88,Default,,0000,0000,0000,,那儿现在什么样了？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-What's it like now? -Oh!
+Dialogue: 0,1:03:58.22,1:04:01.70,Default,,0000,0000,0000,,不，不，不！别告诉我 我要自己看\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, no, no. Don't tell me. I want to see for myself.
+Dialogue: 0,1:04:09.95,1:04:12.43,Default,,0000,0000,0000,,等等，这看起来不像是地球啊\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait. That doesn't look like Earth.
+Dialogue: 0,1:04:15.60,1:04:17.55,Default,,0000,0000,0000,,蓝天在哪？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's the blue sky?
+Dialogue: 0,1:04:27.33,1:04:29.89,Default,,0000,0000,0000,,绿地在哪？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's the grass?
+Dialogue: 0,1:04:34.81,1:04:38.81,Default,,0000,0000,0000,,当你低落时 就请穿上节日盛装\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}#... Sunday clothes when you feel down and out #
+Dialogue: 0,1:04:39.56,1:04:41.58,Default,,0000,0000,0000,,我听过这首歌\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know that song.
+Dialogue: 0,1:04:43.26,1:04:44.26,Default,,0000,0000,0000,,他们在…额…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're, um,
+Dialogue: 0,1:04:45.69,1:04:48.99,Default,,0000,0000,0000,,跳舞，对，跳舞\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}dancing.Yes, dancing.
+Dialogue: 0,1:04:56.99,1:04:59.05,Default,,0000,0000,0000,,你挺过来了，对吧，小家伙？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You made it somehow, huh, little guy?
+Dialogue: 0,1:04:59.76,1:05:01.21,Default,,0000,0000,0000,,你没放弃，不是吗？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You didn't give up, did you?
+Dialogue: 0,1:05:04.32,1:05:05.43,Default,,0000,0000,0000,,哦，额滴神哪！(呵呵，陕西话)\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, then. Come on.
+Dialogue: 0,1:05:07.49,1:05:08.75,Default,,0000,0000,0000,,撑住！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait a minute.
+Dialogue: 0,1:05:08.88,1:05:14.88,Default,,0000,0000,0000,,…当流年似水\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}#... when time runs out #
+Dialogue: 0,1:05:16.70,1:05:22.70,Default,,0000,0000,0000,,只要…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# That it only... #
+Dialogue: 0,1:05:27.70,1:05:29.70,Default,,0000,0000,0000,,“启动摄像装置”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:05:30.22,1:05:34.14,Default,,0000,0000,0000,,Eva？ Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:05:46.25,1:05:47.45,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:05:51.44,1:05:54.25,Default,,0000,0000,0000,,Eva？ Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:05:55.32,1:05:57.01,Default,,0000,0000,0000,,Eva？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:06:03.11,1:06:04.32,Default,,0000,0000,0000,,Eva\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:06:12.80,1:06:14.21,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:06:43.53,1:06:44.81,Default,,0000,0000,0000,,来吧，小家伙\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There you go, little guy.
+Dialogue: 0,1:06:45.72,1:06:48.05,Default,,0000,0000,0000,,你为了喝点水可跑了不少路啊\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You came a long way for a drink of water.
+Dialogue: 0,1:06:48.55,1:06:50.67,Default,,0000,0000,0000,,得找个人照顾你，那才是…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just needed someone to look after you, that's...
+Dialogue: 0,1:07:04.38,1:07:05.88,Default,,0000,0000,0000,,我们必须回去！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We have to go back.
+Dialogue: 0,1:07:08.04,1:07:09.60,Default,,0000,0000,0000,,Auto！下来\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto, come down here.
+Dialogue: 0,1:07:09.69,1:07:10.91,Default,,0000,0000,0000,,是，是，船长\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Aye, aye, sir.
+Dialogue: 0,1:07:11.70,1:07:13.02,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:07:14.14,1:07:15.19,Default,,0000,0000,0000,,Wall-E？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:07:18.18,1:07:20.85,Default,,0000,0000,0000,,Auto，Eve找到植物了 启动探测槽\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto, EVE found the plant. Fire up the holo-detector.
+Dialogue: 0,1:07:21.10,1:07:23.71,Default,,0000,0000,0000,,没必要，船长 交给我就可以\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not necessary, Captain. You may give it to me.
+Dialogue: 0,1:07:24.06,1:07:25.90,Default,,0000,0000,0000,,你猜怎么着？ 我要亲自来\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know what? I should do it myself.
+Dialogue: 0,1:07:26.38,1:07:27.42,Default,,0000,0000,0000,,船长！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Captain.
+Dialogue: 0,1:07:28.83,1:07:31.79,Default,,0000,0000,0000,,船长，我坚持 把植物给我\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir, I insist you give me the plant.
+Dialogue: 0,1:07:31.95,1:07:33.46,Default,,0000,0000,0000,,Auto，闪开！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto, get out of my way.
+Dialogue: 0,1:07:33.73,1:07:37.24,Default,,0000,0000,0000,,-你不能回去  -你说什么呢？为什么不行？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-We cannot go home. -What are you talking about? Why not?
+Dialogue: 0,1:07:37.59,1:07:40.35,Default,,0000,0000,0000,,那是机密 船长，给我植物\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That is classified, Captain. Give me the plant.
+Dialogue: 0,1:07:40.59,1:07:43.39,Default,,0000,0000,0000,,什么叫那是机密？ 你不能对船长保密\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What do you mean, "classified"? You don't keep a secret from the captain.
+Dialogue: 0,1:07:43.59,1:07:45.95,Default,,0000,0000,0000,,-给我植物  -为什么是机密？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Give me the plant. -Tell me what's classified.
+Dialogue: 0,1:07:46.26,1:07:49.12,Default,,0000,0000,0000,,-给我植物  -告诉我，这是命令！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-The plant. -Tell me, Auto! That's an order.
+Dialogue: 0,1:07:52.95,1:07:54.08,Default,,0000,0000,0000,,是，船长\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Aye, aye, sir.
+Dialogue: 0,1:08:03.95,1:08:05.14,Default,,0000,0000,0000,,停下，行吗\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just cut it off, will you?
+Dialogue: 0,1:08:06.34,1:08:09.74,Default,,0000,0000,0000,,嘿，你好啊，机器人舵手 我有些坏消息\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, there, autopilots. Got some bad news.
+Dialogue: 0,1:08:12.36,1:08:16.39,Default,,0000,0000,0000,,清洁行动…失败了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Operation Cleanup has, well, failed.
+Dialogue: 0,1:08:17.34,1:08:21.72,Default,,0000,0000,0000,,有毒物质的含量不断升高 地球已经不适合生命的生存\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wouldn't you know, rising toxicity levels have made life unsustainable on Earth.
+Dialogue: 0,1:08:22.00,1:08:24.18,Default,,0000,0000,0000,,不适合生存？什么？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Unsustainable"? What?
+Dialogue: 0,1:08:24.31,1:08:29.26,Default,,0000,0000,0000,,恐怕我要取消“二次移民计划”了…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Darn it all, we're going to have to cancel Operation Recolonize.
+Dialogue: 0,1:08:30.04,1:08:35.21,Default,,0000,0000,0000,,…所以呆在那，嗯… 别想着解决这问题了…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So,Just stay the course.Rather than try and fix this problem,
+Dialogue: 0,1:08:35.42,1:08:38.61,Default,,0000,0000,0000,,…或许大家都呆在太空中更容易些\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it'll just be easier for everyone to remain in space.
+Dialogue: 0,1:08:38.94,1:08:39.90,Default,,0000,0000,0000,,容易？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}"Easier"?
+Dialogue: 0,1:08:40.03,1:08:42.09,Default,,0000,0000,0000,,-总裁先生…总裁先生  -但我以为…嗯？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Mr. President? -I think...
+Dialogue: 0,1:08:42.24,1:08:44.70,Default,,0000,0000,0000,,-该走了！  -好，我现在下发…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Huh? -Sir, time to go.
+Dialogue: 0,1:08:44.96,1:08:49.67,Default,,0000,0000,0000,,…A113号优先执行命令 机器人舵手有权…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay. I'm giving Override Directive A 113.
+Dialogue: 0,1:08:49.81,1:08:53.33,Default,,0000,0000,0000,,…掌管飞船一切事宜 不要回地球\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go to full autopilot. Take control of everything, and do not return to Earth.
+Dialogue: 0,1:08:53.67,1:08:56.06,Default,,0000,0000,0000,,重复一遍，不要回地球！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Repeat, do not return to Earth.
+Dialogue: 0,1:08:56.16,1:08:57.56,Default,,0000,0000,0000,,赶紧离开这鬼地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's get the heck out of here.
+Dialogue: 0,1:09:02.00,1:09:04.31,Default,,0000,0000,0000,,现在，给我植物\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now, the plant.
+Dialogue: 0,1:09:04.47,1:09:05.97,Default,,0000,0000,0000,,不！等会！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No. Wait a minute.
+Dialogue: 0,1:09:06.48,1:09:08.87,Default,,0000,0000,0000,,计算机，那则信息 是什么时候发到Axiom的？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Computer, when was that message sent out to the Axiom?
+Dialogue: 0,1:09:08.99,1:09:11.41,Default,,0000,0000,0000,,此信息于2110年收到\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Message received in the year 2110.
+Dialogue: 0,1:09:11.62,1:09:14.96,Default,,0000,0000,0000,,那…那差不多是700年前了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's... That's nearly 700 years ago!
+Dialogue: 0,1:09:15.80,1:09:18.20,Default,,0000,0000,0000,,Auto，情况都变了！ 我们一定要回去！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto, things have changed! We've got to go back.
+Dialogue: 0,1:09:18.31,1:09:20.83,Default,,0000,0000,0000,,船长，命令是 “不要回到地球”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir, orders are "do not return to Earth."
+Dialogue: 0,1:09:20.91,1:09:22.69,Default,,0000,0000,0000,,但生命已经可以生存了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But life is sustainable now.
+Dialogue: 0,1:09:23.09,1:09:25.91,Default,,0000,0000,0000,,瞧瞧这株植物！ 这么绿，这么旺盛\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look at this plant. Green and growing.
+Dialogue: 0,1:09:26.10,1:09:27.88,Default,,0000,0000,0000,,这是活生生的证据，他错了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's living proof he was wrong.
+Dialogue: 0,1:09:28.06,1:09:31.20,Default,,0000,0000,0000,,-无关，船长  -这完全有关！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Irrelevant, Captain. -What? It's completely relevant!
+Dialogue: 0,1:09:31.51,1:09:35.51,Default,,0000,0000,0000,,我们的家在那儿 家，Auto！而它现在正需要帮助\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Out there is our home.Home, Auto. And it's in trouble.
+Dialogue: 0,1:09:35.71,1:09:38.31,Default,,0000,0000,0000,,我不能就这么坐着无所事事\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't just sit here and do nothing.
+Dialogue: 0,1:09:38.68,1:09:39.88,Default,,0000,0000,0000,,我一直以来干得就是这种事！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's all I've ever done.
+Dialogue: 0,1:09:40.00,1:09:42.42,Default,,0000,0000,0000,,那也是这艘该死的飞船上所有人干得事！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's all anyone on this blasted ship has ever done.
+Dialogue: 0,1:09:42.56,1:09:43.54,Default,,0000,0000,0000,,那就是无所事事！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nothing!
+Dialogue: 0,1:09:43.65,1:09:45.94,Default,,0000,0000,0000,,只有在Axiom你才能生存\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}On the Axiom you will survive.
+Dialogue: 0,1:09:46.10,1:09:48.90,Default,,0000,0000,0000,,我不想“生存”！ 我想“生活”！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't want to survive. I want to live!
+Dialogue: 0,1:09:49.00,1:09:50.67,Default,,0000,0000,0000,,请听从我的指示\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Must follow my directive.
+Dialogue: 0,1:10:08.78,1:10:13.95,Default,,0000,0000,0000,,我才是Axiom的船长 我们今天就回家！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the captain of the Axiom. We are going home today.
+Dialogue: 0,1:10:19.79,1:10:22.33,Default,,0000,0000,0000,,GO-4？嘿！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}GO-4? Hey! That's not...
+Dialogue: 0,1:10:23.48,1:10:26.53,Default,,0000,0000,0000,,简直是造反！ Eve，抓住他！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is mutiny! EVE, arrest him.
+Dialogue: 0,1:10:32.79,1:10:36.21,Default,,0000,0000,0000,,Eve，你要把这株植物直接放进探测槽\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}EVE, you are to put this plant straight in the holo-detector.
+Dialogue: 0,1:10:37.17,1:10:38.09,Default,,0000,0000,0000,,不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No!
+Dialogue: 0,1:10:50.97,1:10:52.00,Default,,0000,0000,0000,,Eva？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:10:52.41,1:10:53.46,Default,,0000,0000,0000,,-Wall-E！ -Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:10:53.49,1:10:54.36,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:10:57.69,1:10:59.50,Default,,0000,0000,0000,,-扔过来！把它扔过来！  -Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Over here. Throw it.
+Dialogue: 0,1:11:01.23,1:11:02.09,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:11:03.50,1:11:04.41,Default,,0000,0000,0000,,把植物交给我\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give me the plant.
+Dialogue: 0,1:11:11.02,1:11:12.02,Default,,0000,0000,0000,,不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:11:21.73,1:11:23.44,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:11:33.93,1:11:35.77,Default,,0000,0000,0000,,禁止一切通讯\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All communications are terminated.
+Dialogue: 0,1:11:36.15,1:11:38.58,Default,,0000,0000,0000,,-你将被软禁在寓所  -不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are confined to quarters.
+Dialogue: 0,1:11:38.85,1:11:40.96,Default,,0000,0000,0000,,造反了！造反了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No! Mutiny! Mutiny!
+Dialogue: 0,1:11:46.56,1:11:47.96,Default,,0000,0000,0000,,“重启”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:11:59.47,1:12:00.40,Default,,0000,0000,0000,,Wall-E？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:12:00.51,1:12:03.39,Default,,0000,0000,0000,,注意！密封舱启动 以进行废物处理\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Activating airlock disposal.
+Dialogue: 0,1:12:03.68,1:12:05.24,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:12:06.57,1:12:08.89,Default,,0000,0000,0000,,密封舱开启 进行废物处理\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Activating airlock disposal.
+Dialogue: 0,1:12:15.22,1:12:16.63,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:12:43.92,1:12:47.40,Default,,0000,0000,0000,,-Eve…  -Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:12:48.53,1:12:51.64,Default,,0000,0000,0000,,注意！密封舱开启 进行废物处理\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Activating airlock disposal.
+Dialogue: 0,1:12:52.51,1:12:54.81,Default,,0000,0000,0000,,密封舱开启 进行废物处理\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Activating airlock disposal.
+Dialogue: 0,1:13:00.24,1:13:01.47,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:13:41.49,1:13:43.05,Default,,0000,0000,0000,,Eve…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:13:44.72,1:13:46.02,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:14:21.84,1:14:23.89,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:14:26.52,1:14:27.46,Default,,0000,0000,0000,,M-O\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:14:31.18,1:14:33.53,Default,,0000,0000,0000,,-M-O？  -M-O\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:14:35.24,1:14:36.34,Default,,0000,0000,0000,,M-O\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:14:46.91,1:14:49.91,Default,,0000,0000,0000,,（这是）指令\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Directive.
+Dialogue: 0,1:15:03.04,1:15:04.88,Default,,0000,0000,0000,,（这才是）指令\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Directive.
+Dialogue: 0,1:15:20.74,1:15:22.36,Default,,0000,0000,0000,,（回）地球\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth.
+Dialogue: 0,1:15:24.98,1:15:26.98,Default,,0000,0000,0000,,地球！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth.
+Dialogue: 0,1:15:29.15,1:15:30.55,Default,,0000,0000,0000,,地球？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth.
+Dialogue: 0,1:15:31.16,1:15:32.56,Default,,0000,0000,0000,,地球\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth.
+Dialogue: 0,1:15:38.97,1:15:40.57,Default,,0000,0000,0000,,地球？地球！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Earth? Earth!
+Dialogue: 0,1:15:42.36,1:15:44.37,Default,,0000,0000,0000,,-M-O  -Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:16:03.48,1:16:04.63,Default,,0000,0000,0000,,错误\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wrong.
+Dialogue: 0,1:16:18.47,1:16:20.10,Default,,0000,0000,0000,,请保持冷静 我们正在…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please hold. We are currently having...
+Dialogue: 0,1:16:20.95,1:16:22.05,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:16:22.74,1:16:25.03,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:16:37.21,1:16:38.63,Default,,0000,0000,0000,,这造型挺适合你\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That style suits you.
+Dialogue: 0,1:16:51.25,1:16:53.55,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:16:54.73,1:16:57.62,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:16:58.32,1:17:00.01,Default,,0000,0000,0000,,不可能！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not possible.
+Dialogue: 0,1:17:00.16,1:17:01.36,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:17:12.38,1:17:15.13,Default,,0000,0000,0000,,Auto！Auto！听见我了吗？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto! Auto! Mutiny. Mutiny.
+Dialogue: 0,1:17:15.94,1:17:18.96,Default,,0000,0000,0000,,你个白痴方向盘\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stupid wheel.
+Dialogue: 0,1:17:19.07,1:17:21.00,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:17:21.57,1:17:23.74,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:17:24.31,1:17:26.36,Default,,0000,0000,0000,,警告！危险性机器人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Caution. Rogue robots.
+Dialogue: 0,1:17:26.47,1:17:27.41,Default,,0000,0000,0000,,植物！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The plant!
+Dialogue: 0,1:17:31.39,1:17:33.20,Default,,0000,0000,0000,,哈，看看现在是谁该傻眼了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We'll see who's powerless now.
+Dialogue: 0,1:17:39.74,1:17:41.81,Default,,0000,0000,0000,,喂，喂，通了吗？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Testing, testing. Is this thing on?
+Dialogue: 0,1:17:43.24,1:17:47.09,Default,,0000,0000,0000,,嘿，我是船长，我现在被关起来了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is the captain. I am locked in my room.
+Dialogue: 0,1:17:47.59,1:17:51.25,Default,,0000,0000,0000,,Eve，Wall-E，把那植物带到露天浴场去\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}EVE, WALL-E, bring the plant to the lido deck.
+Dialogue: 0,1:17:52.12,1:17:53.62,Default,,0000,0000,0000,,回去启动探测槽\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll have activated the holo-detector. Now, hurry.
+Dialogue: 0,1:17:53.78,1:17:55.94,Default,,0000,0000,0000,,快！Auto可能正在掐线…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto's probably going to cut me off...
+Dialogue: 0,1:17:56.18,1:17:57.22,Default,,0000,0000,0000,,停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Halt.
+Dialogue: 0,1:18:00.70,1:18:01.70,Default,,0000,0000,0000,,停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Halt.
+Dialogue: 0,1:18:02.31,1:18:03.12,Default,,0000,0000,0000,,哦，天！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, my.
+Dialogue: 0,1:18:05.24,1:18:06.24,Default,,0000,0000,0000,,安全！ （这个秀逗机器人只会说这一句话）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Clear.
+Dialogue: 0,1:18:11.44,1:18:12.40,Default,,0000,0000,0000,,停下！停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Halt, halt.
+Dialogue: 0,1:18:20.26,1:18:23.22,Default,,0000,0000,0000,,-瞧瞧我拿到什么了，Auto！  -不可能\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Look what I got, Auto. -Not possible.
+Dialogue: 0,1:18:23.63,1:18:25.97,Default,,0000,0000,0000,,没错！植物哦\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's right. The plant.
+Dialogue: 0,1:18:26.18,1:18:30.09,Default,,0000,0000,0000,,哦，你想要吗？ 想要就放马过来啊，傻冒\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You want it? Come and get it, blinky.
+Dialogue: 0,1:18:30.60,1:18:31.35,Default,,0000,0000,0000,,不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
+Dialogue: 0,1:18:35.42,1:18:38.27,Default,,0000,0000,0000,,船长？船长？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Captain? Captain?
+Dialogue: 0,1:18:42.35,1:18:43.62,Default,,0000,0000,0000,,放开！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let go.
+Dialogue: 0,1:18:44.42,1:18:46.78,Default,,0000,0000,0000,,-放开！  -拉不动我吗？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Let go. -Too heavy for you? Huh?
+Dialogue: 0,1:18:49.80,1:18:51.65,Default,,0000,0000,0000,,只要我还活着就休想躲过我…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're not getting away from me, one-eye.
+Dialogue: 0,1:18:52.03,1:18:54.02,Default,,0000,0000,0000,,-放手  -你就这么点水平？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Get off. -Is that all you got?
+Dialogue: 0,1:18:56.17,1:18:57.37,Default,,0000,0000,0000,,走开！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:19:08.16,1:19:09.23,Default,,0000,0000,0000,,停下！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Halt.
+Dialogue: 0,1:19:13.09,1:19:16.90,Default,,0000,0000,0000,,-我坚持，这不好  -靠近点啊，成了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-That's it. A little closer. -Cease and desist. -Not good. -Got you.
+Dialogue: 0,1:19:53.17,1:19:56.40,Default,,0000,0000,0000,,保持冷静！ 保持冷静！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Remain calm. Remain calm.
+Dialogue: 0,1:20:07.01,1:20:09.62,Default,,0000,0000,0000,,女士们先生们 现在在说话的是你们的船长\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ladies and gentlemen, this is your captain speaking.
+Dialogue: 0,1:20:09.97,1:20:13.52,Default,,0000,0000,0000,,我们这的机器舵手 出了点小问题\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're having a slight malfunction with the autopilot.
+Dialogue: 0,1:20:13.88,1:20:15.50,Default,,0000,0000,0000,,请，保持冷静\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please remain calm.
+Dialogue: 0,1:20:23.43,1:20:24.43,Default,,0000,0000,0000,,够了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Enough.
+Dialogue: 0,1:20:50.64,1:20:53.09,Default,,0000,0000,0000,,-抓着！  -不！不，不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:20:56.49,1:20:57.49,Default,,0000,0000,0000,,-抓着我！  -救命！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:20:58.74,1:20:59.74,Default,,0000,0000,0000,,拉住你了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I gotcha!
+Dialogue: 0,1:21:03.52,1:21:06.08,Default,,0000,0000,0000,,John，准备好接宝宝！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}John, get ready to have some kids!
+Dialogue: 0,1:21:20.40,1:21:21.19,Default,,0000,0000,0000,,小心！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look out!
+Dialogue: 0,1:21:22.54,1:21:23.41,Default,,0000,0000,0000,,不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
+Dialogue: 0,1:21:46.93,1:21:48.44,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:21:58.43,1:21:59.54,Default,,0000,0000,0000,,不！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, no!
+Dialogue: 0,1:22:04.35,1:22:05.67,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:22:30.78,1:22:31.78,Default,,0000,0000,0000,,Auto！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:22:36.84,1:22:38.34,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:22:48.04,1:22:51.43,Default,,0000,0000,0000,,Auto，你被“炒鱿鱼”了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Auto, you are relieved of duty.
+Dialogue: 0,1:22:52.54,1:22:54.50,Default,,0000,0000,0000,,不…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
+Dialogue: 0,1:23:03.99,1:23:07.01,Default,,0000,0000,0000,,植物！植物！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plant! Plant!
+Dialogue: 0,1:23:19.01,1:23:20.59,Default,,0000,0000,0000,,-植物！ -Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}-Plant! -EVE!
+Dialogue: 0,1:23:34.43,1:23:36.26,Default,,0000,0000,0000,,植物来源分析\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Plant origin verified.
+Dialogue: 0,1:23:42.82,1:23:43.88,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:23:43.95,1:23:45.70,Default,,0000,0000,0000,,前往地球 航线调整中\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Course set for Earth.
+Dialogue: 0,1:23:46.74,1:23:48.56,Default,,0000,0000,0000,,十秒之后开始空间跳跃 （类似时空穿梭）\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ten seconds to hyper-jump. Nine...
+Dialogue: 0,1:23:49.20,1:23:54.50,Default,,0000,0000,0000,,-9，8，7，6，5… -不，Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}eight...seven, six, five, four...
+Dialogue: 0,1:23:54.65,1:23:56.43,Default,,0000,0000,0000,,哦，别，Wall-E…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Oh, no. WALL-E.
+Dialogue: 0,1:23:56.53,1:24:00.58,Default,,0000,0000,0000,,4，3，2，1，0\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}...three, two, one, zero.
+Dialogue: 0,1:24:08.63,1:24:10.79,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:25:36.00,1:25:37.51,Default,,0000,0000,0000,,Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:25:39.31,1:25:40.35,Default,,0000,0000,0000,,Eva！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:26:33.01,1:26:35.85,Default,,0000,0000,0000,,“太阳能充电等级”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:26:46.50,1:26:47.95,Default,,0000,0000,0000,,Wall-E\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:26:57.00,1:26:58.92,Default,,0000,0000,0000,,Eve\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:27:08.97,1:27:10.37,Default,,0000,0000,0000,,Wall-E？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:27:19.01,1:27:23.85,Default,,0000,0000,0000,,当你情绪低落时 就穿上节日盛装\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Put on your Sunday clothes when you feel down and out #
+Dialogue: 0,1:27:26.99,1:27:28.25,Default,,0000,0000,0000,,Wall-E？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:27:48.56,1:27:50.02,Default,,0000,0000,0000,,Wall-E，我们到家了！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:27:51.07,1:27:54.55,Default,,0000,0000,0000,,Wall-E！ Wall-E！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:29:05.82,1:29:08.68,Default,,0000,0000,0000,,-Eva？  -Wall-E？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:29:12.81,1:29:13.76,Default,,0000,0000,0000,,Eva？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}
+Dialogue: 0,1:29:16.40,1:29:21.22,Default,,0000,0000,0000,,那就是…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And that is all #
+Dialogue: 0,1:29:21.53,1:29:26.40,Default,,0000,0000,0000,,…爱的真谛\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# That love's about #
+Dialogue: 0,1:29:27.85,1:29:32.79,Default,,0000,0000,0000,,-耶！-好诶！ -去，去，去！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, go, go. Go, go.
+Dialogue: 0,1:29:32.90,1:29:36.80,Default,,0000,0000,0000,,…当流年似水\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And we'll recall When time runs out #
+Dialogue: 0,1:29:36.93,1:29:38.95,Default,,0000,0000,0000,,这叫“种田”\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is called farming!
+Dialogue: 0,1:29:39.10,1:29:41.60,Default,,0000,0000,0000,,你们可以种各种各样的植物！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You kids are going to grow all kinds of plants.
+Dialogue: 0,1:29:41.79,1:29:44.87,Default,,0000,0000,0000,,长蔬菜的，长披萨的…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Vegetable plants. Pizza plants!
+Dialogue: 0,1:29:45.35,1:29:47.52,Default,,0000,0000,0000,,回家真好！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's good to be home!
+Dialogue: 0,1:29:48.21,1:29:53.38,Default,,0000,0000,0000,,…一瞬间\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Took a moment #
+Dialogue: 0,1:29:54.05,1:29:58.76,Default,,0000,0000,0000,,就被爱上…\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# to be loved #
+Dialogue: 0,1:29:59.10,1:30:12.17,Default,,0000,0000,0000,,…一生一世！\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# a whole life long #
+Dialogue: 0,1:30:44.43,1:30:48.70,Default,,0000,0000,0000,,你知道你的双脚被系住\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Did you think that your feet had been bound #
+Dialogue: 0,1:30:50.31,1:30:54.87,Default,,0000,0000,0000,,被什么引力拉至地表？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# By what gravity brings to the ground? #
+Dialogue: 0,1:30:56.85,1:31:02.15,Default,,0000,0000,0000,,你觉得被自己选择的未来所迷惑吗？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Did you feel you were tricked by the future you picked? #
+Dialogue: 0,1:31:02.42,1:31:04.25,Default,,0000,0000,0000,,那么，下来吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Well, come on down #
+Dialogue: 0,1:31:08.79,1:31:14.59,Default,,0000,0000,0000,,所有的自然规律在高空都不适用\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# All these rules don't apply When you're high in the sky #
+Dialogue: 0,1:31:14.70,1:31:16.53,Default,,0000,0000,0000,,所以，下来吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# So come on down #
+Dialogue: 0,1:31:17.93,1:31:19.53,Default,,0000,0000,0000,,下来吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Come on down #
+Dialogue: 0,1:31:20.44,1:31:23.70,Default,,0000,0000,0000,,你下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:31:24.07,1:31:26.91,Default,,0000,0000,0000,,没有比这儿更好的地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# There's no better place to go #
+Dialogue: 0,1:31:27.11,1:31:30.14,Default,,0000,0000,0000,,我们上有山雪\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got snow up on the mountains #
+Dialogue: 0,1:31:30.25,1:31:32.61,Default,,0000,0000,0000,,我们下有河川\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got rivers down below #
+Dialogue: 0,1:31:32.72,1:31:35.88,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:31:36.12,1:31:39.11,Default,,0000,0000,0000,,我们听到树梢的鸟语\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We hear the birds sing in the trees #
+Dialogue: 0,1:31:39.32,1:31:42.05,Default,,0000,0000,0000,,大地将被呵护\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And the land will be looked after #
+Dialogue: 0,1:31:42.16,1:31:45.03,Default,,0000,0000,0000,,我们在微风中播撒种子\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We'll send the seeds out in the breeze #
+Dialogue: 0,1:31:53.07,1:31:57.23,Default,,0000,0000,0000,,你觉得逃脱了世俗\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Did you think you'd escaped from routine #
+Dialogue: 0,1:31:59.31,1:32:03.37,Default,,0000,0000,0000,,用改变剧本与场景的方法？\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# By changing the script and the scene? #
+Dialogue: 0,1:32:05.58,1:32:08.11,Default,,0000,0000,0000,,不管你是什么样的人\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Despite all you made of it #
+Dialogue: 0,1:32:08.58,1:32:12.78,Default,,0000,0000,0000,,你总是害怕改变\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# You're always afraid of the change #
+Dialogue: 0,1:32:17.26,1:32:20.19,Default,,0000,0000,0000,,其实你内心很有胆识\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# You've got a lot on your chest #
+Dialogue: 0,1:32:20.30,1:32:23.13,Default,,0000,0000,0000,,就来当我的客人吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Well, you can come as my guest #
+Dialogue: 0,1:32:23.23,1:32:24.93,Default,,0000,0000,0000,,那么，下来吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# So come on down #
+Dialogue: 0,1:32:26.64,1:32:28.33,Default,,0000,0000,0000,,下来吧\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Come on down #
+Dialogue: 0,1:32:29.11,1:32:32.13,Default,,0000,0000,0000,,我们将下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:32:32.68,1:32:35.51,Default,,0000,0000,0000,,没有比这儿更好的地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# There's no better place to go #
+Dialogue: 0,1:32:35.71,1:32:38.74,Default,,0000,0000,0000,,我们上有山雪\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got snow up on the mountains #
+Dialogue: 0,1:32:38.85,1:32:41.37,Default,,0000,0000,0000,,我们下有河川\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got rivers down below #
+Dialogue: 0,1:32:41.48,1:32:44.58,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:32:44.79,1:32:47.81,Default,,0000,0000,0000,,我们听到树梢的鸟语\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We hear the birds sing in the trees #
+Dialogue: 0,1:32:47.92,1:32:50.79,Default,,0000,0000,0000,,大地将被呵护\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And the land will be looked after #
+Dialogue: 0,1:32:50.89,1:32:53.69,Default,,0000,0000,0000,,我们在微风中播撒种子\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We'll send the seeds out in the breeze #
+Dialogue: 0,1:32:58.17,1:33:00.53,Default,,0000,0000,0000,,就像海里的鱼儿\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Like the fish in the ocean #
+Dialogue: 0,1:33:02.07,1:33:04.30,Default,,0000,0000,0000,,海也是我们的家\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We felt at home in the sea #
+Dialogue: 0,1:33:06.11,1:33:08.77,Default,,0000,0000,0000,,我们学习在美好的土地上生活\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We learned to live off the good land #
+Dialogue: 0,1:33:10.18,1:33:12.41,Default,,0000,0000,0000,,我们学习爬树\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We learned to climb up a tree #
+Dialogue: 0,1:33:14.22,1:33:16.78,Default,,0000,0000,0000,,我们双腿站着成长\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Then we got up on two legs #
+Dialogue: 0,1:33:18.49,1:33:21.01,Default,,0000,0000,0000,,但我们还想飞\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# But we wanted to fly #
+Dialogue: 0,1:33:22.39,1:33:25.09,Default,,0000,0000,0000,,当我们把家弄乱了\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And when we messed up our homeland #
+Dialogue: 0,1:33:26.43,1:33:29.02,Default,,0000,0000,0000,,却远走高飞\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We set sail for the sky #
+Dialogue: 0,1:33:29.70,1:33:32.76,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:33:33.20,1:33:36.00,Default,,0000,0000,0000,,没有比这儿更好的地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# There's no better place to go #
+Dialogue: 0,1:33:36.17,1:33:39.27,Default,,0000,0000,0000,,我们上有山雪\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got snow up on the mountains #
+Dialogue: 0,1:33:39.38,1:33:41.78,Default,,0000,0000,0000,,我们下有河川\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got rivers down below #
+Dialogue: 0,1:33:41.88,1:33:45.11,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:33:45.21,1:33:48.34,Default,,0000,0000,0000,,我们听到树梢的鸟语\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We hear the birds sing in the trees #
+Dialogue: 0,1:33:48.45,1:33:51.32,Default,,0000,0000,0000,,大地将被呵护\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And the land will be looked after #
+Dialogue: 0,1:33:51.42,1:33:53.91,Default,,0000,0000,0000,,我们在微风中播撒种子\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We'll send the seeds out in the breeze #
+Dialogue: 0,1:33:54.02,1:33:55.92,Default,,0000,0000,0000,,我们要下来\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down #
+Dialogue: 0,1:33:57.13,1:33:59.15,Default,,0000,0000,0000,,下到地球上\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Coming down to Earth #
+Dialogue: 0,1:34:00.23,1:34:02.42,Default,,0000,0000,0000,,就像出生的婴儿\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Like babies at birth #
+Dialogue: 0,1:34:03.27,1:34:05.20,Default,,0000,0000,0000,,来到这世界\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# Coming down to Earth #
+Dialogue: 0,1:34:06.27,1:34:08.74,Default,,0000,0000,0000,,我们知是非和轻重\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We define new priorities #
+Dialogue: 0,1:34:09.14,1:34:12.13,Default,,0000,0000,0000,,这些是优点和美德\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# These are extraordinary qualities #
+Dialogue: 0,1:34:18.45,1:34:21.42,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:34:21.85,1:34:24.91,Default,,0000,0000,0000,,没有比这儿更好的地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# There's no better place to go #
+Dialogue: 0,1:34:25.02,1:34:28.11,Default,,0000,0000,0000,,我们上有山雪\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got snow up on the mountains #
+Dialogue: 0,1:34:28.22,1:34:30.62,Default,,0000,0000,0000,,我们下有河川\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got rivers down below #
+Dialogue: 0,1:34:30.73,1:34:33.66,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:34:34.10,1:34:37.07,Default,,0000,0000,0000,,我们听到树梢的鸟语#\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We hear the birds sing in the trees #
+Dialogue: 0,1:34:37.17,1:34:40.26,Default,,0000,0000,0000,,大地将被呵护\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And the land will be looked after #
+Dialogue: 0,1:34:40.37,1:34:42.77,Default,,0000,0000,0000,,我们在微风中播撒种子\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We send the seeds out in the breeze #
+Dialogue: 0,1:34:42.87,1:34:45.90,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:34:46.44,1:34:49.14,Default,,0000,0000,0000,,没有比这儿更好的地方\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# There's no better place to go #
+Dialogue: 0,1:34:49.45,1:34:52.38,Default,,0000,0000,0000,,我们上有山雪\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got snow up on the mountains #
+Dialogue: 0,1:34:52.48,1:34:55.04,Default,,0000,0000,0000,,我们下有河川\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We got rivers down below #
+Dialogue: 0,1:34:55.15,1:34:58.09,Default,,0000,0000,0000,,我们要下到地面\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We're coming down to the ground #
+Dialogue: 0,1:34:58.49,1:35:01.39,Default,,0000,0000,0000,,我们听到树梢的鸟语\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We hear the birds sing in the trees #
+Dialogue: 0,1:35:01.79,1:35:04.69,Default,,0000,0000,0000,,大地将被呵护\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# And the land will be looked after #
+Dialogue: 0,1:35:04.83,1:35:07.19,Default,,0000,0000,0000,,我们在微风中播撒种子\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We send the seeds out in the breeze #
+Dialogue: 0,1:35:07.30,1:35:10.03,Default,,0000,0000,0000,,我们知是非和轻重\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# We define new priorities #
+Dialogue: 0,1:35:10.13,1:35:13.26,Default,,0000,0000,0000,,这些是优点和美德\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# These are extraordinary qualities #
+Dialogue: 0,1:35:13.37,1:35:15.13,Default,,0000,0000,0000,,能在地球上找到\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# To find on Earth #
+Dialogue: 0,1:35:37.79,1:35:39.49,Default,,0000,0000,0000,,能在地球上找到\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# To find on Earth #
+Dialogue: 0,1:35:50.04,1:35:51.63,Default,,0000,0000,0000,,能在地球上找到\N{\fntahoma}{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}# To find on Earth #
