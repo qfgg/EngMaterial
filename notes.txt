@@ -73,7 +73,7 @@ black eye
 blow up
 bowling alley
 brand new
-break in
+break in/into
 break a leg
 break my heart
 break the law
@@ -667,6 +667,7 @@ stop doing
 be stuck in there
 be stuck with
 be stressed out
+succeed at doing
 suit yourself
 be supposed to
 talk shop
@@ -813,3 +814,4 @@ a way to what(end the game)
 where the garbage goes
 where they keep the medal
 that suit does nothing for you ass
+this is the part where
