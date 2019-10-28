@@ -21,6 +21,7 @@ and yet
 apart from
 apologize for
 are you kidding me / are you shitting me
+around here
 ask for
 ask her out
 ask sb a favor
@@ -31,6 +32,7 @@ as soon as
 at all costs
 at half price
 at close range
+at some point
 back out of
 back to
 barge in
@@ -136,6 +138,7 @@ it's convenient that he died
 convince sb
 that's not cool
 wicked cool
+cope with
 count me in
 count on sb
 course through
@@ -199,6 +202,7 @@ fix (sth / sb) up
 other shops fold
 follow sb home from work
 follow through with (your promise)
+the following (May)
 fool around
 forget about (this)
 for a reason
@@ -302,7 +306,7 @@ good to go
 sth grow on sb
 be grounded
 has a better body
-happen to (do)
+happen to (be/do)
 hardly/not ... at all
 have a deal
 have an early night
@@ -371,6 +375,7 @@ I was thinking (suggestion)
 I'm here to see
 I'm losing it
 I'm not through with you
+in a general way
 in a mask
 in a row
 in a timeout
@@ -425,6 +430,7 @@ knock/throw sb for a loop
 sb is the boss
 lay down
 leap of faith
+let alone
 let you down
 be straight with sb
 let's cut to the chase / get it/this straight
@@ -461,6 +467,7 @@ make amends / make it up to (you)
 make a confession
 make a difference
 make a wish
+make ends meet
 make yourself at home / knock yourself out
 make out
 make room / there's no room
@@ -511,6 +518,7 @@ it's none of your business / mind your own business
 not again
 not any more
 not if
+not for me
 not that
 not today
 not even close
@@ -549,6 +557,7 @@ out of luck
 out of ones mind
 (go) out of order
 out of practice
+born out of blood
 want one of these
 want sb back
 over my head
@@ -561,6 +570,7 @@ be pissed (off)
 pick (it) up
 pick on
 pipe dream
+play with
 she's got a point
 you made your point
 the point is
@@ -593,6 +603,7 @@ refer to
 I relate to you
 remember doing
 a remote chance
+rest assured
 right away
 right now
 the right time
@@ -612,6 +623,7 @@ save your skin
 say no to sb
 scare the shit out of
 screw up / blow it
+second thoughts
 see a doctor
 see you soon
 see you later
@@ -702,10 +714,12 @@ take a day off
 take a leak
 take a pee
 take a look (around)
+take sb around
 take care
 take cover
 take the edge off
 take the liberty of 
+take to sth
 take turns
 take your time
 talk sb into doing
@@ -734,10 +748,12 @@ that's not fair
 that's not how this game works
 this better be
 this whole time
+we're through
 throw away
 throw up
 toll free
 (cut him) to the quick
+to this extent
 threaten to do sth
 throw it on top / throw it out
 trace (sth) to sth
@@ -747,10 +763,11 @@ trick sb into doing
 try me
 try my best
 try to do / I'm trying to do
+try it on
 turn against sb
 turn (it) on
 turn (it) off
-turn (it) over
+turn (it) over (to)
 turn it up
 turn on sb
 turn himself in to authorities
@@ -821,6 +838,7 @@ need some time alone
 still nothing from sb
 I will make you proud
 I'm a man of my word
+I made the trip in 3 1/2 hours
 is there any chance
 there's something important I need to tell you
 you are being ridiculous
