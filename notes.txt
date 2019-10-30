@@ -26,6 +26,7 @@ around here
 ask for
 ask her out
 ask sb a favor
+as a matter of fact
 as far as I'm concerned
 as long as
 as soon as
@@ -37,6 +38,7 @@ at some point
 back out of
 back to
 barge in
+based on
 beat around the bush
 beat sb to it
 beat the shit out of sb
@@ -198,6 +200,7 @@ fill for sb
 fill me in on
 fill out this card
 find out
+find my way out
 finish what we started
 fire up
 fix (sth / sb) up
@@ -268,8 +271,10 @@ get on (the table)
 get out of my way
 get past
 get rid of
+get the hang of sth
 get lucky
 get nervous
+get tired of sth
 get worse
 get sb's attention
 get sb's head around
@@ -315,6 +320,7 @@ hardly/not ... at all
 have a deal
 have an early night
 have a good one
+have a look at sth
 have a panic attack
 have any idea
 have enough of doing / I've had enough of you
@@ -366,6 +372,7 @@ have the chance / if I got the chance
 he's impossible
 I bet
 I guess not
+I'll say
 I'm afraid
 I'm game
 I'm into it
@@ -386,6 +393,7 @@ in a timeout
 in battle
 in credit card debt
 in his shoes
+be in luck
 in motion
 in no condition
 in one piece
@@ -707,6 +715,7 @@ sublevel 6
 succeed at doing
 suit yourself
 be supposed to
+it sure is
 talk shop
 take away (from sb)
 take a seat / have a seat / grab a seat
@@ -833,6 +842,7 @@ work sb's ass off
 sth doesn't work that way
 worry about / I'm worried about sb
 worth doing
+I'd better (do sth)
 be better off doing
 be wrapped up
 you bet
