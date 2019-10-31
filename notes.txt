@@ -94,7 +94,7 @@ bundle up
 burn down
 burn to ashes
 you are burning up
-have no business doing
+have no business doing / got no business doing
 bust it open
 buy me (coffee)
 I'll buy you some time
@@ -187,6 +187,7 @@ fair enough
 fall apart
 fall back
 fall for sth
+fall in love with sth
 fall off (the table)
 (this responsibility) falls on (me)
 feel like
@@ -276,6 +277,7 @@ get the hang of sth
 get lucky
 get nervous
 get tired of sth
+get used to sth
 get worse
 get sb's attention
 get sb's head around
@@ -639,6 +641,7 @@ run out
 run point on
 save your skin
 say no to sb
+be scared of sth
 scare the shit out of
 screw up / blow it
 second thoughts
@@ -656,6 +659,7 @@ sell sb out
 2 servings
 set a (good/great) example (for sb to do sth)
 set sth on fire
+settle into
 on a shift
 be sick of
 side by side
@@ -702,6 +706,8 @@ start over
 start with sth
 stay low / low key
 stay away from sb
+stay out
+stay up
 stay with
 stay with me. we are losing him
 stay put / stay sealed
