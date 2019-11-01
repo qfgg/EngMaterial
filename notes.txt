@@ -100,10 +100,12 @@ buy me (coffee)
 I'll buy you some time
 I don't buy it
 by all means
+by any chance
 by far
 by my standards
 by the way
 my call
+call off
 call out
 calm down
 chill out
@@ -125,7 +127,7 @@ come alone
 come by (to see)
 (this place is) coming down
 come from
-come in (1. get in; 2. radio)
+come in (1. get in; 2. radio) / I'm coming in close
 come in for supplies
 sth come off
 come on
@@ -294,6 +296,7 @@ give in to
 give it a rest
 give it a shot
 give it back/give me that back
+give sb a call
 go AWOL
 go ahead
 go crazy
@@ -457,7 +460,9 @@ let sb go
 let it go
 leave behind
 leave sb alone
+leave it on
 leave out
+lie in the sun
 lie to sb
 lift sb up
 I like it here
@@ -465,6 +470,7 @@ like what
 lighten up
 light them up
 line up for
+lines are down
 listen up
 I can live with it
 lock down
@@ -485,7 +491,7 @@ make a confession
 make a difference
 make a wish
 make ends meet
-make yourself at home / knock yourself out
+make yourself at home / knock yourself out / help yourself
 make out
 make room / there's no room
 make your way to
@@ -688,6 +694,7 @@ so be it
 so far
 so long
 so ready
+is really something
 be sorry for (what I said)
 sounds good
 be speeding
@@ -777,6 +784,7 @@ this whole time
 we're through
 throw away
 throw up
+till later
 toll free
 (cut him) to the quick
 to this extent
