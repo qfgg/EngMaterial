@@ -1,13 +1,17 @@
 a couple of
 a bunch of
 a frined of sb's
+a little bit
 a whole lot of
 act like
 act weird
 across the street
 adjust to school
 after you
+against your will
 agree on
+agree to do
+all by themselves
 all I'm asking is / all I ask is
 all I know is
 all day long
@@ -20,6 +24,8 @@ all over
 and all
 and yet
 apart from
+appeal to
+appear to be
 apologize for
 are you kidding me / are you shitting me
 around here
@@ -32,9 +38,12 @@ as long as
 as soon as
 (BB) as in (Brandon Breyer)
 at all costs
+at first
 at half price
 at close range
 at some point
+at stake
+at the moment
 back out of
 back to
 barge in
@@ -49,6 +58,7 @@ be about to
 be afraid of
 be against
 be bored of sth
+be concerned about
 be cross with sb
 be dressed / get dressed
 be fond of
@@ -77,8 +87,10 @@ I'll bet
 bite me
 black eye
 blow up
+blow your brain out
 bowling alley
 brand new
+the weather breaks
 break in/into
 break a leg
 break my heart
@@ -91,10 +103,11 @@ broiling hot
 bug a room
 bug sb
 bundle up
-burn down
+burn (it) down
 burn to ashes
 you are burning up
 have no business doing / got no business doing
+business is slow
 bust it open
 buy me (coffee)
 I'll buy you some time
@@ -105,19 +118,21 @@ by far
 by my standards
 by the way
 my call
+give sb a call
+call you back
 call off
 call out
 calm down
 chill out
 can't do this
 can't help it
-care for a cup of tea
+care for (a cup of tea)
 carry on
 catch you up later
 catch my breath
 cheat on sb
-check it out
 check on sb
+check out sth / check it out
 chew up
 chicken out
 clean (it) up
@@ -151,22 +166,27 @@ course through
 cut in line
 cut it out / cut the crap
 cut out for
+cut you up into little pieces
 dark horse
 dead end
 deal with
 depend on
 you did it
 die for
+differ with
 dig in
 dissuade from
 won't do much
+do you good
 do-over
 I don't think so
 don't bother
 double for sb
 I doubt it
+I have my doubts
 dream about
 drift off
+drink up
 drive safe
 drive you
 drop off
@@ -174,6 +194,7 @@ I'm done / be done with (sth)
 I'm a dog person
 dwell on
 don't age
+be due to arrive
 editing out any inconvenient data
 be on edge
 be on the edge of
@@ -206,7 +227,7 @@ find out
 find my way out
 finish what we started
 fire up
-fix (sth / sb) up
+fix (sth / sb) up / fix me up with sth (means arrange)
 other shops fold
 follow sb home from work
 follow through with (your promise)
@@ -252,6 +273,7 @@ gotcha
 get some air
 get word
 get it done
+get down the mountain
 get sb on sb's feet
 get sb laid
 get sb sth
@@ -324,6 +346,7 @@ be grounded
 has a better body
 happen to (be/do)
 hardly/not ... at all
+have a bad dream
 have a deal
 have an early night
 have a good one
@@ -374,6 +397,7 @@ how far along is she
 how far would you go to
 how hard can it be
 hunt sb (down)
+hurt my head really bad
 hustle / hustle up / hurry it up / chop-chop
 have the chance / if I got the chance
 he's impossible
@@ -398,6 +422,7 @@ in a mask
 in a row
 in a timeout
 in battle
+in case
 in credit card debt
 in his shoes
 be in luck
@@ -429,6 +454,7 @@ jerk off
 join us
 I got no juice
 judge sb on sth
+just between you and me
 keep a secret from
 keep an eye on sth
 keep doing
@@ -444,9 +470,12 @@ kill for sth
 sb is killing it
 kind of
 kneel down
+knock back
 knock it off
 knock/throw sb for a loop
 sb is the boss
+later on
+lay a hand on
 lay down
 leap of faith
 let alone
@@ -455,7 +484,7 @@ be straight with sb
 let's cut to the chase / get it/this straight
 let go off sb
 let sb in
-let sb out
+let sb out (of here)
 let sb go
 let it go
 leave behind
@@ -473,6 +502,7 @@ line up for
 lines are down
 listen up
 I can live with it
+live up to (my responsibilities)
 lock down
 look around
 look back on it
@@ -489,6 +519,7 @@ main man
 make amends / make it up to (you)
 make a confession
 make a difference
+make a mess of your jacket
 make a wish
 make ends meet
 make yourself at home / knock yourself out / help yourself
@@ -532,6 +563,7 @@ next to sb
 nice job
 nice shot
 no big deal
+no charge to sb
 no shit
 no more homework
 no problem
@@ -550,6 +582,7 @@ not even close
 not until
 not yet
 noting but
+nothing serious
 now and again
 from now on
 it occurs to me
@@ -580,7 +613,7 @@ outrun sb
 out of control / under control
 out of line / cross a line
 out of luck
-out of ones mind
+out of ones mind / lose my mind
 (go) out of order
 out of practice
 born out of blood
@@ -604,12 +637,14 @@ pop into one's head
 pop quiz
 pretty good
 pretty much
+prevent sb from doing
 pull (this) off
 pull over
 pull (sb) out
 pull yourself together / get it together
 push me to the ground
 push sb off
+put sth down
 put up with
 put you up to (this)
 put you through
@@ -640,6 +675,7 @@ roll the dice on
 round the clock
 rough on you
 be tough on sb
+rub it in
 rule out
 run a red light
 run off
@@ -650,6 +686,7 @@ say no to sb
 be scared of sth
 scare the shit out of
 screw up / blow it
+search for
 second thoughts
 see a doctor
 see you soon
@@ -725,6 +762,7 @@ watch your step / mind your step
 stick around
 stick to
 stop doing
+stop it
 be stuck in there
 be stuck with
 be stressed out
@@ -748,7 +786,7 @@ take a leak
 take a pee
 take a look (around)
 take sb around
-take care
+take care (I'll take care of it)
 take cover
 take the edge off
 take the liberty of 
@@ -765,6 +803,7 @@ tell a secret
 I can tell by sth
 thanks for asking
 the thought of
+think things over
 things have been (crazy)
 things look like
 think about doing sth
@@ -776,6 +815,7 @@ what's out there in the ocean
 over there
 we are almost there
 that's a good one
+that's all I ask
 that's noble of you
 that's not fair
 that's not how this game works
@@ -824,6 +864,7 @@ update sb on sth
 I can really use that money
 use sth for doing
 the very same model
+wait a minute
 wait around
 wait it out
 wait up
@@ -839,6 +880,7 @@ want the money back
 wash out
 I'm wasted
 way better/ way too easy
+well below
 what brings you
 what took you so long
 whatever happened to sth
@@ -886,3 +928,4 @@ where the garbage goes
 where they keep the medal
 that suit does nothing for you ass
 this is the part where
+what's the big deal about getting there today
