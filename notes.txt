@@ -5,7 +5,7 @@ a little bit
 a whole lot of
 act like
 act weird
-across the street
+across the street / (live) across the hall
 adjust to school
 after you
 against your will
@@ -29,6 +29,7 @@ appear to be
 apologize for
 are you kidding me / are you shitting me
 around here
+around the edge
 ask for
 ask her out
 ask sb a favor
@@ -155,6 +156,7 @@ when it comes to
 come to terms with
 come up with
 come with sb
+(a skin) condition
 it's convenient that he died
 convince sb
 that's not cool
@@ -176,6 +178,7 @@ die for
 differ with
 dig in
 dissuade from
+what do you do for fun
 won't do much
 do you good
 do-over
@@ -213,6 +216,7 @@ fall for sth
 fall in love with sth
 fall off (the table)
 (this responsibility) falls on (me)
+faster downloads
 feel like
 feel better
 feel free to do
@@ -388,7 +392,7 @@ hold on
 hold still
 hold the perfect temperature
 hole up
-holy shit
+holy shit / holy smokes
 a home
 be honest with sb
 I'm just being honest
@@ -534,6 +538,7 @@ makes it easier for us to
 make it worth it
 make money
 make sb do sth
+make sb feel welcome
 make the tough choices
 make up
 manage to do
@@ -625,6 +630,7 @@ want one of these
 want sb back
 over my head
 over the summer
+improvement over (the old neighbor)
 pass away
 pay off
 pep talk
@@ -632,6 +638,7 @@ her phone is dead
 be pissed (off)
 pick (it) up
 pick on
+pin her hopes on my sperm
 pipe dream
 play with
 she's got a point
@@ -669,6 +676,7 @@ refer to
 I relate to you
 remember doing
 a remote chance
+renege on
 rest assured
 right away
 right now
@@ -688,6 +696,7 @@ run out
 run point on
 save your skin
 say no to sb
+say something in response
 be scared of sth
 scare the shit out of
 screw up / blow it
@@ -736,6 +745,7 @@ so be it
 so far
 so long
 so ready
+solve the area under a curve
 is really something
 be sorry for (what I said)
 sounds good
@@ -833,6 +843,7 @@ till later
 toll free
 (cut him) to the quick
 to this extent
+to what end
 threaten to do sth
 throw it on top / throw it out
 trace (sth) to sth
@@ -879,6 +890,7 @@ watch your head
 watch out (for)
 watch this
 walk away from
+walk out
 walk you
 walk you through the tasks
 want the money back
@@ -898,6 +910,7 @@ what's the rush
 what's wrong with you
 do you see where I'm going with this
 why else / how else
+widen our circle
 wipe out
 with all due respect
 work as a team
@@ -914,6 +927,7 @@ you bet
 you deserve better
 you're a quick study
 you've got another thing coming
+you might want to
 don't even think about it
 he's the one who did sth
 need some time alone
@@ -934,3 +948,4 @@ where they keep the medal
 that suit does nothing for you ass
 this is the part where
 what's the big deal about getting there today
+what's the protocol for leaving
