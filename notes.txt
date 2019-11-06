@@ -44,6 +44,7 @@ at half price
 at close range
 at some point
 at stake
+at thanksgiving
 at the moment
 back out of
 back to
@@ -128,7 +129,9 @@ chill out
 can't do this
 can't help it
 care for (a cup of tea)
+carnal relationship
 carry on
+carve (that turkey)
 catch you up later
 catch my breath
 cheat on sb
@@ -173,6 +176,7 @@ dark horse
 dead end
 deal with
 depend on
+this is an interesting development
 you did it
 die for
 differ with
@@ -207,6 +211,7 @@ enroll sb at ... school
 (every) once in a while
 everyday life
 even so
+except for
 she is expecting
 fail you
 fair enough
@@ -315,6 +320,7 @@ get sb home
 get (your ass) in the car
 get a life
 get a better/perfect view of
+get through high school
 get to the point
 don't let it get you down
 give a shit
@@ -347,12 +353,14 @@ go wrong
 good call
 good luck on sth
 good to go
+this isn't a good time
 grab a bite to eat
 sth grow on sb
 be grounded
 has a better body
 happen to (be/do)
 hardly/not ... at all
+hate somebody’s guts
 have a bad dream
 have a deal
 have an early night
@@ -365,7 +373,7 @@ have no clue
 have sb do
 have fun
 have it wrong
-have sex
+have sex with sb
 hang in there
 hang out
 hangover
@@ -403,6 +411,7 @@ how come
 how far along is she
 how far would you go to
 how hard can it be
+how so
 hunt sb (down)
 hurt my head really bad
 hustle / hustle up / hurry it up / chop-chop
@@ -489,6 +498,7 @@ let alone
 let you down
 be straight with sb
 let's cut to the chase / get it/this straight
+let's see
 let go off sb
 let sb in
 let sb out (of here)
@@ -535,6 +545,7 @@ make room / there's no room
 make your way to
 make it (home) / we could make the next showing
 makes it easier for us to
+you'll only make it worse
 make it worth it
 make money
 make sb do sth
@@ -578,13 +589,14 @@ no more homework
 no problem
 no way
 no worries
-no offence - none taken 
+no offence - none taken (point taken)
 nobody comes in, nobody goes out
 it's none of your business / mind your own business
 not again
 not any more
 not if
 not for me
+not of the same species
 not that
 not today
 not even close
@@ -611,7 +623,7 @@ on the bright side
 we're on the clock
 on the house
 on the job
-on top of
+on top of (everything else)
 only if
 open your books to act two, scene two
 open with
@@ -650,6 +662,7 @@ pop quiz
 pretty good
 pretty much
 prevent sb from doing
+Leonard can't process corn
 pull (this) off
 pull over
 pull (sb) out
@@ -679,9 +692,11 @@ a remote chance
 renege on
 rest assured
 right away
+It's right down the hall
 right now
 the right time
 rip (a door) off
+rip (our eyes) out
 sth rocks
 risk sth for sth/sb / risk sth on sth
 roll the dice on
@@ -803,11 +818,13 @@ take a look (around)
 take sb around
 take care (I'll take care of it)
 take cover
+take her clothes off
 take the edge off
 take the liberty of 
 take to sth
 take turns
 take your time
+it takes sb (4 years)
 talk sb into doing
 talk back to
 talk for a second
@@ -822,6 +839,7 @@ think things over
 things have been (crazy)
 things look like
 think about doing sth
+the worst part was
 there you go
 there it is
 it's right here
@@ -834,6 +852,8 @@ that's all I ask
 that's noble of you
 that's not fair
 that's not how this game works
+that's not true
+that's not to say that ...
 this better be
 this whole time
 we're through
@@ -883,6 +903,7 @@ the very same model
 wait a minute
 wait around
 wait it out
+wait till you see
 wait up
 wallow in self-pity
 wake up
@@ -913,6 +934,7 @@ why else / how else
 widen our circle
 wipe out
 with all due respect
+sb with alzheimer
 work as a team
 work out / didn't work out
 work on your self esteem
@@ -949,3 +971,7 @@ that suit does nothing for you ass
 this is the part where
 what's the big deal about getting there today
 what's the protocol for leaving
+what makes you think (she wouldn't have sex with me)
+It's a stephen hawking lecture from mit in 1974
+it faces the television at an angle
+we don't have a lot of company over
