@@ -1,6 +1,7 @@
 a couple of
 a bunch of
 a frined of sb's
+a single grain of rice can tip the scale
 a little bit
 a whole lot of
 act like
@@ -46,6 +47,7 @@ at some point
 at stake
 at thanksgiving
 at the moment
+back in town
 back out of
 back to
 barge in
@@ -97,6 +99,7 @@ break in/into
 break a leg
 break my heart
 break the law
+break up with sb
 bring sb back
 bring in
 bring it on
@@ -124,6 +127,7 @@ give sb a call
 call you back
 call off
 call out
+call up
 calm down
 chill out
 can't do this
@@ -197,7 +201,7 @@ drink up
 drive safe
 drive you
 drop off
-I'm done / be done with (sth)
+I'm done / be done with (sth): I'm done with her
 I'm a dog person
 dwell on
 don't age
@@ -262,7 +266,7 @@ be freaked out
 from my point of view
 from the air
 fully functioning
-that was really fun
+that was really fun / that sounds (like) fun
 fuck with
 fuck off
 I got your back / they have your back / we are here for you
@@ -285,14 +289,16 @@ get some air
 get word
 get it done
 get down the mountain
+get some clothes on
 get sb on sb's feet
 get sb laid
 get sb sth
-get sb to do
+get sb to do / you got me out of my pants
 get sb
 get away
 get back
 get behind sb
+get lost
 get out of
 get over (it)
 get/ have a cold feet
@@ -321,6 +327,7 @@ get (your ass) in the car
 get a life
 get a better/perfect view of
 get through high school
+get through the Great Wall
 get to the point
 don't let it get you down
 give a shit
@@ -381,6 +388,7 @@ hang up on / put the phone down on
 hang on
 head for
 head to
+head up to colorado
 just a heads-up
 hear from
 hear sb out
@@ -396,6 +404,7 @@ here you go
 hide sth from sb
 hit bottom
 hit him in the face
+hit on sb
 hold on
 hold still
 hold the perfect temperature
@@ -404,6 +413,7 @@ holy shit / holy smokes
 a home
 be honest with sb
 I'm just being honest
+(be/get) hooked on
 hook up with
 hop out
 hope for
@@ -426,7 +436,7 @@ I'm into it
 sb's in
 I knew it
 I'm off (work)
-I'm okay with (that)
+I'm okay with (that) / is Thai food okay with you
 I'm (so) lost / you lost me there
 I've been there myself
 I was thinking (suggestion)
@@ -481,6 +491,7 @@ keep it down
 keep it that way
 keep it to yourself
 keep this up
+kick back
 kick one's ass
 kill for sth
 sb is killing it
@@ -494,7 +505,8 @@ later on
 lay a hand on
 lay down
 leap of faith
-let alone
+learn my lesson
+let alone / not to mention
 let you down
 be straight with sb
 let's cut to the chase / get it/this straight
@@ -531,6 +543,7 @@ long face
 long story short
 lucky for you
 lure me out
+mack daddy
 are you mad at me
 main man
 make amends / make it up to (you)
@@ -614,7 +627,7 @@ on edge
 (I'm) on my way
 on the way back
 I'm on it
-that's on me
+that's on me / dinner is on me
 on one's own
 on patrol
 on special occasions
@@ -632,6 +645,7 @@ the other day
 fight over a girl
 outrun sb
 out of control / under control
+(she's) out of my league
 out of line / cross a line
 out of luck
 out of ones mind / lose my mind
@@ -639,7 +653,7 @@ out of ones mind / lose my mind
 out of practice
 born out of blood
 want one of these
-want sb back
+want sb back / want sb out
 over my head
 over the summer
 improvement over (the old neighbor)
@@ -672,7 +686,7 @@ push sb off
 put sth down
 put up with
 put you up to (this)
-put you through
+put you through / drag you through this
 put some pressure on them
 put your weapon down
 put it off
@@ -731,6 +745,7 @@ sell sb out
 2 servings
 set a (good/great) example (for sb to do sth)
 set sth on fire
+set up defenses
 settle into
 on a shift
 be sick of
@@ -802,6 +817,7 @@ suit yourself
 be supposed to
 it sure is
 talk shop
+take any chances
 take away (from sb)
 take a seat / have a seat / grab a seat
 take a stand
@@ -866,6 +882,7 @@ to this extent
 to what end
 threaten to do sth
 throw it on top / throw it out
+throughout all the provinces
 trace (sth) to sth
 trash my place
 trash talk sb
@@ -886,6 +903,7 @@ turn it over / hand it over
 it's sb's turn / have sb's turn
 turn to
 not my type
+(we're) under attack
 under the circumstances
 up a storm
 up here
@@ -952,11 +970,14 @@ you've got another thing coming
 you might want to
 don't even think about it
 he's the one who did sth
+a guy you just met
 need some time alone
 still nothing from sb
+I can see
 I will make you proud
 I'm a man of my word
 I made the trip in 3 1/2 hours
+if you say no
 is there any chance
 there's something important I need to tell you
 you are being ridiculous
@@ -964,6 +985,7 @@ you are the only one (who can stop it)
 you are not helping
 you have potential
 that's why
+you know how it is with breakups
 a way to what(end the game)
 where the garbage goes
 where they keep the medal
@@ -975,3 +997,5 @@ what makes you think (she wouldn't have sex with me)
 It's a stephen hawking lecture from mit in 1974
 it faces the television at an angle
 we don't have a lot of company over
+we're going to have to
+what are your odds
