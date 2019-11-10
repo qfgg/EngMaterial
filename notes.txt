@@ -32,7 +32,7 @@ apologize for
 are you kidding me / are you shitting me
 around here
 around the edge
-ask for
+ask for (ask for his name)
 ask her out
 ask sb a favor
 as a matter of fact
@@ -51,6 +51,7 @@ at the moment
 back in town
 back out of
 back to
+back sb up
 barge in
 based on
 beat around the bush
@@ -94,6 +95,9 @@ bite me
 black eye
 blow up
 blow your brain out
+blow my secret
+be bound to do
+bow to sb
 bowling alley
 brand new
 the weather breaks
@@ -144,6 +148,7 @@ cheat on sb
 check on sb
 check out sth / check it out
 chew up
+chicken (boy)
 chicken out
 clean (it) up
 two seats in coach
@@ -178,15 +183,19 @@ cut in line
 cut it out / cut the crap
 cut out for
 cut you up into little pieces
+be in danger
 dark horse
+day one
 dead end
 deal with
+deceive (your commanding officer
 depend on
 this is an interesting development
 you did it
 die for
 differ with
 dig in
+you're dismissed
 dissuade from
 what do you do for fun
 won't do much
@@ -320,7 +329,7 @@ get rid of
 get the hang of sth
 get lucky
 get nervous
-get tired of sth
+get tired of sth / be tired of sth
 get used to sth
 get worse
 get sb's attention
@@ -333,6 +342,7 @@ get the drift
 get through high school
 get through the Great Wall
 get to the point
+get help
 don't let it get you down
 give a shit
 give away
@@ -398,6 +408,7 @@ just a heads-up
 hear from
 hear sb do sth
 hear sb out
+Let's hear it for
 help sb do sth
 help sb up
 help sb out
@@ -425,7 +436,7 @@ hop out
 hope for
 how come
 how far along is she
-how far would you go to
+how far would you go to do sth / go this far
 how hard can it be
 how so
 hunt sb (down)
@@ -500,7 +511,7 @@ keep it that way
 keep it to yourself
 keep this up
 kick back
-kick one's ass
+kick sb's butt/ass
 kill for sth
 sb is killing it
 kind of
@@ -515,6 +526,7 @@ lay a hand on
 lay down
 leap of faith
 learn my lesson
+leave something out
 let alone / not to mention
 let you down
 be straight with sb
@@ -548,6 +560,7 @@ look for
 look out for sb
 look sharp
 look though
+look in the mirror
 long face
 long story short
 lose face
@@ -576,6 +589,7 @@ make sb do sth
 make sb feel welcome
 make the tough choices
 make up
+make way for sb
 manage to do
 man up
 mean business
@@ -584,11 +598,10 @@ mean to
 mean well
 meet us at
 mess around
-mess with / fuck with
+mess with / fuck with (mess with my plan)
 sb / sth is a mess
 be messed up
 in a mess
-sb went missing
 be more of
 most of the time
 move in with sb
@@ -603,7 +616,7 @@ in the long run / term
 name it
 narrow down
 never mind
-next to sb
+next to sb / sit by me
 nice job
 nice shot
 no big deal
@@ -671,6 +684,7 @@ over the summer
 improvement over (the old neighbor)
 pass away
 pay off
+people skills
 pep talk
 her phone is dead
 be pissed (off)
@@ -678,6 +692,7 @@ pick (it) up
 pick on
 pin her hopes on my sperm
 pipe dream
+play nice
 play with
 she's got a point
 you made your point
@@ -685,6 +700,7 @@ the point is
 what's your point
 pop into one's head
 pop quiz
+pop out of the snow
 pretty good
 pretty much
 prevent sb from doing
@@ -726,7 +742,7 @@ the right time
 rip (a door) off
 rip (our eyes) out
 sth rocks
-risk sth for sth/sb / risk sth on sth
+risk sth for sth/sb / risk sth on sth (you risked your life to)
 rise and shine
 roll the dice on
 round the clock
@@ -740,6 +756,7 @@ run out
 run point on
 save your skin
 say no to sb
+say it to my face
 say something in response
 be scared of sth
 scare the shit out of
@@ -797,10 +814,12 @@ solve the area under a curve
 is really something
 be sorry for (what I said)
 sounds good
+speak her mind
 be speeding
 spend (my last week) doing sth
 my head is splitting
 split up
+slip through my fingers
 slip up
 spy on sb
 state-of-the-art
@@ -808,6 +827,7 @@ stand by / on standby
 stand clear
 stand sb up
 stare at
+sb started it
 start it up
 start over
 start with sth
@@ -819,6 +839,7 @@ stay with
 stay with me. we are losing him
 stay put / stay sealed
 steal sb's thunder
+step back
 step down
 step outside your comfort zone
 watch your step / mind your step
@@ -834,6 +855,7 @@ succeed at doing
 suit yourself
 be supposed to
 it sure is
+swell up
 talk shop
 take any chances
 take away (from sb)
@@ -974,13 +996,14 @@ wish me luck
 with all due respect
 sb with alzheimer
 work as a team
-work out / didn't work out
+work out / didn't work out / things will work out.
 work on your self esteem
 I'm working on it
 work sb's ass off
 sth doesn't work that way
 worry about / I'm worried about sb
-worth doing
+be worth doing
+he's wounded
 I'd better (do sth)
 be better off doing
 be wrapped up
@@ -995,12 +1018,13 @@ a guy you just met
 need some time alone
 still nothing from sb
 I can see
-I will make you proud
+(I will) make you proud
 I'm a man of my word
 I made the trip in 3 1/2 hours
 if you say no
 is there any chance
 there's something important I need to tell you
+There's no time for
 you are being ridiculous
 you are the only one (who can stop it)
 you are not helping
@@ -1027,3 +1051,13 @@ Can you get back to me on those figures by the end of the day?
 shoulders back, chest high
 I'm doomed
 You are not worthy of this spot
+Well, sort of.
+that was close
+who knew ...
+would not last a minute
+doesn't talk about me much
+lt looks like you're out of ideas.Not quite.
+I can explain
+why is Mulan any different?
+you have my trust
+we've got a long way to go
