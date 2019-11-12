@@ -121,6 +121,7 @@ bug sb
 bundle up
 burn (it) down
 burn to ashes
+it burns (sunburn)
 you are burning up
 have no business doing / got no business doing
 business is slow
@@ -184,6 +185,7 @@ cope with
 count me in
 count on sb
 course through
+cross my heart
 cut in line
 cut it out / cut the crap
 cut out for
@@ -706,6 +708,7 @@ over my head
 over the summer
 improvement over (the old neighbor)
 pass away
+pass out
 pay off
 people skills
 pep talk
@@ -766,6 +769,7 @@ right now
 the right time
 rip (a door) off
 rip (our eyes) out
+it's ripped
 sth rocks
 risk sth for sth/sb / risk sth on sth (you risked your life to)
 rise and shine
@@ -1112,3 +1116,6 @@ when I was, like, 12
 Meet back here in an hour? Done.
 where I come from
 what happened last night with Leonard and Sheldon
+the dream where you thought you were cured
+just one more drive to go
+we stayed one night (hotel)
