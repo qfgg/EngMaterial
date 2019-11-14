@@ -54,6 +54,7 @@ at stake
 at times
 at thanksgiving
 at the moment
+at this point
 back in town
 back out of
 back to
@@ -269,6 +270,7 @@ find my way out
 finish what we started
 fire up
 fix (sth / sb) up / fix me up with sth (means arrange)
+flare up
 other shops fold
 follow sb home from work
 follow through with (your promise)
@@ -365,6 +367,7 @@ get through the Great Wall
 get to the point
 get help
 get your stuff
+get you in trouble
 don't let it get you down
 give a shit
 give away
@@ -570,7 +573,7 @@ let you down
 be straight with sb
 let's cut to the chase / get it/this straight
 let's see
-let go off sb
+let go off sb / let go of me/let me go
 let sb in
 let sb out (of here)
 let sb go
@@ -704,6 +707,7 @@ on special occasions
 on that note
 on the bright side
 we're on the clock
+on the count of three
 on the house
 on the job
 on time
@@ -732,7 +736,7 @@ pass away
 pass out
 pay off
 people skills
-perfectly normal
+perfectly normal / quite common
 pep talk
 her phone is dead
 be pissed (off)
@@ -856,6 +860,7 @@ shame on you
 shed light on
 shit my pants / pee my pants
 shoot to wound
+short circuit
 shove them up your butt/ass
 show sb sth
 show up
@@ -878,6 +883,7 @@ sounds good
 speak her mind
 be speeding
 spend (my last week) doing sth
+spill it
 my head is splitting
 split up
 slip through my fingers
@@ -895,6 +901,7 @@ start with sth
 stay low / low key
 stay away from sb
 stay out
+stay the course
 stay up
 stay with
 stay with me. we are losing him
@@ -1027,6 +1034,7 @@ update sb on sth
 I can really use that money
 use sth for doing
 the very same model
+wage a war
 wait a minute
 wait around
 wait it out
@@ -1081,6 +1089,7 @@ be wrapped up
 yell at
 you bet
 you deserve better
+you're a liar
 you're a quick study
 you've got another thing coming
 you might want to
@@ -1174,3 +1183,8 @@ I was fine until recently
 You're what?
 what's the fun in that?
 I just got a lot on my mind
+what's it gonna be?
+said the same thing
+there's no other choice
+The last treatment didn't go as I'd hoped
+it's almost over
