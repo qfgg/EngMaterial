@@ -14,7 +14,8 @@ after you
 against your will
 agree on
 agree to do
-all by themselves
+be allergic to sth
+all by themselves / by yourself
 all I'm asking is / all I ask is
 all I know is
 all day long
@@ -24,6 +25,7 @@ all the time
 all the way home
 all together
 all over
+arms out
 and all
 and yet
 apart from
@@ -44,6 +46,7 @@ as soon as
 at all costs
 at first
 at half price
+at its core
 at close range
 discuss it at length
 at some point
@@ -102,6 +105,7 @@ blow up
 blow your brain out
 blow out those candles
 blow my secret
+bottled water
 be bound to do
 bow to sb
 bowling alley
@@ -184,6 +188,7 @@ convince sb
 that's not cool
 wicked cool
 cope with
+count back from (100)
 count me in
 count on sb
 course through
@@ -238,6 +243,7 @@ everyday life
 even so
 except for
 she is expecting
+face this way
 fail you
 fair enough
 fall apart
@@ -271,6 +277,7 @@ forget about (this)
 for a reason
 for god's / christ sake
 for good
+for now
 for once
 for your record
 for your information
@@ -283,7 +290,7 @@ for the moment
 for the rest of your life
 force of habit
 force sb to do sth
-be freaked out
+be freaked out / freak you out
 from my point of view
 from the air
 fully functioning
@@ -365,6 +372,7 @@ give it a rest
 give it a shot
 give it back/give me that back (Give me back my key)
 give sb a call
+give me the creeps
 give (me) your word on (sth)
 go AWOL
 go after sb
@@ -393,6 +401,7 @@ grab a bite to eat
 sth grow on sb
 be grounded
 has a better body
+hands in the air
 happen to (be/do)
 hardly/not ... at all
 hate somebody’s guts
@@ -402,10 +411,12 @@ have an early night
 have a good one
 have a look at sth
 have a panic attack
+have a shower
 have any idea
 have enough of doing / I've had enough of you
 have no clue
 have sb do
+have faith
 have fun
 have it wrong
 have sex with sb
@@ -573,6 +584,7 @@ like I said
 I like it here
 like what
 lighten up
+light (this twig) on fire with my mind
 light them up
 line up for
 lines are down
@@ -684,7 +696,7 @@ on edge
 on the way back
 I'm on it
 that's on me / dinner is on me
-on one's own
+on sb's own
 on patrol
 on special occasions
 on that note
@@ -718,6 +730,7 @@ pass away
 pass out
 pay off
 people skills
+perfectly normal
 pep talk
 her phone is dead
 be pissed (off)
@@ -734,6 +747,7 @@ what's your point
 pop into one's head
 pop quiz
 pop out of the snow
+pray for
 pretty good
 pretty much
 prevent sb from doing
@@ -766,6 +780,7 @@ reach out to her
 reach out two arms of steel
 out of reach
 (I'm) ready to do
+reveal sb's secrets
 refer to
 I relate to you
 remember doing
@@ -821,6 +836,7 @@ set sth on fire
 set up defenses
 settle into
 on a shift
+be sick a lot
 be sick of
 side by side
 sign for it
@@ -916,6 +932,7 @@ take a leak
 take a pee
 take a look (around)
 take sb around
+take sb's picture
 take care (I'll take care of it)
 take cover
 take her clothes off
@@ -942,6 +959,7 @@ think about doing sth
 the worst part was
 there you go
 there it is
+there's something off about (them)
 it's right here
 it's cold out here
 what's out there in the ocean
@@ -977,6 +995,7 @@ try me
 try my best
 try to do / I'm trying to do
 try it on
+turn around
 turn against sb
 turn (it) on
 turn (it) off
@@ -1019,6 +1038,7 @@ walk away from
 walk out
 walk you
 walk you through the tasks
+wander this place
 want the money back
 wash out
 I'm wasted
@@ -1142,3 +1162,10 @@ there's no rush
 We do it in three stages
 your immune system produces too many ...
 My body carries a defective RAG1-RAG2 gene
+could be something else
+like a magic trick
+I was a tough birth
+I was fine until recently
+You're what?
+what's the fun in that?
+I just got a lot on my mind
