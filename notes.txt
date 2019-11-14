@@ -232,6 +232,7 @@ I'm a dog person
 dwell on
 don't age
 be due to arrive
+Eat up.
 editing out any inconvenient data
 be on edge
 be on the edge of
@@ -604,7 +605,7 @@ look in the mirror
 long face
 long story short
 lose face
-lower the odds
+lower the odds / lower the dosage
 speak in a lower register
 lucky for you
 lure me out
@@ -759,6 +760,7 @@ pull (sb) out
 pull yourself together / get it together
 push me to the ground
 push sb off
+put everything on the line to do/for sth
 put sth down
 put up with
 put you up to (this)
@@ -814,7 +816,7 @@ save your skin
 say no to sb
 say it to my face
 say something in response
-be scared of sth
+be scared of sth / get scared of
 scare the shit out of
 screw up / blow it
 search for
@@ -1055,6 +1057,7 @@ what's with that
 what's the matter with you
 what's the rush
 what's wrong with you
+Where did she go
 do you see where I'm going with this
 why else / how else
 why not
@@ -1075,6 +1078,7 @@ he's wounded
 I'd better (do sth)
 be better off with/doing
 be wrapped up
+yell at
 you bet
 you deserve better
 you're a quick study
