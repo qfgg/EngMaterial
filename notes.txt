@@ -370,6 +370,7 @@ get some sleep
 get your stuff
 get you in trouble
 don't let it get you down
+get caught
 give a shit
 give away
 give up (on)
@@ -763,6 +764,7 @@ pull (this) off
 pull over
 pull (sb) out
 pull yourself together / get it together
+pull through
 push me to the ground
 push sb off
 put everything on the line to do/for sth
@@ -938,6 +940,7 @@ take out
 take over
 take it easy (on sb) / easy on sth
 don't take it personally
+take a breath
 take a day off
 take a leak
 take a pee
@@ -1012,6 +1015,7 @@ turn (it) on
 turn (it) off
 turn (it) over (to)
 turn it up
+turn it upside down
 turn on sb
 turn himself in to authorities
 turn out
@@ -1072,6 +1076,7 @@ why else / how else
 why not
 widen our circle
 wipe out
+(medical) wing
 wish me luck
 with all due respect
 sb with alzheimer
