@@ -117,6 +117,7 @@ bow to sb
 bowling alley
 brand new
 the weather breaks
+break down
 break in/into
 break a leg
 break my heart
@@ -186,6 +187,7 @@ come over
 come straight here
 when it comes to
 come to terms with
+(if it should ever) come up
 come up with
 come with sb
 (a skin) condition
@@ -401,7 +403,7 @@ go crazy
 sb went missing
 go through
 go away
-go for a walk
+go for a walk / take a walk
 go for (his knees)
 go off
 go on
@@ -410,6 +412,7 @@ sth has been going on
 went on that trip
 go over
 go through a lot
+go the distance
 go to the hospital
 he's gone / it's gone
 go wrong
@@ -519,6 +522,7 @@ in case
 you're in for a treat
 in your case
 in credit card debt
+(things we have) in common
 in good hands
 in his shoes
 be in luck
@@ -569,6 +573,7 @@ keep this up
 keep the place
 kick back
 kick sb's butt/ass
+kick off
 kill for sth
 sb is killing it
 kind of
@@ -595,6 +600,7 @@ let sb in
 let sb out (of here)
 let sb go
 let it go
+(I) lean in(,we kiss.)
 leave behind
 leave sb alone
 leave it on
@@ -945,6 +951,7 @@ stop it
 straighten up
 be stuck in there
 be stuck with
+you stuffed yourself with a ...
 be stressed out
 sublevel 6
 succeed at doing
@@ -1127,4 +1134,5 @@ you bet
 you deserve better
 you're a quick study
 you've got another thing coming
+you know what
 you might want to
