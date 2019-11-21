@@ -35,7 +35,7 @@ apologize for
 are you kidding me / are you shitting me
 around here
 around the edge
-ask for (ask for his name)
+ask for (ask for his name) (how much are you asking?)
 ask her out
 ask sb a favor
 as a matter of fact
@@ -56,6 +56,7 @@ at some point
 at stake
 at times
 at thanksgiving
+at that time
 at the moment
 at this point
 back in town
@@ -166,6 +167,7 @@ carry on
 carve (that turkey)
 catch you up later
 catch my breath
+where's the catch
 cheat on sb
 check on sb
 check out sth / check it out
@@ -215,6 +217,7 @@ dead end
 deal with
 deceive (your commanding officer
 depend on
+deserve it
 this is an interesting development
 you did it
 die a slow, painful death
@@ -379,6 +382,7 @@ get sb's head around
 get sb home
 get (your ass) in the car
 get a life
+get a rental house 
 get a better/perfect view of
 get the drift
 get through high school
@@ -539,6 +543,7 @@ in order to
 in plain view / sight
 in return
 in the grey area
+in the meantime
 in the mood for / to do
 in the shape of
 in the middle of the night
@@ -658,7 +663,7 @@ make yourself at home / knock yourself out / help yourself
 make out
 make room / there's no room
 make your way to
-make it (home) / we could make the next showing / made it past the third procedure
+make it (home) / we could make the next showing / made it past the third procedure / make it through this
 makes it easier for us to
 you'll only make it worse
 make it worth it
@@ -747,6 +752,7 @@ we're on the clock
 on the house
 on the job
 on time
+on the weekends
 on top of (everything else)
 (you got one) on your tail
 only if
@@ -819,6 +825,7 @@ put sth on
 put together sth
 purpose in life
 purse your lips
+qualify for
 quite a few
 quite a (threat)
 quite down
