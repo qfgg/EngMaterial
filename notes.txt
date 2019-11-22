@@ -403,6 +403,7 @@ give it a rest
 give it a shot
 give it back/give me that back (Give me back my key)
 give sb a call
+give me five
 give me the creeps
 give (me) your word on (sth)
 how'd it go with leslie
@@ -542,6 +543,7 @@ in one piece
 in order to
 in plain view / sight
 in return
+be in so much pain
 in the grey area
 in the meantime
 in the mood for / to do
@@ -815,7 +817,7 @@ put everything on the line to do/for sth
 put sth down
 put up with
 put you up to (this)
-put you through / drag you through this
+put you through / drag you through this (put him through another mile)
 put some pressure on them
 put your weapon down
 put it off
@@ -848,6 +850,7 @@ right away
 It's right down the hall
 right now
 the right time
+it just wasn't right.
 rip (a door) off
 rip (our eyes) out
 it's ripped
@@ -1104,7 +1107,7 @@ wage a war
 wait a minute
 wait around
 wait it out
-wait till you see
+wait till you see / wait until
 wait up
 wallow in self-pity
 wake up
