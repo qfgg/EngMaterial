@@ -46,6 +46,7 @@ as soon as
 (BB) as in (Brandon Breyer)
 as usual
 I'm not asking
+at a time
 at all costs
 at best
 at the most
@@ -147,6 +148,7 @@ you are burning up
 have no business doing / got no business doing
 business is slow
 bust it open
+buy in bulk
 buy me (coffee)
 I'll buy you some time
 I don't buy it
@@ -430,6 +432,7 @@ go through
 go away
 go for a walk / take a walk
 go for (his knees)
+go for (you like them very much)
 go off
 go on
 go on a date
@@ -446,6 +449,7 @@ good luck on sth
 good to go
 this isn't a good time
 grab a bite to eat
+great minds
 sth grow on sb
 be grounded
 has a better body
@@ -717,6 +721,7 @@ most of the time
 move in with sb
 move on
 move your finger
+mum's the word
 my apologies to sb
 my condolences
 mix sb up with sb / mistaken sb for
@@ -774,6 +779,7 @@ on sb's own
 on patrol
 on purpose
 on special occasions
+on such short notice
 on that note
 on the bright side
 we're on the clock
@@ -893,6 +899,7 @@ be tough on sb
 rub it in
 rule out
 run a red light
+run into
 run off
 run out
 run point on
@@ -903,6 +910,7 @@ say grace
 say no to sb
 say it to my face
 say something in response
+scrambled eggs
 be scared of sth / get scared of
 scare the shit out of
 score (one) for sth
@@ -1081,6 +1089,7 @@ that's not fair
 that's not how this game works
 that's not true
 that's not to say that ...
+that/(one's) time of the month
 this better be
 this/the whole time
 this is it
@@ -1170,7 +1179,8 @@ what's with that
 what's the matter with you
 what's the rush
 what's wrong with you
-what's new in 
+what's new in
+what now?
 Where did she go
 do you see where I'm going with this
 who am I kidding
