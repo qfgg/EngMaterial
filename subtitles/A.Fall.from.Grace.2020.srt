@@ -1,0 +1,10667 @@
+﻿1
+00:00:02,400 --> 00:00:20,400
+{\pos(192,219)}{\clip(190,219,190,219)\t(0,600,\clip(100,217,280,220))\t(16600,17100,\clip(190,217,190,220))}{\alpha50}{\be2\bord0\shad0\alpha00\cHC6BCA5\3cHC6BCA5\4cHC6BCA5\p1}m 0 0 m 180 1 l 0 1 l 0 0 l 180 0
+
+2
+00:00:03,000 --> 00:00:08,000
+{\fn方正黑体_GBK}{\fad(0,500)}{\pos(192,237)}{\clip(80,220,300,220)\t(0,600,\clip(80,197,300,240))\t(3700,4200,\clip(80,220,300,220))}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}翻\h译
+{\fs13}{\c&HF4A40D&}王子鱼\h\h\hCriticalHit\h\h\h白小问\h\h\h远离风暴浩劫\h\h\h梦回江南ny
+
+3
+00:00:07,000 --> 00:00:12,000
+{\fn方正黑体_GBK}{\fad(0,500)}{\pos(192,237)}{\clip(80,220,300,220)\t(0,600,\clip(80,197,300,240))\t(3700,4200,\clip(80,220,300,220))}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}翻\h译
+{\fs14}{\c&HF4A40D&}有鹿er\h\h\hmojoonx\h\h\h锅锅奶奶\h\h\h汤包小螺螺\h\h\hKenun
+
+4
+00:00:11,000 --> 00:00:16,000
+{\fn方正黑体_GBK}{\fad(0,500)}{\pos(192,237)}{\clip(80,220,300,220)\t(0,600,\clip(80,197,300,240))\t(3700,4200,\clip(80,220,300,220))}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}校对\h&\h后期
+{\fs14}{\c&HF4A40D&}homosapiens\h\h\h\h你以为列
+
+5
+00:00:15,000 --> 00:00:20,000
+{\fn方正黑体_GBK}{\fad(0,500)}{\pos(192,237)}{\clip(80,220,300,220)\t(0,600,\clip(80,197,300,240))\t(3700,4200,\clip(80,220,300,220))}{\bord0\shad0.5}{\c&H02B4FF&}{\fs16}总监
+{\fs14}{\c&HF4A40D&}-=大红=-
+
+6
+00:00:20,000 --> 00:00:26,000
+{\fs12\fn方正黑体_GBK}{\pos(192,230)}{\bord0\shad0.375}{\fad(800,400)}{\c&H02B4FF&}片头推广合作洽谈{\c&HF4A40D&}\h请联系普罗米修斯邮箱\h{\c&H2455FF&}PLMXS2016@GmaiL.com
+
+7
+00:00:24,730 --> 00:00:27,610
+我和我老伴辛辛苦苦攒下的家当
+{\r原文字幕}My husband and I worked for everything I had.
+
+8
+00:00:27,690 --> 00:00:29,150
+离我远点
+{\r原文字幕}Don't come near me!
+
+9
+00:00:29,230 --> 00:00:30,730
+行  好的
+{\r原文字幕}Okay, okay.
+
+10
+00:00:31,480 --> 00:00:33,450
+好了  你不想这样做
+{\r原文字幕}Okay. Hey, you don't wanna do this.
+
+11
+00:00:33,530 --> 00:00:36,700
+我不知道自己怎么就这么蠢
+{\r原文字幕}I don't know how I could be so stupid!
+
+12
+00:00:36,780 --> 00:00:39,030
+等等  把手给我
+{\r原文字幕}Hey, hold on a second. Give me your hand.
+
+13
+00:00:39,120 --> 00:00:43,120
+我什么都没了  都没了
+{\r原文字幕}I have nothing! Nothing!
+
+14
+00:00:43,200 --> 00:00:44,710
+你当然还有
+{\r原文字幕}Sure, you do.
+
+15
+00:00:44,790 --> 00:00:46,750
+费尔德曼太太  要不你向我靠近一步
+{\r原文字幕}Mrs. Feldman, how about you take a step towards me?
+
+16
+00:00:46,830 --> 00:00:48,670
+我们进来说
+{\r原文字幕}We'll go inside and talk.
+
+17
+00:00:48,750 --> 00:00:51,340
+请马上派危机应对单位过来
+{\r原文字幕}I need a Crisis Response Unit here right now.
+
+18
+00:00:51,420 --> 00:00:54,420
+赶紧让直升机离开这里  不  不要
+{\r原文字幕}Get that chopper out of here! No, no, no, no!
+
+10019
+00:01:03,930 --> 00:01:10,690
+{\fn方正兰亭中黑_GBK\fs24\pos(193,209)\fad(2800,300)}葛蕾丝的坠落
+
+20
+00:01:41,970 --> 00:01:42,810
+早安  小熊
+{\r原文字幕}Hey, bear.
+
+21
+00:01:42,890 --> 00:01:43,890
+早安  宝贝
+{\r原文字幕}Hey, baby.
+
+22
+00:01:45,020 --> 00:01:45,890
+你得起床了
+{\r原文字幕}You gotta get up.
+
+23
+00:01:46,640 --> 00:01:48,440
+我知道
+{\r原文字幕}I know.
+
+24
+00:01:50,520 --> 00:01:51,610
+下雨了吗
+{\r原文字幕}Is that rain?
+
+25
+00:01:52,270 --> 00:01:54,030
+对  差不多一小时前就停了
+{\r原文字幕}Yeah, it stopped about an hour ago.
+
+26
+00:01:55,570 --> 00:01:58,150
+顺便说一下  钥匙我给你放桌上了
+{\r原文字幕}I left the keys on the table for you, by the way.
+
+27
+00:01:59,360 --> 00:02:00,780
+亲爱的  今天是周二
+{\r原文字幕}Baby, it's Tuesday.
+
+28
+00:02:00,870 --> 00:02:03,410
+周二你要带你妈妈去杂货店
+{\r原文字幕}You take your mom to the grocery store on Tuesdays.
+
+29
+00:02:03,490 --> 00:02:04,790
+不用
+{\r原文字幕}Nah, it's...
+
+30
+00:02:04,870 --> 00:02:07,870
+没事的  我告诉过她我今晚晚点去看她
+{\r原文字幕}...it's fine. I told her I'd come by later tonight, and...
+
+31
+00:02:08,580 --> 00:02:09,750
+我只想在家待着
+{\r原文字幕}I just need to stay in.
+
+32
+00:02:12,790 --> 00:02:13,630
+你没事吧
+{\r原文字幕}Are you okay?
+
+33
+00:02:14,420 --> 00:02:15,260
+-没事  -你怎么了
+{\r原文字幕}- Yeah. - What's wrong?
+
+34
+00:02:15,340 --> 00:02:17,380
+没事  没什么
+{\r原文字幕}No, no, nothing. Nothing's wrong.
+
+35
+00:02:17,800 --> 00:02:18,800
+一切都好
+{\r原文字幕}Nothing's wrong.
+
+36
+00:02:19,260 --> 00:02:20,090
+你把车开走吧
+{\r原文字幕}Take the car.
+
+37
+00:02:20,840 --> 00:02:21,760
+起床了
+{\r原文字幕}Now, get up.
+
+38
+00:02:24,180 --> 00:02:27,140
+好吧  像以前一样  你晚点再告诉我
+{\r原文字幕}Okay, well, you'll tell me later, like you always do.
+
+39
+00:02:27,850 --> 00:02:28,890
+我等着
+{\r原文字幕}I'll wait.
+
+40
+00:02:31,020 --> 00:02:32,400
+-好吗  -好的
+{\r原文字幕}- All right? - Okay.
+
+41
+00:03:02,550 --> 00:03:05,050
+现在我们来说说葛蕾丝·沃特斯的案子
+{\r原文字幕}Now we're going to move over to the Grace Waters case.
+
+42
+00:03:05,140 --> 00:03:06,350
+大家都在讨论这个案子
+{\r原文字幕}Everyone's talking about it.
+
+43
+00:03:06,430 --> 00:03:08,930
+据称  该名女子谋杀了她的丈夫
+{\r原文字幕}The woman killed her husband, allegedly.
+
+44
+00:03:09,020 --> 00:03:12,600
+等等  我们必须"据称"
+{\r原文字幕}Hold on, now. Yes, we must say "allegedly."
+
+45
+00:03:15,650 --> 00:03:18,070
+本地人口不足十万人
+{\r原文字幕}We have a population of less than 100,000.
+
+46
+00:03:18,150 --> 00:03:19,990
+之前从未发生过这种事
+{\r原文字幕}Nothing like this has ever happened before--
+
+47
+00:03:20,070 --> 00:03:22,410
+不过你看过地方检察官的报告了吗
+{\r原文字幕}But have you seen the reports from the DA?
+
+48
+00:03:22,490 --> 00:03:24,740
+很明显  绝对是她干的
+{\r原文字幕}It's clear. She totally did it.
+
+49
+00:03:33,250 --> 00:03:34,170
+茉莉
+{\r原文字幕}Jasmine.
+
+50
+00:03:35,380 --> 00:03:37,130
+来了
+{\r原文字幕}Coming.
+
+51
+00:03:44,510 --> 00:03:45,930
+给  你的下一个案子
+{\r原文字幕}Here. Your next case.
+
+52
+00:03:47,890 --> 00:03:49,720
+葛蕾丝·沃特斯吗  这案子我接不了
+{\r原文字幕}Grace Waters? I can't do this.
+
+53
+00:03:49,810 --> 00:03:51,270
+你能接  你也要接
+{\r原文字幕}Yeah, you can, and you will.
+
+54
+00:03:51,350 --> 00:03:53,770
+她想认罪  所以案子很简单
+{\r原文字幕}She wants to plead guilty, so this is completely easy.
+
+55
+00:03:53,850 --> 00:03:55,810
+去跟她还有地方检察官谈谈
+{\r原文字幕}Go talk to her, talk to the DA,
+
+56
+00:03:55,810 --> 00:03:57,730
+商量好条件  让她认罪
+{\r原文字幕}get it worked out, get the plea done.
+
+57
+00:03:57,730 --> 00:03:58,730
+这是个备受关注的案子
+{\r原文字幕}It's really high-profile,
+
+58
+00:03:58,820 --> 00:04:00,190
+我们不能处理不当或是去庭审
+{\r原文字幕}and we don't need it mishandled or going to trial.
+
+59
+00:04:00,280 --> 00:04:02,030
+要不把这个案子交给提尔萨或者唐尼吧
+{\r原文字幕}What about giving it to Tilsa or Donnie?
+
+60
+00:04:02,110 --> 00:04:03,490
+他们其实
+{\r原文字幕}I mean, they are more...
+
+61
+00:04:03,570 --> 00:04:05,450
+-更能胜任  -就你来办
+{\r原文字幕}- equipped to do this - You are doing it.
+
+62
+00:04:05,530 --> 00:04:06,820
+我们谈过多少次了
+{\r原文字幕}We go through this all the time.
+
+63
+00:04:06,910 --> 00:04:08,700
+你没问题  认罪协议是你的专长
+{\r原文字幕}You can do it. Plea deals are your specialty.
+
+64
+00:04:08,790 --> 00:04:09,990
+她坚持认罪
+{\r原文字幕}She's adamant about pleading guilty.
+
+65
+00:04:10,080 --> 00:04:12,250
+大量的证据都指向她
+{\r原文字幕}There's an overwhelming mountain of evidence against her.
+
+66
+00:04:12,330 --> 00:04:14,460
+这案子简直易如反掌  把它搞定就好
+{\r原文字幕}This is open-and-shut. Just go get it done.
+
+67
+00:04:14,540 --> 00:04:16,790
+我希望这周内办妥  好打发走那帮媒体
+{\r原文字幕}I want it done this week so this media circus will go away.
+
+68
+00:04:16,880 --> 00:04:18,250
+-谢谢  -但是罗里  我
+{\r原文字幕}- Thank you. - But, Rory, I...
+
+69
+00:04:19,500 --> 00:04:20,420
+去吧
+{\r原文字幕}Go.
+
+70
+00:04:22,170 --> 00:04:23,010
+好的
+{\r原文字幕}Okay.
+
+71
+00:04:26,010 --> 00:04:27,260
+你能相信吗
+{\r原文字幕}Can you believe this?
+
+72
+00:04:27,890 --> 00:04:31,100
+恭喜  你知道我们都想接这个案子
+{\r原文字幕}Ah! Congratulations, girl. You know we all wanted it.
+
+73
+00:04:31,180 --> 00:04:33,940
+我真不敢相信他居然把案子给你了
+{\r原文字幕}I cannot believe he gave it to you.
+
+74
+00:04:34,390 --> 00:04:36,690
+-唐尼  闭嘴  -我不明白
+{\r原文字幕}- Donnie, shut the hell up. - I don't understand.
+
+75
+00:04:36,690 --> 00:04:38,310
+好的  但谁问你了  真不分场合
+{\r原文字幕}OK. But who asked you? It's not the time.
+
+76
+00:04:38,400 --> 00:04:39,980
+没什么好庆祝的  提尔萨
+{\r原文字幕}This is nothing to celebrate, Tilsa.
+
+77
+00:04:40,070 --> 00:04:41,650
+听着  这可是大案子
+{\r原文字幕}Look, it's a big case,
+
+78
+00:04:41,990 --> 00:04:45,110
+你和地方检察官的关系很好吧
+{\r原文字幕}but you have a great relationship with the DA, right?
+
+79
+00:04:45,200 --> 00:04:46,990
+或许这才最符合她的利益
+{\r原文字幕}So maybe that's in her best interest.
+
+80
+00:04:48,030 --> 00:04:48,990
+呵呵
+{\r原文字幕}Great.
+
+81
+00:04:49,080 --> 00:04:51,540
+我和地方检察官的关系很好
+{\r原文字幕}I have a great relationship with the DA.
+
+82
+00:04:51,620 --> 00:04:52,580
+那太好了
+{\r原文字幕}That's awesome.
+
+83
+00:04:55,080 --> 00:04:57,210
+不管怎样  这真令人难过  看看周围
+{\r原文字幕}Either way, it's really sad. Look around.
+
+84
+00:04:57,290 --> 00:04:59,090
+所有人都在谈论这事
+{\r原文字幕}And I don't see any way out of it.
+
+85
+00:04:59,090 --> 00:05:00,340
+要我说  情况变得更糟了
+{\r原文字幕}If you ask me, it's getting worse.
+
+86
+00:05:00,420 --> 00:05:02,630
+我敢说  全镇都在议论这事
+{\r原文字幕}I can tell you, without a doubt, the whole town's talking.
+
+87
+00:05:02,710 --> 00:05:04,420
+我今早买咖啡时
+{\r原文字幕}This morning, while I was getting coffee,
+
+88
+00:05:04,510 --> 00:05:07,390
+听到人们都在谈论葛蕾丝·沃特斯的案子
+{\r原文字幕}two or three conversations, all about the Grace Waters case.
+
+89
+00:05:07,930 --> 00:05:10,220
+很有趣  下一位听众怎么看
+{\r原文字幕}Well, that's interesting. How about our next caller?
+
+90
+00:05:10,310 --> 00:05:12,470
+我觉得她肯定有罪
+{\r原文字幕}I mean, I feel like she's totally guilty.
+
+91
+00:05:12,560 --> 00:05:15,270
+我都不明白我们为什么要浪费钱来审判她
+{\r原文字幕}I don't even know why we are wasting money with a trial.
+
+92
+00:05:15,350 --> 00:05:17,730
+直接把她捆在电椅上  按下开关
+{\r原文字幕}Just tie her up to an electric chair, and hit the switch.
+
+93
+00:05:17,810 --> 00:05:19,560
+嘭的一声  问题就解决了
+{\r原文字幕}Boom! Problem solved.
+
+94
+00:05:31,200 --> 00:05:33,540
+我们正在霍洛威拘留所外
+{\r原文字幕}We're outside the Holloway Correctional Facility,
+
+95
+00:05:33,620 --> 00:05:35,580
+葛蕾丝·沃特斯现在被关押在这里
+{\r原文字幕}where Grace Waters is being held.
+
+96
+00:05:35,660 --> 00:05:37,620
+她将在三天后出庭
+{\r原文字幕}She's scheduled for court in three days.
+
+97
+00:05:37,710 --> 00:05:39,040
+众所周知
+{\r原文字幕}As many of you know,
+
+98
+00:05:39,040 --> 00:05:42,380
+她被指控谋杀了她的丈夫
+{\r原文字幕}she's been accused of murdering her husband.
+
+10099
+00:05:41,460 --> 00:05:43,380
+{\fn方正兰亭中黑_GBK\fs14\pos(93,55)}止步  非请勿进
+
+100
+00:05:47,130 --> 00:05:48,430
+你好  我是公设辩护人办公室的
+{\r原文字幕}Hi, I'm Jasmine Bryant
+
+101
+00:05:48,430 --> 00:05:49,640
+茉莉·布莱恩特
+{\r原文字幕}from the public defender's office.
+
+102
+00:05:49,720 --> 00:05:51,260
+我来找葛蕾丝·沃特斯
+{\r原文字幕}I'm here for Grace Waters.
+
+103
+00:05:51,350 --> 00:05:53,140
+好的女士  请过一下这里
+{\r原文字幕}Yes, ma'am. Step through here for me, please.
+
+104
+00:05:56,730 --> 00:05:58,390
+请把包放在桌上
+{\r原文字幕}And just put your bag on the table for me.
+
+105
+00:05:58,480 --> 00:05:59,310
+好的
+{\r原文字幕}Okay.
+
+106
+00:06:04,190 --> 00:06:05,150
+-好了  -好的
+{\r原文字幕}- All right. - Okay.
+
+107
+00:06:17,830 --> 00:06:21,290
+坐吧  我一会就带她来
+{\r原文字幕}Just have a seat, and I will be right back with her.
+
+108
+00:06:21,380 --> 00:06:22,630
+不好意思
+{\r原文字幕}-E-Excuse me.
+
+109
+00:06:22,710 --> 00:06:25,000
+-什么事  -我有什么需要注意的吗
+{\r原文字幕}- Yes? - Um, is there anything I should know?
+
+110
+00:06:25,090 --> 00:06:26,460
+这是你的第一个杀人犯吗
+{\r原文字幕}Is this your first murderer?
+
+111
+00:06:26,960 --> 00:06:28,010
+是的
+{\r原文字幕}Yeah.
+
+112
+00:06:28,090 --> 00:06:30,640
+什么都不用担心  她会被拷上的
+{\r原文字幕}You don't have anything to worry about. She'll be shackled.
+
+113
+00:07:23,150 --> 00:07:24,860
+把双手放在桌上
+{\r原文字幕}Put your hands on the desk for me.
+
+114
+00:07:37,330 --> 00:07:40,540
+我是你的律师  我叫茉莉·布莱恩特
+{\r原文字幕}I'm your attorney, Jasmine Bryant.
+
+115
+00:07:41,040 --> 00:07:42,750
+我是公设辩护人办公室的
+{\r原文字幕}I'm from the public defender's office.
+
+116
+00:07:42,750 --> 00:07:44,540
+是法院指派我来的
+{\r原文字幕}I was appointed by the court.
+
+117
+00:07:46,130 --> 00:07:48,000
+我告诉过他们我不要律师
+{\r原文字幕}I told them I didn't want a lawyer.
+
+118
+00:07:48,500 --> 00:07:51,550
+就算不是我  也会有别的律师来
+{\r原文字幕}Well, if not me, then some other lawyer will be here.
+
+119
+00:07:51,630 --> 00:07:53,760
+法官对此很清楚
+{\r原文字幕}The judge was very clear on that.
+
+120
+00:07:54,840 --> 00:07:57,220
+我了解到你打算认罪  对吗
+{\r原文字幕}So, I understand that you want to plead guilty?
+
+121
+00:08:00,350 --> 00:08:01,600
+你多大了
+{\r原文字幕}How old are you?
+
+122
+00:08:03,440 --> 00:08:04,400
+二十六
+{\r原文字幕}Twenty-six.
+
+123
+00:08:06,400 --> 00:08:08,570
+你是哪个学校毕业的
+{\r原文字幕}What school did you go to?
+
+124
+00:08:09,280 --> 00:08:10,190
+鲁斯顿
+{\r原文字幕}Ruston.
+
+125
+00:08:10,690 --> 00:08:12,610
+社区大学
+{\r原文字幕}Community college.
+
+10126
+00:08:14,030 --> 00:08:16,070
+然后我去了班尼威尔法律大学
+{\r原文字幕}And then I went on to Baniview Law.
+
+127
+00:08:18,780 --> 00:08:20,290
+你的资料
+{\r原文字幕}Your file... um...
+
+128
+00:08:20,750 --> 00:08:23,210
+我在来这里的路上稍微看了一下
+{\r原文字幕}I had a chance to glance at it on my way over here,
+
+129
+00:08:23,290 --> 00:08:26,500
+我有点不明白  你曾在银行工作
+{\r原文字幕}and, um, I'm a little confused. You worked at a bank,
+
+130
+00:08:26,580 --> 00:08:29,800
+你连交通规则都没违反过  但你却杀人
+{\r原文字幕}you've never even had a traffic violation, and now you're here.
+
+131
+00:08:30,670 --> 00:08:32,590
+我打算向地方检察官申请
+{\r原文字幕}I'm gonna ask the DA for 15 years
+
+132
+00:08:32,590 --> 00:08:34,050
+十五年监禁并允许假释
+{\r原文字幕}with the possibility of parole.
+
+133
+00:08:34,260 --> 00:08:36,260
+我也许可以说服他
+{\r原文字幕}I may be able to sell that to him.
+
+134
+00:08:37,510 --> 00:08:38,600
+你信天主教
+{\r原文字幕}You're Catholic.
+
+135
+00:08:39,470 --> 00:08:41,810
+-对  -我不是在问你
+{\r原文字幕}- Yes. - That wasn't a question.
+
+136
+00:08:42,270 --> 00:08:43,390
+我看到念珠了
+{\r原文字幕}I see the rosary.
+
+137
+00:08:47,520 --> 00:08:48,440
+你是天主教徒吗
+{\r原文字幕}Are you Catholic?
+
+138
+00:08:48,940 --> 00:08:50,360
+以圣父
+{\r原文字幕}In the name of the Father,
+
+139
+00:08:50,440 --> 00:08:51,440
+圣子
+{\r原文字幕}and the Son,
+
+140
+00:08:51,530 --> 00:08:53,440
+圣灵的名义
+{\r原文字幕}and the Holy Spirit...
+
+141
+00:08:53,530 --> 00:08:55,150
+那你会念《圣母圣咏》吗
+{\r原文字幕}So, you pray the rosary?
+
+142
+00:08:57,070 --> 00:08:57,910
+会
+{\r原文字幕}Yes.
+
+143
+00:09:01,120 --> 00:09:03,580
+我想转到这附近的监狱
+{\r原文字幕}I want to move to a prison close to here.
+
+144
+00:09:05,250 --> 00:09:08,630
+我想有机会看一下我的儿子
+{\r原文字幕}I want to be able to see my son and my grandbaby...
+
+145
+00:09:09,540 --> 00:09:10,670
+和小孙子
+{\r原文字幕}at some point.
+
+146
+00:09:12,130 --> 00:09:13,130
+我想把这些
+{\r原文字幕}And I want that
+
+147
+00:09:13,800 --> 00:09:15,090
+加进认罪协议
+{\r原文字幕}in the plea deal.
+
+148
+00:09:17,930 --> 00:09:19,510
+好的  我想想办法
+{\r原文字幕}Okay. I'll see what I can do.
+
+149
+00:09:21,560 --> 00:09:22,470
+警卫
+{\r原文字幕}Guard!
+
+150
+00:09:24,730 --> 00:09:26,690
+好了  她是什么样的人
+{\r原文字幕}Okay. So what was she like?
+
+151
+00:09:26,770 --> 00:09:29,360
+和我想的完全不一样
+{\r原文字幕}Well, it was nothing like I expected.
+
+152
+00:09:29,560 --> 00:09:31,820
+她就像你和我的妈妈一样
+{\r原文字幕}She was like my mom, and yours.
+
+153
+00:09:31,820 --> 00:09:34,070
+她很  温柔
+{\r原文字幕}She was...gentle.
+
+154
+00:09:34,150 --> 00:09:35,700
+温柔
+{\r原文字幕}Gentle.
+
+155
+00:09:35,780 --> 00:09:37,860
+但乍一看
+{\r原文字幕}You know, but, at first glance...
+
+156
+00:09:40,030 --> 00:09:42,330
+她就是个完美的被告
+{\r原文字幕}she appears to be a picture-perfect defendant.
+
+157
+00:09:42,410 --> 00:09:44,040
+她给孩子们烤饼干
+{\r原文字幕}She baked cookies for kids,
+
+158
+00:09:44,120 --> 00:09:47,330
+在教堂唱诗班唱歌  在主日学校教书
+{\r原文字幕}she sang in a church choir, she taught Sunday school.
+
+159
+00:09:48,040 --> 00:09:51,000
+好多材料你都可以用来帮她辩护
+{\r原文字幕}There's a lot of good things here for you to build a solid defense.
+
+160
+00:09:51,090 --> 00:09:52,670
+有大量的证据指向她是杀人犯
+{\r原文字幕}The evidence against her is overwhelming.
+
+161
+00:09:52,750 --> 00:09:55,050
+但能超越合理怀疑吗  这只是间接证据
+{\r原文字幕}But beyond a reasonable doubt? It was circumstantial.
+
+10162
+00:09:52,750 --> 00:09:55,050
+{\fn方正兰亭中黑_GBK\fs16\an8}指判决被告有罪时陪审员不会对证据有合理怀疑
+
+163
+00:09:56,550 --> 00:09:59,140
+她承认是她干的  她想认罪
+{\r原文字幕}She confessed she did it. She wants to plead guilty.
+
+164
+00:09:59,840 --> 00:10:01,640
+我是说
+{\r原文字幕}I mean...
+
+165
+00:10:01,720 --> 00:10:03,100
+-这个  -唐尼  冷静
+{\r原文字幕}- This - Donnie, just chill.
+
+166
+00:10:03,180 --> 00:10:04,930
+不  不  别拦着他
+{\r原文字幕}No, no, no. No, no.
+
+167
+00:10:05,020 --> 00:10:06,930
+你想说什么  唐尼
+{\r原文字幕}What, Donnie?
+
+168
+00:10:07,020 --> 00:10:10,020
+我不是看轻你作为公共辩护律师的
+{\r原文字幕}I-I-I'm not trying to take away from your remarkable ability
+
+169
+00:10:10,100 --> 00:10:11,110
+出众才能
+{\r原文字幕}as a public defender,
+
+170
+00:10:11,190 --> 00:10:14,070
+但他们给你这个案子是为了让你帮她认罪
+{\r原文字幕}um, but they gave you this case because they want you to plead it,
+
+171
+00:10:14,150 --> 00:10:15,030
+把事情办妥
+{\r原文字幕}be done with it,
+
+172
+00:10:15,110 --> 00:10:17,990
+以免让公设辩护人办公室难堪
+{\r原文字幕}as to not embarrass the public defender's office.
+
+173
+00:10:18,070 --> 00:10:19,610
+但是这案子如此备受关注
+{\r原文字幕}But how embarrassing would it be,
+
+174
+00:10:19,610 --> 00:10:21,070
+如果你遗漏了什么
+{\r原文字幕}due to the high profile of this case,
+
+175
+00:10:21,070 --> 00:10:22,410
+那会有多尴尬
+{\r原文字幕}if you were missing something?
+
+176
+00:10:22,490 --> 00:10:23,990
+我会遗漏什么  唐尼
+{\r原文字幕}What could I be missing, Donnie?
+
+177
+00:10:24,080 --> 00:10:26,620
+对  正如她所说  她还能遗漏什么
+{\r原文字幕}Okay, like she said, okay, what could she be missing?
+
+178
+00:10:26,700 --> 00:10:28,000
+那个女人认罪了  不是吗
+{\r原文字幕}The woman confessed, right?
+
+179
+00:10:28,080 --> 00:10:30,750
+-没错  -请不要怂恿她
+{\r原文字幕}- Exactly. - Please don't encourage her.
+
+180
+00:10:30,830 --> 00:10:32,380
+她向你认罪了吗
+{\r原文字幕}Did she confess to you?
+
+181
+00:10:32,960 --> 00:10:35,420
+-没有  她告诉警官她  -明白了吗
+{\r原文字幕}-No, she told the officers that she - Ah. You see?
+
+182
+00:10:35,500 --> 00:10:37,510
+明白了吗  这就是我说的
+{\r原文字幕}You see? This is what I'm talkin' about.
+
+183
+00:10:37,590 --> 00:10:40,300
+你不能在不了解事实的情况下就定她的罪
+{\r原文字幕}You can't just plea her down without knowing all of the facts.
+
+184
+00:10:40,380 --> 00:10:42,350
+我了解事实  好吗
+{\r原文字幕}I know the facts, okay?
+
+185
+00:10:42,430 --> 00:10:44,260
+这个案子一目了然  唐尼
+{\r原文字幕}This is an open-and-shut, Donnie.
+
+186
+00:10:44,350 --> 00:10:46,390
+以我们的工作量  我们没有足够的时间
+{\r原文字幕}With our workload, we don't have enough time or money
+
+187
+00:10:46,470 --> 00:10:47,390
+或金钱来仔细了解这个案子
+{\r原文字幕}to even deal with this.
+
+188
+00:10:47,480 --> 00:10:49,770
+该死  我们代理的那些毒贩都比我们有钱
+{\r原文字幕}Hell, the drug dealers we represent make more money than us,
+
+189
+00:10:49,850 --> 00:10:51,350
+他们对我们也没有丝毫尊重
+{\r原文字幕}and they have no respect for us.
+
+190
+00:10:51,440 --> 00:10:53,270
+听着  我不想和你吵
+{\r原文字幕}Look, I'm not gonna go back and forth with you.
+
+191
+00:10:53,360 --> 00:10:54,480
+-对不起   -你总是这个样子
+{\r原文字幕}- Sorry, - You always do this.
+
+192
+00:10:54,570 --> 00:10:56,860
+这和一个为邻居孩子烤饼干的
+{\r原文字幕}but what does that have to do with the Sunday school teacher
+
+193
+00:10:56,940 --> 00:10:58,690
+主日学校的老师有什么关系呢
+{\r原文字幕}who bakes cookies for kids in the neighborhood?
+
+194
+00:11:01,570 --> 00:11:03,910
+好吧  我觉得我们该走了
+{\r原文字幕}Okay,so I think we should leave.
+
+195
+00:11:07,540 --> 00:11:10,080
+这是你这一整晚说的最明智的话
+{\r原文字幕}You know, that is the most sensible thing you've said all night.
+
+196
+00:11:10,160 --> 00:11:11,000
+谢谢
+{\r原文字幕}Thank you.
+
+197
+00:11:11,080 --> 00:11:13,080
+我永远不会习惯
+{\r原文字幕}You know, I will never get used to seeing
+
+198
+00:11:13,170 --> 00:11:14,250
+看到人们进监狱
+{\r原文字幕}people going to jail.
+
+199
+00:11:14,340 --> 00:11:16,880
+无论这是否是你的案子
+{\r原文字幕}Either this is your cause, or it ain't.
+
+200
+00:11:17,630 --> 00:11:18,590
+好好想想  小茉
+{\r原文字幕}Figure it out, Jas.
+
+201
+00:11:20,420 --> 00:11:21,380
+-再见乔丹  -晚安  姐妹
+{\r原文字幕}- Jordan. - Night, girl.
+
+202
+00:11:21,470 --> 00:11:22,890
+那我们明天见
+{\r原文字幕}So we'll see you tomorrow.
+
+203
+00:11:22,970 --> 00:11:24,350
+-好的  -好吗  祝你们今晚愉快
+{\r原文字幕}- Yeah. - Okay, y'all have a nice night.
+
+204
+00:11:24,430 --> 00:11:25,680
+-感谢你请我们来  -你也是  提尔萨
+{\r原文字幕}- Thanks for having us. - You, too, Tilsa.
+
+205
+00:11:25,680 --> 00:11:28,680
+家里很漂亮  我会跟他聊聊的  好吗
+{\r原文字幕}Beautiful home. I'mma talk to him, okay?
+
+206
+00:11:28,770 --> 00:11:30,770
+-不用麻烦了  -就小聊一下
+{\r原文字幕}- Don't worry about it. - Just a little chat.
+
+207
+00:11:30,850 --> 00:11:32,730
+唐尼  你给我过来
+{\r原文字幕}Donnie, get your ass over here!
+
+208
+00:11:32,730 --> 00:11:34,940
+这就是他们不再邀请我们来的原因
+{\r原文字幕}This is why they don't invite us no more.
+
+209
+00:11:34,940 --> 00:11:36,360
+你现在的行为
+{\r原文字幕}How you actin' right now...
+
+210
+00:11:39,650 --> 00:11:41,860
+-懂我意思了吧  -是
+{\r原文字幕}- See what I mean? - Yeah.
+
+211
+00:11:43,490 --> 00:11:44,490
+赢不了
+{\r原文字幕}Can't win.
+
+212
+00:11:53,580 --> 00:11:55,790
+我看到一个老太太坠楼死了
+{\r原文字幕}I saw an old woman fall to her death.
+
+213
+00:11:57,840 --> 00:11:58,800
+不过我没事
+{\r原文字幕}But I'm all right.
+
+214
+00:12:03,130 --> 00:12:03,970
+到你说了
+{\r原文字幕}Your turn.
+
+215
+00:12:10,430 --> 00:12:12,940
+我刚从法学院毕业的时候
+{\r原文字幕}You know, when I graduated from law school...
+
+216
+00:12:15,400 --> 00:12:17,060
+我感觉像中了彩票一样
+{\r原文字幕}I thought I had hit the lottery.
+
+217
+00:12:17,860 --> 00:12:18,690
+是啊
+{\r原文字幕}Yeah.
+
+218
+00:12:19,150 --> 00:12:20,940
+但是现在我身处这个行业  我
+{\r原文字幕}But now that I'm into it, I...
+
+219
+00:12:24,030 --> 00:12:24,990
+这些人
+{\r原文字幕}These people
+
+220
+00:12:25,450 --> 00:12:26,780
+是杀人犯
+{\r原文字幕}are murderers
+
+221
+00:12:27,740 --> 00:12:28,700
+骗子
+{\r原文字幕}and liars.
+
+222
+00:12:29,540 --> 00:12:31,330
+还有小偷
+{\r原文字幕}And they're thieves, babe.
+
+223
+00:12:32,330 --> 00:12:33,710
+为他们辩护  我
+{\r原文字幕}And to defend them, I...
+
+224
+00:12:37,630 --> 00:12:40,210
+我只是在重新考虑这一切
+{\r原文字幕}I'm just having second thoughts about all of this.
+
+225
+00:12:42,130 --> 00:12:43,010
+真的
+{\r原文字幕}Really.
+
+226
+00:12:44,760 --> 00:12:47,220
+我只是想在那里待到
+{\r原文字幕}I just wanna stay there long enough
+
+227
+00:12:47,930 --> 00:12:50,060
+还完学生贷款
+{\r原文字幕}so I can get these student loans paid off.
+
+228
+00:12:54,020 --> 00:12:55,810
+我再也不想当律师了
+{\r原文字幕}I don't want to be a lawyer anymore.
+
+229
+00:12:55,900 --> 00:12:57,100
+别这么说
+{\r原文字幕}No, come on.
+
+230
+00:12:57,190 --> 00:12:58,150
+我不想
+{\r原文字幕}I don't.
+
+231
+00:13:01,730 --> 00:13:02,900
+过来
+{\r原文字幕}Oh, come on.
+
+232
+00:13:02,990 --> 00:13:04,070
+我不想
+{\r原文字幕}I don't.
+
+233
+00:13:04,150 --> 00:13:06,700
+这是你注定要做的事
+{\r原文字幕}This is what you're meant to do.
+
+234
+00:13:07,410 --> 00:13:08,910
+你知道的  宝贝  过来
+{\r原文字幕}You know that, babe. Come on.
+
+235
+00:13:16,540 --> 00:13:19,540
+昨晚我可能喝多了点  我的错
+{\r原文字幕}Last night I may have had one too many. My bad.
+
+236
+00:13:20,340 --> 00:13:21,500
+那个算道歉吗
+{\r原文字幕}Was that an apology?
+
+237
+00:13:21,590 --> 00:13:23,050
+你说是就是
+{\r原文字幕}If that's what you call it.
+
+238
+00:13:23,130 --> 00:13:25,380
+我认为你做得太棒了  茉莉
+{\r原文字幕}Well, I think you do a great job, Jasmine.
+
+239
+00:13:26,220 --> 00:13:27,430
+谢谢  提尔萨
+{\r原文字幕}Thanks, Tilsa.
+
+240
+00:13:28,720 --> 00:13:30,050
+大概在七点半
+{\r原文字幕}At about 7:30.
+
+241
+00:13:30,140 --> 00:13:31,430
+你什么时候去跟地方检察官谈
+{\r原文字幕}When are you talking to, uh,
+
+242
+00:13:31,430 --> 00:13:32,890
+有关葛蕾丝·沃特斯的案子
+{\r原文字幕}the DA about Grace Waters?
+
+243
+00:13:32,970 --> 00:13:34,730
+-今天下午晚些时候  -做好就行
+{\r原文字幕}- Uh, later this afternoon. - Get it done,
+
+244
+00:13:34,810 --> 00:13:37,190
+-把事情做好  -我会去法院见他
+{\r原文字幕}- get it done, get it done. - I'm meeting him at court.
+
+245
+00:13:38,980 --> 00:13:39,810
+茉莉
+{\r原文字幕}Jasmine.
+
+246
+00:13:39,900 --> 00:13:41,900
+有个马尔科姆·华特斯找你
+{\r原文字幕}There's a Malcolm Waters here to see you.
+
+247
+00:13:41,980 --> 00:13:42,860
+那是谁
+{\r原文字幕}Who's that?
+
+248
+00:13:43,730 --> 00:13:45,780
+-我不知道  -他预约了吗
+{\r原文字幕}- I don't know. - Is he in the appointment book?
+
+249
+00:13:45,860 --> 00:13:46,780
+行  好吧
+{\r原文字幕}Okay, all right.
+
+250
+00:13:47,860 --> 00:13:48,700
+马尔科姆吗
+{\r原文字幕}Malcolm?
+
+251
+00:13:48,780 --> 00:13:50,200
+是我  你是茉莉吗
+{\r原文字幕}Yes, are you Jasmine?
+
+252
+00:13:50,280 --> 00:13:51,280
+是的  你好
+{\r原文字幕}Yes, hi.
+
+253
+00:13:51,370 --> 00:13:52,950
+葛蕾丝·沃特斯是我母亲
+{\r原文字幕}Grace Waters is my mother.
+
+254
+00:13:53,160 --> 00:13:54,540
+你会帮她的  对吗
+{\r原文字幕}You're gonna help her, right?
+
+255
+00:13:55,910 --> 00:13:57,410
+求你了
+{\r原文字幕}Uh, please.
+
+256
+00:13:57,500 --> 00:14:00,790
+我爱我母亲  我知道她是清白的  我知道
+{\r原文字幕}I love my mother, and I know she's innocent. I know she is.
+
+257
+00:14:01,840 --> 00:14:04,170
+她不可能对任何人那么做  不会的
+{\r原文字幕}She couldn't do that to anyone. No one.
+
+258
+00:14:04,260 --> 00:14:06,130
+我小时候她甚至不忍心杀蜘蛛
+{\r原文字幕}She wouldn't even kill spiders when I was growing up.
+
+259
+00:14:06,220 --> 00:14:07,930
+她让我爸用杯子把它们放出去
+{\r原文字幕}She'd make my dad take 'em outside in a cup.
+
+260
+00:14:08,010 --> 00:14:09,180
+你得帮帮她
+{\r原文字幕}You have to help her.
+
+261
+00:14:10,260 --> 00:14:11,600
+她想认罪
+{\r原文字幕}She wants to plead guilty.
+
+262
+00:14:11,680 --> 00:14:14,560
+不  不要让她这么做  求你了
+{\r原文字幕}No, no, no, don't let her do that, please.
+
+263
+00:14:14,640 --> 00:14:16,810
+我要能跟她说上话就好了  她不肯见我
+{\r原文字幕}If I could talk to her. She won't see me.
+
+264
+00:14:16,890 --> 00:14:19,350
+你得帮帮她  或者让我进去见见她
+{\r原文字幕}You have to help her or get me in to see her.
+
+265
+00:14:19,440 --> 00:14:21,060
+你不能让她认罪
+{\r原文字幕}You can't let her plead guilty.
+
+266
+00:14:22,610 --> 00:14:24,980
+很抱歉  我帮不了你
+{\r原文字幕}I'm sorry, there's nothing I can do.
+
+267
+00:14:25,440 --> 00:14:26,650
+她想认罪
+{\r原文字幕}She wants to plead.
+
+268
+00:14:30,240 --> 00:14:31,240
+我很抱歉
+{\r原文字幕}I'm sorry.
+
+269
+00:14:34,790 --> 00:14:36,290
+绝对不行
+{\r原文字幕}Absolutely not.
+
+270
+00:14:36,370 --> 00:14:37,930
+我要她终生监禁  不得假释
+{\r原文字幕}I want life without parole.
+
+271
+00:14:37,930 --> 00:14:39,000
+你认真的吗
+{\r原文字幕}Look, are you serious?
+
+272
+00:14:39,120 --> 00:14:41,540
+她没有犯罪记录  是个模范公民
+{\r原文字幕}She has no record. She's a model citizen.
+
+273
+00:14:41,630 --> 00:14:42,960
+她没有前科
+{\r原文字幕}She has no priors.
+
+274
+00:14:43,040 --> 00:14:44,920
+拜托  我们要求判十五年
+{\r原文字幕}Come on, we want 15 years.
+
+275
+00:14:45,170 --> 00:14:46,130
+想都别想
+{\r原文字幕}No deal.
+
+276
+00:14:46,630 --> 00:14:48,840
+她想认罪  就得重判
+{\r原文字幕}She wants a plea, she gets the max.
+
+277
+00:14:51,510 --> 00:14:53,350
+那让她去米尔斯通监狱如何
+{\r原文字幕}Well, what about giving her Millstone Prison,
+
+278
+00:14:53,430 --> 00:14:56,100
+-这样她能离她儿子近点  -这个我会考虑
+{\r原文字幕}- so she'll be closer to her son? - That I'll consider.
+
+279
+00:14:58,560 --> 00:15:00,020
+他们要求判最重刑
+{\r原文字幕}They're offering the maximum,
+
+280
+00:15:00,100 --> 00:15:02,650
+终生监禁  不得假释
+{\r原文字幕}life without the possibility of parole.
+
+281
+00:15:04,770 --> 00:15:08,240
+-那就是他们最好的条件了吗  -他很坚决
+{\r原文字幕}- And that's the best they can do? - He's adamant about it.
+
+282
+00:15:08,320 --> 00:15:11,910
+如果我们上庭审判  他可能主张死刑
+{\r原文字幕}If we went to trial, he could ask for the death penalty.
+
+283
+00:15:16,120 --> 00:15:18,830
+我觉得你该接受这个条件
+{\r原文字幕}I think you should take this deal.
+
+284
+00:15:21,460 --> 00:15:22,330
+好吧
+{\r原文字幕}Okay.
+
+285
+00:15:25,960 --> 00:15:26,800
+好吗
+{\r原文字幕}Okay?
+
+286
+00:15:31,800 --> 00:15:33,140
+好吧  我接受
+{\r原文字幕}Okay, do it.
+
+287
+00:16:42,200 --> 00:16:43,250
+喂
+{\r原文字幕}Yes?
+
+288
+00:16:43,330 --> 00:16:44,710
+你好  萨拉小姐
+{\r原文字幕}Hi, Miss Sarah?
+
+289
+00:16:44,790 --> 00:16:45,620
+是我
+{\r原文字幕}Yes?
+
+290
+00:16:45,710 --> 00:16:47,170
+我是茉莉·布莱恩特
+{\r原文字幕}This is Jasmine Bryant.
+
+291
+00:16:47,250 --> 00:16:48,750
+我是葛蕾丝·沃特斯的辩护律师
+{\r原文字幕}I'm representing Grace Waters.
+
+292
+00:16:49,340 --> 00:16:51,880
+我今早能过来拜访一下吗
+{\r原文字幕}Is it possible that I could come by this morning?
+
+293
+00:16:51,960 --> 00:16:53,630
+当然可以  我在家
+{\r原文字幕}Well, yes, I'm home.
+
+294
+00:16:53,660 --> 00:16:56,970
+我的地址是西课巷2342号
+{\r原文字幕}My address is 2342 West Lesson Lane.
+
+295
+00:16:57,320 --> 00:16:59,720
+-好的  谢谢你  -不客气
+{\r原文字幕}- Okay. Thank you. - All right.
+
+296
+00:17:00,180 --> 00:17:01,220
+待会见
+{\r原文字幕}See you then.
+
+297
+00:17:02,350 --> 00:17:03,270
+你好
+{\r原文字幕}Hi.
+
+298
+00:17:04,140 --> 00:17:06,400
+你好  你能帮我一把吗
+{\r原文字幕}Hi, uh, would you mind, please?
+
+299
+00:17:06,480 --> 00:17:07,980
+-当然  -这个太重了
+{\r原文字幕}- Oh, sure. - This thing is so heavy.
+
+300
+00:17:08,060 --> 00:17:09,730
+-没问题  -我的天
+{\r原文字幕}- No problem. - Oh, my goodness.
+
+301
+00:17:09,820 --> 00:17:11,400
+我有三个租户
+{\r原文字幕}I got three tenants.
+
+302
+00:17:14,190 --> 00:17:16,160
+把这个拉到路边就好
+{\r原文字幕}Just get it on this curb, and we'll be fine.
+
+303
+00:17:16,240 --> 00:17:17,240
+好的
+{\r原文字幕}Okay.
+
+304
+00:17:19,410 --> 00:17:21,490
+谢谢你  非常感谢
+{\r原文字幕}Thank you. Thank you so much.
+
+305
+00:17:21,580 --> 00:17:22,540
+没事
+{\r原文字幕}Okay.
+
+306
+00:17:23,910 --> 00:17:25,410
+那位  那位是
+{\r原文字幕}Oh, yeah, that's, uh--
+
+307
+00:17:26,040 --> 00:17:27,960
+那是我的一个租户
+{\r原文字幕}That's one of my tenants, there.
+
+308
+00:17:28,040 --> 00:17:29,540
+他们没有家人  真可怜
+{\r原文字幕}They don't have family. It's sad.
+
+309
+00:17:29,630 --> 00:17:30,500
+进来吧  亲爱的
+{\r原文字幕}But come on in, honey.
+
+310
+00:17:30,590 --> 00:17:32,460
+-进来躲躲雨  -好的
+{\r原文字幕}- Come in out of this rain. - Okay.
+
+311
+00:17:32,550 --> 00:17:33,550
+你喝咖啡吗
+{\r原文字幕}Do you like coffee?
+
+312
+00:17:33,630 --> 00:17:36,380
+-我喝  谢谢你  -不用谢
+{\r原文字幕}- Oh, I do. Thank you very much. - All right.
+
+313
+00:17:39,340 --> 00:17:41,640
+预报说今天会是晴天
+{\r原文字幕}They said there would be sunshine today.
+
+314
+00:17:43,060 --> 00:17:44,520
+他们也就这水平了
+{\r原文字幕}So much for what they know.
+
+315
+00:17:44,600 --> 00:17:47,520
+从来都不准  对吧  我就知道
+{\r原文字幕}I know, right? I know.
+
+316
+00:17:49,190 --> 00:17:50,400
+那么
+{\r原文字幕}So...
+
+317
+00:17:51,070 --> 00:17:53,230
+你来见我所为何事
+{\r原文字幕}...what brings you to see me?
+
+318
+00:17:57,240 --> 00:17:58,490
+眼泪
+{\r原文字幕}Tears.
+
+319
+00:18:01,200 --> 00:18:03,120
+我昨天看见葛蕾丝女士哭了
+{\r原文字幕}I saw Miss Grace cry tears
+
+320
+00:18:03,200 --> 00:18:06,370
+我从来没见过罪犯哭成那样
+{\r原文字幕}that I've never seen a guilty person cry yesterday.
+
+321
+00:18:07,290 --> 00:18:09,630
+我得承认  我觉得很难受
+{\r原文字幕}You know, I have to tell you, I feel really bad.
+
+322
+00:18:11,040 --> 00:18:12,590
+这很大程度是我的错
+{\r原文字幕}A lot of this is my fault.
+
+323
+00:18:14,420 --> 00:18:15,550
+你为什么这么说
+{\r原文字幕}Why do you say that?
+
+324
+00:18:16,840 --> 00:18:19,510
+年纪是个贱人  亲爱的  它会悄悄靠近你
+{\r原文字幕}Age is a bitch, darling. It'll sneak up on you.
+
+325
+00:18:20,140 --> 00:18:23,810
+头一天还貌美如花  就像你  青春可爱
+{\r原文字幕}One day you all lovely-lookin', just like you, all young and lovely.
+
+326
+00:18:24,180 --> 00:18:26,090
+第二天就到了我这个年纪
+{\r原文字幕}Seem like the next day you're my age,
+
+327
+00:18:26,090 --> 00:18:27,770
+思索着时间都去哪了
+{\r原文字幕}wondering where all the time went.
+
+328
+00:18:27,850 --> 00:18:30,850
+我比她大一点
+{\r原文字幕}I'm a little older than she is.
+
+329
+00:18:32,730 --> 00:18:35,690
+但我不想她像我一样
+{\r原文字幕}But I didn't want her to be like me.
+
+330
+00:18:36,400 --> 00:18:37,280
+独自一人
+{\r原文字幕}Lonely...
+
+331
+00:18:38,110 --> 00:18:39,280
+跟一群老太婆和她们的猫一起
+{\r原文字幕}and livin' in a house
+
+332
+00:18:39,910 --> 00:18:42,120
+住一栋房子里
+{\r原文字幕}with old ladies and their cats.
+
+333
+00:18:42,780 --> 00:18:46,370
+她心地那么善良
+{\r原文字幕}She's such a good soul.
+
+334
+00:18:47,120 --> 00:18:49,710
+所以我鼓励她走出去
+{\r原文字幕}So, I tried to encourage her to go out,
+
+335
+00:18:49,790 --> 00:18:51,290
+我总是鼓励她  但是
+{\r原文字幕}you know, all the time, but...
+
+336
+00:18:52,130 --> 00:18:53,090
+她不肯
+{\r原文字幕}she wouldn't do it.
+
+337
+00:18:54,920 --> 00:18:55,750
+谢谢
+{\r原文字幕}Thank you.
+
+338
+00:18:55,840 --> 00:18:58,720
+不用谢  之后她儿子结婚了
+{\r原文字幕}You're welcome. And then, when her, uh, son got married...
+
+339
+00:19:00,130 --> 00:19:02,050
+那时一切都发生了转变
+{\r原文字幕}...that's when everything took a turn.
+
+340
+00:19:02,720 --> 00:19:07,390
+我亲眼看到她变了个人
+{\r原文字幕}I mean, I literally watched as she changed before my very eyes.
+
+341
+00:19:07,470 --> 00:19:08,560
+那是在婚礼后
+{\r原文字幕}It was after the wedding.
+
+342
+00:19:08,560 --> 00:19:11,600
+我们坐一起品酒聊天
+{\r原文字幕}We were sitting and talking over a glass of wine, and...
+
+343
+00:19:11,940 --> 00:19:15,780
+她为自己的生活在想象和现实中的巨大差异
+{\r原文字幕}Oh, she was so sad about what she thought her life would be,
+
+344
+00:19:15,780 --> 00:19:17,900
+而感到难过
+{\r原文字幕}and... and what it was.
+
+345
+00:19:17,900 --> 00:19:19,030
+实际并没有很差
+{\r原文字幕}And it wasn't bad.
+
+346
+00:19:19,570 --> 00:19:22,160
+因为她有一个漂亮的家
+{\r原文字幕}No, 'cause she had a lovely home. Beautiful home.
+
+347
+00:19:22,240 --> 00:19:24,160
+还有一份好工作
+{\r原文字幕}And a good job, too.
+
+348
+00:19:24,240 --> 00:19:25,780
+但她的前夫
+{\r原文字幕}But her ex-husband,
+
+349
+00:19:25,870 --> 00:19:28,000
+过得比她更好
+{\r原文字幕}he was living better than she was, and...
+
+350
+00:19:28,700 --> 00:19:33,710
+他的现在妻子过着葛蕾丝梦寐以求的生活
+{\r原文字幕}seemed like his wife was living Grace's dream, and--
+
+351
+00:19:35,040 --> 00:19:36,250
+你要记下来吗
+{\r原文字幕}You gonna take notes?
+
+352
+00:19:37,300 --> 00:19:39,460
+对啊  谢谢
+{\r原文字幕}Oh. Yes. Uh, thank you.
+
+353
+00:19:45,010 --> 00:19:45,890
+好了
+{\r原文字幕}Yes.
+
+354
+00:19:46,560 --> 00:19:49,180
+所以  婚礼过后
+{\r原文字幕}So, it was after the wedding,
+
+355
+00:19:49,850 --> 00:19:52,770
+我们刚回来  还没来得及脱下礼服
+{\r原文字幕}and we had come in. We hadn't even taken off our dresses,
+
+356
+00:19:52,850 --> 00:19:56,320
+她就  她就彻底崩溃了
+{\r原文字幕}when she started to just-- just come apart at the seams.
+
+357
+00:19:56,400 --> 00:19:59,480
+婚礼在她前夫家举办的
+{\r原文字幕}I mean, that wedding took place in her ex-husband's house,
+
+358
+00:19:59,570 --> 00:20:01,200
+那里曾经是葛蕾丝家
+{\r原文字幕}and that used to be Grace's house.
+
+359
+00:20:03,110 --> 00:20:03,820
+我搞不懂  葛蕾丝
+{\r原文字幕}I don't know, Grace,
+
+360
+00:20:03,820 --> 00:20:05,950
+他们为什么非得在那个房子里举办婚礼
+{\r原文字幕}why'd they have to have a wedding in the house?
+
+361
+00:20:06,030 --> 00:20:07,330
+还有那些俗气的帘子
+{\r原文字幕}And those tacky drapes.
+
+362
+00:20:07,410 --> 00:20:09,410
+等等  那些曾经是我的帘子
+{\r原文字幕}Wait, now, those were my drapes.
+
+363
+00:20:09,490 --> 00:20:11,250
+谢谢
+{\r原文字幕}Thank you.
+
+364
+00:20:11,330 --> 00:20:13,430
+他甚至没换掉那些帘子吗
+{\r原文字幕}He didn't even change the drapes?
+
+365
+00:20:13,430 --> 00:20:15,000
+他甚至没换掉那些帘子
+{\r原文字幕}He didn't even change the drapes.
+
+366
+00:20:15,080 --> 00:20:17,780
+我们曾在那房子里共建过一段人生
+{\r原文字幕}We built a life in that house.
+
+367
+00:20:18,710 --> 00:20:20,050
+而我现在却在这里  只是
+{\r原文字幕}And here I am, just...
+
+368
+00:20:20,590 --> 00:20:21,550
+很愤怒
+{\r原文字幕}Angry.
+
+369
+00:20:21,630 --> 00:20:24,890
+不  我不是真的生气  我只是很受伤
+{\r原文字幕}No, I'm not really angry. I'm just hurt.
+
+370
+00:20:24,970 --> 00:20:27,260
+还有很愤怒  承认吧
+{\r原文字幕}And angry. Go on, say it.
+
+371
+00:20:27,720 --> 00:20:28,560
+好吧
+{\r原文字幕}Okay.
+
+372
+00:20:29,180 --> 00:20:30,930
+好吧  我很愤怒
+{\r原文字幕}Okay, I am angry.
+
+373
+00:20:31,020 --> 00:20:32,350
+这就对了
+{\r原文字幕}Damn right.
+
+374
+00:20:32,430 --> 00:20:34,520
+你完全有权利生气
+{\r原文字幕}And you have every right, so be pissed.
+
+375
+00:20:35,150 --> 00:20:35,980
+见鬼了
+{\r原文字幕}Hell.
+
+376
+00:20:36,190 --> 00:20:38,440
+那个小贱人的年纪都可以做他女儿了
+{\r原文字幕}That little heifer's young enough to be his daughter.
+
+377
+00:20:38,520 --> 00:20:39,360
+是吧
+{\r原文字幕}Right?
+
+378
+00:20:41,190 --> 00:20:43,570
+她就比我儿子大五岁
+{\r原文字幕}She is five years older than my son.
+
+379
+00:20:44,610 --> 00:20:45,780
+我们的儿子
+{\r原文字幕}Our son.
+
+380
+00:20:47,820 --> 00:20:48,990
+就这么不公平
+{\r原文字幕}Just so unfair.
+
+381
+00:20:49,620 --> 00:20:51,870
+他就这么继续过他的人生
+{\r原文字幕}It's like he just went on with his life.
+
+382
+00:20:53,540 --> 00:20:56,710
+我就像是个会拖累他的包袱一样
+{\r原文字幕}Like I was some kind of speed bump that just slowed him down.
+
+383
+00:20:59,090 --> 00:20:59,920
+只是
+{\r原文字幕}Just...
+
+384
+00:21:04,050 --> 00:21:05,260
+我是怎么沦落到这个地步的
+{\r原文字幕}How did I even get here?
+
+385
+00:21:07,390 --> 00:21:08,720
+我想要回我的生活
+{\r原文字幕}I want my life back.
+
+386
+00:21:11,390 --> 00:21:13,270
+我想要回我的青春
+{\r原文字幕}I want my youth back.
+
+387
+00:21:14,690 --> 00:21:15,690
+我想开怀大笑
+{\r原文字幕}I want to laugh.
+
+388
+00:21:17,310 --> 00:21:19,150
+我想爱上一个人  我想
+{\r原文字幕}I wanna love somebody, I wanna...
+
+389
+00:21:19,940 --> 00:21:20,770
+被爱
+{\r原文字幕}be loved.
+
+390
+00:21:21,690 --> 00:21:24,190
+你青春的事我帮不上忙
+{\r原文字幕}I can't help you with your youth,
+
+391
+00:21:24,440 --> 00:21:26,450
+但是剩下的我倒能搭把手
+{\r原文字幕}but I can help you with the rest of it.
+
+392
+00:21:27,950 --> 00:21:30,780
+你得从这房子里出去  去约会
+{\r原文字幕}You need to get the hell out this house and meet somebody.
+
+393
+00:21:30,870 --> 00:21:32,120
+和谁
+{\r原文字幕}Who?
+
+394
+00:21:32,790 --> 00:21:34,660
+我不知道
+{\r原文字幕}I don't know.
+
+395
+00:21:34,750 --> 00:21:36,460
+但是我看到电视上的广告
+{\r原文字幕}But I see these commercials on TV.
+
+396
+00:21:36,540 --> 00:21:41,040
+你可以上基督徒在线约会网
+{\r原文字幕}You could go on ChristianDateOnline.Com.
+
+397
+00:21:41,130 --> 00:21:42,050
+什么
+{\r原文字幕}What?
+
+398
+00:21:42,130 --> 00:21:44,130
+-你可以试试  -我才不试
+{\r原文字幕}- You could! - No, I could not.
+
+399
+00:21:44,210 --> 00:21:46,840
+我拒绝  得了吧  萨拉
+{\r原文字幕}No. Come on, now, Sarah.
+
+400
+00:21:47,630 --> 00:21:51,100
+得了吧  如果我想和某人约会  我希望
+{\r原文字幕}No, come on. If I wanted to meet someone, I want to do it...
+
+401
+00:21:51,680 --> 00:21:53,470
+我希望用传统的方式
+{\r原文字幕}I want to do it the old-fashioned way.
+
+402
+00:21:54,350 --> 00:21:57,020
+以传统的方式来看现在可都是深夜了
+{\r原文字幕}Might be a little late in the evening for the old-fashioned way.
+
+403
+00:21:57,100 --> 00:21:59,730
+那他们是怎么遇上的
+{\r原文字幕}So how'd the two meet?
+
+404
+00:22:00,440 --> 00:22:01,900
+在一个美术馆
+{\r原文字幕}At an art gallery.
+
+405
+00:22:02,730 --> 00:22:03,570
+等等
+{\r原文字幕}Hold on.
+
+406
+00:22:05,780 --> 00:22:07,030
+让我找找
+{\r原文字幕}Let me see.
+
+407
+00:22:18,920 --> 00:22:20,380
+你好呀
+{\r原文字幕}Hi there. Oh...
+
+408
+00:22:22,540 --> 00:22:25,630
+这是他们收回她房子时遗落的传单
+{\r原文字幕}This is a flyer from when they repossessed her house.
+
+409
+00:22:27,340 --> 00:22:28,840
+他们把她所有东西都扔到街上
+{\r原文字幕}They put everything out on the street,
+
+410
+00:22:28,930 --> 00:22:31,260
+我尽可能地帮她收了一些东西
+{\r原文字幕}and I gathered those things that I could, at least the things
+
+411
+00:22:31,350 --> 00:22:33,890
+一些至少我认为对她很珍贵的东西
+{\r原文字幕}I thought that would be of value to her.
+
+412
+00:22:34,310 --> 00:22:36,370
+这是他在那个美术馆的展览宣传单
+{\r原文字幕}This is a flyer from his show
+
+413
+00:22:36,370 --> 00:22:38,810
+她就是在那里遇见他的
+{\r原文字幕}at that gallery where she met him.
+
+414
+00:22:40,810 --> 00:22:42,900
+这是他的相片
+{\r原文字幕}That's his photograph.
+
+415
+00:22:43,480 --> 00:22:45,980
+他遇到她第二天就把原片给了她
+{\r原文字幕}He gave her the original the day after he met her.
+
+416
+00:22:46,570 --> 00:22:47,780
+他是名摄影师
+{\r原文字幕}He was a photographer.
+
+417
+00:22:48,450 --> 00:22:49,610
+你留着吧
+{\r原文字幕}You can keep that.
+
+418
+00:22:49,700 --> 00:22:50,530
+谢谢你
+{\r原文字幕}Thank you.
+
+419
+00:22:50,610 --> 00:22:52,660
+我真想再多跟你聊会
+{\r原文字幕}I'd love to talk to you some more,
+
+420
+00:22:52,660 --> 00:22:55,370
+但我的租客们还没吃早饭
+{\r原文字幕}but my ladies haven't had their breakfast.
+
+421
+00:22:55,580 --> 00:22:58,300
+我们可以以后再聊吗
+{\r原文字幕}Would you mind if we talked again later?
+
+422
+00:22:58,330 --> 00:23:01,580
+好的  没问题
+{\r原文字幕}Oh, okay. Um, sure. Um...
+
+423
+00:23:03,420 --> 00:23:05,670
+谢谢  谢谢你让我过来
+{\r原文字幕}Thank you. Thank you so much for having me.
+
+424
+00:23:05,750 --> 00:23:07,090
+不  谢谢你能来
+{\r原文字幕}No, thank you for coming.
+
+425
+00:23:11,130 --> 00:23:12,590
+没事的  来吧
+{\r原文字幕}That's nothing, come on.
+
+426
+00:23:12,680 --> 00:23:16,680
+谢谢你这么关心葛蕾丝  多保重
+{\r原文字幕}Uh, thank you for caring so much about Grace and taking good care.
+
+427
+00:23:16,770 --> 00:23:17,930
+好的  太谢谢你了
+{\r原文字幕}All right, thank you so much.
+
+428
+00:23:18,020 --> 00:23:19,730
+-不客气  -祝您今日愉快
+{\r原文字幕}- All right. - Have a great day.
+
+429
+00:23:19,810 --> 00:23:21,940
+-谢谢  再见  -好的  再见
+{\r原文字幕}- Thank you. Buh-bye. - Okay, bye-bye.
+
+430
+00:23:30,400 --> 00:23:31,240
+我回来了  宝贝
+{\r原文字幕}Hey, babe.
+
+431
+00:23:31,740 --> 00:23:32,950
+快来  看看这个
+{\r原文字幕}Come here, look at this.
+
+432
+00:23:33,030 --> 00:23:34,620
+能不能先来个亲亲问候一下
+{\r原文字幕}Can I get a hello first? Can I get some love?
+
+433
+00:23:36,080 --> 00:23:38,870
+来看看这个  告诉我你看到了什么
+{\r原文字幕}Okay. Now, look at this and tell me what you see.
+
+434
+00:23:39,870 --> 00:23:42,000
+-是鲁米诺  -是的
+{\r原文字幕}- Uh... that's luminol. - Yes.
+
+10435
+00:23:39,870 --> 00:23:42,000
+{\fn方正兰亭中黑_GBK\fs16\an8}用于检测犯罪现场肉眼无法观察到的血液
+
+436
+00:23:42,080 --> 00:23:44,250
+这里也有很多血
+{\r原文字幕}It's a lot of blood, too.
+
+437
+00:23:44,920 --> 00:23:47,800
+有一些地方颜色很深而另一些地方浅一些
+{\r原文字幕}And it's dark in some places and lighter in the others.
+
+438
+00:23:48,710 --> 00:23:49,920
+对  然后呢
+{\r原文字幕}Yeah, and?
+
+439
+00:23:50,010 --> 00:23:51,740
+假设他因为头部被击打
+{\r原文字幕}And if he lost this much blood,
+
+440
+00:23:51,740 --> 00:23:53,470
+流了很多血
+{\r原文字幕}say, from a blow to the head,
+
+441
+00:23:54,050 --> 00:23:56,140
+为什么在照片里看起来
+{\r原文字幕}why is it pooling from the outside in,
+
+442
+00:23:56,220 --> 00:23:58,890
+像是从外部流成一滩呢
+{\r原文字幕}as it looks like it did in the picture? Hmm?
+
+443
+00:23:59,350 --> 00:24:02,580
+我觉得你正在问一些优秀律师才会问的问题
+{\r原文字幕}Then I'd say that you're asking the questions a good lawyer would.
+
+444
+00:24:10,320 --> 00:24:11,650
+罗里  你好
+{\r原文字幕}Rory, hi.
+
+445
+00:24:11,740 --> 00:24:13,270
+请给我来杯咖啡  什么事
+{\r原文字幕}Some coffee in here, please. Yeah?
+
+446
+00:24:13,270 --> 00:24:15,030
+我想给你看看这个
+{\r原文字幕}Um, yeah, I wanted you to see this.
+
+447
+00:24:15,030 --> 00:24:17,200
+你看这些血液是如何从外部汇集进来的
+{\r原文字幕}You see how the blood is pooling from the outside in?
+
+448
+00:24:17,280 --> 00:24:19,790
+-是嘛  -我想请一位血液喷溅
+{\r原文字幕}- Yeah. - I wanna hire an expert in blood splatter
+
+449
+00:24:19,870 --> 00:24:20,870
+和痕量血迹鉴定方面的专家
+{\r原文字幕}and in luminol--
+
+450
+00:24:20,950 --> 00:24:22,750
+你这九个月白来了吗
+{\r原文字幕}Where have you been for the past nine months?
+
+451
+00:24:22,830 --> 00:24:24,880
+我们请不起血迹鉴定专家
+{\r原文字幕}This office cannot afford a blood pattern expert.
+
+452
+00:24:24,960 --> 00:24:26,710
+你在说什么鬼话  再说请专家干什么
+{\r原文字幕}What you talking about? What's this about anyway?
+
+453
+00:24:27,540 --> 00:24:28,880
+葛蕾丝·沃特斯  她的辩词
+{\r原文字幕}Grace Waters, her defense.
+
+454
+00:24:31,880 --> 00:24:33,380
+那女人已经认罪了
+{\r原文字幕}That woman is pleading guilty.
+
+455
+00:24:33,470 --> 00:24:35,180
+我不知道你在说什么
+{\r原文字幕}I don't know what you're talking about.
+
+456
+00:24:35,260 --> 00:24:38,010
+现在去一趟监狱  让她把认罪协议签了
+{\r原文字幕}Now, get down to the jail and get the plea deal signed.
+
+457
+00:24:38,100 --> 00:24:39,560
+就在那儿  让她把它签了
+{\r原文字幕}It's already there. Get it signed.
+
+458
+00:24:39,640 --> 00:24:41,770
+这场闹剧该结束了  我的电话响个不停
+{\r原文字幕}This circus needs to stop. My phone's ringing off the hook.
+
+459
+00:24:41,850 --> 00:24:43,810
+包括市长在内的所有人都为了这事打给我
+{\r原文字幕}I've got the mayor and everybody calling me about this.
+
+460
+00:24:43,890 --> 00:24:46,440
+罗里  但我发现了一些很重要的事情  我觉得
+{\r原文字幕}Rory, but I found some really great stuff, and I think--
+
+461
+00:24:46,520 --> 00:24:47,360
+茉莉
+{\r原文字幕}Jasmine.
+
+462
+00:24:49,320 --> 00:24:50,980
+如果你在法庭上也如此争辩的话
+{\r原文字幕}If you argued like this in court,
+
+463
+00:24:51,070 --> 00:24:52,780
+你倒是真能成为一名律师
+{\r原文字幕}you could actually be a lawyer.
+
+464
+00:24:53,200 --> 00:24:54,030
+去吧
+{\r原文字幕}Go.
+
+465
+00:25:00,580 --> 00:25:02,450
+咖啡  咖啡  咖啡
+{\r原文字幕}Coffee! Coffee! Coffee!
+
+466
+00:25:04,080 --> 00:25:05,500
+-很抱歉  -谢谢
+{\r原文字幕}- So sorry. - Thank you.
+
+467
+00:25:07,330 --> 00:25:08,630
+这是什么鬼玩意儿
+{\r原文字幕}What the hell is this?
+
+10468
+00:25:09,960 --> 00:25:12,170
+{\fn方正兰亭中黑_GBK\fs16\an8}霍洛威看守所
+访客停车场
+
+469
+00:25:11,550 --> 00:25:14,510
+这是地方检察官开具的认罪协议
+{\r原文字幕}This is the plea agreement from the DA.
+
+470
+00:25:15,300 --> 00:25:18,050
+他说会把你安排在你儿子
+{\r原文字幕}He did manage to say that he will put you in a facility
+
+471
+00:25:18,140 --> 00:25:19,720
+住所附近的监狱里
+{\r原文字幕}that's close to your son.
+
+472
+00:25:22,640 --> 00:25:23,730
+就签在这里
+{\r原文字幕}You can sign here.
+
+473
+00:25:28,940 --> 00:25:30,480
+你有笔吗
+{\r原文字幕}You have a pen?
+
+474
+00:25:31,780 --> 00:25:33,070
+有  抱歉
+{\r原文字幕}Yeah. Sorry.
+
+475
+00:25:49,960 --> 00:25:51,420
+你去找过谁了
+{\r原文字幕}Who've you been talkin' to?
+
+476
+00:25:52,550 --> 00:25:55,050
+你的朋友  萨拉
+{\r原文字幕}Your friend Sarah.
+
+477
+00:25:57,720 --> 00:25:59,800
+葛蕾丝  请告诉我到底发生了什么
+{\r原文字幕}Grace, please tell me what happened.
+
+478
+00:26:00,890 --> 00:26:02,220
+他对你做了什么
+{\r原文字幕}What did he do to you?
+
+479
+00:26:04,430 --> 00:26:05,310
+求你了
+{\r原文字幕}Please.
+
+480
+00:26:07,310 --> 00:26:08,140
+告诉我
+{\r原文字幕}Tell me.
+
+481
+00:26:15,570 --> 00:26:16,780
+高跟鞋
+{\r原文字幕}Heels.
+
+482
+00:26:21,230 --> 00:26:22,740
+高跟鞋
+{\r原文字幕}Heels.
+
+483
+00:26:28,250 --> 00:26:30,710
+我不知道为什么我会记得那天的高跟鞋
+{\r原文字幕}I don't know why I remember the heels that day.
+
+484
+00:26:31,840 --> 00:26:33,960
+那是很平常的一天  再平常不过了
+{\r原文字幕}It was a normal day, like any other.
+
+485
+00:26:38,340 --> 00:26:39,550
+当我醒来时
+{\r原文字幕}When you wake up...
+
+486
+00:26:42,470 --> 00:26:44,010
+却不知道
+{\r原文字幕}you don't know that...
+
+487
+00:26:46,520 --> 00:26:50,230
+那一天将会是改变我人生的一天
+{\r原文字幕}today will be the day to change your life...
+
+488
+00:26:54,900 --> 00:26:55,730
+就这么完了
+{\r原文字幕}End it.
+
+489
+00:26:58,450 --> 00:27:00,450
+一切都是那么平常
+{\r原文字幕}Everything felt so normal.
+
+490
+00:27:05,950 --> 00:27:07,000
+谢谢
+{\r原文字幕}Thank you.
+
+10491
+00:27:09,160 --> 00:27:10,450
+{\fn方正兰亭中黑_GBK\fs16\pos(145,159)\fr37}去看吧
+
+10492
+00:27:09,160 --> 00:27:10,450
+{\fn方正兰亭中黑_GBK\fs14\pos(165,169)\fr37}-萨拉
+
+493
+00:27:18,720 --> 00:27:22,430
+那天下班后  我去了一家画廊的开幕式
+{\r原文字幕}After work that day, I went to a... a gallery opening.
+
+494
+00:27:23,260 --> 00:27:24,550
+虽然有点累
+{\r原文字幕}I was a little tired,
+
+495
+00:27:24,640 --> 00:27:28,770
+但我还是想去看看萨拉说的这个展览
+{\r原文字幕}but I wanted to see this exhibit that Sarah had told me about.
+
+496
+00:27:29,230 --> 00:27:32,440
+她担心我在屋里待太久
+{\r原文字幕}She was worried about me being in the house too much.
+
+497
+00:27:33,730 --> 00:27:35,940
+坚持要我去  所以
+{\r原文字幕}But she was adamant that I go, so...
+
+498
+00:27:37,320 --> 00:27:38,150
+我去了
+{\r原文字幕}I did.
+
+499
+00:27:39,110 --> 00:27:42,200
+-你好  -请原谅  不好意思
+{\r原文字幕}- Hi. - Excuse me. I'm sorry.
+
+500
+00:27:43,280 --> 00:27:44,160
+我知道
+{\r原文字幕}Ah... I get it,
+
+501
+00:27:44,240 --> 00:27:45,530
+你得在合适的灯光下看这些照片
+{\r原文字幕}you have to see these in the right light.
+
+502
+00:27:46,280 --> 00:27:48,370
+而这里最好的灯光
+{\r原文字幕}And the best lighting in the room is...
+
+503
+00:27:49,250 --> 00:27:50,620
+就在这里  所以
+{\r原文字幕}right here, so...
+
+504
+00:27:52,000 --> 00:27:53,250
+这展览的主人是我的世交
+{\r原文字幕}The owner's a family friend,
+
+505
+00:27:53,330 --> 00:27:55,790
+我没勇气告诉她这里的灯光很糟
+{\r原文字幕}and I don't have the heart to tell her that the lighting sucks.
+
+506
+00:27:58,250 --> 00:27:59,840
+其实从这里看也没有那么糟
+{\r原文字幕}Well, it's not really that bad from right here.
+
+507
+00:28:00,420 --> 00:28:02,430
+你对光和阴影很了解吗
+{\r原文字幕}And what do you know about shadows and light?
+
+508
+00:28:04,090 --> 00:28:06,890
+我什么都不了解  包括这位摄影师
+{\r原文字幕}I don't know anything as well as this photographer.
+
+509
+00:28:08,010 --> 00:28:10,180
+她很有才华
+{\r原文字幕}She's... brilliant.
+
+510
+00:28:10,270 --> 00:28:12,310
+你为什么那么肯定她是名女性
+{\r原文字幕}What makes you so sure that she's a she?
+
+511
+00:28:15,060 --> 00:28:16,060
+看名字
+{\r原文字幕}The name.
+
+512
+00:28:16,820 --> 00:28:17,690
+香农
+{\r原文字幕}Shannon.
+
+513
+00:28:18,070 --> 00:28:19,610
+再看那些阴影
+{\r原文字幕}And look at the shadows,
+
+514
+00:28:19,690 --> 00:28:22,700
+还有她拍摄这些部落族人情感的方式
+{\r原文字幕}the way she captures the emotions of these tribes.
+
+515
+00:28:22,780 --> 00:28:25,700
+只有在女人眼里才是这样  太美了
+{\r原文字幕}Now, only a woman sees like that. It's beautiful.
+
+516
+00:28:25,780 --> 00:28:27,870
+我觉得她也是埃塞俄比亚人
+{\r原文字幕}You know what? I think she's Ethiopian, too,
+
+517
+00:28:27,950 --> 00:28:30,230
+因为她得认识人才能进部落
+{\r原文字幕}because she has to know somebody to get in
+
+518
+00:28:30,230 --> 00:28:31,710
+才能去了解这些人
+{\r原文字幕}and get to know these people.
+
+519
+00:28:31,790 --> 00:28:34,670
+有些地区非常偏远
+{\r原文字幕}Some of these places are extremely remote.
+
+520
+00:28:34,750 --> 00:28:38,500
+我觉得只有当地人才能如此地靠近
+{\r原文字幕}I think only a native can navigate this closely.
+
+521
+00:28:39,050 --> 00:28:40,800
+看来你很了解埃塞俄比亚
+{\r原文字幕}You seem to know a lot about Ethiopia.
+
+522
+00:28:42,670 --> 00:28:43,800
+都是从书上读到的
+{\r原文字幕}Just what I've read.
+
+523
+00:28:44,220 --> 00:28:45,510
+我爱非洲
+{\r原文字幕}I love Africa.
+
+524
+00:28:45,930 --> 00:28:46,930
+非洲的历史
+{\r原文字幕}African history.
+
+525
+00:28:47,920 --> 00:28:49,010
+真想有天能去看看
+{\r原文字幕}I wanna go one day.
+
+526
+00:28:49,010 --> 00:28:51,140
+你该去  那会改变你的一生
+{\r原文字幕}You should. It'll change your life.
+
+527
+00:28:52,020 --> 00:28:53,600
+你去过吗
+{\r原文字幕}Oh, you've been?
+
+528
+00:28:53,690 --> 00:28:55,560
+-去过  -你真幸运
+{\r原文字幕}- I have. - Lucky you.
+
+529
+00:28:55,650 --> 00:28:57,720
+遇见你  也很幸运
+{\r原文字幕}Lucky me, to meet you.
+
+530
+00:29:00,230 --> 00:29:01,610
+天啊  那是
+{\r原文字幕}Ooh, wow, is that a...
+
+531
+00:29:01,690 --> 00:29:03,820
+-那是乌佐项链吗  -是的  好眼力
+{\r原文字幕}- Is that an Uzo necklace? - Yeah, good eye.
+
+532
+00:29:04,360 --> 00:29:05,990
+在非洲买的  很特别吧
+{\r原文字幕}Got this in Africa. One of a kind.
+
+533
+00:29:09,910 --> 00:29:10,740
+真漂亮
+{\r原文字幕}Beautiful.
+
+534
+00:29:11,620 --> 00:29:12,620
+我们需要你
+{\r原文字幕}We need you.
+
+535
+00:29:13,330 --> 00:29:15,210
+不好意思  我要带这位帅哥离开一下
+{\r原文字幕}Excuse me while I take this handsome thing away.
+
+536
+00:29:15,750 --> 00:29:16,920
+-拜托了  -当然可以
+{\r原文字幕}- Please. - Absolutely.
+
+537
+00:29:23,800 --> 00:29:25,220
+女士们  先生们
+{\r原文字幕}Ladies and gentlemen,
+
+538
+00:29:25,300 --> 00:29:27,180
+非常感谢大家来这个展览
+{\r原文字幕}thank you so much for coming to this exhibit.
+
+539
+00:29:27,260 --> 00:29:31,720
+令人激动的是这位杰出的艺术家就在这里
+{\r原文字幕}We are so excited to have this amazing artist here.
+
+540
+00:29:32,100 --> 00:29:34,270
+我们都很喜爱他在霍洛威展出的这些作品
+{\r原文字幕}We love his work here in Holloway.
+
+541
+00:29:34,350 --> 00:29:37,850
+女士们先生们  隆重介绍  香农·德隆
+{\r原文字幕}Introducing Shannon Delong, ladies and gentlemen.
+
+542
+00:29:41,270 --> 00:29:43,690
+女士们先生们  非常感谢各位今晚的莅临
+{\r原文字幕}Ladies and gentlemen, thank you so much for coming out tonight.
+
+543
+00:29:43,780 --> 00:29:45,280
+我衷心地感谢
+{\r原文字幕}I really appreciate that.
+
+544
+00:29:45,740 --> 00:29:48,240
+我想和不太了解我的人说
+{\r原文字幕}Um, for those of you that don't know me,
+
+545
+00:29:48,950 --> 00:29:50,120
+我是个内向的人
+{\r原文字幕}I am an introvert,
+
+546
+00:29:50,740 --> 00:29:53,750
+所以我不擅长在很多人面前
+{\r原文字幕}which means I have trouble speaking in front of...
+
+547
+00:29:55,250 --> 00:29:57,250
+发言
+{\r原文字幕}semi-large crowds.
+
+548
+00:29:57,330 --> 00:29:58,930
+但我希望你们能喜欢这个展览
+{\r原文字幕}But I hope you enjoy the exhibit.
+
+549
+00:29:58,930 --> 00:29:59,920
+它的名字叫"古佐"
+{\r原文字幕}It's called "Guzo."
+
+550
+00:30:00,000 --> 00:30:02,250
+源自我的埃塞俄比亚之旅
+{\r原文字幕}It is from my travels in Ethiopia.
+
+551
+00:30:02,670 --> 00:30:03,630
+记住
+{\r原文字幕}And remember...
+
+552
+00:30:04,710 --> 00:30:07,220
+今晚的大部分收入都将捐给慈善机构
+{\r原文字幕}a lot of the proceeds tonight go to charity, so...
+
+553
+00:30:07,840 --> 00:30:09,510
+所以请多多消费
+{\r原文字幕}please spend a large amount of money.
+
+554
+00:30:09,590 --> 00:30:12,060
+-了解  了解  -好吗  谢谢
+{\r原文字幕}- Hear, hear. - Okay? Thank you.
+
+555
+00:30:12,140 --> 00:30:13,350
+祝您愉快
+{\r原文字幕}Enjoy.
+
+556
+00:30:26,950 --> 00:30:28,490
+第二天我去上班
+{\r原文字幕}The next day, I got to work,
+
+557
+00:30:28,570 --> 00:30:31,740
+我都不知道他是怎么知道我在哪里工作的
+{\r原文字幕}and I didn't even know how he found out where I worked,
+
+558
+00:30:31,830 --> 00:30:33,080
+但就是发生了
+{\r原文字幕}but there it was.
+
+559
+00:30:33,160 --> 00:30:34,830
+他在和我调情
+{\r原文字幕}He was flirting with me.
+
+560
+00:30:35,410 --> 00:30:38,290
+已经二十五年没有人和我调过情了
+{\r原文字幕}Nobody had flirted with me in 25 years,
+
+561
+00:30:38,370 --> 00:30:39,960
+让我的心小鹿乱撞
+{\r原文字幕}and I had butterflies.
+
+562
+00:30:40,330 --> 00:30:42,090
+一个小鹿乱撞的成熟女性
+{\r原文字幕}Grown-ass woman with butterflies.
+
+563
+00:30:43,090 --> 00:30:45,630
+真是一个美丽的悲剧
+{\r原文字幕}It was beautifully tragic.
+
+564
+00:30:46,170 --> 00:30:48,800
+在了解一切之前  我喜不自禁
+{\r原文字幕}Before I knew it, I was smiling and giddy.
+
+565
+00:30:49,220 --> 00:30:50,760
+我就像个女学生
+{\r原文字幕}I felt like a schoolgirl.
+
+566
+00:30:51,340 --> 00:30:54,560
+我在想  "为什么  这个人是谁"
+{\r原文字幕}I wondered, "Why? Who was this man?
+
+567
+00:30:55,060 --> 00:30:56,600
+"他为什么要和我调情"
+{\r原文字幕}Why was he flirting with me?"
+
+10568
+00:30:56,520 --> 00:31:00,060
+{\fn方正兰亭中黑_GBK\fs11\pos(283,149)}你的埃塞俄比亚女性朋友
+邀你共进晚餐
+电话434-555-0128
+
+569
+00:30:56,850 --> 00:30:58,330
+有一个声音在我脑海里高呼
+{\r原文字幕}That voice in my head was screaming,
+
+570
+00:30:58,330 --> 00:30:59,980
+"他想得到什么  他想得到什么"
+{\r原文字幕}"What does he want? What does he want?"
+
+571
+00:31:00,730 --> 00:31:02,770
+但我已经被他迷住了
+{\r原文字幕}But I was intrigued.
+
+572
+00:31:03,310 --> 00:31:06,480
+所以我打给萨拉问我该不该和他约会
+{\r原文字幕}So I called Sarah to see if I should go out with him.
+
+573
+00:31:07,440 --> 00:31:10,150
+你绝对不会相信你的摄影师做了什么
+{\r原文字幕}You will not believe what your photographer did.
+
+574
+00:31:10,240 --> 00:31:11,660
+需要我开车送你去吗
+{\r原文字幕}Do you need me to drive you?
+
+575
+00:31:11,740 --> 00:31:15,120
+-因为你要去  打给他  -什么
+{\r原文字幕}- 'Cause you are going. Call him. - What?
+
+576
+00:31:15,740 --> 00:31:16,700
+打给他
+{\r原文字幕}Call him.
+
+577
+00:31:17,370 --> 00:31:20,290
+好的  好的  我会打的
+{\r原文字幕}Okay, okay. I will.
+
+578
+00:31:20,370 --> 00:31:22,960
+你这个疯狂的催命鬼
+{\r原文字幕}You are crazy and pushy.
+
+579
+00:31:24,210 --> 00:31:26,670
+我等了一天才给他电话
+{\r原文字幕}I did wait a day to call him.
+
+580
+00:31:26,960 --> 00:31:28,300
+我不能表现得很饥渴
+{\r原文字幕}I couldn't seem desperate.
+
+581
+00:31:28,380 --> 00:31:29,300
+打给你
+{\r原文字幕}Call you?
+
+582
+00:31:30,930 --> 00:31:32,720
+我可不这么想  伙计
+{\r原文字幕}Yeah, I don't think so, buddy.
+
+583
+00:31:34,680 --> 00:31:36,890
+但我的好奇心占了上风
+{\r原文字幕}But curiosity got the best of me.
+
+584
+00:31:36,970 --> 00:31:39,060
+第二天去上班时  我对自己说
+{\r原文字幕}When I got to work the next day, I said,
+
+585
+00:31:39,520 --> 00:31:40,640
+"你在搞什么"
+{\r原文字幕}"What the hell?"
+
+586
+00:31:42,940 --> 00:31:45,820
+-喂  -你好
+{\r原文字幕}- Hi. - Hi.
+
+587
+00:31:46,270 --> 00:31:47,400
+你好吗
+{\r原文字幕}How are you?
+
+588
+00:31:49,360 --> 00:31:52,360
+别好像你知道我是谁似的
+{\r原文字幕}Oh, don't act like you know who this is.
+
+589
+00:31:52,450 --> 00:31:53,780
+你是葛蕾丝吧
+{\r原文字幕}It's Grace, right?
+
+590
+00:31:54,280 --> 00:31:56,910
+-是的  -你收到我的照片了吗
+{\r原文字幕}- Yeah. - You got my photo?
+
+591
+00:31:57,370 --> 00:31:59,750
+-是的  收到了  谢谢  -不
+{\r原文字幕}- Yes, I did. Thank you. - No.
+
+592
+00:31:59,950 --> 00:32:01,920
+我可不接受你在电话里感谢
+{\r原文字幕}I'm not accepting your thank-you over the phone.
+
+593
+00:32:02,000 --> 00:32:03,830
+好  好吧
+{\r原文字幕}Oh. O-Okay.
+
+594
+00:32:04,250 --> 00:32:06,790
+-我只接受在晚餐时说的  -好吧
+{\r原文字幕}- Only over dinner. - Mm. Okay.
+
+595
+00:32:06,880 --> 00:32:08,730
+我知道一个完美  小巧
+{\r原文字幕}I know this perfect, little, quaint,
+
+596
+00:32:08,730 --> 00:32:10,050
+复古的小餐馆
+{\r原文字幕}hole-in-the-wall diner.
+
+597
+00:32:10,130 --> 00:32:11,930
+我觉得不错
+{\r原文字幕}Well, I-I'm fine with that.
+
+598
+00:32:15,140 --> 00:32:15,970
+谢谢
+{\r原文字幕}Thank you.
+
+599
+00:32:17,350 --> 00:32:18,810
+跟我说实话
+{\r原文字幕}So, tell me something,
+
+600
+00:32:18,890 --> 00:32:20,520
+你是怎么找到我的
+{\r原文字幕}how did you find me?
+
+601
+00:32:20,930 --> 00:32:22,140
+你在我的来宾名册上签了名
+{\r原文字幕}You signed my guestbook.
+
+602
+00:32:22,730 --> 00:32:25,150
+你也说实话  为什么过了那么久才打给我
+{\r原文字幕}Tell me something. Why'd it take you so long to call me?
+
+603
+00:32:28,150 --> 00:32:30,740
+我在那里遇到了位美丽的女士
+{\r原文字幕}I mean, there I was, I met this beautiful woman
+
+604
+00:32:31,150 --> 00:32:32,650
+我想更多地了解她
+{\r原文字幕}that I wanted to know a lot more about,
+
+605
+00:32:32,740 --> 00:32:35,160
+但她只让我傻站在那里  所以
+{\r原文字幕}and she just kinda left me standing there, so...
+
+606
+00:32:36,070 --> 00:32:40,040
+我知道你身边有很多年轻漂亮的女人
+{\r原文字幕}I know you've had many young, beautiful women.
+
+607
+00:32:40,120 --> 00:32:41,000
+我是说
+{\r原文字幕}I mean, um...
+
+608
+00:32:42,710 --> 00:32:44,000
+我只是想知道
+{\r原文字幕}I was just wondering.
+
+609
+00:32:45,370 --> 00:32:46,080
+为什么是我
+{\r原文字幕}Why me?
+
+610
+00:32:46,920 --> 00:32:48,750
+首先  确实
+{\r原文字幕}First of all, yes.
+
+611
+00:32:49,840 --> 00:32:51,460
+我得到的比我给予的要多
+{\r原文字幕}I have had more than my share.
+
+612
+00:32:52,050 --> 00:32:53,230
+但随着年龄的增长
+{\r原文字幕}But as you get older,
+
+613
+00:32:53,230 --> 00:32:55,510
+那些东西已经不再吸引我
+{\r原文字幕}that kind of thing no longer interests you,
+
+614
+00:32:55,590 --> 00:32:57,680
+而你说的话却让我很感兴趣
+{\r原文字幕}and you said something kind of interesting to me.
+
+615
+00:32:57,760 --> 00:33:00,140
+你说"为什么是我"
+{\r原文字幕}You said, "Why me?"
+
+616
+00:33:00,930 --> 00:33:02,930
+因为人们  我们  总是喜欢这样对自己
+{\r原文字幕}As people, we-- we tend to do that to ourselves.
+
+617
+00:33:03,020 --> 00:33:05,310
+总是问自己"为什么是我  为什么是我"
+{\r原文字幕}It's always like, "Why me? Why me? Why me?"
+
+618
+00:33:05,600 --> 00:33:07,940
+难道不应该问"为什么不是你"
+{\r原文字幕}Shouldn't the question be, "Why not you?"
+
+619
+00:33:10,480 --> 00:33:11,900
+离过婚你就会这样了
+{\r原文字幕}Divorce will do that to you.
+
+620
+00:33:13,110 --> 00:33:13,950
+让你
+{\r原文字幕}Make you...
+
+621
+00:33:14,450 --> 00:33:16,030
+质疑自己是谁
+{\r原文字幕}question who you are.
+
+622
+00:33:18,240 --> 00:33:19,490
+那么  为什么离婚呢
+{\r原文字幕}So, why get divorced?
+
+623
+00:33:20,620 --> 00:33:22,140
+两人的心渐行渐远
+{\r原文字幕}People grow apart.
+
+624
+00:33:23,540 --> 00:33:24,660
+你为什么不结婚
+{\r原文字幕}Why aren't you married?
+
+625
+00:33:24,750 --> 00:33:27,250
+这个问题
+{\r原文字幕}That question, yeah.
+
+626
+00:33:27,880 --> 00:33:30,750
+现在我觉得是因为我从小居无定所
+{\r原文字幕}Now, I-I guess it's just 'cause I grew up everywhere,
+
+627
+00:33:31,340 --> 00:33:34,170
+我总是搬家  典型的军人家庭的孩子
+{\r原文字幕}and I was always kind of a gypsy. Military kid.
+
+628
+00:33:34,720 --> 00:33:37,970
+我去过  纽约  波士顿
+{\r原文字幕}Uh, name it, New York, Boston,
+
+629
+00:33:38,640 --> 00:33:40,300
+亚特兰大  华盛顿  西雅图
+{\r原文字幕}Atlanta, DC, Seattle,
+
+630
+00:33:40,390 --> 00:33:43,470
+韩国  马德里  日本  西非  诸如此类
+{\r原文字幕}Korea, Madrid, Japan, West Africa, in that order.
+
+631
+00:33:45,230 --> 00:33:47,600
+随便说一种文化  我都见过  经历过
+{\r原文字幕}Name a culture, I saw it. I experienced it.
+
+632
+00:33:47,690 --> 00:33:49,730
+但作为一个年轻人
+{\r原文字幕}But that was also hard to, you know,
+
+633
+00:33:49,810 --> 00:33:51,520
+很难定居下来
+{\r原文字幕}put down roots as a young man.
+
+634
+00:33:52,610 --> 00:33:53,990
+我从没想过要结婚
+{\r原文字幕}I never wanted to be married.
+
+635
+00:33:56,240 --> 00:33:58,700
+老实说  我也不想承担这份责任
+{\r原文字幕}If I'm honest, I really didn't want the responsibility,
+
+636
+00:33:58,780 --> 00:34:00,770
+而很多女人都沉迷于此
+{\r原文字幕}and a lot of women are into that.
+
+637
+00:34:00,770 --> 00:34:02,370
+你肯定会惊讶
+{\r原文字幕}You'd be surprised, you know.
+
+638
+00:34:03,240 --> 00:34:04,000
+是  我懂
+{\r原文字幕}Yeah, I know.
+
+639
+00:34:04,080 --> 00:34:06,370
+但对一个孩子来说
+{\r原文字幕}Yeah. But that had to be hard as a kid,
+
+640
+00:34:06,460 --> 00:34:08,210
+居无定所肯定不好过
+{\r原文字幕}I mean, living everywhere.
+
+641
+00:34:08,290 --> 00:34:09,960
+确实  但对一个男人来说却很有趣
+{\r原文字幕}It was. But it was fun as a man.
+
+642
+00:34:11,750 --> 00:34:12,750
+不  不是  我不是说
+{\r原文字幕}No, not... I don't...
+
+643
+00:34:12,840 --> 00:34:14,390
+不是所有事情都跟那个相关
+{\r原文字幕}'Cause not everything's about that.
+
+644
+00:34:14,390 --> 00:34:15,210
+你想歪了
+{\r原文字幕}Your mind's in the gutter.
+
+645
+00:34:15,300 --> 00:34:16,260
+好吗  是的
+{\r原文字幕}Okay? Yeah.
+
+646
+00:34:17,510 --> 00:34:19,220
+没有什么比
+{\r原文字幕}I mean, seeing the world...
+
+647
+00:34:20,260 --> 00:34:22,970
+通过相机镜头来看这个世界
+{\r原文字幕}...through the eyes of a 35-millimeter, there's...
+
+648
+00:34:23,850 --> 00:34:24,720
+更棒的事了
+{\r原文字幕}nothing like that.
+
+649
+00:34:24,810 --> 00:34:27,730
+-这听起来很棒  -是的  我见过很多人
+{\r原文字幕}- That sounds like fun. - It was. Met a lot of people.
+
+650
+00:34:28,390 --> 00:34:29,980
+但我从未遇见过陌生人
+{\r原文字幕}But I never met a stranger.
+
+651
+00:34:30,440 --> 00:34:31,940
+比如  我们
+{\r原文字幕}I mean, take us, for example.
+
+652
+00:34:33,480 --> 00:34:35,990
+-什么  -你和我在一块不舒服吗
+{\r原文字幕}- What? - Well, don't you feel comfortable with me?
+
+653
+00:34:36,070 --> 00:34:37,820
+说实话
+{\r原文字幕}Honestly?
+
+654
+00:34:38,610 --> 00:34:40,200
+老实说  我才刚认识你
+{\r原文字幕}Well, honestly, I just met you.
+
+655
+00:34:41,950 --> 00:34:43,740
+如果我们彼此坦诚  就要一直这样
+{\r原文字幕}And if we're being honest, let's keep being honest.
+
+656
+00:34:43,830 --> 00:34:46,080
+你老这样  你老是
+{\r原文字幕}You keep doing this one thing. You keep doing this one--
+
+657
+00:34:46,160 --> 00:34:48,790
+你有一种模式  你喜欢评头论足
+{\r原文字幕}You have a pattern. You judge.
+
+658
+00:34:48,870 --> 00:34:51,000
+你否认不了  因为我现在正看你这样做
+{\r原文字幕}You can't say you don't, because I'm watching you do it.
+
+659
+00:34:51,080 --> 00:34:51,960
+-好吧  -你喜欢评头论足
+{\r原文字幕}- Okay. - You judge.
+
+660
+00:34:52,040 --> 00:34:53,170
+这只是...
+{\r原文字幕}You know, it's just...
+
+661
+00:34:54,340 --> 00:34:55,460
+这很难接受
+{\r原文字幕}It's kinda hard...
+
+662
+00:34:56,800 --> 00:35:00,780
+当你走进房间  却发现你的丈夫
+{\r原文字幕}you know, when you walk in the room, and you...
+
+663
+00:35:01,510 --> 00:35:04,600
+正在和他的秘书偷情
+{\r原文字幕}find your husband having sex with his secretary,
+
+664
+00:35:04,680 --> 00:35:06,140
+现在她还成了他的妻子
+{\r原文字幕}who is now his wife.
+
+665
+00:35:12,440 --> 00:35:13,860
+对此  我很抱歉
+{\r原文字幕}I'm sorry to hear that.
+
+666
+00:35:14,650 --> 00:35:15,610
+谢谢你
+{\r原文字幕}Thank you.
+
+667
+00:35:18,320 --> 00:35:19,200
+要来点酒吗
+{\r原文字幕}Wine?
+
+668
+00:35:20,490 --> 00:35:22,740
+要
+{\r原文字幕}Yes.
+
+669
+00:35:22,820 --> 00:35:26,040
+我很快就信任了他
+{\r原文字幕}I did start to trust him very quickly.
+
+670
+00:35:26,660 --> 00:35:28,040
+我甚至不明白是为什么
+{\r原文字幕}I don't even know why.
+
+671
+00:35:28,330 --> 00:35:32,170
+他很贴心  而且知道该说什么
+{\r原文字幕}He was so kind, and... and he knew what to say.
+
+672
+00:35:32,830 --> 00:35:33,880
+他很绅士
+{\r原文字幕}He was gentle.
+
+673
+00:35:34,540 --> 00:35:36,880
+我甚至不知道一个男人
+{\r原文字幕}I didn't even know that a man could be
+
+674
+00:35:36,880 --> 00:35:39,090
+可以那样完美  让人感觉那样好
+{\r原文字幕}that perfect, feel that perfect.
+
+675
+00:35:39,420 --> 00:35:41,680
+我不想结束我们的第一次约会
+{\r原文字幕}I didn't want our first date to end.
+
+676
+00:35:42,340 --> 00:35:43,550
+他也不想
+{\r原文字幕}And neither did he.
+
+677
+00:35:47,930 --> 00:35:48,890
+谢谢  凯特琳
+{\r原文字幕}Thank you, Kaitlyn.
+
+678
+00:35:53,230 --> 00:35:56,400
+你前夫有一家抵押贷款公司  是吗
+{\r原文字幕}So your ex, he, uh... he owns a mortgage company?
+
+679
+00:35:56,480 --> 00:35:59,070
+你为什么还提这事
+{\r原文字幕}Oh... Why are you still on that?
+
+680
+00:35:59,320 --> 00:36:00,650
+好吧
+{\r原文字幕}Okay.
+
+681
+00:36:01,030 --> 00:36:04,160
+如果一个男人问起你的前夫
+{\r原文字幕}Hint, if a... if a man is asking about your ex,
+
+682
+00:36:04,240 --> 00:36:05,990
+是因为他想看看自己够不够格
+{\r原文字幕}it's because he's trying to see how he measures up.
+
+683
+00:36:07,240 --> 00:36:09,080
+我能肯定
+{\r原文字幕}And from what I can ascertain,
+
+684
+00:36:10,040 --> 00:36:11,870
+不像我  他很有钱  你也是
+{\r原文字幕}unlike me, he's rich, and so are you.
+
+685
+00:36:14,210 --> 00:36:17,250
+他确实有一家抵押贷款公司
+{\r原文字幕}Well, he owns a mortgage company.
+
+686
+00:36:17,340 --> 00:36:20,300
+但没我的份  我没钱
+{\r原文字幕}Mm. Not me. And I'm not rich.
+
+687
+00:36:21,380 --> 00:36:24,550
+我离婚了  什么都没有了
+{\r原文字幕}I left the marriage and everything in it.
+
+688
+00:36:24,640 --> 00:36:25,390
+你没争财产吗
+{\r原文字幕}You didn't fight for the money?
+
+689
+00:36:25,390 --> 00:36:28,140
+对  完全没有  我什么都不想要
+{\r原文字幕}Yeah. Not a thing, you know. No, I didn't want anything.
+
+690
+00:36:28,680 --> 00:36:32,390
+我只想离婚  我受够欺骗了
+{\r原文字幕}I just wanted out. I was... tired of the lies.
+
+691
+00:36:32,480 --> 00:36:33,850
+我明白
+{\r原文字幕}I get that.
+
+692
+00:36:33,940 --> 00:36:34,940
+我不知道这是为什么
+{\r原文字幕}I don't know why that is,
+
+693
+00:36:35,020 --> 00:36:37,060
+为什么男人很难做到诚实
+{\r原文字幕}why men have so much trouble just being honest.
+
+694
+00:36:37,150 --> 00:36:38,730
+所以你总是说真话吗
+{\r原文字幕}And so you always tell the truth?
+
+695
+00:36:38,820 --> 00:36:41,650
+当然  这有时甚至会给我惹麻烦
+{\r原文字幕}Absolutely, 100%. It-- It gets me in trouble sometimes,
+
+696
+00:36:41,740 --> 00:36:44,860
+因为我总是想什么就说什么
+{\r原文字幕}because I have this thing where I just always say what's on my mind.
+
+697
+00:36:47,490 --> 00:36:48,370
+好吧
+{\r原文字幕}Okay.
+
+698
+00:36:48,450 --> 00:36:51,870
+天啊  已经凌晨两点了
+{\r原文字幕}Oh, my God. It is 2:00 a.M.
+
+699
+00:36:52,870 --> 00:36:56,170
+我明早七点得上班
+{\r原文字幕}I have to be at work at, uh, 7:00.
+
+700
+00:36:56,710 --> 00:36:57,590
+那就这样吧
+{\r原文字幕}Quit.
+
+701
+00:37:00,920 --> 00:37:02,170
+我还能再见你吗
+{\r原文字幕}Am I gonna see you again?
+
+702
+00:37:02,550 --> 00:37:04,430
+你还想再见我吗
+{\r原文字幕}Do you wanna see me again?
+
+703
+00:37:05,510 --> 00:37:07,010
+我不想你现在就离开
+{\r原文字幕}I don't want you to leave now.
+
+704
+00:37:08,430 --> 00:37:09,310
+晚安
+{\r原文字幕}Good night.
+
+705
+00:37:12,350 --> 00:37:14,560
+我甚至不记得我有多久
+{\r原文字幕}I didn't even realize how long it had been
+
+706
+00:37:14,640 --> 00:37:16,480
+没被感动过了
+{\r原文字幕}since I had been touched,
+
+707
+00:37:16,560 --> 00:37:19,110
+多久没有男人向我示好
+{\r原文字幕}since I had a man reach for my hand.
+
+708
+00:37:20,150 --> 00:37:24,900
+我感觉沉寂多年的心又萌动了
+{\r原文字幕}I felt something in me that I hadn't felt in years.
+
+709
+00:37:25,570 --> 00:37:29,280
+我试着去分辨这种感受和情感
+{\r原文字幕}I tried to identify the feeling, the emotions,
+
+710
+00:37:29,370 --> 00:37:31,540
+但我无法集中注意力
+{\r原文字幕}but I couldn't bring it into focus
+
+711
+00:37:31,620 --> 00:37:36,080
+因为它在恐惧中变得温暖起来
+{\r原文字幕}because it was warmed over in fear.
+
+712
+00:37:36,170 --> 00:37:38,460
+我很害怕
+{\r原文字幕}I was so terrified.
+
+713
+00:37:38,540 --> 00:37:40,540
+我头脑中响起了警报
+{\r原文字幕}The alarms going off in my head,
+
+714
+00:37:40,630 --> 00:37:43,130
+我告诉自己  我太老了  没法再谈恋爱
+{\r原文字幕}telling myself that I was too old for this shit.
+
+715
+00:37:43,510 --> 00:37:46,300
+在我脑中我听到他说  他想让我喜欢他
+{\r原文字幕}In my head, I'm hearing that he's leading me on,
+
+716
+00:37:46,510 --> 00:37:47,800
+他是认真的
+{\r原文字幕}that he wanted something.
+
+717
+00:37:48,340 --> 00:37:52,060
+我脑海里一直重复着他说的话
+{\r原文字幕}So I kept repeating to myself what he said.
+
+718
+00:37:52,140 --> 00:37:53,390
+"为什么不是你呢"
+{\r原文字幕}"Why not you?"
+
+719
+00:37:53,470 --> 00:37:55,520
+为什么不是我
+{\r原文字幕}Why not me?
+
+720
+00:37:56,140 --> 00:37:58,350
+我从离婚那天起就一直在祈祷
+{\r原文字幕}Maybe God had answered a seven-year-old prayer
+
+721
+00:37:58,440 --> 00:38:00,560
+也许这是上帝对一个祈祷七年之人的回应
+{\r原文字幕}that I had prayed since my divorce.
+
+722
+00:38:00,650 --> 00:38:02,650
+或许就是他
+{\r原文字幕}Maybe this was him.
+
+723
+00:38:02,730 --> 00:38:05,740
+不知为什么  他甚至比我还了解我自己
+{\r原文字幕}Somehow, he knew me almost better than I did myself.
+
+724
+00:38:06,280 --> 00:38:09,780
+我的脑海里  心里想的都是他
+{\r原文字幕}Ooh, he was in my head and well on his way to my heart,
+
+725
+00:38:10,240 --> 00:38:14,160
+我认识这个男人还不到两天
+{\r原文字幕}and I hadn't even known this man for two days.
+
+726
+00:38:15,790 --> 00:38:17,040
+我知道我很傻
+{\r原文字幕}I know I'm a fool.
+
+727
+00:38:17,870 --> 00:38:20,710
+-你不傻  -那这叫什么
+{\r原文字幕}- You're not a fool. - Then what would you call it?
+
+728
+00:38:21,880 --> 00:38:22,710
+人性
+{\r原文字幕}Human.
+
+729
+00:38:24,130 --> 00:38:25,720
+我不想再谈这个了
+{\r原文字幕}I don't wanna talk about this no more.
+
+730
+00:38:25,800 --> 00:38:28,720
+不行  葛蕾丝  请继续
+{\r原文字幕}No. Grace, please.
+
+731
+00:38:29,140 --> 00:38:30,430
+接着说
+{\r原文字幕}Go on.
+
+732
+00:38:31,760 --> 00:38:32,640
+告诉我
+{\r原文字幕}So, tell me.
+
+733
+00:38:32,720 --> 00:38:34,390
+他是个优雅的绅士
+{\r原文字幕}He was a perfect gentleman.
+
+734
+00:38:34,470 --> 00:38:36,430
+你的梦想是什么
+{\r原文字幕}What do you dream about?
+
+735
+00:38:37,020 --> 00:38:39,560
+梦想常伴随着心痛  所以我没有
+{\r原文字幕}Dreams come with heartaches, so no.
+
+736
+00:38:39,650 --> 00:38:40,520
+不  不  不是
+{\r原文字幕}No, no, no, no.
+
+737
+00:38:40,600 --> 00:38:43,440
+我知道你内心深处还是有梦想的
+{\r原文字幕}I know, somewhere in that big heart of yours, you still dream.
+
+738
+00:38:43,520 --> 00:38:44,440
+说吧
+{\r原文字幕}Come on.
+
+739
+00:38:44,610 --> 00:38:48,070
+我的梦想是做一名好母亲
+{\r原文字幕}Well, my dream was to be a great mother.
+
+740
+00:38:48,740 --> 00:38:51,530
+而且我成功做到了
+{\r原文字幕}And I managed to do that.
+
+741
+00:38:52,370 --> 00:38:54,290
+我有个好儿子
+{\r原文字幕}Ah, I got a great kid.
+
+742
+00:38:55,830 --> 00:38:59,080
+他还得再念两年研究生
+{\r原文字幕}Got about two more years in graduate school.
+
+743
+00:38:59,170 --> 00:39:01,420
+那是我一生中最骄傲的时刻
+{\r原文字幕}One of the proudest moments of my life.
+
+744
+00:39:01,500 --> 00:39:03,290
+好吧
+{\r原文字幕}Okay.
+
+745
+00:39:03,380 --> 00:39:05,380
+一说起你儿子你就很开心
+{\r原文字幕}You beam about him when you talk.
+
+746
+00:39:05,460 --> 00:39:07,970
+哦  那可是我的心头肉
+{\r原文字幕}Oh, that's my heart. Ah.
+
+747
+00:39:08,050 --> 00:39:09,970
+我只是不喜欢她娶的那个贱人
+{\r原文字幕}I just don't like the tramp he's married to.
+
+748
+00:39:10,050 --> 00:39:12,430
+等等  告诉我你真实的感受
+{\r原文字幕}Whoa. T-tell me how you really feel.
+
+749
+00:39:12,510 --> 00:39:15,970
+对不起  上帝  我刚说脏话了
+{\r原文字幕}I know. I'm sorry, God. I don't call women names.
+
+750
+00:39:16,060 --> 00:39:18,480
+你刚刚就说了
+{\r原文字幕}You just did.
+
+751
+00:39:18,560 --> 00:39:19,480
+是啊
+{\r原文字幕}Yeah.
+
+752
+00:39:19,940 --> 00:39:20,850
+只是...
+{\r原文字幕}It's just, he...
+
+753
+00:39:22,310 --> 00:39:24,150
+他应该娶个更好的人
+{\r原文字幕}He deserves better.
+
+754
+00:39:25,110 --> 00:39:27,230
+但我得尊重他的决定
+{\r原文字幕}But I gotta let him be an adult, you know?
+
+755
+00:39:27,320 --> 00:39:28,240
+确实
+{\r原文字幕}That you do.
+
+756
+00:39:28,320 --> 00:39:30,740
+孩子就是孩子  你必须让他们犯错
+{\r原文字幕}Boys will be boys. You have to let them make their mistakes.
+
+757
+00:39:30,820 --> 00:39:32,990
+听起来好像有人犯过一些错
+{\r原文字幕}Spoken like someone who's made a few.
+
+758
+00:39:33,070 --> 00:39:34,740
+何止一些  犯过很多错
+{\r原文字幕}More than a few. A lot.
+
+759
+00:39:36,910 --> 00:39:40,540
+但像你的儿子一样  我也很爱我的母亲
+{\r原文字幕}But, like your son, I adored my mother.
+
+760
+00:39:40,620 --> 00:39:43,500
+你怎么知道他爱我
+{\r原文字幕}How do you know he adores me?
+
+761
+00:39:44,500 --> 00:39:45,840
+他怎么会不爱你
+{\r原文字幕}How could he not?
+
+762
+00:39:47,420 --> 00:39:51,260
+自从她来了  我们就不怎么聊天了
+{\r原文字幕}Well, we don't talk as much... since she came around.
+
+763
+00:39:51,800 --> 00:39:52,930
+这真遗憾
+{\r原文字幕}That's a shame.
+
+764
+00:39:53,930 --> 00:39:55,640
+我以前经常和我母亲聊天
+{\r原文字幕}I used to talk to my mother...
+
+765
+00:39:55,640 --> 00:39:58,020
+每天都聊  有时一天聊三次
+{\r原文字幕}every day, three times a day sometimes.
+
+766
+00:39:58,100 --> 00:40:00,480
+-这太幸福了  -是啊
+{\r原文字幕}-Oh, wow, that's beautiful. - Yeah.
+
+767
+00:40:01,730 --> 00:40:06,440
+我已经连续几个晚上送你回家了
+{\r原文字幕}You know, I've been walking you home several nights in a row now.
+
+768
+00:40:06,520 --> 00:40:08,860
+-对  -这  这很好
+{\r原文字幕}- Yeah. - Yeah, it's been-- it's been nice.
+
+769
+00:40:08,940 --> 00:40:11,110
+但我从来没进过你家
+{\r原文字幕}But I've never seen the inside of the house.
+
+770
+00:40:11,200 --> 00:40:12,570
+我有点好奇是为什么
+{\r原文字幕}I'm just kind of wondering why that is.
+
+771
+00:40:12,660 --> 00:40:14,550
+是因为你家里有个男人吗
+{\r原文字幕}Is it because you got a man in there?
+
+772
+00:40:14,550 --> 00:40:16,370
+这个房子归是你前夫买的吗
+{\r原文字幕}Did your ex-husband buy the house?
+
+773
+00:40:16,490 --> 00:40:18,080
+他正拿了把辛普森那样的刀躲在树丛里吗
+{\r原文字幕}Is he hiding in the bushes with an OJ knife?
+
+10774
+00:40:16,490 --> 00:40:18,080
+{\fn方正兰亭中黑_GBK\fs16\an8}指美国橄榄球明星辛普森杀妻案
+
+775
+00:40:18,160 --> 00:40:20,160
+-等等  -他有辆白色野马牌汽车吗
+{\r原文字幕}- Oh, wait. - Does he own a white Bronco?
+
+776
+00:40:20,250 --> 00:40:21,660
+-别说了  -那是怎么回事
+{\r原文字幕}- Stop. - What's happening?
+
+777
+00:40:21,750 --> 00:40:24,710
+不要说了  你知道我现在单身
+{\r原文字幕}Just stop. Now, you know I don't have nobody,
+
+778
+00:40:24,790 --> 00:40:25,880
+房子里没人
+{\r原文字幕}and ain't nobody in that house.
+
+779
+00:40:25,880 --> 00:40:28,300
+而且房子是我买的  谢谢
+{\r原文字幕}And I bought my own house, thank you.
+
+780
+00:40:28,670 --> 00:40:30,170
+对不起
+{\r原文字幕}Excuse me.
+
+781
+00:40:30,800 --> 00:40:32,970
+你知道这栋房子建于十八世纪吗
+{\r原文字幕}You know this house was built in the 1800s?
+
+782
+00:40:33,050 --> 00:40:35,760
+而且是我自己重新装修的  谢谢
+{\r原文字幕}And I refurbished it all by myself, thank you.
+
+783
+00:40:36,760 --> 00:40:38,890
+里面我费尽了心力装修
+{\r原文字幕}A lot of blood, sweat, and tears in there.
+
+784
+00:40:38,970 --> 00:40:40,060
+但我爱这栋房子
+{\r原文字幕}But I love it.
+
+785
+00:40:41,520 --> 00:40:43,850
+这是我买的第一栋房
+{\r原文字幕}Very first house I ever bought.
+
+786
+00:40:45,190 --> 00:40:46,020
+它很漂亮
+{\r原文字幕}It's beautiful.
+
+787
+00:40:46,110 --> 00:40:47,110
+谢谢
+{\r原文字幕}Thank you.
+
+788
+00:40:47,980 --> 00:40:49,860
+我想进去看看
+{\r原文字幕}I would love to see the inside.
+
+789
+00:40:52,530 --> 00:40:54,740
+你一直以来非常绅士  香农
+{\r原文字幕}You've been a perfect gentleman, Shannon.
+
+790
+00:40:56,950 --> 00:40:58,200
+但是...
+{\r原文字幕}Mmm, but...
+
+791
+00:40:58,910 --> 00:40:59,950
+还是不行吗
+{\r原文字幕}That's still a no?
+
+792
+00:41:01,290 --> 00:41:02,160
+目前还不行
+{\r原文字幕}For now.
+
+793
+00:41:04,620 --> 00:41:05,460
+那行
+{\r原文字幕}Okay.
+
+794
+00:41:07,420 --> 00:41:08,290
+明天见
+{\r原文字幕}Tomorrow, then.
+
+795
+00:41:09,550 --> 00:41:10,880
+-行  -还是老时间吗
+{\r原文字幕}- Okay. - Same time?
+
+796
+00:41:10,960 --> 00:41:11,800
+对
+{\r原文字幕}Mm-hmm.
+
+797
+00:41:11,880 --> 00:41:13,840
+-换个地方  好吗  -好
+{\r原文字幕}- Different place? - Mm-hmm.
+
+798
+00:41:14,180 --> 00:41:15,010
+想吃法国菜吗
+{\r原文字幕}French, maybe?
+
+799
+00:41:16,050 --> 00:41:17,720
+-行啊  -你喜欢法国吗
+{\r原文字幕}- Okay. - You like French?
+
+800
+00:41:18,350 --> 00:41:20,010
+是的
+{\r原文字幕}Oui, oui.
+
+801
+00:41:20,100 --> 00:41:21,100
+幸会
+{\r原文字幕}Enchanté.
+
+802
+00:41:25,440 --> 00:41:26,440
+晚安
+{\r原文字幕}Good night.
+
+803
+00:41:26,520 --> 00:41:27,400
+再见
+{\r原文字幕}Au revoir.
+
+804
+00:41:33,690 --> 00:41:36,910
+在我二十几岁时  我会每晚外出
+{\r原文字幕}Now, when I was in my 20s, I could do that, out every night,
+
+805
+00:41:36,990 --> 00:41:38,990
+但到这个年纪不会了
+{\r原文字幕}but not so at this time in my life.
+
+806
+00:41:39,070 --> 00:41:42,620
+虽然工作很累  但没有关系
+{\r原文字幕}I was so damn tired at work, but it didn't matter.
+
+807
+00:41:42,620 --> 00:41:46,480
+我觉得自己又活了过来  我自由了
+{\r原文字幕}I felt alive again. I felt free.
+
+808
+00:41:47,250 --> 00:41:49,590
+我夜夜笙歌
+{\r原文字幕}I mean, I was burning the midnight oil
+
+809
+00:41:49,670 --> 00:41:51,750
+疲惫不堪
+{\r原文字幕}and the candle at both ends.
+
+810
+00:41:51,840 --> 00:41:53,960
+我会在桌旁睡着
+{\r原文字幕}I was falling asleep at my desk,
+
+811
+00:41:54,050 --> 00:41:56,630
+有时和老板一起开会时也会睡着
+{\r原文字幕}some days, in meetings with my boss.
+
+812
+00:41:56,720 --> 00:41:58,090
+我太疯狂了
+{\r原文字幕}I was so out of my head,
+
+813
+00:41:59,180 --> 00:42:00,220
+但我不在乎
+{\r原文字幕}but I didn't care.
+
+814
+00:42:00,640 --> 00:42:03,350
+在那家银行呆了这么多年  我不在乎
+{\r原文字幕}All those years at that bank, and I didn't even care.
+
+10815
+00:42:01,390 --> 00:42:02,680
+{\fn方正兰亭中黑_GBK\fs10\pos(229,130)\frz54}香农
+新信息
+
+816
+00:42:04,640 --> 00:42:07,810
+我喜欢想起我们在一起的每一刻
+{\r原文字幕}I was loving every moment of being thought about
+
+817
+00:42:07,900 --> 00:42:10,400
+喜欢接到他的电话和短信
+{\r原文字幕}and called and texted.
+
+818
+00:42:10,860 --> 00:42:13,940
+我幸福得像在天堂
+{\r原文字幕}I was just in heaven.
+
+819
+00:42:16,780 --> 00:42:20,240
+♪ 依靠我主耶稣 ♪
+{\r原文字幕}♪ Oh! Ride on Jesus ♪
+
+820
+00:42:20,320 --> 00:42:22,540
+三个月快得就像三天
+{\r原文字幕}Three months came and went like three days,
+
+821
+00:42:22,620 --> 00:42:24,750
+我让他慢慢来
+{\r原文字幕}and... and I had held him off,
+
+822
+00:42:25,120 --> 00:42:29,000
+我知道那个时刻会来临  他在努力
+{\r原文字幕}but I knew the time was comin', and, oh, he was trying.
+
+823
+00:42:29,330 --> 00:42:32,840
+这个男人和我一起去教堂
+{\r原文字幕}I mean, the man was going to church with me,
+
+824
+00:42:32,920 --> 00:42:34,630
+他甚至根本就不信教
+{\r原文字幕}and he wasn't even the type at all.
+
+825
+00:42:34,710 --> 00:42:38,340
+他不喜欢教堂活动
+{\r原文字幕}He was not into the church scene.
+
+826
+00:42:38,430 --> 00:42:43,010
+尽管他不信教  但这仍然很神奇
+{\r原文字幕}Despite him not being into the church, it was still magical.
+
+827
+00:42:43,640 --> 00:42:45,350
+我们有很多共同点
+{\r原文字幕}We had so much in common.
+
+828
+00:42:45,430 --> 00:42:47,850
+我说一句  他就能接下一句
+{\r原文字幕}I could start a sentence, and he would finish it.
+
+829
+00:42:47,940 --> 00:42:49,190
+这太不真实了
+{\r原文字幕}It was just unreal.
+
+830
+00:42:49,270 --> 00:42:51,730
+他就是我的灵魂伴侣
+{\r原文字幕}He was really my soulmate.
+
+831
+00:42:51,810 --> 00:42:55,230
+我找到了我一直寻找的人  这感觉很棒
+{\r原文字幕}I had found what I was looking for, and it felt so good.
+
+832
+00:42:57,190 --> 00:43:01,030
+越来越难坚持住  不让他靠近
+{\r原文字幕}It was becoming harder and harder to hold out and keep him at bay.
+
+833
+00:43:01,990 --> 00:43:04,990
+我在沉沦  弥足深陷
+{\r原文字幕}I was falling, and falling hard.
+
+834
+00:43:05,700 --> 00:43:07,790
+我们会打电话聊一整夜
+{\r原文字幕}We'd talk on the phone until the sun came up.
+
+835
+00:43:08,370 --> 00:43:10,750
+有几次甚至聊睡着了
+{\r原文字幕}We even fell asleep on the phone a few times.
+
+836
+00:43:10,830 --> 00:43:14,090
+我都快不认识我自己了
+{\r原文字幕}I didn't even recognize this new person that I had become,
+
+837
+00:43:14,340 --> 00:43:17,880
+当我试着让自己慢下来时
+{\r原文字幕}and when I would tell myself to slow down, slow down,
+
+838
+00:43:17,970 --> 00:43:19,680
+萨拉就在我身旁
+{\r原文字幕}Sarah was right there.
+
+839
+00:43:19,760 --> 00:43:22,550
+-都怪你  -不 不是
+{\r原文字幕}- It's your fault. - No, no, no, no, no.
+
+840
+00:43:22,720 --> 00:43:24,680
+我从没见你这么高兴过
+{\r原文字幕}Oh, I have never seen you this happy.
+
+841
+00:43:26,470 --> 00:43:28,730
+是的  我很高兴
+{\r原文字幕}Oh, girl, I am. I am.
+
+842
+00:43:29,730 --> 00:43:33,360
+那时  我非常快乐
+{\r原文字幕}And I was. I was so happy.
+
+843
+00:43:34,150 --> 00:43:35,770
+-我好怕  -你相信我吗
+{\r原文字幕}- I'm scared. - Do you trust me?
+
+844
+00:43:35,860 --> 00:43:38,690
+我愿意为他做任何事
+{\r原文字幕}I was just about willing to do anything for him.
+
+845
+00:43:38,780 --> 00:43:41,860
+-你相信我吗  -相信
+{\r原文字幕}- Do you trust me? - Yes.
+
+846
+00:43:42,280 --> 00:43:44,870
+-是什么  亲爱的  -转过来
+{\r原文字幕}- Yeah. What is this, baby? What is it? - Turn around.
+
+847
+00:43:44,950 --> 00:43:46,370
+等一下  不
+{\r原文字幕}Ooh, wait, wait, no no, no.
+
+848
+00:43:46,450 --> 00:43:48,160
+我感觉到有很高的草丛什么的
+{\r原文字幕}No, I feel, like, high grass or something.
+
+849
+00:43:48,160 --> 00:43:50,540
+我可不想被蛇咬  香农
+{\r原文字幕}I don't wanna be bit by no snake, Shannon.
+
+850
+00:43:50,620 --> 00:43:52,000
+好的  听着
+{\r原文字幕}Okay, okay, okay, listen.
+
+851
+00:43:52,080 --> 00:43:53,250
+-我们之前说过的  -好的
+{\r原文字幕}- We talked about this. - Yes.
+
+852
+00:43:53,960 --> 00:43:55,540
+-是的  -你太喜欢评头论足
+{\r原文字幕}- Yeah. - You're judging too much.
+
+853
+00:43:55,630 --> 00:43:58,010
+-好的  好的  -去感受  好吗
+{\r原文字幕}- Okay, okay, okay. - Just feel, okay? Just feel.
+
+854
+00:43:58,300 --> 00:43:59,380
+行  好吧
+{\r原文字幕}All right, okay.
+
+855
+00:43:59,470 --> 00:44:01,180
+这是什么  亲爱的  这是什么
+{\r原文字幕}What is this, baby? What is this?
+
+856
+00:44:01,260 --> 00:44:03,140
+-我眼睛闭上了  -转一圈  转一圈
+{\r原文字幕}- My eyes closed... - Spin around, spin around.
+
+857
+00:44:03,220 --> 00:44:04,300
+-我要闭上眼睛吗  -对
+{\r原文字幕}- My eyes closed? - Yes.
+
+858
+00:44:04,390 --> 00:44:06,180
+-闭上眼睛  转圈  -好吧  好的
+{\r原文字幕}- Eyes closed, spin around. - Okay, okay, okay.
+
+859
+00:44:07,220 --> 00:44:09,100
+好了  睁开眼睛  睁开眼睛
+{\r原文字幕}Okay, open, open.
+
+860
+00:44:13,060 --> 00:44:15,610
+香农  这真漂亮
+{\r原文字幕}Oh, Shannon, that's beautiful.
+
+861
+00:44:16,900 --> 00:44:19,280
+亲爱的  这太美了
+{\r原文字幕}Oh, baby, those are beautiful.
+
+862
+00:44:20,440 --> 00:44:22,950
+天啊
+{\r原文字幕}Oh, my God.
+
+863
+00:44:23,030 --> 00:44:24,910
+快看它们  快看
+{\r原文字幕}Look at 'em, look at 'em!
+
+864
+00:44:28,240 --> 00:44:31,290
+我想找个罐子  你可以把它们抓了装进去
+{\r原文字幕}I need a jar. And you can catch 'em and put 'em inside...
+
+865
+00:44:31,620 --> 00:44:32,670
+你在干什么
+{\r原文字幕}What are you doin'?
+
+866
+00:44:32,750 --> 00:44:34,960
+-葛蕾丝·沃特斯  -你在干什么
+{\r原文字幕}- Grace Waters... - What are you doin'?
+
+867
+00:44:35,210 --> 00:44:36,290
+你愿意嫁给我吗
+{\r原文字幕}...will you marry me?
+
+868
+00:44:38,420 --> 00:44:39,630
+-愿意  -你同意了吗
+{\r原文字幕}- Yes. - Is that a yes?
+
+869
+00:44:39,710 --> 00:44:41,720
+快点  把戒指给我
+{\r原文字幕}So, come on, give it to me.
+
+870
+00:44:46,510 --> 00:44:48,810
+我想都没想就答应了
+{\r原文字幕}I said yes before I knew it.
+
+871
+00:44:52,140 --> 00:44:54,480
+不知为何  我对他无法抗拒
+{\r原文字幕}I couldn't resist him for some reason.
+
+872
+00:44:55,230 --> 00:44:56,900
+他活力四射
+{\r原文字幕}He was electric...
+
+873
+00:44:59,360 --> 00:45:03,070
+总是让我感觉很好
+{\r原文字幕}...and so good at making me feel good.
+
+874
+00:45:03,650 --> 00:45:04,740
+这太不可思议了
+{\r原文字幕}It was incredible.
+
+875
+00:45:04,820 --> 00:45:05,910
+你为什么要拍照片
+{\r原文字幕}Why are you takin' pictures?
+
+876
+00:45:05,990 --> 00:45:09,870
+-往这边挪一点  -我度了大半生
+{\r原文字幕}- Move this way... - Most of my entire life lived,
+
+877
+00:45:09,950 --> 00:45:11,250
+终于遇到他
+{\r原文字幕}and here I was.
+
+878
+00:45:12,330 --> 00:45:15,370
+维多利亚的秘密
+{\r原文字幕}Victoria's Secret.
+
+879
+00:45:17,040 --> 00:45:18,960
+我以为我已经不会再爱了
+{\r原文字幕}I thought love was over for me.
+
+880
+00:45:18,960 --> 00:45:19,960
+我真的这样以为
+{\r原文字幕}I really did.
+
+881
+00:45:20,420 --> 00:45:22,880
+那是我一生中最快乐的时光
+{\r原文字幕}Those were the happiest days of my life.
+
+882
+00:45:24,170 --> 00:45:25,010
+直到
+{\r原文字幕}Until...
+
+883
+00:45:26,180 --> 00:45:28,100
+拜托  告诉我还发生了什么
+{\r原文字幕}Please, tell me what else happened.
+
+884
+00:45:32,640 --> 00:45:34,180
+你认识丹妮尔·米切尔吧
+{\r原文字幕}You know Danielle Mitchell.
+
+885
+00:45:36,230 --> 00:45:37,440
+她死在了这里
+{\r原文字幕}She died here.
+
+886
+00:45:39,860 --> 00:45:41,190
+她曾是你的客户
+{\r原文字幕}She was your client.
+
+887
+00:45:43,940 --> 00:45:46,490
+我知道关于你的一些事  茉莉
+{\r原文字幕}Now, I know a little something about you, Jasmine.
+
+888
+00:45:47,740 --> 00:45:49,320
+你从未辩护过
+{\r原文字幕}You've never tried a case.
+
+889
+00:45:50,990 --> 00:45:53,450
+当他们看到你进来时  都说
+{\r原文字幕}And word around here, when they saw you come in...
+
+890
+00:45:55,000 --> 00:45:57,500
+他们派了个公设辩护人办公室里
+{\r原文字幕}was that they had sent me the worst of the worst
+
+891
+00:45:58,080 --> 00:46:00,000
+最烂的人给我
+{\r原文字幕}of the public defender's office.
+
+892
+00:46:03,710 --> 00:46:05,300
+你赢不了
+{\r原文字幕}You don't win.
+
+893
+00:46:06,260 --> 00:46:07,380
+你只会认罪
+{\r原文字幕}You plead.
+
+894
+00:46:08,890 --> 00:46:10,470
+你就会干这个
+{\r原文字幕}That's what you do,
+
+895
+00:46:11,100 --> 00:46:13,310
+对我来说  也没问题
+{\r原文字幕}which was, uh, fine with me.
+
+896
+00:46:15,850 --> 00:46:17,600
+现在  把笔给我
+{\r原文字幕}Now give me the damn pen.
+
+897
+00:46:26,450 --> 00:46:29,620
+-什么  她这么说的  -对  但她没错
+{\r原文字幕}- What, she said all that? - Yeah, but she's right.
+
+898
+00:46:29,700 --> 00:46:33,240
+我在做什么  我拿到了签字的认罪协议
+{\r原文字幕}I mean, what am I doing? I have the signed plea agreement.
+
+899
+00:46:33,330 --> 00:46:35,910
+我要把它送到地方检察官办公室去
+{\r原文字幕}I'm just gonna take it to the DA's office, you know?
+
+900
+00:46:36,660 --> 00:46:40,210
+我只想结束这一切
+{\r原文字幕}I just want to be done with all this.
+
+901
+00:46:41,040 --> 00:46:42,840
+我只想搬到布鲁克海文
+{\r原文字幕}I just want to move to Brookhaven,
+
+902
+00:46:42,920 --> 00:46:46,590
+生一堆孩子  靠你养家糊口
+{\r原文字幕}have a bunch of babies, and have you support the family.
+
+903
+00:46:46,670 --> 00:46:47,510
+-好的  没问题  -说真的
+{\r原文字幕}- Yeah, okay. - Come on.
+
+904
+00:46:47,590 --> 00:46:49,550
+不  你只可能这样两周
+{\r原文字幕}No, that'll last maybe two weeks.
+
+905
+00:46:50,260 --> 00:46:52,640
+-一周  -对  可能是一周
+{\r原文字幕}- One. One. Yeah, probably. Probably one.
+
+906
+00:46:55,850 --> 00:46:58,480
+我知道这案子还有很多隐情  亲爱的
+{\r原文字幕}I just know there's so much more to this story, baby.
+
+907
+00:46:59,230 --> 00:47:00,690
+我知道有隐情
+{\r原文字幕}I just know there is.
+
+908
+00:47:02,310 --> 00:47:04,440
+-肯定有  -好的
+{\r原文字幕}- There is. - Okay. Well...
+
+909
+00:47:04,940 --> 00:47:05,990
+她已经告诉了你那么多
+{\r原文字幕}She told you that much,
+
+910
+00:47:05,990 --> 00:47:07,950
+不妨让她再告诉你故事的其余部分
+{\r原文字幕}just get her to tell you the rest of the story.
+
+911
+00:47:09,450 --> 00:47:11,530
+不  我不管了
+{\r原文字幕}No. I'm done.
+
+912
+00:47:13,200 --> 00:47:14,030
+我不管了
+{\r原文字幕}I'm done.
+
+913
+00:47:18,160 --> 00:47:19,000
+不  你还得管
+{\r原文字幕}No, you're not.
+
+914
+00:47:20,000 --> 00:47:21,420
+认罪协议办完了吗
+{\r原文字幕}Is the plea deal done?
+
+915
+00:47:21,920 --> 00:47:23,210
+在这一点上
+{\r原文字幕}At this point...
+
+916
+00:47:24,840 --> 00:47:27,590
+如果你想在这里度过余生
+{\r原文字幕}if you wanna be in here for the rest of your life,
+
+917
+00:47:27,670 --> 00:47:28,970
+那就这样吧
+{\r原文字幕}so be it.
+
+918
+00:47:29,630 --> 00:47:31,050
+我手上有你签署的协议
+{\r原文字幕}I have your signed agreement.
+
+919
+00:47:31,050 --> 00:47:33,010
+现在只是等着把它交给地方检察官
+{\r原文字幕}I'm just waiting to take it to the DA.
+
+920
+00:47:33,100 --> 00:47:35,510
+你说的对  我没有赢过任何官司
+{\r原文字幕}And you're right about me not winning any cases,
+
+921
+00:47:36,350 --> 00:47:39,270
+或者根本就没有努力尝试过
+{\r原文字幕}or not even trying one for that matter, but...
+
+922
+00:47:40,940 --> 00:47:43,360
+但我经手的大多是轻罪案
+{\r原文字幕}most of my cases were simple misdemeanors
+
+923
+00:47:44,190 --> 00:47:46,070
+少数几个重罪案我是让其认罪了
+{\r原文字幕}or a few felonies that I pled out.
+
+924
+00:47:46,860 --> 00:47:49,280
+但  葛蕾丝  我从没遇到过像你这样的人
+{\r原文字幕}But, Grace, I've never met anyone like you.
+
+925
+00:47:49,570 --> 00:47:51,070
+我从没遇到过一个
+{\r原文字幕}I never met anyone
+
+926
+00:47:51,570 --> 00:47:53,370
+让我从内心深处感觉到
+{\r原文字幕}that I felt, in my heart,
+
+927
+00:47:54,030 --> 00:47:55,160
+她是无辜的人
+{\r原文字幕}was innocent,
+
+928
+00:47:55,580 --> 00:47:57,790
+即使你告诉我你有罪
+{\r原文字幕}even though you're telling me you're guilty.
+
+929
+00:47:59,580 --> 00:48:02,370
+你知道吗  葛蕾丝  我不知道该怎么帮你
+{\r原文字幕}You know, Grace, I don't know how I can help you.
+
+930
+00:48:02,460 --> 00:48:04,920
+但如果你告诉我发生了什么
+{\r原文字幕}But if you tell me what happened...
+
+931
+00:48:06,670 --> 00:48:08,920
+我保证我会试着帮你的
+{\r原文字幕}I promise you I will try.
+
+932
+00:48:10,550 --> 00:48:12,630
+葛蕾丝  请告诉我还发生了什么事
+{\r原文字幕}Grace, please tell me what else happened.
+
+933
+00:48:15,720 --> 00:48:18,310
+你上次讲到他向你求婚了
+{\r原文字幕}You stopped at him asking you to marry him.
+
+934
+00:48:20,810 --> 00:48:22,140
+我们结婚了
+{\r原文字幕}We got married.
+
+935
+00:48:23,270 --> 00:48:24,810
+那就像一阵旋风
+{\r原文字幕}And it was a whirlwind.
+
+936
+00:48:28,480 --> 00:48:31,400
+是我一生中最快乐的时光
+{\r原文字幕}It was the happiest time of my life.
+
+937
+00:48:31,490 --> 00:48:33,990
+我恋爱了
+{\r原文字幕}I was in love.
+
+938
+00:48:34,820 --> 00:48:38,790
+他就是我理想中的那个男人
+{\r原文字幕}He was everything I imagined and wanted in a man.
+
+939
+00:48:39,330 --> 00:48:42,540
+他说话的方式  抚摸我的方式
+{\r原文字幕}The way he spoke, the way he touched me,
+
+940
+00:48:42,620 --> 00:48:44,670
+和我做爱的方式
+{\r原文字幕}and the way he made love to me.
+
+941
+00:48:45,460 --> 00:48:47,540
+当他抱着我时  我感到非常安全
+{\r原文字幕}When he held me, I felt so safe.
+
+942
+00:48:47,630 --> 00:48:49,590
+我心想  "这怎么可能
+{\r原文字幕}I thought, "How is this possible?
+
+943
+00:48:49,670 --> 00:48:51,670
+每个人都应该如此快乐才对"
+{\r原文字幕}Everyone should be this happy."
+
+944
+00:48:51,760 --> 00:48:53,050
+小女孩
+{\r原文字幕}Baby girl.
+
+945
+00:48:53,130 --> 00:48:55,090
+他很棒
+{\r原文字幕}He was wonderful.
+
+946
+00:48:56,350 --> 00:48:57,890
+我的梦中情人
+{\r原文字幕}The man of my dreams.
+
+947
+00:48:58,350 --> 00:49:00,180
+-来吧  -你做了什么
+{\r原文字幕}- Come on. - What have you done?
+
+948
+00:49:00,270 --> 00:49:01,480
+你知道我做了什么
+{\r原文字幕}Ah, you know what I've done.
+
+949
+00:49:01,560 --> 00:49:03,560
+等等  让我坐起来
+{\r原文字幕}Wait, wait, wait, let me sit up.
+
+950
+00:49:03,850 --> 00:49:05,520
+他曾对我那么好
+{\r原文字幕}He was so nice to me.
+
+951
+00:49:07,690 --> 00:49:08,900
+那么体贴
+{\r原文字幕}So sweet.
+
+952
+00:49:08,980 --> 00:49:10,320
+-不客气  -谢谢你
+{\r原文字幕}- You're welcome. - Thank you.
+
+953
+00:49:10,400 --> 00:49:12,530
+那么和善
+{\r原文字幕}So kind.
+
+954
+00:49:12,990 --> 00:49:15,860
+我枯燥机械的生活
+{\r原文字幕}My life went from black-and-white and routine...
+
+955
+00:49:15,950 --> 00:49:18,370
+变得无比幸福
+{\r原文字幕}...to happy and over-the-top.
+
+956
+00:49:18,450 --> 00:49:19,410
+你好
+{\r原文字幕}Hey.
+
+957
+00:49:21,370 --> 00:49:22,450
+等等  亲爱的
+{\r原文字幕}Hold on, hon.
+
+958
+00:49:23,210 --> 00:49:25,500
+我听说你喜欢红色
+{\r原文字幕}I heard you like red.
+
+959
+00:49:25,580 --> 00:49:27,540
+-是的  而且我喜欢玫瑰  -这是送你的
+{\r原文字幕}- Yes, I do, and I love roses. - Those are for you.
+
+960
+00:49:27,630 --> 00:49:30,420
+这个  是给我的
+{\r原文字幕}And... this is for me.
+
+961
+00:49:30,500 --> 00:49:31,340
+不是吧
+{\r原文字幕}Oh, no.
+
+962
+00:49:31,590 --> 00:49:32,510
+-是的  -不要
+{\r原文字幕}- Oh, yes. - No.
+
+963
+00:49:32,590 --> 00:49:33,470
+是的
+{\r原文字幕}Oh, yes.
+
+964
+00:49:33,760 --> 00:49:36,090
+但这就像看魔术表演一样
+{\r原文字幕}But like watching a magic show,
+
+965
+00:49:36,180 --> 00:49:38,600
+我是如此盲目地深陷爱河
+{\r原文字幕}I was so in love and so blinded
+
+966
+00:49:38,680 --> 00:49:40,510
+眼里只有他想让我看到的东西
+{\r原文字幕}by what he was showing me in his hands
+
+967
+00:49:40,600 --> 00:49:44,060
+我从没想过他背后藏着什么
+{\r原文字幕}that I never looked at what he was hiding behind his back.
+
+968
+00:49:44,140 --> 00:49:45,810
+好了  好了  不要拍了
+{\r原文字幕}Okay, okay. Stop.
+
+969
+00:49:47,940 --> 00:49:49,480
+这些花很漂亮
+{\r原文字幕}These are beautiful.
+
+970
+00:49:50,070 --> 00:49:50,900
+你也是
+{\r原文字幕}So are you.
+
+971
+00:49:50,980 --> 00:49:53,360
+谢谢你
+{\r原文字幕}Thank you.
+
+972
+00:49:54,650 --> 00:49:56,530
+但因为那些快乐时光
+{\r原文字幕}But for all those happy days,
+
+973
+00:49:56,740 --> 00:49:59,030
+我坠入了无边的地狱
+{\r原文字幕}I was in for twice as much hell.
+
+974
+00:50:00,330 --> 00:50:04,960
+所有的一切迅速崩塌  和开始时一样快
+{\r原文字幕}And it all started to fall apart as quickly as it began.
+
+975
+00:50:24,220 --> 00:50:25,060
+不
+{\r原文字幕}No.
+
+976
+00:50:26,810 --> 00:50:27,770
+还没有
+{\r原文字幕}Not yet.
+
+977
+00:50:28,690 --> 00:50:30,360
+你喜欢那些萤火虫吗
+{\r原文字幕}Did you enjoy the fireflies?
+
+978
+00:50:31,310 --> 00:50:34,190
+-你在和谁通话  -我也等不及想见你
+{\r原文字幕}- Who are you talking to? - No, I can't wait to see you, too.
+
+979
+00:50:37,030 --> 00:50:38,660
+好  我明天再打给你
+{\r原文字幕}Yeah, I'll call you tomorrow.
+
+980
+00:50:39,990 --> 00:50:42,120
+再见
+{\r原文字幕}Bye.
+
+981
+00:50:45,410 --> 00:50:46,620
+你在和谁打电话
+{\r原文字幕}Who were you talking to?
+
+982
+00:50:53,380 --> 00:50:54,250
+葛蕾丝
+{\r原文字幕}Grace.
+
+983
+00:50:55,090 --> 00:50:55,920
+怎么了
+{\r原文字幕}Yeah?
+
+984
+00:51:02,100 --> 00:51:03,720
+有两件事我很讨厌
+{\r原文字幕}There's two things I don't like.
+
+985
+00:51:06,140 --> 00:51:06,980
+说吧
+{\r原文字幕}Okay.
+
+986
+00:51:08,440 --> 00:51:10,060
+一个是被查岗
+{\r原文字幕}One is being checked up on...
+
+987
+00:51:14,440 --> 00:51:16,150
+另一个是被怀疑
+{\r原文字幕}and the other's being questioned.
+
+988
+00:51:20,030 --> 00:51:20,950
+好吧
+{\r原文字幕}Okay.
+
+989
+00:51:23,530 --> 00:51:26,120
+我只是  想你了
+{\r原文字幕}I just... I just missed you.
+
+990
+00:51:32,710 --> 00:51:33,750
+我也很想你
+{\r原文字幕}I miss you, too.
+
+991
+00:51:50,810 --> 00:51:53,900
+他为什么非要到楼下打电话
+{\r原文字幕}Why did he have to go downstairs to have the conversation?
+
+992
+00:51:54,440 --> 00:51:56,230
+然后他变得处处提防
+{\r原文字幕}And then he got so defensive.
+
+993
+00:51:56,610 --> 00:51:59,570
+男人有时候就这样  可能没什么
+{\r原文字幕}That's just men sometimes. It's probably nothing.
+
+994
+00:52:00,200 --> 00:52:02,110
+或者  可能他有外遇了
+{\r原文字幕}Or it could be another woman.
+
+995
+00:52:02,200 --> 00:52:03,490
+你知道吗  萨拉
+{\r原文字幕}You know what, Sarah?
+
+996
+00:52:05,030 --> 00:52:06,830
+这一切发生得太快了
+{\r原文字幕}This all happened so fast.
+
+997
+00:52:06,910 --> 00:52:09,620
+好了  葛蕾丝  别小题大做
+{\r原文字幕}Okay, Grace, don't go making a mountain out of a molehill.
+
+998
+00:52:09,700 --> 00:52:12,580
+好吗  可能真没什么
+{\r原文字幕}Okay? It's probably nothing.
+
+999
+00:52:13,170 --> 00:52:14,040
+沃特斯女士
+{\r原文字幕}Miss Waters?
+
+1000
+00:52:14,130 --> 00:52:15,840
+等等  怎么了
+{\r原文字幕}Hold on. Yes?
+
+1001
+00:52:15,920 --> 00:52:17,480
+克莱德先生在会议室
+{\r原文字幕}Mr. Clyde would like to see you
+
+1002
+00:52:17,480 --> 00:52:18,800
+他想马上见您
+{\r原文字幕}in the conference room right away, please.
+
+1003
+00:52:19,380 --> 00:52:21,090
+好的  谢谢
+{\r原文字幕}Okay. Thank you.
+
+1004
+00:52:22,340 --> 00:52:24,140
+萨拉  我得挂了
+{\r原文字幕}Hey, Sarah, I gotta go.
+
+1005
+00:52:24,140 --> 00:52:25,470
+为什么要挂  亲爱的
+{\r原文字幕}Why you gotta go, baby?
+
+1006
+00:52:25,550 --> 00:52:28,180
+-我老板想见我  -知道了
+{\r原文字幕}- My boss wants to see me. - Oh.
+
+1007
+00:52:28,270 --> 00:52:30,100
+好吧  待会儿再跟你说
+{\r原文字幕}Okay, talk to you later.
+
+1008
+00:52:34,150 --> 00:52:35,440
+我还觉得奇怪
+{\r原文字幕}I thought it was strange
+
+1009
+00:52:35,440 --> 00:52:37,110
+为什么我老板和公司的管理层
+{\r原文字幕}that my boss and all the corporate officers
+
+1010
+00:52:37,110 --> 00:52:39,030
+想在中午的时候见我
+{\r原文字幕}wanted to see me in the middle of the day.
+
+1011
+00:52:39,110 --> 00:52:42,400
+我对他将宣布的重大消息一无所知
+{\r原文字幕}I had no idea of the bombshell he would drop.
+
+1012
+00:52:42,490 --> 00:52:44,160
+克莱德先生  您想见我吗
+{\r原文字幕}Mr. Clyde, you wanted to see me?
+
+1013
+00:52:45,950 --> 00:52:48,620
+我们对你的部门做了内部审计
+{\r原文字幕}We just completed an internal audit of your department.
+
+1014
+00:52:48,700 --> 00:52:52,750
+你的账上少了37.9万美元
+{\r原文字幕}$379,000 is missing from your accounts.
+
+1015
+00:52:52,830 --> 00:52:54,460
+一定是哪里搞错了
+{\r原文字幕}Well, there has to be some mistake.
+
+1016
+00:52:54,540 --> 00:52:58,170
+是用你的公司账号和密码登录的
+{\r原文字幕}It was signed for with your company ID, your password,
+
+1017
+00:52:58,250 --> 00:53:00,630
+你电脑的地址  你的笔记本电脑
+{\r原文字幕}your computer's IP, your laptop,
+
+1018
+00:53:00,710 --> 00:53:02,630
+你的名字  你的密码
+{\r原文字幕}your name, your codes.
+
+1019
+00:53:03,090 --> 00:53:05,140
+你怎么回事  葛蕾丝
+{\r原文字幕}What is wrong with you, Grace?
+
+1020
+00:53:06,140 --> 00:53:07,720
+你以为我们会注意不到
+{\r原文字幕}You thought that we wouldn't notice
+
+1021
+00:53:07,720 --> 00:53:09,510
+那笔钱被划走了吗
+{\r原文字幕}that kind of money being moved?
+
+1022
+00:53:09,600 --> 00:53:11,430
+不  克莱德先生  我  我从没
+{\r原文字幕}No, Mr. Clyde, I-I never
+
+1023
+00:53:11,430 --> 00:53:11,850
+你被解雇了
+{\r原文字幕}You're fired!
+
+1024
+00:53:12,560 --> 00:53:13,560
+你被解雇了
+{\r原文字幕}You're fired.
+
+1025
+00:53:13,640 --> 00:53:16,060
+我找不到话来为自己辩解
+{\r原文字幕}I couldn't find words to defend myself.
+
+1026
+00:53:16,150 --> 00:53:18,690
+把那笔钱还回来  否则你就去坐牢
+{\r原文字幕}I want that money, or you're going to jail.
+
+1027
+00:53:18,770 --> 00:53:21,990
+在我叫保安赶你出去之前  你自己走吧
+{\r原文字幕}Now please leave before I have security escort you out.
+
+1028
+00:53:22,070 --> 00:53:25,570
+我太震惊了  他竟然那样对待我
+{\r原文字幕}I was just so shocked that he would treat me like that.
+
+1029
+00:53:25,660 --> 00:53:26,820
+他们了解我的
+{\r原文字幕}They knew me!
+
+1030
+00:53:27,320 --> 00:53:28,700
+我真不敢相信
+{\r原文字幕}I couldn't believe this.
+
+1031
+00:53:28,780 --> 00:53:31,950
+我为这家公司工作了多年
+{\r原文字幕}I had worked for this company for years.
+
+1032
+00:53:32,040 --> 00:53:34,120
+它也帮助我过上了好日子
+{\r原文字幕}It had helped me have a good life,
+
+1033
+00:53:34,210 --> 00:53:37,130
+现在他们却因为我没做过的事开除我
+{\r原文字幕}and they were throwing me out for something I didn't do.
+
+1034
+00:53:38,250 --> 00:53:39,750
+那是一些我永远不会做的事
+{\r原文字幕}Something I would never do.
+
+1035
+00:53:40,710 --> 00:53:42,050
+这太可怕了
+{\r原文字幕}It was horrible.
+
+1036
+00:53:42,840 --> 00:53:44,630
+我感到很恶心
+{\r原文字幕}I felt sick to my stomach.
+
+1037
+00:53:45,220 --> 00:53:48,090
+但我不知道  这还不是最糟的
+{\r原文字幕}But little did I know the worst was yet to come.
+
+1038
+00:53:50,510 --> 00:53:51,930
+-他不接电话吗  -不接
+{\r原文字幕}- He's not answering? - No.
+
+1039
+00:53:52,890 --> 00:53:55,890
+他可能和昨晚跟他通话的那个人在一起
+{\r原文字幕}He's probably with whoever the hell he was talking to on the phone.
+
+1040
+00:53:57,230 --> 00:53:58,310
+我真不敢相信
+{\r原文字幕}I can't believe this.
+
+1041
+00:53:58,810 --> 00:53:59,940
+我们刚结婚
+{\r原文字幕}We just got married,
+
+1042
+00:54:00,020 --> 00:54:01,860
+他就可能出轨了  而我却傻坐在这里
+{\r原文字幕}and he probably with some other woman, and I'm sitting up here,
+
+1043
+00:54:01,940 --> 00:54:03,820
+想搞明白怎么处理这个烂摊子
+{\r原文字幕}trying to figure out what to do about this mess!
+
+1044
+00:54:03,900 --> 00:54:05,360
+葛蕾丝  快过来
+{\r原文字幕}Grace, Grace, come on now.
+
+1045
+00:54:05,450 --> 00:54:07,990
+冷静点  告诉我你觉得是怎么回事
+{\r原文字幕}Calm down, and tell me how you think this happened.
+
+1046
+00:54:08,070 --> 00:54:09,410
+我不知道  萨拉
+{\r原文字幕}I don't know, Sarah.
+
+1047
+00:54:10,700 --> 00:54:11,620
+我不知道
+{\r原文字幕}I don't know.
+
+1048
+00:54:13,040 --> 00:54:14,370
+我是说
+{\r原文字幕}I mean,
+
+1049
+00:54:14,450 --> 00:54:15,910
+也许有人试图
+{\r原文字幕}maybe somebody's trying--
+
+1050
+00:54:16,920 --> 00:54:19,750
+有人偷了我的账号  我不知道
+{\r原文字幕}Somebody stole my identity. I don't know.
+
+1051
+00:54:22,670 --> 00:54:23,710
+你好
+{\r原文字幕}Hey.
+
+1052
+00:54:24,420 --> 00:54:25,420
+你去哪里了
+{\r原文字幕}Where you been?
+
+1053
+00:54:25,510 --> 00:54:27,930
+-我给你打了好几个小时电话  -是吗
+{\r原文字幕}- I've been calling you for hours. - Have you?
+
+1054
+00:54:28,470 --> 00:54:29,340
+对
+{\r原文字幕}Yeah.
+
+1055
+00:54:30,430 --> 00:54:32,390
+-我在  -和你的新欢在一起吗
+{\r原文字幕}-I was, uh... - With your new woman?
+
+1056
+00:54:34,850 --> 00:54:37,020
+你也带她去看了  带我去看过的萤火虫吗
+{\r原文字幕}You take her to the fireflies like you did me?
+
+1057
+00:54:41,060 --> 00:54:43,480
+萨拉  你能回避一下吗  拜托
+{\r原文字幕}Sarah, would you excuse us for a second, please?
+
+1058
+00:54:45,610 --> 00:54:47,280
+不  我哪里也不去
+{\r原文字幕}No, I'm not going anywhere.
+
+1059
+00:54:48,280 --> 00:54:49,860
+我想和我妻子谈谈
+{\r原文字幕}I'd like to talk to my wife.
+
+1060
+00:54:51,950 --> 00:54:53,870
+我哪里也不去
+{\r原文字幕}I'm not going anywhere.
+
+1061
+00:54:56,750 --> 00:54:57,910
+所以  这就是你想做的
+{\r原文字幕}So, this is what you wanna do?
+
+1062
+00:54:58,000 --> 00:55:00,170
+你想在你朋友面前跟我吵架吗
+{\r原文字幕}You wanna talk to me like this in front of your friend?
+
+1063
+00:55:01,130 --> 00:55:02,670
+她的朋友
+{\r原文字幕}Her friend.
+
+1064
+00:55:03,500 --> 00:55:05,010
+谢谢你还记得这点
+{\r原文字幕}And you remember that.
+
+1065
+00:55:05,090 --> 00:55:06,720
+没关系  萨拉
+{\r原文字幕}It's all right, Sarah.
+
+1066
+00:55:07,300 --> 00:55:08,340
+你确定吗
+{\r原文字幕}You sure?
+
+1067
+00:55:08,430 --> 00:55:09,550
+是的
+{\r原文字幕}Yeah.
+
+1068
+00:55:10,340 --> 00:55:11,180
+回去吧
+{\r原文字幕}Go on.
+
+1069
+00:55:12,430 --> 00:55:13,310
+好吧
+{\r原文字幕}All right.
+
+1070
+00:55:15,390 --> 00:55:17,100
+-有事叫我  -会的
+{\r原文字幕}- You call me. - Yeah.
+
+1071
+00:55:22,440 --> 00:55:23,570
+她是谁
+{\r原文字幕}So, who is she?
+
+1072
+00:55:23,980 --> 00:55:24,820
+你说的是谁
+{\r原文字幕}Who is who?
+
+1073
+00:55:25,280 --> 00:55:26,230
+那个女人
+{\r原文字幕}The woman.
+
+1074
+00:55:26,690 --> 00:55:27,820
+你去见她了吗
+{\r原文字幕}Did you take her?
+
+1075
+00:55:28,320 --> 00:55:30,030
+因为我听见你给她打电话了
+{\r原文字幕}'Cause I heard you on the phone.
+
+1076
+00:55:54,300 --> 00:55:55,810
+那天我是在和护士打电话
+{\r原文字幕}I was talking to the nurses.
+
+1077
+00:55:58,850 --> 00:56:00,850
+护士长  她六十岁了
+{\r原文字幕}The head nurse, she's 60.
+
+1078
+00:56:01,440 --> 00:56:03,810
+我去给孩子们拍了这些照片
+{\r原文字幕}I set up this photo shoot with the kids.
+
+1079
+00:56:04,860 --> 00:56:06,070
+之前也给你拍过
+{\r原文字幕}Kind of did it for you.
+
+1080
+00:56:08,650 --> 00:56:09,940
+他们得了癌症  葛蕾丝
+{\r原文字幕}They have cancer, Grace.
+
+1081
+00:56:10,950 --> 00:56:13,110
+我以为你会喜欢这些照片
+{\r原文字幕}I figured you'd like the shoot because...
+
+1082
+00:56:14,320 --> 00:56:16,410
+因为那是我向你求婚的地方
+{\r原文字幕}that's where I proposed to you.
+
+1083
+00:56:20,960 --> 00:56:22,830
+你知道不会发生什么吗
+{\r原文字幕}You know what's not gonna happen?
+
+1084
+00:56:25,710 --> 00:56:27,590
+因为我们已经讨论过了
+{\r原文字幕}Because we already discussed this.
+
+1085
+00:56:29,920 --> 00:56:31,340
+我不想坐在这里听你指责我
+{\r原文字幕}I'm not gonna sit here and be acc...
+
+1086
+00:56:31,340 --> 00:56:32,300
+你猜怎么着  去他妈的
+{\r原文字幕}You know what? Fuck this.
+
+1087
+00:56:32,380 --> 00:56:34,220
+等等  亲爱的  对不起
+{\r原文字幕}Wait, baby. I'm sorry.
+
+1088
+00:56:34,300 --> 00:56:36,890
+对不起
+{\r原文字幕}I'm sorry.
+
+1089
+00:56:38,600 --> 00:56:41,350
+我刚刚经历了人生中最糟的一天
+{\r原文字幕}Listen, I just had one of the worst days of my life.
+
+1090
+00:56:42,270 --> 00:56:43,310
+我被炒了
+{\r原文字幕}I got fired.
+
+1091
+00:56:46,190 --> 00:56:47,610
+-被炒了  -对
+{\r原文字幕}- Fired? - Yeah.
+
+1092
+00:56:48,730 --> 00:56:50,150
+我都不知道发生了什么
+{\r原文字幕}I don't know what happened,
+
+1093
+00:56:50,240 --> 00:56:53,200
+有人进了我的账户  他们有我的密码
+{\r原文字幕}but somebody got into my accounts, they got my passwords...
+
+1094
+00:56:54,490 --> 00:56:55,410
+我不知道
+{\r原文字幕}I don't know.
+
+1095
+00:56:56,570 --> 00:56:59,830
+-我不知道该怎么办  -抱歉  亲爱的
+{\r原文字幕}- I don't know what to do. - I'm sorry. I'm sorry, baby.
+
+1096
+00:57:00,830 --> 00:57:04,540
+我给银行打了一整天的电话
+{\r原文字幕}I mean, I've been calling the banks all day.
+
+1097
+00:57:04,620 --> 00:57:08,210
+我觉得  我觉得可能是有人
+{\r原文字幕}I-I think-- I think somebody maybe...
+
+1098
+00:57:08,290 --> 00:57:10,090
+可能有人盗取了我的身份信息
+{\r原文字幕}Maybe somebody stole my identity.
+
+1099
+00:57:10,170 --> 00:57:11,610
+-亲爱的  -我不知道该怎么做
+{\r原文字幕}- Baby, - I don't know what to do.
+
+1100
+00:57:11,610 --> 00:57:13,050
+亲爱的  没事的  好吗
+{\r原文字幕}Baby, it's okay, it's okay. Okay?
+
+1101
+00:57:13,130 --> 00:57:14,220
+我们会解决这件事的
+{\r原文字幕}Look, we're gonna handle it.
+
+1102
+00:57:14,300 --> 00:57:15,840
+-好的  -我陪着你
+{\r原文字幕}- OK. - I'm here.
+
+1103
+00:57:16,800 --> 00:57:17,640
+抱歉
+{\r原文字幕}I'm sorry.
+
+1104
+00:57:17,720 --> 00:57:20,390
+不  我很抱歉  很抱歉会发生这种事
+{\r原文字幕}No, I-I'm sorry. I'm sorry this happened.
+
+1105
+00:57:20,390 --> 00:57:22,890
+我们会搞清楚的  告诉我该给谁打电话
+{\r原文字幕}We're gonna make it right. Just tell me who call.
+
+1106
+00:57:24,640 --> 00:57:27,810
+不知道  试着打给
+{\r原文字幕}I don't know... start t-trying to call
+
+1107
+00:57:27,900 --> 00:57:29,980
+我的信用账户之类的
+{\r原文字幕}my credit accounts or something like that.
+
+1108
+00:57:30,070 --> 00:57:31,610
+我不知道该打给谁
+{\r原文字幕}I don't know who all to call.
+
+1109
+00:57:31,690 --> 00:57:33,360
+也许该打给国税局  我不知道
+{\r原文字幕}Maybe I'll try to call the IRS. I don't know.
+
+1110
+00:57:33,450 --> 00:57:34,990
+-我们一起想办法  -好的
+{\r原文字幕}- We'll figure it out together. - Okay.
+
+1111
+00:57:36,030 --> 00:57:38,200
+别着急  别着急
+{\r原文字幕}This is... Just breathe, just breathe.
+
+1112
+00:57:38,280 --> 00:57:40,540
+-过来  别着急  -谢谢
+{\r原文字幕}- Come here, breathe. - Thank you.
+
+1113
+00:57:40,620 --> 00:57:42,170
+他真的很
+{\r原文字幕}He was so...
+
+1114
+00:57:42,200 --> 00:57:44,410
+很担心
+{\r原文字幕}...concerned.
+
+1115
+00:57:44,500 --> 00:57:45,830
+-来吧  给他们打电话  -好吧
+{\r原文字幕}- Come on. Let's call 'em. - Okay.
+
+1116
+00:57:45,920 --> 00:57:46,750
+我们得搞定这件事
+{\r原文字幕}We gotta get this.
+
+1117
+00:57:46,750 --> 00:57:49,300
+我们几乎一夜没睡  试着搞清发生了什么
+{\r原文字幕}We stayed up most of the night trying to figure out what happened.
+
+1118
+00:57:49,460 --> 00:57:50,960
+你想到谁了  想到谁了
+{\r原文字幕}Who do you got? Who you got?
+
+1119
+00:57:51,050 --> 00:57:53,260
+还是税务局的  我再试试
+{\r原文字幕}Uh, the IRS again. Let me try...
+
+1120
+00:57:53,340 --> 00:57:55,720
+第二天  我起得很早
+{\r原文字幕}The next morning, I got up really early
+
+1121
+00:57:55,800 --> 00:57:56,970
+报了警
+{\r原文字幕}and called the police.
+
+1122
+00:57:57,510 --> 00:58:00,140
+他们根本帮不上忙  你们有什么办法吗
+{\r原文字幕}They were no help at all, so... Is there anything you can do?
+
+1123
+00:58:00,220 --> 00:58:01,390
+我去了银行
+{\r原文字幕}...I went to the bank.
+
+1124
+00:58:01,470 --> 00:58:03,680
+抱歉  请问这是你的签名吗
+{\r原文字幕}I'm sorry, is this your signature?
+
+1125
+00:58:03,770 --> 00:58:05,640
+和你的印鉴卡一模一样
+{\r原文字幕}It matches your signature card.
+
+1126
+00:58:05,730 --> 00:58:08,350
+看上去像是我的签名  但这是什么
+{\r原文字幕}Well, it looks like mine, but, uh, what is that?
+
+1127
+00:58:08,440 --> 00:58:10,360
+因为我根本没签过
+{\r原文字幕}'Cause I didn't sign it.
+
+1128
+00:58:10,900 --> 00:58:12,350
+我们想知道你什么时候
+{\r原文字幕}We need to know when you can
+
+1129
+00:58:12,350 --> 00:58:13,940
+可以还抵押贷款
+{\r原文字幕}make the payment on your mortgage.
+
+1130
+00:58:14,400 --> 00:58:15,900
+已经逾期三十天了
+{\r原文字幕}It's 30 days behind.
+
+1131
+00:58:15,990 --> 00:58:16,820
+什么抵押贷款
+{\r原文字幕}What mortgage?
+
+1132
+00:58:16,910 --> 00:58:19,530
+我的房款四年前就付清了
+{\r原文字幕}My house has been paid for for over four years.
+
+1133
+00:58:19,620 --> 00:58:20,830
+没错
+{\r原文字幕}Well, it was,
+
+1134
+00:58:20,910 --> 00:58:26,040
+然后你抵押了37.5万美元
+{\r原文字幕}and then you took out a $375,000 mortgage
+
+1135
+00:58:26,120 --> 00:58:27,870
+确切的说  是四十二天前
+{\r原文字幕}exactly 42 days ago.
+
+1136
+00:58:27,960 --> 00:58:29,330
+你在说什么
+{\r原文字幕}What are you talking about?
+
+1137
+00:58:29,420 --> 00:58:31,790
+付款已被直接取走
+{\r原文字幕}The payments were set up as direct withdrawal,
+
+1138
+00:58:31,880 --> 00:58:34,880
+现在你的帐户透支了
+{\r原文字幕}and your account is now overdrawn by...
+
+1139
+00:58:34,960 --> 00:58:36,010
+四千六百美元
+{\r原文字幕}$4,600.
+
+1140
+00:58:36,090 --> 00:58:39,010
+等等
+{\r原文字幕}Wait a minute.
+
+1141
+00:58:41,850 --> 00:58:43,180
+这不对
+{\r原文字幕}This can't be right.
+
+1142
+00:58:45,310 --> 00:58:46,350
+等等
+{\r原文字幕}Wait a minute.
+
+1143
+00:58:48,270 --> 00:58:49,440
+这不是我做的
+{\r原文字幕}I didn't do this.
+
+1144
+00:58:49,520 --> 00:58:51,940
+就像我跟你的一个出纳员所说的
+{\r原文字幕}But as I was trying to tell one of your tellers,
+
+1145
+00:58:52,020 --> 00:58:55,820
+我认为是人盗取了我的身份信息
+{\r原文字幕}I think that somebody has stolen my identity.
+
+1146
+00:58:56,530 --> 00:58:59,240
+明白吗  怎么会发生这种事
+{\r原文字幕}See, because how is this kind of stuff even possible?
+
+1147
+00:58:59,320 --> 00:59:01,870
+因为我没签过这个  我从没来过这里
+{\r原文字幕}'Cause I didn't sign this, and I never came in here.
+
+1148
+00:59:01,950 --> 00:59:02,870
+这不是我的签的
+{\r原文字幕}This was not me.
+
+1149
+00:59:02,950 --> 00:59:04,200
+已经公证了
+{\r原文字幕}It was notarized.
+
+1150
+00:59:04,580 --> 00:59:05,540
+谁公证的
+{\r原文字幕}By whom?
+
+1151
+00:59:06,080 --> 00:59:08,750
+弗林奇公证处
+{\r原文字幕}Uh... Flynch Notary.
+
+1152
+00:59:08,830 --> 00:59:11,630
+等等  我可以借用一下吗  抱歉
+{\r原文字幕}Hold on, can I just borrow this for a minute? Excuse me.
+
+1153
+00:59:11,920 --> 00:59:14,300
+-弗林奇公证处  -弗林奇公证处
+{\r原文字幕}- Flynch Notary. - Flynch Notary.
+
+1154
+00:59:15,460 --> 00:59:21,550
+地址是西卡摩街2989号
+{\r原文字幕}the address is 2989 Sycamore Street.
+
+1155
+00:59:21,640 --> 00:59:22,720
+主啊  发发慈悲吧
+{\r原文字幕}Lord, have mercy.
+
+1156
+00:59:24,010 --> 00:59:25,770
+然后呢
+{\r原文字幕}What is going on?
+
+1157
+00:59:25,850 --> 00:59:27,930
+很抱歉  在调查这件事的过程中
+{\r原文字幕}I'm sorry, but while we look into this,
+
+1158
+00:59:28,020 --> 00:59:29,240
+我们还是需要你还款
+{\r原文字幕}we're gonna need a payment
+
+1159
+00:59:29,240 --> 00:59:31,020
+这样你的房子才不会被没收拍卖
+{\r原文字幕}so your house doesn't go into foreclosure.
+
+1160
+00:59:31,100 --> 00:59:31,980
+明白了
+{\r原文字幕}Okay.
+
+1161
+00:59:33,150 --> 00:59:34,360
+然后呢
+{\r原文字幕}What is going on?
+
+1162
+00:59:35,440 --> 00:59:36,990
+我去了西卡摩街
+{\r原文字幕}I went to Sycamore Street,
+
+1163
+00:59:37,610 --> 00:59:39,780
+那是一座废弃的老房子
+{\r原文字幕}and it was an old, abandoned house.
+
+1164
+00:59:40,240 --> 00:59:42,160
+邮件堆积如山
+{\r原文字幕}The mail was piling up. It was...
+
+1165
+00:59:42,950 --> 00:59:45,580
+都是寄给一个叫阿·麦卡西的人
+{\r原文字幕}All of it was addressed to somebody named A. McKathy.
+
+1166
+00:59:46,330 --> 00:59:50,460
+我很生气  一个陌生人居然这样坑我
+{\r原文字幕}I was just upset that some stranger would do this to me.
+
+1167
+00:59:50,540 --> 00:59:52,080
+这太可怕了
+{\r原文字幕}It was horrible.
+
+1168
+00:59:52,170 --> 00:59:53,330
+我回到银行
+{\r原文字幕}I went back to the bank
+
+1169
+00:59:53,420 --> 00:59:55,670
+调取监控录像  然后
+{\r原文字幕}to get video surveillance, and... and, well...
+
+1170
+00:59:56,840 --> 01:00:00,050
+那时我所知道的一切都破灭了
+{\r原文字幕}That's when everything I knew shattered.
+
+1171
+01:00:05,350 --> 01:00:06,390
+是你干的
+{\r原文字幕}You did it.
+
+1172
+01:00:09,020 --> 01:00:09,850
+什么
+{\r原文字幕}What?
+
+1173
+01:00:13,900 --> 01:00:14,770
+你还好吗
+{\r原文字幕}You okay?
+
+1174
+01:00:15,730 --> 01:00:16,610
+是你干的
+{\r原文字幕}You did it.
+
+1175
+01:00:18,030 --> 01:00:18,990
+干了什么
+{\r原文字幕}Did what?
+
+1176
+01:00:19,320 --> 01:00:20,610
+你去了我的银行
+{\r原文字幕}You went to my bank,
+
+1177
+01:00:20,700 --> 01:00:23,620
+拿我的房子做了抵押
+{\r原文字幕}and you took out a mortgage on my house.
+
+1178
+01:00:25,120 --> 01:00:28,700
+葛蕾丝  我不知道你在说什么
+{\r原文字幕}Grace... I don't know what you're talking about.
+
+1179
+01:00:29,370 --> 01:00:30,540
+看看你的手机
+{\r原文字幕}Check your cell.
+
+1180
+01:01:02,860 --> 01:01:04,360
+葛蕾丝
+{\r原文字幕}Grace...
+
+1181
+01:01:05,780 --> 01:01:07,740
+我需要那笔钱  葛蕾丝
+{\r原文字幕}I needed the money, Grace.
+
+1182
+01:01:09,790 --> 01:01:13,160
+哪个男人想向女人要钱
+{\r原文字幕}And what kind of man wants to ask his woman for money?
+
+1183
+01:01:14,120 --> 01:01:15,080
+别这样
+{\r原文字幕}I mean, come on.
+
+1184
+01:01:17,340 --> 01:01:19,670
+我有些债必须还给别人
+{\r原文字幕}I had debts that had to be paid by some people
+
+1185
+01:01:19,750 --> 01:01:21,670
+这些债必须还
+{\r原文字幕}that are not to be messed with.
+
+1186
+01:01:22,170 --> 01:01:24,720
+我只是觉得我们是夫妻  已经结婚了
+{\r原文字幕}And I just thought because we're partners, we're married,
+
+1187
+01:01:24,800 --> 01:01:26,050
+所以我认为
+{\r原文字幕}so I just figured that...
+
+1188
+01:01:26,140 --> 01:01:27,300
+你会给我那些钱
+{\r原文字幕}you'd want me to have it.
+
+1189
+01:01:27,390 --> 01:01:30,310
+-你为什么不给  -天啊
+{\r原文字幕}- Why don't you - Oh, my God.
+
+1190
+01:01:33,020 --> 01:01:34,640
+-你还偷了我单位的公款  -我没有
+{\r原文字幕}- You stole the money from my job, too. - I did not.
+
+1191
+01:01:34,730 --> 01:01:36,480
+-你有  -我会还给你的  我会的
+{\r原文字幕}- Yes, you did! -I'll pay you back. I'm gonna--
+
+1192
+01:01:36,560 --> 01:01:37,650
+我的账户
+{\r原文字幕}My accounts?
+
+1193
+01:01:38,480 --> 01:01:40,020
+我  我的密码
+{\r原文字幕}My-- My-- My passwords?
+
+1194
+01:01:41,110 --> 01:01:42,440
+是你做的吧  香农
+{\r原文字幕}You did that, Shannon?
+
+1195
+01:01:43,280 --> 01:01:44,490
+是你干的
+{\r原文字幕}You did that.
+
+1196
+01:01:47,160 --> 01:01:48,030
+不
+{\r原文字幕}No.
+
+1197
+01:01:48,830 --> 01:01:50,240
+不
+{\r原文字幕}N-no.
+
+1198
+01:01:52,160 --> 01:01:54,620
+我希望你把所有的钱
+{\r原文字幕}I want you to give me back...
+
+1199
+01:01:55,620 --> 01:01:57,130
+都还给我
+{\r原文字幕}all that money.
+
+1200
+01:02:00,000 --> 01:02:01,740
+我会坐牢的
+{\r原文字幕}I can go to jail.
+
+1201
+01:02:04,090 --> 01:02:05,840
+钱在哪里
+{\r原文字幕}Where-- Where is it?
+
+1202
+01:02:06,300 --> 01:02:09,100
+你得把钱还给我
+{\r原文字幕}I need you to give me back that money.
+
+1203
+01:02:11,180 --> 01:02:12,970
+-不可能  -你说什么
+{\r原文字幕}- I can't. - What the hell?
+
+1204
+01:02:13,060 --> 01:02:14,060
+现在是我的钱了
+{\r原文字幕}It's mine now.
+
+1205
+01:02:14,090 --> 01:02:16,520
+你他妈的说什么
+{\r原文字幕}What the fuck are you talkin' about?
+
+1206
+01:02:17,020 --> 01:02:18,770
+你了解本州的法律吗
+{\r原文字幕}Do you know the laws of this state?
+
+1207
+01:02:20,980 --> 01:02:22,480
+因为我了解
+{\r原文字幕}Because I do.
+
+1208
+01:02:24,440 --> 01:02:26,240
+作为你的合法丈夫
+{\r原文字幕}And as your lawfully wedded husband,
+
+1209
+01:02:26,320 --> 01:02:29,690
+我有权花这笔钱
+{\r原文字幕}I have every fucking right to that money!
+
+1210
+01:02:31,870 --> 01:02:33,370
+你得庆幸我有两部手机
+{\r原文字幕}You lucky I got two phones.
+
+1211
+01:02:34,250 --> 01:02:36,500
+他还在说  而我什么也听不到了
+{\r原文字幕}He was talkin', and I didn't hear anything.
+
+1212
+01:02:37,120 --> 01:02:38,540
+我不敢相信
+{\r原文字幕}I couldn't believe this.
+
+1213
+01:02:39,040 --> 01:02:41,290
+我被骗了
+{\r原文字幕}I had been conned.
+
+1214
+01:02:41,380 --> 01:02:43,380
+所有的一切都是谎言
+{\r原文字幕}All of it was a lie.
+
+1215
+01:02:43,960 --> 01:02:47,220
+我明白  但我的大脑接受不了他所做的事
+{\r原文字幕}I knew it, but my brain couldn't process what he had done.
+
+1216
+01:02:48,260 --> 01:02:50,760
+我一无所有
+{\r原文字幕}There I was with nothing.
+
+1217
+01:02:50,850 --> 01:02:53,180
+他拿走了我的一切
+{\r原文字幕}He had taken every bit of it,
+
+1218
+01:02:53,260 --> 01:02:55,850
+我输得很彻底
+{\r原文字幕}and I was so lost.
+
+1219
+01:02:56,350 --> 01:02:59,440
+当初这个甜蜜可人的男人
+{\r原文字幕}How could this sweet, loving man
+
+1220
+01:02:59,520 --> 01:03:03,570
+一瞬间变成了冷酷又算计的魔鬼
+{\r原文字幕}become this cold, calculating demon in no time?
+
+1221
+01:03:03,940 --> 01:03:07,110
+我受不了这种背叛
+{\r原文字幕}I was beyond hurt by the betrayal.
+
+1222
+01:03:07,200 --> 01:03:09,200
+你给我滚出我的房子
+{\r原文字幕}I want you out of my house.
+
+1223
+01:03:10,110 --> 01:03:11,380
+滚出这里
+{\r原文字幕}I want you out of my house,
+
+1224
+01:03:11,380 --> 01:03:13,120
+立刻马上滚出去
+{\r原文字幕}and I want you out of my house, now.
+
+1225
+01:03:13,200 --> 01:03:14,540
+把烟灰缸拿给我
+{\r原文字幕}And I want an ashtray.
+
+1226
+01:03:17,000 --> 01:03:18,410
+你个狗娘养的
+{\r原文字幕}You son of a bitch.
+
+1227
+01:03:24,300 --> 01:03:25,920
+他在嘲笑我
+{\r原文字幕}He was laughing at me.
+
+1228
+01:03:26,010 --> 01:03:28,880
+你一直在说"你的房子"
+{\r原文字幕}You keep saying "your house."
+
+1229
+01:03:29,130 --> 01:03:31,470
+结婚证证明这是我们的房子
+{\r原文字幕}That marriage license says our house.
+
+1230
+01:03:31,550 --> 01:03:33,600
+他拿走我的钱就已经够坏了
+{\r原文字幕}It was bad enough that he had taken all my money,
+
+1231
+01:03:33,680 --> 01:03:34,970
+但他还在那里嘲笑我
+{\r原文字幕}but here he was laughin'.
+
+1232
+01:03:35,060 --> 01:03:36,850
+-等着瞧  -我等着
+{\r原文字幕}- You watch. - I'm watchin'.
+
+1233
+01:03:37,850 --> 01:03:38,890
+烟灰缸
+{\r原文字幕}Ashtray.
+
+1234
+01:03:41,270 --> 01:03:42,520
+烟灰缸  婊子
+{\r原文字幕}Ashtray, bitch!
+
+1235
+01:03:42,610 --> 01:03:44,150
+他不愿意走
+{\r原文字幕}And he wouldn't leave.
+
+1236
+01:03:44,230 --> 01:03:46,530
+我报了警  我告诉了他们所有的事
+{\r原文字幕}I called the police. I told them everything.
+
+1237
+01:03:46,780 --> 01:03:48,130
+这座房子不属于他
+{\r原文字幕}He does not own this house,
+
+1238
+01:03:48,140 --> 01:03:49,950
+我买下这座房子四年了
+{\r原文字幕}I've owned this house for four years.
+
+1239
+01:03:50,030 --> 01:03:52,070
+但是他们说他们无能为力
+{\r原文字幕}They told me that there was nothing they could do,
+
+1240
+01:03:52,160 --> 01:03:55,410
+他们说我需要一名律师  因为这是民事案件
+{\r原文字幕}and that I needed a lawyer because this was a civil matter.
+
+1241
+01:03:55,490 --> 01:03:57,830
+萨拉认识一位律师  我们去见了他
+{\r原文字幕}Sarah recommended a lawyer, and we went to see him.
+
+1242
+01:03:57,910 --> 01:03:59,080
+一万美元
+{\r原文字幕}Ten thousand dollars?
+
+1243
+01:03:59,160 --> 01:04:02,750
+律师告诉我他的佣金是一万美元
+{\r原文字幕}The attorney told me that his retainer was $10,000,
+
+1244
+01:04:02,830 --> 01:04:05,750
+而且可能要等两年才能上法庭
+{\r原文字幕}and it could be as long as two years to get to court.
+
+1245
+01:04:05,840 --> 01:04:08,050
+他已经拿了我这么多  萨拉
+{\r原文字幕}He's already taken so much-- Sarah.
+
+1246
+01:04:08,130 --> 01:04:09,510
+我无计可施
+{\r原文字幕}My hands were tied.
+
+1247
+01:04:09,590 --> 01:04:13,430
+我不知道该怎么办  我真不甘心
+{\r原文字幕}I didn't know what to do. I was just so outdone.
+
+1248
+01:04:13,640 --> 01:04:14,930
+我的天呐
+{\r原文字幕}Oh, my God.
+
+1249
+01:04:50,300 --> 01:04:51,260
+别急嘛
+{\r原文字幕}Not yet.
+
+1250
+01:05:07,060 --> 01:05:11,610
+香农  你他妈从我的房子里滚出去
+{\r原文字幕}Shannon, get your black ass out of my motherfucking house!
+
+1251
+01:05:12,280 --> 01:05:13,200
+快滚
+{\r原文字幕}I mean it!
+
+1252
+01:05:13,280 --> 01:05:14,770
+他妈的尊重一下我的隐私
+{\r原文字幕}Respect my motherfucking privacy!
+
+1253
+01:05:14,780 --> 01:05:16,370
+狗娘养的  你个狗娘养的
+{\r原文字幕}You son of a bitch! You son of a bitch!
+
+1254
+01:05:16,450 --> 01:05:17,370
+我得给这些门上装把锁
+{\r原文字幕}Get some goddamn locks on these doors.
+
+1255
+01:05:17,450 --> 01:05:19,370
+你这个混蛋
+{\r原文字幕}You black-ass bastard!
+
+1256
+01:05:19,450 --> 01:05:20,790
+狗杂种
+{\r原文字幕}You son of a bitch!
+
+1257
+01:05:21,620 --> 01:05:22,620
+什么
+{\r原文字幕}What?
+
+1258
+01:05:24,460 --> 01:05:26,460
+你带我来你妈家
+{\r原文字幕}So, you brought me to your mom's house?
+
+1259
+01:05:27,040 --> 01:05:29,800
+我妈住得比这里好
+{\r原文字幕}My momma live better than that.
+
+1260
+01:05:29,880 --> 01:05:31,170
+-我们进行到哪里  -拜托
+{\r原文字幕}- Where were we? - Come on.
+
+1261
+01:05:31,260 --> 01:05:33,510
+别管这些
+{\r原文字幕}Don't worry about it.
+
+1262
+01:05:37,090 --> 01:05:38,720
+我悲痛欲绝
+{\r原文字幕}Then it washed over me.
+
+1263
+01:05:41,020 --> 01:05:42,390
+心灰意冷
+{\r原文字幕}I went numb.
+
+1264
+01:05:45,140 --> 01:05:48,060
+你体会过那种心灰意冷的感觉吗
+{\r原文字幕}You ever had that numb feeling?
+
+1265
+01:05:49,440 --> 01:05:51,980
+就像你所经历的都不是真的
+{\r原文字幕}Like what's going on with you can't be real?
+
+1266
+01:05:53,860 --> 01:05:55,240
+这不可能是真的
+{\r原文字幕}It just can't be.
+
+1267
+01:05:57,820 --> 01:06:01,410
+我不敢相信我这种年纪
+{\r原文字幕}I couldn't believe that I was this age
+
+1268
+01:06:01,490 --> 01:06:03,500
+还会让这种事发生在自己身上
+{\r原文字幕}and I let this happen to me.
+
+1269
+01:06:05,080 --> 01:06:07,080
+这真棒
+{\r原文字幕}That was great.
+
+1270
+01:06:07,170 --> 01:06:09,210
+我们还会见面吗
+{\r原文字幕}Will I see you again?
+
+1271
+01:06:10,420 --> 01:06:12,710
+行  只要你妈不再冲进来
+{\r原文字幕}Yeah, if your mom don't break in on us again.
+
+1272
+01:06:14,050 --> 01:06:15,010
+她不会的
+{\r原文字幕}She won't.
+
+1273
+01:06:16,430 --> 01:06:20,700
+我有蠢到让这种情况发生吗
+{\r原文字幕}Was I that stupid that I would let this happen?
+
+1274
+01:06:23,430 --> 01:06:24,270
+那不是我
+{\r原文字幕}Not me.
+
+1275
+01:06:26,730 --> 01:06:27,980
+我受过教育
+{\r原文字幕}I'm educated
+
+1276
+01:06:28,940 --> 01:06:29,980
+很聪明
+{\r原文字幕}and smart.
+
+1277
+01:06:33,530 --> 01:06:36,200
+我真的孤独到
+{\r原文字幕}Was I that lonely...
+
+1278
+01:06:37,740 --> 01:06:39,910
+会让这个蠢货
+{\r原文字幕}...that I would let this fool
+
+1279
+01:06:39,990 --> 01:06:41,830
+占我的便宜吗
+{\r原文字幕}take advantage of me?
+
+1280
+01:06:42,830 --> 01:06:44,290
+我不明白
+{\r原文字幕}I didn't understand it.
+
+1281
+01:06:46,660 --> 01:06:48,250
+你应该加入我们
+{\r原文字幕}Should've joined us.
+
+1282
+01:06:54,710 --> 01:06:56,400
+你以前这副表情就吓到过我  亲爱的
+{\r原文字幕}That look killed me, baby.
+
+1283
+01:07:03,350 --> 01:07:05,350
+现在的表情和那时候一个样
+{\r原文字幕}It's kind of like the same one you got now.
+
+1284
+01:07:07,230 --> 01:07:09,350
+香农  请把我的钱还给我
+{\r原文字幕}Shannon, please give me my money.
+
+1285
+01:07:11,730 --> 01:07:12,570
+什么
+{\r原文字幕}What?
+
+1286
+01:07:14,980 --> 01:07:19,700
+我就快被公司起诉了
+{\r原文字幕}I'm looking at being prosecuted by my job.
+
+1287
+01:07:20,990 --> 01:07:22,910
+-葛蕾丝  又来了吗  -把我的钱给我
+{\r原文字幕}- Grace, again with that? - Give me my money.
+
+1288
+01:07:22,990 --> 01:07:24,200
+-求求你  -葛蕾丝  葛蕾丝  葛蕾丝
+{\r原文字幕}- Please. - Grace, Grace, Grace,
+
+1289
+01:07:24,290 --> 01:07:25,790
+葛蕾丝  葛蕾丝  葛蕾丝  葛蕾丝
+{\r原文字幕}Grace, Grace, Grace, Grace.
+
+1290
+01:07:30,170 --> 01:07:31,750
+在我来看
+{\r原文字幕}Now, the way I look at it...
+
+1291
+01:07:35,920 --> 01:07:37,380
+那些钱是你欠我的
+{\r原文字幕}you owe me that money.
+
+1292
+01:07:38,840 --> 01:07:40,840
+是的  你想想
+{\r原文字幕}Yeah. I mean, think about it.
+
+1293
+01:07:42,850 --> 01:07:44,280
+所有你享受到的性爱
+{\r原文字幕}All the sex...
+
+1294
+01:07:45,350 --> 01:07:49,100
+以及我给你悲惨生活带来的欢乐
+{\r原文字幕}and the joy I brought to your miserable fucking life!
+
+1295
+01:07:51,400 --> 01:07:52,230
+对
+{\r原文字幕}Yeah.
+
+1296
+01:07:54,150 --> 01:07:55,110
+你欠我的
+{\r原文字幕}You owe me.
+
+1297
+01:08:02,070 --> 01:08:03,100
+我的意思是
+{\r原文字幕}I mean... um...
+
+1298
+01:08:04,740 --> 01:08:06,320
+我不是故意要对你大喊大叫
+{\r原文字幕}I don't mean to yell.
+
+1299
+01:08:09,330 --> 01:08:11,040
+你是一个好人  葛蕾丝
+{\r原文字幕}You're a nice lady, Grace.
+
+1300
+01:08:13,540 --> 01:08:15,000
+你是一个非常好的人
+{\r原文字幕}You're a very nice lady.
+
+1301
+01:08:17,710 --> 01:08:19,590
+真的是我见过最好的人  真的
+{\r原文字幕}One of the nicest I ever met, really.
+
+1302
+01:08:24,640 --> 01:08:28,180
+这就是为什么我一直很难下手
+{\r原文字幕}That's why it's been so hard for me to do this.
+
+1303
+01:08:33,440 --> 01:08:34,310
+是啊
+{\r原文字幕}Yeah.
+
+1304
+01:08:34,940 --> 01:08:37,730
+我想我能做的最好的事就是告诉你真相
+{\r原文字幕}I guess the nicest thing I can do is tell you the truth.
+
+1305
+01:08:47,120 --> 01:08:48,330
+你看  我是爱你的
+{\r原文字幕}You see, I love you.
+
+1306
+01:08:51,620 --> 01:08:53,120
+我真的爱你  我
+{\r原文字幕}I really do love you. I...
+
+1307
+01:08:55,330 --> 01:08:58,460
+我只是不能像你爱我那样来爱你
+{\r原文字幕}I'm just never gonna love you the same way that you love me.
+
+1308
+01:09:05,510 --> 01:09:07,350
+像你这个年纪的女人  你知道
+{\r原文字幕}And women your age, you know...
+
+1309
+01:09:08,260 --> 01:09:09,430
+要怎么说
+{\r原文字幕}How's the phrase go?
+
+1310
+01:09:10,020 --> 01:09:11,640
+特别容易上钩
+{\r原文字幕}Low-hanging fruit.
+
+1311
+01:09:12,560 --> 01:09:13,390
+单身
+{\r原文字幕}Single.
+
+1312
+01:09:15,350 --> 01:09:16,400
+脆弱
+{\r原文字幕}Vulnerable.
+
+1313
+01:09:18,690 --> 01:09:19,530
+孤独
+{\r原文字幕}Lonely.
+
+1314
+01:09:21,190 --> 01:09:22,400
+特别软弱
+{\r原文字幕}Fuckin' weak.
+
+1315
+01:09:25,820 --> 01:09:27,450
+如果你仔细想想
+{\r原文字幕}I mean, if you think about it...
+
+1316
+01:09:29,240 --> 01:09:30,380
+这都是你的错
+{\r原文字幕}it's your fuckin' fault.
+
+1317
+01:09:30,380 --> 01:09:31,660
+你让这一切太容易
+{\r原文字幕}You made this too easy.
+
+1318
+01:09:36,540 --> 01:09:37,590
+但你不想想
+{\r原文字幕}But you don't think.
+
+1319
+01:09:48,760 --> 01:09:49,600
+葛蕾丝  我
+{\r原文字幕}Grace, I'm hun--
+
+1320
+01:10:33,430 --> 01:10:35,980
+我不敢相信我竟然杀了他
+{\r原文字幕}I couldn't believe that I had killed him.
+
+1321
+01:10:57,750 --> 01:10:59,960
+我坐上我的车  然后就一直开
+{\r原文字幕}I got in my car, and I just drove...
+
+1322
+01:11:01,670 --> 01:11:02,960
+一直开
+{\r原文字幕}and drove.
+
+1323
+01:11:04,090 --> 01:11:06,590
+当我清醒过来  我在极偏僻的地方
+{\r原文字幕}Before I knew it, I was in the middle of nowhere.
+
+1324
+01:11:06,670 --> 01:11:07,630
+萨拉
+{\r原文字幕}Sarah.
+
+1325
+01:11:10,340 --> 01:11:12,300
+他在我家地下室
+{\r原文字幕}He's in my basement.
+
+1326
+01:11:15,430 --> 01:11:16,730
+我杀了他
+{\r原文字幕}I killed him.
+
+1327
+01:11:18,940 --> 01:11:20,980
+你告诉萨拉你杀了他
+{\r原文字幕}You told Sarah you killed him?
+
+1328
+01:11:21,310 --> 01:11:22,150
+对
+{\r原文字幕}Yes.
+
+1329
+01:11:22,230 --> 01:11:24,440
+-你没有把尸体移走  -没有
+{\r原文字幕}- And you didn't remove the body? - No.
+
+1330
+01:11:24,530 --> 01:11:26,030
+我把他留在那里了
+{\r原文字幕}I left him there.
+
+1331
+01:11:27,610 --> 01:11:29,360
+萨拉去了我家
+{\r原文字幕}Sarah went to the house.
+
+1332
+01:11:29,450 --> 01:11:31,280
+然后她打电话告诉我
+{\r原文字幕}Then she called me and told me
+
+1333
+01:11:31,820 --> 01:11:33,200
+那里没有尸体
+{\r原文字幕}there wasn't a body.
+
+1334
+01:11:34,620 --> 01:11:35,660
+他不见了
+{\r原文字幕}He was gone.
+
+1335
+01:11:36,910 --> 01:11:39,000
+等等  你是在说他没死吗
+{\r原文字幕}Wait, are you telling me he's not dead?
+
+1336
+01:11:39,080 --> 01:11:40,830
+不  我知道他死了
+{\r原文字幕}No, I know he's dead.
+
+1337
+01:11:41,540 --> 01:11:43,290
+但他就是不在那里
+{\r原文字幕}But he wasn't there.
+
+1338
+01:11:44,420 --> 01:11:45,420
+时间到
+{\r原文字幕}Time's up.
+
+1339
+01:11:47,920 --> 01:11:49,430
+葛蕾丝  尸体在哪里
+{\r原文字幕}Grace, where was the body?
+
+1340
+01:11:50,590 --> 01:11:51,930
+他在哪里
+{\r原文字幕}Where was he?
+
+1341
+01:11:53,470 --> 01:11:54,510
+我不知道
+{\r原文字幕}I don't know.
+
+1342
+01:11:57,730 --> 01:12:00,020
+你没跟我说  她告诉过你她杀了他
+{\r原文字幕}You didn't tell me she told you she killed him.
+
+1343
+01:12:00,100 --> 01:12:02,600
+这种事情你不能瞒着我  萨拉
+{\r原文字幕}You can't keep this kind of thing from me, Sarah.
+
+1344
+01:12:02,690 --> 01:12:03,810
+我想帮她
+{\r原文字幕}I'm trying to help her,
+
+1345
+01:12:03,900 --> 01:12:06,650
+这种信息我必须知道
+{\r原文字幕}and this is the kind of information that I need to know.
+
+1346
+01:12:07,320 --> 01:12:08,690
+所以你去了她家
+{\r原文字幕}So you went to her house?
+
+1347
+01:12:09,570 --> 01:12:10,570
+对
+{\r原文字幕}Yes.
+
+1348
+01:12:11,100 --> 01:12:13,680
+那你到了之后发生了什么
+{\r原文字幕}And what happened when you got there?
+
+1349
+01:12:16,040 --> 01:12:19,750
+不管你说什么我都不会用来对她不利
+{\r原文字幕}There is nothing you can say that I can use against her.
+
+1350
+01:12:20,620 --> 01:12:21,460
+好吗
+{\r原文字幕}Okay?
+
+1351
+01:12:22,750 --> 01:12:24,790
+我担心的不止是她
+{\r原文字幕}It's not just her I'm worried about.
+
+1352
+01:12:26,250 --> 01:12:27,340
+那是谁
+{\r原文字幕}Who?
+
+1353
+01:12:28,130 --> 01:12:30,800
+如果你知道一些事情  却没告诉警察
+{\r原文字幕}If you knew something and you didn't tell the police,
+
+1354
+01:12:31,430 --> 01:12:33,180
+这是犯罪  对吗
+{\r原文字幕}that's a crime, right?
+
+1355
+01:12:33,640 --> 01:12:36,720
+如果地方检察官知道了  是的
+{\r原文字幕}If the DA knew this, then, yes.
+
+1356
+01:12:37,850 --> 01:12:39,060
+你会被指控
+{\r原文字幕}You would be charged.
+
+1357
+01:12:40,600 --> 01:12:41,640
+不是我
+{\r原文字幕}Not me.
+
+1358
+01:12:42,560 --> 01:12:43,980
+她的儿子  马尔科姆
+{\r原文字幕}Her son, Malcolm.
+
+1359
+01:12:44,440 --> 01:12:45,560
+他在那里
+{\r原文字幕}He was there.
+
+1360
+01:12:47,020 --> 01:12:47,860
+马尔科姆吗
+{\r原文字幕}Malcolm?
+
+1361
+01:12:49,070 --> 01:12:51,320
+那么他说了什么吗
+{\r原文字幕}Well, did he say anything?
+
+1362
+01:12:51,950 --> 01:12:53,740
+你看到什么异常了吗
+{\r原文字幕}Did you see anything unusual?
+
+1363
+01:12:53,820 --> 01:12:56,330
+他只是有点激动
+{\r原文字幕}He was just a little agitated, and...
+
+1364
+01:12:56,410 --> 01:12:58,950
+太快了  他开车走了
+{\r原文字幕}it was quick, you know? He-- He just drove away.
+
+1365
+01:12:59,370 --> 01:13:01,330
+那你进了屋后发生了什么
+{\r原文字幕}Well, what happened when you got in the house?
+
+1366
+01:13:01,410 --> 01:13:05,040
+我去了地下室  但那里没有尸体
+{\r原文字幕}I went down to the basement, but there was no body there.
+
+1367
+01:13:05,750 --> 01:13:08,880
+到处都是血迹  地下室楼梯上都是血迹
+{\r原文字幕}There was just blood everywhere, all over the basement stairs.
+
+1368
+01:13:09,840 --> 01:13:11,380
+你觉得发生了什么
+{\r原文字幕}What do you think happened?
+
+1369
+01:13:11,470 --> 01:13:12,800
+我觉得马尔科姆
+{\r原文字幕}I think Malcolm...
+
+1370
+01:13:13,930 --> 01:13:15,930
+在我到那里之前带走了尸体
+{\r原文字幕}took the body before I got there...
+
+1371
+01:13:16,850 --> 01:13:17,680
+或者
+{\r原文字幕}or...
+
+1372
+01:13:20,020 --> 01:13:21,640
+或者葛蕾丝在头脑不清醒的情况下
+{\r原文字幕}Or if Grace was in a state of shock,
+
+1373
+01:13:21,730 --> 01:13:23,310
+可能把尸体拖上来
+{\r原文字幕}she might have dragged that body up
+
+1374
+01:13:23,310 --> 01:13:24,520
+装进了她的汽车后备箱
+{\r原文字幕}and put it in the back of her car,
+
+1375
+01:13:24,600 --> 01:13:26,860
+开车到郊外  然后把尸体扔在了某处
+{\r原文字幕}drove out to the country, and dumped it somewhere.
+
+1376
+01:13:26,940 --> 01:13:29,900
+不  没有  她没那么做
+{\r原文字幕}Mm-mm. No, no. No, no. She didn't do that.
+
+1377
+01:13:31,440 --> 01:13:32,320
+我相信她
+{\r原文字幕}I believe her.
+
+1378
+01:13:33,860 --> 01:13:35,780
+我只是太爱她了
+{\r原文字幕}I just love her so much.
+
+1379
+01:13:38,450 --> 01:13:40,120
+很抱歉  萨拉女士
+{\r原文字幕}I'm sorry, Miss Sarah.
+
+1380
+01:13:40,200 --> 01:13:42,000
+我只是  我
+{\r原文字幕}I just... I...
+
+1381
+01:13:42,080 --> 01:13:44,160
+你已经为她尽力了  萨拉女士
+{\r原文字幕}You did all you could for her, Miss Sarah.
+
+1382
+01:13:47,460 --> 01:13:49,920
+-没关系的  -我抱歉  萨拉女士
+{\r原文字幕}- It's all right. It's all right. - I'm so sorry, Miss Sarah.
+
+1383
+01:13:50,880 --> 01:13:53,170
+-我会处理好的  -好  好的
+{\r原文字幕}- I'll fix it. - Okay, okay.
+
+1384
+01:13:54,130 --> 01:13:56,510
+现在我们知道了她为什么想认罪
+{\r原文字幕}Now we know why she wants to plead guilty.
+
+1385
+01:13:57,220 --> 01:13:58,100
+为什么
+{\r原文字幕}Why?
+
+1386
+01:13:59,510 --> 01:14:00,890
+为了保护她儿子
+{\r原文字幕}To protect her son.
+
+1387
+01:14:07,020 --> 01:14:09,570
+-亲爱的  你要睡觉了吗  -等一会儿
+{\r原文字幕}- Baby, you coming to bed? - In a little bit.
+
+1388
+01:14:09,650 --> 01:14:11,110
+亲爱的  你明天上班时
+{\r原文字幕}Oh, babe, when you get to work tomorrow,
+
+1389
+01:14:11,110 --> 01:14:12,480
+能查一下香农·德隆吗
+{\r原文字幕}can you look up Shannon Delong,
+
+1390
+01:14:12,990 --> 01:14:14,450
+别让别人知道
+{\r原文字幕}without anybody noticing?
+
+1391
+01:14:14,530 --> 01:14:16,030
+我真的不应该那么做
+{\r原文字幕}Uh, I really shouldn't do that.
+
+1392
+01:14:16,570 --> 01:14:17,410
+求你了
+{\r原文字幕}Please?
+
+1393
+01:14:20,370 --> 01:14:21,830
+好吧  我看看我能做什么
+{\r原文字幕}Okay. I'll see what I can do.
+
+1394
+01:14:21,910 --> 01:14:23,700
+谢谢
+{\r原文字幕}Thank you.
+
+1395
+01:14:28,250 --> 01:14:31,170
+所以  她在试图保护她儿子和萨拉
+{\r原文字幕}So you see, she's trying to protect her son and Sarah.
+
+1396
+01:14:31,250 --> 01:14:33,260
+现在我需要你们的帮助
+{\r原文字幕}Now I need your help.
+
+1397
+01:14:34,090 --> 01:14:35,510
+茉莉  到我办公室来
+{\r原文字幕}Jasmine, my office.
+
+1398
+01:14:36,880 --> 01:14:39,130
+今天晚上七点我家见  你们两个都来
+{\r原文字幕}Meet me at my house at 7:00, both of you,
+
+1399
+01:14:39,130 --> 01:14:39,430
+好吗
+{\r原文字幕}okay?
+
+1400
+01:14:39,510 --> 01:14:40,640
+好吧
+{\r原文字幕}All right.
+
+1401
+01:14:41,220 --> 01:14:42,930
+她真的打算为她辩护了
+{\r原文字幕}She's really gonna defend her.
+
+1402
+01:14:43,020 --> 01:14:43,300
+是啊
+{\r原文字幕}Yeah,
+
+1403
+01:14:43,300 --> 01:14:45,980
+除非主张认罪协议的罗里先生不让她那么做
+{\r原文字幕}not if Mr. Rory Plea-Deal has anything to say about it.
+
+1404
+01:14:46,060 --> 01:14:47,140
+你说的对
+{\r原文字幕}You right.
+
+1405
+01:14:47,230 --> 01:14:49,400
+我明白了  多谢
+{\r原文字幕}I got it. Thanks.
+
+1406
+01:14:49,810 --> 01:14:51,110
+是地方检察官办公室打来的
+{\r原文字幕}That was the DA's office.
+
+1407
+01:14:51,190 --> 01:14:51,940
+你想解释一下为什么
+{\r原文字幕}You wanna tell me why
+
+1408
+01:14:51,940 --> 01:14:53,730
+他们还没收到葛蕾丝·沃特斯的认罪协议吗
+{\r原文字幕}they don't have the plea from Grace Waters yet?
+
+1409
+01:14:54,610 --> 01:14:57,530
+事情有变  她不想认罪了
+{\r原文字幕}There's been a change of events. She doesn't want to plead guilty.
+
+1410
+01:14:57,610 --> 01:14:59,160
+她想庭审此案
+{\r原文字幕}She wants to try the case.
+
+1411
+01:14:59,240 --> 01:15:01,120
+她负担不起出庭的费用
+{\r原文字幕}She can't afford to go to trial.
+
+1412
+01:15:01,200 --> 01:15:03,700
+我们也负担不起出庭的费用
+{\r原文字幕}This office cannot afford to go to trial.
+
+1413
+01:15:04,160 --> 01:15:05,470
+你应该干什么  你应该让她认罪
+{\r原文字幕}What are you gonna do? You gonna plead.
+
+1414
+01:15:05,470 --> 01:15:06,210
+已经三周过去了
+{\r原文字幕}It's three weeks away.
+
+1415
+01:15:06,290 --> 01:15:07,790
+这就是你打算做的吗
+{\r原文字幕}Is that what you're planning on doing?
+
+1416
+01:15:07,870 --> 01:15:08,870
+是的
+{\r原文字幕}Yes.
+
+1417
+01:15:09,460 --> 01:15:10,290
+很好
+{\r原文字幕}That's great.
+
+1418
+01:15:10,380 --> 01:15:12,390
+你现在突然想当英雄了
+{\r原文字幕}Now all of a sudden you want to be this hero
+
+1419
+01:15:12,390 --> 01:15:13,250
+你想出庭辩护吗
+{\r原文字幕}and you want to try a case?
+
+1420
+01:15:13,340 --> 01:15:14,920
+你还没准备好  我一直在观察你
+{\r原文字幕}You're not ready. I've been watching you.
+
+1421
+01:15:15,010 --> 01:15:16,550
+我给你这个案子是有原因的
+{\r原文字幕}I gave you this for a reason,
+
+1422
+01:15:16,550 --> 01:15:16,880
+你擅长做认罪
+{\r原文字幕}you plea.
+
+1423
+01:15:16,970 --> 01:15:18,120
+你接下来该这么做
+{\r原文字幕}Here's what you're gonna do.
+
+1424
+01:15:18,120 --> 01:15:19,550
+你去监狱
+{\r原文字幕}You're gonna go down to that jailhouse,
+
+1425
+01:15:19,640 --> 01:15:21,180
+让她在认罪书上签字
+{\r原文字幕}and you're gonna get her to sign that plea,
+
+1426
+01:15:21,260 --> 01:15:22,390
+顺利完成此事
+{\r原文字幕}and you're gonna get it done.
+
+1427
+01:15:23,850 --> 01:15:26,480
+没关系  我来做  我来  谢谢
+{\r原文字幕}Never mind, I'll do it. I'll do it. Thanks.
+
+1428
+01:15:29,690 --> 01:15:31,900
+葛蕾丝  我时间不多了  现在
+{\r原文字幕}Grace, I don't have a lot of time. Now...
+
+1429
+01:15:31,980 --> 01:15:34,030
+我觉得我们有足够多的合理性怀疑
+{\r原文字幕}I think we have enough reasonable doubt
+
+1430
+01:15:34,030 --> 01:15:35,780
+去让陪审团注意
+{\r原文字幕}to get that into the jury's mind,
+
+1431
+01:15:35,860 --> 01:15:37,190
+这意味着你可能会被判无罪
+{\r原文字幕}and that means an acquittal.
+
+1432
+01:15:37,820 --> 01:15:39,400
+地方检察官接受认罪协议了吗
+{\r原文字幕}Did the DA take the deal?
+
+1433
+01:15:39,490 --> 01:15:41,490
+不  不  听我说
+{\r原文字幕}No, no, no. No, listen to me.
+
+1434
+01:15:42,030 --> 01:15:43,400
+我知道他死的那天
+{\r原文字幕}I know Sarah and your son
+
+1435
+01:15:43,400 --> 01:15:45,450
+萨拉和你儿子都去过那个房子
+{\r原文字幕}were at the house the day he died.
+
+1436
+01:15:45,540 --> 01:15:47,000
+谁告诉你的
+{\r原文字幕}Who told you that?
+
+1437
+01:15:48,040 --> 01:15:49,410
+这是我的事
+{\r原文字幕}This is my mess.
+
+1438
+01:15:49,500 --> 01:15:51,170
+是我把他们卷进来的
+{\r原文字幕}I dragged them into this,
+
+1439
+01:15:51,170 --> 01:15:53,500
+我不会让我儿子进监狱的
+{\r原文字幕}and I will not let my son go to jail.
+
+1440
+01:15:53,590 --> 01:15:55,420
+是你儿子帮你处理的尸体吗
+{\r原文字幕}Did your son help you get rid of the body?
+
+1441
+01:15:55,500 --> 01:15:58,420
+不  他没有  别再问我这个问题
+{\r原文字幕}No, he did not, and don't you ever ask me that again.
+
+1442
+01:15:58,590 --> 01:16:01,640
+好吧  你听着  我的上司随时可能进来
+{\r原文字幕}Okay, look, my boss is gonna walk into that door any minute,
+
+1443
+01:16:01,720 --> 01:16:04,430
+我要你告诉他你改主意了
+{\r原文字幕}and I need you to tell him that you have changed your mind,
+
+1444
+01:16:04,510 --> 01:16:05,760
+你不想认罪
+{\r原文字幕}and you do not want a plea.
+
+1445
+01:16:05,850 --> 01:16:07,750
+我对地方检察官的唯一要求
+{\r原文字幕}The only thing I asked the DA to do
+
+1446
+01:16:07,750 --> 01:16:10,080
+就是把我关在离我儿子近的监狱
+{\r原文字幕}was to put me in a prison close to my son,
+
+1447
+01:16:10,390 --> 01:16:12,020
+你想让我毁掉这个协议吗  绝不
+{\r原文字幕}and you want me to jeopardize that? No!
+
+1448
+01:16:12,100 --> 01:16:14,480
+-但如果你无罪释放了呢  -你做不到
+{\r原文字幕}- But what if you go free? - You can't do that.
+
+1449
+01:16:14,570 --> 01:16:14,830
+对
+{\r原文字幕}Yeah,
+
+1450
+01:16:14,830 --> 01:16:17,400
+如果你不让我帮你辩护  我没办法做到
+{\r原文字幕}I know I can't if you don't let me fight for you!
+
+1451
+01:16:17,610 --> 01:16:19,900
+求求你  让我帮你辩护吧
+{\r原文字幕}Please, let me fight for you!
+
+1452
+01:16:20,530 --> 01:16:22,530
+我能做到
+{\r原文字幕}I can do it.
+
+1453
+01:16:27,040 --> 01:16:28,830
+茉莉  我就知道你在这里
+{\r原文字幕}Jasmine, I had a feeling you'd be here.
+
+1454
+01:16:28,910 --> 01:16:29,750
+你好
+{\r原文字幕}Hi.
+
+1455
+01:16:31,120 --> 01:16:33,790
+我是罗里·加罗  茉莉的上司
+{\r原文字幕}My name is Rory Garraux. I'm Jasmine's boss.
+
+1456
+01:16:34,380 --> 01:16:37,340
+我认为她一直在向你传递错误的信息
+{\r原文字幕}And I think that she's been giving you some misleading information.
+
+1457
+01:16:38,090 --> 01:16:39,090
+我希望你明白
+{\r原文字幕}I'd like you to understand something.
+
+1458
+01:16:39,170 --> 01:16:41,220
+我们反复看过你的案子
+{\r原文字幕}My office has looked at your case up and down,
+
+1459
+01:16:41,300 --> 01:16:42,920
+我们认为认罪协议是个好主意
+{\r原文字幕}and we think a plea is a good idea.
+
+1460
+01:16:42,920 --> 01:16:44,640
+那样的话  你可以离你儿子近一点
+{\r原文字幕}That way, you can be near your son.
+
+1461
+01:16:44,720 --> 01:16:46,600
+我知道那对你来说很重要  对吧
+{\r原文字幕}I know that's important to you, yes?
+
+1462
+01:16:47,810 --> 01:16:50,310
+所以我今天来的目的是想知道
+{\r原文字幕}So my purpose here today is to find out
+
+1463
+01:16:50,390 --> 01:16:52,940
+你是否依然想认罪
+{\r原文字幕}if it's still your intention to plead guilty.
+
+1464
+01:16:57,020 --> 01:16:59,780
+沃特斯女士  你想认罪吗
+{\r原文字幕}Miss Waters, is it your intention to plead guilty?
+
+1465
+01:17:02,740 --> 01:17:04,070
+我想要庭审
+{\r原文字幕}I wanna go to court.
+
+11466
+01:17:23,220 --> 01:17:27,100
+{\fs15\pos(296.1,87)}会见室
+
+1467
+01:17:24,430 --> 01:17:26,090
+我知道是你说服她这么做的
+{\r原文字幕}I know you talked her into this.
+
+11468
+01:17:27,100 --> 01:17:32,020
+{\fs15\pos(310,145)}在监狱内
+从事任何
+性活动
+都是重罪
+
+1469
+01:17:27,100 --> 01:17:28,640
+这个案子你要是输了
+{\r原文字幕}When you lose this case,
+
+1470
+01:17:29,600 --> 01:17:30,570
+我向你保证
+{\r原文字幕}I promise you,
+
+1471
+01:17:30,570 --> 01:17:33,230
+你会被解雇  你的职业生涯到此为止
+{\r原文字幕}you're fired, and your career's over.
+
+1472
+01:17:39,730 --> 01:17:40,780
+希望我不会因此丢掉我的工作
+{\r原文字幕}Hope I don't lose my job,
+
+1473
+01:17:40,780 --> 01:17:41,990
+但是我查过了  他没有前科
+{\r原文字幕}but I ran him, and he's clean.
+
+1474
+01:17:42,070 --> 01:17:44,070
+该死  他是个行骗高手
+{\r原文字幕}Damn it. He's a con artist.
+
+1475
+01:17:44,070 --> 01:17:45,820
+他可能有好几个化名
+{\r原文字幕}He probably has several different aliases.
+
+1476
+01:17:45,910 --> 01:17:49,860
+好吧  你知道他其他的名字吗
+{\r原文字幕}Well, okay. Uh, do you know any of them,
+
+1477
+01:17:49,860 --> 01:17:50,410
+或者你有指纹之类的吗
+{\r原文字幕}or do you have fingerprints or something?
+
+1478
+01:17:51,080 --> 01:17:52,580
+我的天啊
+{\r原文字幕}Oh, my God. Um...
+
+1479
+01:17:53,330 --> 01:17:55,040
+试试这个  虽然是老照片了
+{\r原文字幕}Try this. It's a long shot,
+
+1480
+01:17:55,040 --> 01:17:56,380
+但看看有没有什么发现
+{\r原文字幕}but see what happens.
+
+1481
+01:17:56,460 --> 01:17:57,690
+好把  亲爱的  我在开玩笑
+{\r原文字幕}Okay. Babe, I was kidding,
+
+1482
+01:17:57,700 --> 01:17:59,500
+很好  又多了一件让我被开除的事
+{\r原文字幕}but great. Another thing to get me fired.
+
+1483
+01:17:59,920 --> 01:18:01,130
+谢谢  亲爱的  好的
+{\r原文字幕}Thanks, babe. Okay.
+
+1484
+01:18:01,380 --> 01:18:03,470
+我要传唤萨拉出庭作证
+{\r原文字幕}Um... I'm gonna call Sarah to the stand.
+
+1485
+01:18:04,170 --> 01:18:05,720
+我不知道  可能会很棘手
+{\r原文字幕}I don't know, that could be tricky.
+
+1486
+01:18:05,800 --> 01:18:07,390
+地方检察官不知道她打过电话给她
+{\r原文字幕}The DA doesn't know that she called her.
+
+1487
+01:18:07,470 --> 01:18:08,120
+但如果他够厉害
+{\r原文字幕}But if he's good,
+
+1488
+01:18:08,120 --> 01:18:09,470
+他可能会从她嘴里套出话来
+{\r原文字幕}he could potentially get it out of her.
+
+1489
+01:18:09,550 --> 01:18:11,770
+不  不会  她很坚强
+{\r原文字幕}No, no, no. No. She's strong.
+
+1490
+01:18:11,850 --> 01:18:13,270
+-我不知道  茉莉  -她很坚强
+{\r原文字幕}- I don't know, Jasmine. - She's strong.
+
+1491
+01:18:13,350 --> 01:18:14,770
+这样真的很冒险
+{\r原文字幕}That's, uh, really risky.
+
+1492
+01:18:14,850 --> 01:18:16,810
+我需要建立她是个好人的人设
+{\r原文字幕}I need to establish that she's a good person,
+
+1493
+01:18:16,900 --> 01:18:18,980
+还有比她最好的朋友更好的人选吗
+{\r原文字幕}and what better person to do that than her best friend?
+
+1494
+01:18:19,060 --> 01:18:20,190
+-对吗  -对的
+{\r原文字幕}- Right? - Yeah.
+
+1495
+01:18:20,480 --> 01:18:21,400
+对  确实是
+{\r原文字幕}Yeah, that's true.
+
+1496
+01:18:21,400 --> 01:18:23,320
+我不知道  我什么都不知道了
+{\r原文字幕}I-I don't know. I don't know anymore.
+
+1497
+01:18:24,780 --> 01:18:28,450
+除了满地血迹和消失的尸体我们还有什么
+{\r原文字幕}Well, what else do we have besides blood pooling and no body? Huh?
+
+1498
+01:18:30,490 --> 01:18:33,250
+好吧  我们只需要合理性怀疑
+{\r原文字幕}Okay. All we need is reasonable doubt.
+
+1499
+01:18:34,250 --> 01:18:35,370
+好吧  我们再来一遍
+{\r原文字幕}Okay, let's just start again.
+
+1500
+01:18:35,460 --> 01:18:37,670
+我们都看了三遍了  这里什么都没有
+{\r原文字幕}This is the third time we've started. Look, there's nothing here.
+
+1501
+01:18:37,750 --> 01:18:38,880
+好吗  没有确凿证据
+{\r原文字幕}Okay? There's no smoking gun.
+
+1502
+01:18:38,960 --> 01:18:40,970
+我们需要找到足够的间接证据
+{\r原文字幕}Well, we need to find enough circumstantial evidence
+
+1503
+01:18:40,970 --> 01:18:41,750
+来证明这一点
+{\r原文字幕}to become one.
+
+1504
+01:18:45,970 --> 01:18:46,800
+怎么了
+{\r原文字幕}What?
+
+1505
+01:18:48,590 --> 01:18:50,390
+没什么  那股激情
+{\r原文字幕}Nothing. The fire.
+
+1506
+01:18:50,930 --> 01:18:51,890
+我们喜欢
+{\r原文字幕}We love it.
+
+1507
+01:18:52,470 --> 01:18:54,430
+-我再看一遍  -我来看这个  茉莉
+{\r原文字幕}- I'll start again. - I'm gonna take this file, Jasmine.
+
+1508
+01:18:54,520 --> 01:18:55,600
+你负责电话记录
+{\r原文字幕}You get the phone records.
+
+1509
+01:19:02,690 --> 01:19:04,150
+开庭陈词
+{\r原文字幕}Opening statements.
+
+1510
+01:19:09,820 --> 01:19:11,490
+陪审团的女士们先生们
+{\r原文字幕}Ladies and gentlemen of the jury.
+
+1511
+01:19:11,830 --> 01:19:16,120
+今天  我们会毫无疑问地证明
+{\r原文字幕}Today, we are gonna prove, without a reasonable doubt,
+
+1512
+01:19:16,910 --> 01:19:17,750
+这个女人
+{\r原文字幕}that this woman...
+
+1513
+01:19:19,290 --> 01:19:21,290
+葛蕾丝·安妮·沃特斯
+{\r原文字幕}Grace Anne Waters,
+
+1514
+01:19:21,790 --> 01:19:26,210
+冷血地谋杀了香农·德肖恩·德隆
+{\r原文字幕}murdered Shannon DeShawn Delong in cold blood.
+
+1515
+01:19:27,630 --> 01:19:28,550
+她怎么做的呢
+{\r原文字幕}How'd she do it?
+
+1516
+01:19:30,340 --> 01:19:31,970
+她用一根棒球棍
+{\r原文字幕}Well, she took a baseball bat,
+
+1517
+01:19:32,680 --> 01:19:33,560
+就像这根
+{\r原文字幕}like this one...
+
+1518
+01:19:34,720 --> 01:19:37,770
+生生把他打死了
+{\r原文字幕}and she beat him to death.
+
+1519
+01:19:39,440 --> 01:19:42,440
+不仅如此  证据将表明她是怎么做的
+{\r原文字幕}Not only that, the evidence is gonna show how she did it.
+
+1520
+01:19:42,730 --> 01:19:44,860
+她的动机能够解释  她为什么要这么做
+{\r原文字幕}The motive will show why she did it.
+
+1521
+01:19:45,820 --> 01:19:46,860
+但告诉人们
+{\r原文字幕}And it's up to you
+
+1522
+01:19:47,240 --> 01:19:50,660
+违背法律的后果是什么  这取决于你们
+{\r原文字幕}to show what happens to people who break the law.
+
+1523
+01:19:51,240 --> 01:19:55,040
+像葛蕾丝·安妮·沃特斯这样的冷血杀手
+{\r原文字幕}People like Grace Anne Waters who are cold-blooded killers.
+
+1524
+01:19:56,040 --> 01:19:57,660
+像她这样  对人的生命
+{\r原文字幕}People with no regard...
+
+1525
+01:19:58,040 --> 01:19:59,410
+毫无敬意的人
+{\r原文字幕}for human life.
+
+1526
+01:20:00,750 --> 01:20:03,250
+这次  你们有机会
+{\r原文字幕}You have a chance, at this time,
+
+1527
+01:20:04,210 --> 01:20:07,170
+把葛蕾丝·安妮·沃特斯  一个杀人犯
+{\r原文字幕}to take Grace Anne Waters, a murderer...
+
+1528
+01:20:08,550 --> 01:20:11,260
+永远地从社会中驱逐出去
+{\r原文字幕}off the streets forever.
+
+1529
+01:20:17,310 --> 01:20:18,350
+布莱恩特女士
+{\r原文字幕}Mrs. Bryant?
+
+1530
+01:20:24,980 --> 01:20:26,610
+布莱恩特女士
+{\r原文字幕}Mrs. Bryant.
+
+1531
+01:20:27,860 --> 01:20:29,610
+你的开庭陈词
+{\r原文字幕}Opening statements?
+
+1532
+01:20:43,210 --> 01:20:45,760
+你们已经听过了控方陈述
+{\r原文字幕}You've heard the prosecution assert
+
+1533
+01:20:46,210 --> 01:20:49,170
+说有证据证明她是有罪的
+{\r原文字幕}that there is evidence to prove that she is guilty.
+
+1534
+01:20:50,470 --> 01:20:51,930
+我想让你们知道的是
+{\r原文字幕}Well, we want you to know...
+
+1535
+01:20:52,880 --> 01:20:56,390
+同样的这些证据
+{\r原文字幕}that that same evidence will prove
+
+1536
+01:20:56,470 --> 01:20:58,960
+将证明她是无罪的
+{\r原文字幕}that she is not guilty.
+
+1537
+01:20:59,270 --> 01:21:02,640
+葛蕾丝·沃特斯不是一名冷血的杀手
+{\r原文字幕}Grace Waters is not a cold-blooded killer.
+
+1538
+01:21:02,730 --> 01:21:04,310
+她是一个奶奶
+{\r原文字幕}She's a grandmother.
+
+1539
+01:21:04,810 --> 01:21:07,020
+她给流浪汉食物
+{\r原文字幕}She feeds the homeless.
+
+1540
+01:21:07,480 --> 01:21:09,530
+她在主日学校教书
+{\r原文字幕}She teaches Sunday school.
+
+1541
+01:21:10,240 --> 01:21:11,780
+她烤饼干
+{\r原文字幕}She bakes cookies.
+
+1542
+01:21:13,030 --> 01:21:14,160
+看看她吧
+{\r原文字幕}Just look at her.
+
+1543
+01:21:14,700 --> 01:21:15,570
+看看她
+{\r原文字幕}Look at her.
+
+1544
+01:21:16,240 --> 01:21:17,960
+对于她而言  这就像一场噩梦
+{\r原文字幕}This is a nightmare for her,
+
+1545
+01:21:18,290 --> 01:21:22,460
+对于任何一个以谋杀罪受审的
+{\r原文字幕}and as it can be for anyone who is on trial for murder
+
+1546
+01:21:22,540 --> 01:21:23,980
+无辜的人来说都是
+{\r原文字幕}and is innocent.
+
+1547
+01:21:24,500 --> 01:21:26,500
+葛蕾丝爱他的丈夫
+{\r原文字幕}Grace loved her husband,
+
+1548
+01:21:26,590 --> 01:21:29,590
+她没有导致她丈夫的失踪
+{\r原文字幕}and she did not cause his disappearance.
+
+1549
+01:21:29,670 --> 01:21:31,760
+我之所以说  "失踪"
+{\r原文字幕}And the reason I say "disappearance"
+
+1550
+01:21:31,840 --> 01:21:34,800
+是因为  从证据来看  一直以来
+{\r原文字幕}is because the evidence will show that there is, not now,
+
+1551
+01:21:34,890 --> 01:21:38,720
+直至现在  都没有证据表明有谋杀发生
+{\r原文字幕}nor has there ever been, any evidence that a murder happened.
+
+1552
+01:21:38,760 --> 01:21:40,970
+没有发现尸体
+{\r原文字幕}No body found.
+
+1553
+01:21:41,850 --> 01:21:44,770
+这是因为她没有杀他
+{\r原文字幕}That's because she did not murder him.
+
+1554
+01:21:46,480 --> 01:21:48,270
+超越合理怀疑
+{\r原文字幕}Beyond reasonable doubt.
+
+1555
+01:21:49,690 --> 01:21:52,510
+你们得忽略之前的结论
+{\r原文字幕}That's the conclusion you need to get past
+
+1556
+01:21:52,510 --> 01:21:54,180
+才能做出裁决
+{\r原文字幕}in order to reach a verdict.
+
+1557
+01:21:55,240 --> 01:21:57,280
+这个案子还有很多疑点
+{\r原文字幕}There are a lot of doubts here.
+
+1558
+01:21:58,950 --> 01:22:00,740
+它们都不合理
+{\r原文字幕}And they're all beyond reasonable.
+
+1559
+01:22:02,450 --> 01:22:05,780
+你们会发现的
+{\r原文字幕}You'll see. You'll see.
+
+1560
+01:22:09,000 --> 01:22:10,170
+说得真好
+{\r原文字幕}Wow, that was good.
+
+1561
+01:22:10,300 --> 01:22:11,840
+不用怀疑她
+{\r原文字幕}Mm. Don't doubt her.
+
+1562
+01:22:11,920 --> 01:22:14,670
+当她不再怀疑自己的时候会容易得多
+{\r原文字幕}It'll be a lot easier when she stops doubting herself.
+
+1563
+01:22:15,050 --> 01:22:16,090
+传唤你的第一位证人
+{\r原文字幕}Call your first witness.
+
+1564
+01:22:16,180 --> 01:22:18,720
+指控方传唤马歇尔·托马斯警探
+{\r原文字幕}Prosecution calls Detective Marshall Thomas.
+
+1565
+01:22:19,140 --> 01:22:21,320
+以作伪证应负惩罚为后果
+{\r原文字幕}Do you solemnly affirm that you will tell the truth,
+
+1566
+01:22:21,320 --> 01:22:23,210
+你庄严承诺  尽其所知
+{\r原文字幕}the whole truth and nothing but the truth
+
+1567
+01:22:23,210 --> 01:22:24,430
+所述之言纯属实言并且无任何隐瞒
+{\r原文字幕}under the pains and penalties of perjury?
+
+1568
+01:22:24,520 --> 01:22:26,310
+-我宣誓  -托马斯警探
+{\r原文字幕}- I do. - Detective Thomas...
+
+1569
+01:22:27,190 --> 01:22:30,820
+你是被叫到布鲁本巷1828号的警察吗
+{\r原文字幕}were you the officer that was called to 1828 Bruben Lane?
+
+1570
+01:22:30,900 --> 01:22:31,730
+是的
+{\r原文字幕}Yes.
+
+1571
+01:22:31,820 --> 01:22:33,230
+你们找到尸体了吗
+{\r原文字幕}Did you find a body?
+
+1572
+01:22:33,320 --> 01:22:34,530
+我们没有
+{\r原文字幕}No, we didn't.
+
+1573
+01:22:34,610 --> 01:22:37,410
+所以你们假设这是死者的血液
+{\r原文字幕}So you assumed that this was blood loss.
+
+1574
+01:22:37,910 --> 01:22:39,740
+不是假设  我们检测过DNA
+{\r原文字幕}No assumption, we have DNA testing.
+
+1575
+01:22:39,820 --> 01:22:43,330
+DNA检测能确定血是什么时候留下的吗
+{\r原文字幕}Well, can your DNA test determine when that blood was left there?
+
+1576
+01:22:43,410 --> 01:22:45,210
+不能  血迹已经被清理干净
+{\r原文字幕}No, the stains were cleaned up.
+
+1577
+01:22:45,290 --> 01:22:46,920
+所以现场血迹有可能
+{\r原文字幕}So it's a possibility that the blood
+
+1578
+01:22:46,920 --> 01:22:48,420
+在那里存在了很长一段时间
+{\r原文字幕}could have been left there over time?
+
+1579
+01:22:49,540 --> 01:22:51,000
+可能吧  但是这不
+{\r原文字幕}I suppose, but that's not--
+
+1580
+01:22:51,090 --> 01:22:53,460
+比如不同时间多次累加到等量血迹
+{\r原文字幕}Like over several different times to add up to that same amount?
+
+1581
+01:22:54,710 --> 01:22:55,720
+这几乎不可能
+{\r原文字幕}That's highly unlikely.
+
+1582
+01:22:55,800 --> 01:22:56,970
+我没问你可能不可能
+{\r原文字幕}I didn't ask if it was likely,
+
+1583
+01:22:57,050 --> 01:22:59,800
+我问的是  理论上有没有可能发生
+{\r原文字幕}I asked was it reasonably possible that that could happen?
+
+1584
+01:23:01,050 --> 01:23:03,390
+有  任何事都有可能
+{\r原文字幕}Yes. Anything's possible.
+
+1585
+01:23:04,270 --> 01:23:05,680
+我没有其他问题了
+{\r原文字幕}No further questions.
+
+1586
+01:23:06,140 --> 01:23:07,440
+这种血迹喷溅
+{\r原文字幕}The blood spatter.
+
+1587
+01:23:07,520 --> 01:23:11,100
+钝器伤的喷溅在这个位置正常吗
+{\r原文字幕}Is that normal in this position for blunt force trauma?
+
+1588
+01:23:11,440 --> 01:23:12,270
+是的
+{\r原文字幕}Yes.
+
+1589
+01:23:12,980 --> 01:23:15,360
+我看到这个照片  我看到
+{\r原文字幕}See, so when I looked at this, I saw--
+
+1590
+01:23:15,440 --> 01:23:17,530
+反对  法官阁下  这不是问题
+{\r原文字幕}Objection, Your Honor. Is there a question here?
+
+1591
+01:23:17,610 --> 01:23:18,820
+反对有效
+{\r原文字幕}Sustained.
+
+1592
+01:23:21,320 --> 01:23:24,220
+现场血迹有可能是原始血迹已经存在时
+{\r原文字幕}So the trajectory of the blood could have been from
+
+1593
+01:23:24,230 --> 01:23:26,580
+又被其他东西击中  所形成的吗
+{\r原文字幕}something hitting it after it was already there?
+
+1594
+01:23:27,540 --> 01:23:28,420
+是的
+{\r原文字幕}Yes.
+
+1595
+01:23:29,250 --> 01:23:30,420
+我没有其他问题了
+{\r原文字幕}No further questions.
+
+1596
+01:23:32,250 --> 01:23:35,090
+你记得你八月十七日晚上在哪里吗
+{\r原文字幕}Do you remember where you were the night of August the 17th?
+
+1597
+01:23:35,170 --> 01:23:37,380
+你吸毒吗
+{\r原文字幕}Do you use illegal narcotics?
+
+1598
+01:23:37,630 --> 01:23:39,430
+你跟德隆先生一起工作吗
+{\r原文字幕}So you worked with Mr. Delong?
+
+1599
+01:23:39,930 --> 01:23:41,930
+你觉得他是个有责任心的年轻人吗
+{\r原文字幕}Did you find him to be a responsible young man?
+
+1600
+01:23:42,010 --> 01:23:43,220
+你跟他上过床吗  女士
+{\r原文字幕}Have you slept with him, ma'am?
+
+1601
+01:23:43,300 --> 01:23:44,970
+-反对  -反对有效
+{\r原文字幕}- Objection. - Sustained.
+
+1602
+01:23:45,520 --> 01:23:48,230
+当他要求给你拍照片时  他有调情吗
+{\r原文字幕}When he asked to take your picture, was he flirty?
+
+1603
+01:23:48,310 --> 01:23:49,020
+你让他这么做了吗
+{\r原文字幕}Did you let him?
+
+1604
+01:23:49,020 --> 01:23:50,940
+反对  法官阁下  不能作为证词
+{\r原文字幕}Objection, Your Honor, move to strike.
+
+1605
+01:23:51,020 --> 01:23:52,650
+-反对理由  -法官阁下
+{\r原文字幕}- On what grounds? - Your Honor
+
+1606
+01:23:52,730 --> 01:23:54,320
+别让我再警告你
+{\r原文字幕}Don't make me warn you again.
+
+1607
+01:23:54,400 --> 01:23:56,400
+你在商店里见过他吗
+{\r原文字幕}Did you meet him there in the store?
+
+1608
+01:23:57,030 --> 01:23:58,400
+你知道他已经结婚了吗
+{\r原文字幕}Did you know he was married?
+
+1609
+01:23:58,490 --> 01:24:00,910
+你见过她和几个男人一起来教堂
+{\r原文字幕}How many men have you seen her in church with?
+
+1610
+01:24:00,990 --> 01:24:02,820
+她跟这些男人有感情关系吗
+{\r原文字幕}Was she affectionate with these men?
+
+1611
+01:24:02,910 --> 01:24:03,910
+反对  法官阁下
+{\r原文字幕}Objection, Your Honor.
+
+1612
+01:24:03,990 --> 01:24:05,120
+反对无效
+{\r原文字幕}Overruled.
+
+1613
+01:24:06,330 --> 01:24:07,410
+我们现在怎么样
+{\r原文字幕}How we doing?
+
+1614
+01:24:07,830 --> 01:24:10,420
+控方正在推翻我们的证词
+{\r原文字幕}Well, the prosecutor is blowing us out the water.
+
+1615
+01:24:11,620 --> 01:24:13,460
+现在  你知道我没给你儿子打电话
+{\r原文字幕}Now, you know I did not call your son.
+
+1616
+01:24:14,210 --> 01:24:15,050
+谢谢
+{\r原文字幕}Thank you.
+
+1617
+01:24:15,210 --> 01:24:17,710
+但是我可以叫萨拉出庭作证
+{\r原文字幕}But Sarah I can call to the stand,
+
+1618
+01:24:18,420 --> 01:24:20,610
+然后  通过问是不是她杀了香农
+{\r原文字幕}and, um, I can raise reasonable doubt
+
+1619
+01:24:20,610 --> 01:24:22,390
+我可以提出合理怀疑
+{\r原文字幕}by simply asking if she killed Shannon.
+
+1620
+01:24:22,470 --> 01:24:23,470
+-听我说  -不行
+{\r原文字幕}-Listen. - No.
+
+1621
+01:24:24,100 --> 01:24:26,770
+你没听我说吗  她是我朋友
+{\r原文字幕}Now, you don't listen, do you? That is my friend.
+
+1622
+01:24:27,640 --> 01:24:30,140
+葛蕾丝  我真的觉得我们有机会
+{\r原文字幕}Grace, I really feel like we have an in there
+
+1623
+01:24:30,230 --> 01:24:31,480
+-只要我们  -茉莉
+{\r原文字幕}- if we can just. - Jasmine.
+
+1624
+01:24:31,560 --> 01:24:32,900
+你敢做  我保证
+{\r原文字幕}Do it, and I promise you,
+
+1625
+01:24:32,900 --> 01:24:35,730
+我当场就承认我有罪
+{\r原文字幕}I will stand up and scream I did it, that I'm guilty.
+
+1626
+01:24:36,110 --> 01:24:38,860
+好吧
+{\r原文字幕}Okay.
+
+1627
+01:24:40,280 --> 01:24:41,110
+知道了
+{\r原文字幕}All right.
+
+1628
+01:24:54,130 --> 01:24:57,550
+控方的证人们太有力了
+{\r原文字幕}Wow, the prosecution has some unbelievably strong witnesses.
+
+1629
+01:24:57,630 --> 01:24:59,460
+-我知道  -那你准备怎么办呢
+{\r原文字幕}- I know. - So what are you gonna do?
+
+1630
+01:24:59,550 --> 01:25:01,170
+我必须叫萨拉出庭作证
+{\r原文字幕}I have to call Sarah to the stand.
+
+1631
+01:25:01,260 --> 01:25:03,250
+茉莉  如果你不去盘问她
+{\r原文字幕}Jasmine, if you don't go after her
+
+1632
+01:25:03,250 --> 01:25:04,180
+告诉陪审团一些东西
+{\r原文字幕}and give the jury something...
+
+1633
+01:25:04,260 --> 01:25:05,390
+你认为我不知道吗
+{\r原文字幕}Don't you think I know that?
+
+1634
+01:25:05,470 --> 01:25:07,510
+但你不能只让她当个品德证人
+{\r原文字幕}Okay, but you need her to be more than just a character witness.
+
+1635
+01:25:07,600 --> 01:25:09,640
+这个我也知道  我不能突然问她其他问题
+{\r原文字幕}I know that, too. And I can't go left on her,
+
+1636
+01:25:09,720 --> 01:25:10,680
+不然葛蕾丝就输了
+{\r原文字幕}or Grace'll lose it.
+
+1637
+01:25:10,770 --> 01:25:13,650
+我还不能问她香农和葛蕾丝的关系
+{\r原文字幕}And I can't ask her about Shannon and Grace's relationship,
+
+1638
+01:25:13,730 --> 01:25:15,990
+因为指控方会用这个当作新的动机
+{\r原文字幕}because that'll give the prosecution another motive.
+
+1639
+01:25:15,990 --> 01:25:17,650
+我知道  唐尼  好吗
+{\r原文字幕}I got it, Donnie. Okay?
+
+1640
+01:25:17,900 --> 01:25:18,730
+好
+{\r原文字幕}Okay.
+
+1641
+01:25:19,030 --> 01:25:20,650
+我只是想帮忙  好吗
+{\r原文字幕}You know I'm just trying to help, right?
+
+1642
+01:25:21,240 --> 01:25:22,320
+-谢谢  -不客气  女士
+{\r原文字幕}- Thanks. - Yes, ma'am.
+
+1643
+01:25:26,450 --> 01:25:27,660
+宝贝  睡觉吧
+{\r原文字幕}Babe, sleep.
+
+1644
+01:25:28,490 --> 01:25:29,540
+睡不着
+{\r原文字幕}I can't.
+
+1645
+01:25:30,330 --> 01:25:31,410
+会没事的
+{\r原文字幕}It's gonna be fine.
+
+1646
+01:25:31,830 --> 01:25:32,660
+会的
+{\r原文字幕}It will.
+
+1647
+01:25:33,080 --> 01:25:35,290
+我只希望萨拉别搞砸了
+{\r原文字幕}I just hope Sarah doesn't blow it.
+
+1648
+01:25:36,420 --> 01:25:38,800
+你  唐尼和特利萨已经帮她准备好了吧
+{\r原文字幕}Well, you, Donnie, and Tilsa prepped her, right?
+
+1649
+01:25:39,210 --> 01:25:40,050
+对  但是
+{\r原文字幕}Yeah, but...
+
+1650
+01:25:42,720 --> 01:25:44,470
+我只剩她了
+{\r原文字幕}she's all I have.
+
+1651
+01:25:45,590 --> 01:25:48,180
+别紧张  我明天会早点下班
+{\r原文字幕}Stop stressing. I'm gonna be off early tomorrow.
+
+1652
+01:25:48,260 --> 01:25:49,730
+我会尽快赶过去
+{\r原文字幕}I'm gonna get there as soon as I can.
+
+1653
+01:25:49,730 --> 01:25:51,220
+我会看着你把它拿下的  好吗
+{\r原文字幕}I'm gonna watch you knock it out, okay?
+
+1654
+01:25:53,020 --> 01:25:53,890
+现在  睡觉吧
+{\r原文字幕}Now, go to sleep.
+
+1655
+01:25:57,190 --> 01:25:58,270
+米勒女士
+{\r原文字幕}Miss Miller,
+
+1656
+01:25:58,730 --> 01:26:02,320
+你能告诉法庭你和葛蕾丝的关系吗
+{\r原文字幕}can you tell the court about your relationship with Grace?
+
+1657
+01:26:05,530 --> 01:26:06,700
+我们是好的朋友
+{\r原文字幕}We're best friends.
+
+1658
+01:26:08,410 --> 01:26:10,330
+你们的关系有多好
+{\r原文字幕}And how close are you two?
+
+1659
+01:26:11,370 --> 01:26:14,370
+她就像是我的妹妹
+{\r原文字幕}She's like the sister I never had.
+
+1660
+01:26:16,920 --> 01:26:19,840
+你们认识多久了  米勒女士
+{\r原文字幕}And how long have you known each other, Miss Miller?
+
+1661
+01:26:20,670 --> 01:26:21,670
+六年了
+{\r原文字幕}For six years.
+
+1662
+01:26:22,880 --> 01:26:25,090
+在认识她的这段时间里  米勒女士
+{\r原文字幕}And in that time of knowing her, Miss Miller,
+
+1663
+01:26:25,630 --> 01:26:29,760
+你见过葛蕾丝很暴力或者很愤怒吗
+{\r原文字幕}have you ever seen Grace violent or angry?
+
+1664
+01:26:30,390 --> 01:26:32,720
+没有
+{\r原文字幕}Oh, no. Oh, no.
+
+1665
+01:26:33,270 --> 01:26:36,770
+哪怕在该动粗的时候她也不是个暴力的人
+{\r原文字幕}She's not a violent person, even when she should be.
+
+1666
+01:26:36,850 --> 01:26:38,230
+你这话什么意思
+{\r原文字幕}What do you mean by that?
+
+1667
+01:26:39,270 --> 01:26:42,650
+我见过有人很刻薄地对待葛蕾丝
+{\r原文字幕}I have seen people be very mean to Grace,
+
+1668
+01:26:42,730 --> 01:26:44,570
+但是她依然为他们祈祷
+{\r原文字幕}and she just prayed for them.
+
+1669
+01:26:45,280 --> 01:26:48,530
+现在  米勒女士  控方想让我们相信
+{\r原文字幕}Now, the prosecution wants us to believe, Miss Miller,
+
+1670
+01:26:48,620 --> 01:26:52,080
+葛蕾丝是一个冷血的杀手
+{\r原文字幕}that Grace is a cold-blooded murderer.
+
+1671
+01:26:52,160 --> 01:26:54,160
+-反对  -反对有效
+{\r原文字幕}- Objection. - Sustained.
+
+1672
+01:26:54,620 --> 01:26:56,790
+最后警告  布莱恩特女士
+{\r原文字幕}I'm not gonna warn you again, Mrs. Bryant.
+
+1673
+01:26:56,870 --> 01:26:58,420
+只问问题
+{\r原文字幕}Ask a question.
+
+1674
+01:27:02,170 --> 01:27:03,210
+米勒女士
+{\r原文字幕}Miss Miller,
+
+1675
+01:27:03,550 --> 01:27:08,010
+葛蕾丝有能力杀人吗
+{\r原文字幕}is Grace capable of murdering someone?
+
+1676
+01:27:10,300 --> 01:27:13,140
+葛蕾丝吗  不  不会的
+{\r原文字幕}G-Grace? Oh, no. No, no.
+
+1677
+01:27:13,680 --> 01:27:15,980
+她永远不会伤害任何人  她不会
+{\r原文字幕}She would never hurt anyone. She wouldn't.
+
+1678
+01:27:16,390 --> 01:27:19,520
+她有能力用球棒打人吗
+{\r原文字幕}Is she capable of beating someone with a bat?
+
+1679
+01:27:21,060 --> 01:27:22,480
+绝对没有
+{\r原文字幕}Absolutely not.
+
+1680
+01:27:24,190 --> 01:27:25,400
+我没有其他问题了
+{\r原文字幕}No further questions.
+
+1681
+01:27:25,900 --> 01:27:28,530
+谢谢  米勒女士
+{\r原文字幕}Thank you, Miss Miller.
+
+1682
+01:27:33,240 --> 01:27:34,200
+米勒女士
+{\r原文字幕}Miss Miller,
+
+1683
+01:27:34,290 --> 01:27:36,830
+你说过你们是好朋友  对吗
+{\r原文字幕}you say the two of you were close friends?
+
+1684
+01:27:37,620 --> 01:27:38,500
+对
+{\r原文字幕}Yes.
+
+1685
+01:27:38,580 --> 01:27:41,130
+当她有麻烦时会打电话给你吗
+{\r原文字幕}So would she call you when she was in trouble?
+
+1686
+01:27:41,210 --> 01:27:42,040
+不
+{\r原文字幕}No.
+
+1687
+01:27:42,840 --> 01:27:45,050
+-她不会吗  -我意思是  是的
+{\r原文字幕}- She wouldn't? - I mean, yes.
+
+1688
+01:27:45,130 --> 01:27:46,420
+是的  她会
+{\r原文字幕}Yes, she would.
+
+1689
+01:27:46,920 --> 01:27:48,300
+八月十七日晚
+{\r原文字幕}Well, did she call you on the...
+
+1690
+01:27:48,380 --> 01:27:50,340
+她给你打过电话吗
+{\r原文字幕}the night in question, August 17th?
+
+1691
+01:27:55,600 --> 01:27:57,200
+我知道你想保护你的朋友
+{\r原文字幕}I know you want to protect your friend.
+
+1692
+01:27:57,200 --> 01:27:58,140
+反对  法官阁下
+{\r原文字幕}Objection, Your Honor.
+
+1693
+01:27:58,230 --> 01:27:59,560
+反对有效
+{\r原文字幕}Sustained.
+
+1694
+01:28:00,520 --> 01:28:02,860
+米勒女士  你发过誓你所说皆是事实
+{\r原文字幕}Miss Miller, you are under oath to tell the truth.
+
+1695
+01:28:02,940 --> 01:28:06,030
+八月十七日晚她给你打过电话吗
+{\r原文字幕}Did she call you the night of August 17th?
+
+1696
+01:28:08,700 --> 01:28:11,490
+打了
+{\r原文字幕}Uh... Yes.
+
+1697
+01:28:11,950 --> 01:28:13,700
+你们说了什么
+{\r原文字幕}What did you talk about?
+
+1698
+01:28:14,450 --> 01:28:16,330
+商量怎么给流浪汉提供食物
+{\r原文字幕}How we were gonna feed the homeless.
+
+1699
+01:28:16,870 --> 01:28:18,710
+她具体说了些什么
+{\r原文字幕}What exactly did she say?
+
+1700
+01:28:18,910 --> 01:28:21,500
+只是说她对此很兴奋  然后
+{\r原文字幕}Just that she was excited about it, and...
+
+1701
+01:28:22,000 --> 01:28:25,340
+我们聊了一会儿她儿子  马尔科姆
+{\r原文字幕}we talked about her son, Malcolm, for a while.
+
+1702
+01:28:27,050 --> 01:28:28,670
+你们聊了多久
+{\r原文字幕}How long did you speak?
+
+1703
+01:28:30,010 --> 01:28:31,300
+大概十五分钟
+{\r原文字幕}About 15 minutes.
+
+1704
+01:28:33,300 --> 01:28:34,430
+那好吧
+{\r原文字幕}Okay. Well...
+
+1705
+01:28:35,510 --> 01:28:38,140
+电话记录显示
+{\r原文字幕}the, uh, phone record shows that
+
+1706
+01:28:38,730 --> 01:28:42,150
+你们的通话时间少于两分钟
+{\r原文字幕}the two of you talked for less than two minutes.
+
+1707
+01:28:42,400 --> 01:28:43,440
+是这样吗
+{\r原文字幕}Is that about right?
+
+1708
+01:28:43,520 --> 01:28:44,360
+反对
+{\r原文字幕}Objection!
+
+1709
+01:28:45,730 --> 01:28:46,900
+反对理由
+{\r原文字幕}On what grounds?
+
+1710
+01:28:47,120 --> 01:28:49,940
+上述通话记录并未作为呈堂证供
+{\r原文字幕}This particular phone record was not in discovery.
+
+1711
+01:28:50,360 --> 01:28:51,190
+请上前
+{\r原文字幕}Approach.
+
+1712
+01:28:56,910 --> 01:28:59,820
+法官大人  辩方并未被告知有此通话记录
+{\r原文字幕}Your Honor, the defense was not given this phone record.
+
+1713
+01:28:59,820 --> 01:29:01,750
+法官大人  如果你详细查看文件清单
+{\r原文字幕}Your Honor, if you look at the list of documents,
+
+1714
+01:29:01,750 --> 01:29:03,080
+该通话记录在清单上
+{\r原文字幕}it's on discovery.
+
+1715
+01:29:03,080 --> 01:29:05,320
+但是  法官大人  我们并不知道
+{\r原文字幕}But, Your Honor, we did not get this in discovery,
+
+1716
+01:29:05,320 --> 01:29:08,080
+该通话记录的存在  也没有时间查证
+{\r原文字幕}this particular phone record, nor have we had the time to.
+
+1717
+01:29:08,080 --> 01:29:11,950
+这上面说此记录数月前就已提供给你们
+{\r原文字幕}It says here that they were given months ago.
+
+1718
+01:29:13,890 --> 01:29:16,470
+我三周前才接手此案件
+{\r原文字幕}Well, I was just given this case three weeks ago, and there was--
+
+1719
+01:29:16,470 --> 01:29:18,060
+法官大人  我们不应为
+{\r原文字幕}Your Honor, we can't be held responsible
+
+1720
+01:29:18,060 --> 01:29:19,460
+布莱恩特女士的无能承担责任
+{\r原文字幕}for Miss Bryant's incompetence here.
+
+1721
+01:29:19,460 --> 01:29:20,390
+她早已拿到记录
+{\r原文字幕}She had them.
+
+1722
+01:29:20,480 --> 01:29:21,930
+你继续
+{\r原文字幕}You may continue.
+
+1723
+01:29:22,020 --> 01:29:23,270
+谢谢  法官大人
+{\r原文字幕}Thank you, Your Honor.
+
+1724
+01:29:24,980 --> 01:29:26,150
+但是  法官大人  如果我们能
+{\r原文字幕}But, Your Honor, if we can...
+
+1725
+01:29:26,320 --> 01:29:29,020
+请遵守审判规则  布莱恩特女士
+{\r原文字幕}Welcome to trial, Mrs. Bryant.
+
+1726
+01:29:29,520 --> 01:29:30,770
+请立即回到你的座位
+{\r原文字幕}Now, step away.
+
+1727
+01:29:45,120 --> 01:29:45,960
+好的
+{\r原文字幕}Okay.
+
+1728
+01:29:47,790 --> 01:29:48,880
+我说到哪里了
+{\r原文字幕}Where was I?
+
+1729
+01:29:50,340 --> 01:29:51,340
+通话记录
+{\r原文字幕}Phone records.
+
+1730
+01:29:52,590 --> 01:29:53,670
+根据记录显示
+{\r原文字幕}Now, they show...
+
+1731
+01:29:54,380 --> 01:29:56,980
+你们的通话不到两分钟  对吗
+{\r原文字幕}that you spoke for less than two minutes, right?
+
+1732
+01:29:59,260 --> 01:30:00,430
+我确实记不清了
+{\r原文字幕}I-I really don't remember.
+
+1733
+01:30:00,430 --> 01:30:01,850
+时间太久了
+{\r原文字幕}It's been so long ago.
+
+1734
+01:30:02,060 --> 01:30:04,390
+或许你还记得通话之后你做了什么
+{\r原文字幕}Well, maybe you remember what you did after the call.
+
+1735
+01:30:04,700 --> 01:30:05,520
+你做什么了吗
+{\r原文字幕}What did you do?
+
+1736
+01:30:06,020 --> 01:30:08,860
+很晚了  我去睡了
+{\r原文字幕}Well, it was late, so I went to bed.
+
+1737
+01:30:09,520 --> 01:30:12,910
+那么为什么在几分钟后
+{\r原文字幕}Well, then why was your cell phone used
+
+1738
+01:30:12,960 --> 01:30:14,980
+葛蕾丝家附近的信号塔
+{\r原文字幕}and pinged to a cell tower
+
+1739
+01:30:15,000 --> 01:30:17,150
+收到了你使用手机的数据信息
+{\r原文字幕}near Grace's home a few moments later?
+
+1740
+01:30:18,360 --> 01:30:20,220
+我不记得了
+{\r原文字幕}I-I... I don't recall.
+
+1741
+01:30:20,220 --> 01:30:22,960
+她的电话记录显示有你的来电
+{\r原文字幕}Her phone records show an incoming call from you.
+
+1742
+01:30:23,000 --> 01:30:24,510
+你给她打过电话吗
+{\r原文字幕}Did you call her?
+
+1743
+01:30:25,220 --> 01:30:27,670
+米勒女士  在先前的证词中你明确表示
+{\r原文字幕}Miss Miller, you made it very clear earlier in your testimony
+
+1744
+01:30:27,670 --> 01:30:28,920
+你们是好朋友
+{\r原文字幕}that you two are friends.
+
+1745
+01:30:29,600 --> 01:30:31,280
+我明白你十分关心她
+{\r原文字幕}I understand, you care for her deeply.
+
+1746
+01:30:31,820 --> 01:30:34,200
+-你是不是在包庇她  -我没有
+{\r原文字幕}- Are you covering for her now? - No.
+
+1747
+01:30:34,400 --> 01:30:36,430
+那你能解释这些通话记录吗
+{\r原文字幕}Then can you please clear up these phone records?
+
+1748
+01:30:36,510 --> 01:30:38,890
+她住在罗特维尔县  这地方很偏远
+{\r原文字幕}She lives in Rotwell County. It's very rural.
+
+1749
+01:30:39,120 --> 01:30:41,580
+她给你打了一个电话  你打给她两次
+{\r原文字幕}She called you once, you called her twice.
+
+1750
+01:30:41,580 --> 01:30:42,220
+为什么
+{\r原文字幕}Why?
+
+1751
+01:30:42,590 --> 01:30:44,560
+-我记不清了  -通话记录上都有
+{\r原文字幕}- I don't remember. - It's on the phone records.
+
+1752
+01:30:44,560 --> 01:30:46,890
+她打给你  你们说了不到两分钟
+{\r原文字幕}She called you, you spoke for less than two minutes.
+
+1753
+01:30:47,230 --> 01:30:49,730
+然后你去了她家  又打给她
+{\r原文字幕}Then you went to her house, you called her,
+
+1754
+01:30:49,730 --> 01:30:51,070
+然后你回到了你家
+{\r原文字幕}then you were at your house.
+
+1755
+01:30:51,070 --> 01:30:53,470
+你四十五分钟后再次打给她  这是怎么回事
+{\r原文字幕}You called her again 45 minutes later. Why?
+
+1756
+01:30:53,900 --> 01:30:54,980
+我记不清了
+{\r原文字幕}I don't remember.
+
+1757
+01:30:54,990 --> 01:30:56,540
+米勒女士  你可知道
+{\r原文字幕}Miss Miller, do you understand
+
+1758
+01:30:56,540 --> 01:30:58,740
+你会因伪证罪被判入狱吗
+{\r原文字幕}that you can be put in jail for perjury?
+
+1759
+01:30:58,900 --> 01:31:00,620
+你知道什么是伪证罪吧
+{\r原文字幕}You do know what perjury is, right?
+
+11760
+01:31:03,210 --> 01:31:05,380
+{\pos(358,78)\fs10}非公勿入
+
+1761
+01:31:06,580 --> 01:31:07,500
+法官大人
+{\r原文字幕}Your Honor...
+
+1762
+01:31:10,840 --> 01:31:12,340
+证人请回答
+{\r原文字幕}The witness will answer.
+
+1763
+01:31:16,280 --> 01:31:17,680
+她告诉我她杀死了他
+{\r原文字幕}She told me that she killed him.
+
+1764
+01:31:21,180 --> 01:31:22,850
+葛蕾丝  我很抱歉
+{\r原文字幕}I'm sorry, Grace.
+
+1765
+01:31:27,060 --> 01:31:28,230
+我没有其他问题了
+{\r原文字幕}No further questions.
+
+1766
+01:31:32,860 --> 01:31:34,840
+布莱恩特女士  你还要问的吗
+{\r原文字幕}Mrs. Bryant, your witness.
+
+1767
+01:31:36,530 --> 01:31:38,070
+没有其他问题  法官大人
+{\r原文字幕}No further questions, Your Honor.
+
+1768
+01:31:38,150 --> 01:31:39,110
+好的
+{\r原文字幕}Okay.
+
+1769
+01:31:39,950 --> 01:31:40,910
+你可以下去了
+{\r原文字幕}You may step down.
+
+1770
+01:31:45,060 --> 01:31:47,870
+布莱恩特女士  辩方是否终止辩诉
+{\r原文字幕}Is the defense resting, Mrs. Bryant?
+
+1771
+01:31:48,540 --> 01:31:49,790
+辩方请求终止
+{\r原文字幕}The defense rests.
+
+1772
+01:31:50,670 --> 01:31:52,960
+控辩于上午九点终止
+{\r原文字幕}Closing arguments in the morning at 9:00 a.M.
+
+1773
+01:31:53,120 --> 01:31:54,130
+现在休庭
+{\r原文字幕}We're adjourned.
+
+1774
+01:31:54,480 --> 01:31:55,550
+全体起立
+{\r原文字幕}All rise.
+
+1775
+01:32:01,720 --> 01:32:03,350
+你尽力了
+{\r原文字幕}You tried.
+
+1776
+01:32:22,240 --> 01:32:24,080
+你怎么能忽视通话记录呢
+{\r原文字幕}How could you miss the phone records?
+
+1777
+01:32:25,990 --> 01:32:26,950
+我
+{\r原文字幕}I,
+
+1778
+01:32:27,950 --> 01:32:29,330
+我没看到  先生
+{\r原文字幕}I didn't see them, sir.
+
+1779
+01:32:29,410 --> 01:32:30,250
+我
+{\r原文字幕}I,
+
+1780
+01:32:31,580 --> 01:32:33,980
+我以为我看到了  但其实没有
+{\r原文字幕}I thought I saw them, but I didn't-- I didn't see them,
+
+1781
+01:32:33,980 --> 01:32:36,000
+我完全乱了阵脚
+{\r原文字幕}and I was just completely overwhelmed.
+
+1782
+01:32:36,090 --> 01:32:37,000
+-我  -自乱阵脚
+{\r原文字幕}- I... - Overwhelmed.
+
+1783
+01:32:37,090 --> 01:32:38,480
+你没看见吗  我可看见了
+{\r原文字幕}You didn't see 'em? I saw 'em.
+
+1784
+01:32:38,880 --> 01:32:41,510
+因为我一直在跟进此事  我一直在观察
+{\r原文字幕}'Cause I was shadowing you. I was watching it all along.
+
+1785
+01:32:43,660 --> 01:32:48,120
+我不明白  我从业二十五年了
+{\r原文字幕}I don't get it. I... ...I just sit in that office for 25 years,
+
+1786
+01:32:48,120 --> 01:32:50,910
+看着你种小年轻入行  又跳槽去私人律所
+{\r原文字幕}watching people like you come in, then go out to private practice,
+
+1787
+01:32:50,910 --> 01:32:52,230
+去别的大公司  挣大钱
+{\r原文字幕}go to other firms, make more money,
+
+1788
+01:32:52,230 --> 01:32:55,230
+但我都尊重  我受不了的是你高冷的姿态
+{\r原文字幕}but I respect it. I'm insulted by your callous demeanor.
+
+1789
+01:32:56,150 --> 01:32:57,360
+你知道你刚刚做了什么吗
+{\r原文字幕}You know what you just did?
+
+1790
+01:32:57,440 --> 01:32:59,940
+这是最起码的  你竟让证人在离开证人席时
+{\r原文字幕}This is 101. You let a witness leave the stand
+
+1791
+01:32:59,940 --> 01:33:01,610
+说你的当事人是杀人犯
+{\r原文字幕}saying that your client was a murderer.
+
+1792
+01:33:03,110 --> 01:33:04,160
+瞧瞧你干的好事
+{\r原文字幕}That's what you did.
+
+1793
+01:33:04,820 --> 01:33:07,030
+他们整晚都会想这个
+{\r原文字幕}That's what they're gonna think about all night long.
+
+1794
+01:33:10,120 --> 01:33:11,230
+我真不明白
+{\r原文字幕}I don't get it.
+
+1795
+01:33:13,920 --> 01:33:16,920
+这种失误难得一见  我真是想不通
+{\r原文字幕}I guess it's a millennial thing. I'll never understand it.
+
+1796
+01:33:44,660 --> 01:33:46,320
+亲爱的  来吧  吃一点
+{\r原文字幕}Baby, come on, just eat a little bit.
+
+1797
+01:33:48,640 --> 01:33:49,410
+吃点吧  求你
+{\r原文字幕}Please, come on.
+
+1798
+01:33:49,490 --> 01:33:52,860
+我不想吃  你是我爸吗  我不想吃
+{\r原文字幕}I don't want it! Who are you, my father? I don't want it!
+
+1799
+01:34:03,050 --> 01:34:03,970
+对不起
+{\r原文字幕}I'm sorry.
+
+1800
+01:34:05,510 --> 01:34:06,340
+行了吧
+{\r原文字幕}Okay?
+
+1801
+01:34:08,560 --> 01:34:11,350
+我现在压力太大了
+{\r原文字幕}I'm just really stressed right now,
+
+1802
+01:34:11,930 --> 01:34:13,390
+我知道你很生气
+{\r原文字幕}and I know you're upset,
+
+1803
+01:34:13,980 --> 01:34:16,060
+但你听到他是怎么对我说话的了
+{\r原文字幕}but you heard the way he talked to me.
+
+1804
+01:34:16,780 --> 01:34:18,000
+你为什么不帮我说话呢
+{\r原文字幕}Why didn't you say something?
+
+1805
+01:34:18,000 --> 01:34:19,420
+因为我觉得他说的很有道理
+{\r原文字幕}'Cause he made a lot of good points.
+
+1806
+01:34:20,080 --> 01:34:21,260
+虽然我不喜欢他的说话方式
+{\r原文字幕}I don't like the way he said it,
+
+1807
+01:34:21,260 --> 01:34:22,640
+但他说的都是真话  茉莉
+{\r原文字幕}but he was telling you the truth, Jasmine.
+
+1808
+01:34:22,640 --> 01:34:23,780
+忠言往往逆耳
+{\r原文字幕}The truth hurts sometimes.
+
+1809
+01:34:27,660 --> 01:34:29,120
+真不敢相信你站在他那边
+{\r原文字幕}I can't believe you're taking his side.
+
+1810
+01:34:29,120 --> 01:34:30,620
+亲爱的  我不是他那边的
+{\r原文字幕}I'm not on his side, baby.
+
+1811
+01:34:30,740 --> 01:34:32,120
+我是你这边的  我是我们这边的
+{\r原文字幕}I'm on your side, I'm on our side.
+
+1812
+01:34:32,120 --> 01:34:33,980
+我是会让你变得更好的那一边的
+{\r原文字幕}I'm on whatever's going to make you better.
+
+1813
+01:34:34,290 --> 01:34:35,120
+忠言很难入耳
+{\r原文字幕}Truth is hard to get,
+
+1814
+01:34:35,120 --> 01:34:37,280
+但如果你能入耳  它会让你变强大
+{\r原文字幕}but it can make you strong if you just let it.
+
+1815
+01:34:37,280 --> 01:34:39,040
+-你就是个混蛋  -我不是
+{\r原文字幕}- You are such an ass. - I'm not the ass.
+
+1816
+01:34:39,130 --> 01:34:40,660
+-你真混蛋  -我不是
+{\r原文字幕}- You are such an ass! - I'm not the ass.
+
+1817
+01:34:40,660 --> 01:34:42,880
+-我绝不会弃你于危难而不顾  -真的吗
+{\r原文字幕}- I don't walk away when things get hard. - Are you serious?
+
+1818
+01:34:42,880 --> 01:34:44,920
+-我非常认真  -真的吗
+{\r原文字幕}- Yeah, I'm dead serious. - Really?
+
+1819
+01:34:45,010 --> 01:34:47,470
+茉莉  你不能永远躲在协议认罪的
+{\r原文字幕}You can't keep running away your whole life
+
+1820
+01:34:47,470 --> 01:34:49,010
+案子后面逃避一辈子
+{\r原文字幕}hiding behind plea deals, Jasmine.
+
+1821
+01:34:49,010 --> 01:34:52,350
+我在努力  这就是我为这个案子辩护的原因
+{\r原文字幕}I was trying! That's the reason why I'm trying this case.
+
+1822
+01:34:52,430 --> 01:34:54,350
+好吧  有人说了几句打击你的话
+{\r原文字幕}Okay, so somebody says something that sets you back,
+
+1823
+01:34:54,430 --> 01:34:55,600
+你就放弃了  宝贝
+{\r原文字幕}and you just walk away, babe.
+
+1824
+01:34:55,690 --> 01:34:57,300
+-这案子输了  -不  还没有
+{\r原文字幕}- The case is lost! - No, it's not.
+
+1825
+01:34:57,300 --> 01:34:58,680
+你看到陪审团的态度了
+{\r原文字幕}You saw the jury!
+
+1826
+01:34:58,680 --> 01:34:59,840
+我该怎么办
+{\r原文字幕}What am I supposed to do?
+
+1827
+01:34:59,840 --> 01:35:01,560
+你要做好你的本职工作  亲爱的
+{\r原文字幕}You're supposed to do your job, babe!
+
+1828
+01:35:02,020 --> 01:35:03,030
+坚持到底
+{\r原文字幕}Till the end!
+
+1829
+01:35:03,230 --> 01:35:05,700
+真的  你天生就该干这一行
+{\r原文字幕}I'm serious, the job you were born to do. That's...
+
+1830
+01:35:05,780 --> 01:35:06,610
+亲爱的
+{\r原文字幕}Baby.
+
+1831
+01:35:07,240 --> 01:35:10,320
+审判之初我看到了你眼中的激情
+{\r原文字幕}I saw the fire in your eyes when you started this case,
+
+1832
+01:35:10,520 --> 01:35:12,620
+出现失误后  你的激情一下就没了
+{\r原文字幕}and I saw it just go away as soon as this moment happened.
+
+1833
+01:35:12,700 --> 01:35:13,910
+把激情找回来
+{\r原文字幕}Just find it again.
+
+1834
+01:35:16,080 --> 01:35:17,120
+结束了
+{\r原文字幕}It's done.
+
+1835
+01:35:17,620 --> 01:35:19,080
+案子已经结束了
+{\r原文字幕}The case is closed.
+
+1836
+01:35:19,420 --> 01:35:21,170
+剩下的就只是结案陈词了
+{\r原文字幕}All that's left is the closing argument.
+
+1837
+01:35:21,680 --> 01:35:22,800
+我无能为力了
+{\r原文字幕}There's nothing I can do.
+
+1838
+01:35:22,880 --> 01:35:25,260
+那你最好准备一篇精彩的结案陈词
+{\r原文字幕}Well, you better write one hell of a closing argument.
+
+1839
+01:35:30,470 --> 01:35:31,930
+我好累
+{\r原文字幕}I'm tired.
+
+1840
+01:35:32,600 --> 01:35:33,430
+宝贝
+{\r原文字幕}Babe.
+
+1841
+01:35:39,710 --> 01:35:42,620
+你们已经听过不下四十五名证人的证词
+{\r原文字幕}You've heard the testimony of over 45 witnesses
+
+1842
+01:35:42,620 --> 01:35:44,360
+所有证词都证明她有罪
+{\r原文字幕}that have attested to her guilt.
+
+1843
+01:35:44,860 --> 01:35:47,980
+她最好的朋友指证她亲口承认了谋杀了他
+{\r原文字幕}Her own best friend said she told her that she killed him.
+
+1844
+01:35:48,540 --> 01:35:50,200
+她比谁都了解她
+{\r原文字幕}She knew her better than anyone.
+
+1845
+01:35:50,460 --> 01:35:53,240
+沃特斯女士杀害了香农·德隆
+{\r原文字幕}Miss Waters killed Shannon Delong,
+
+1846
+01:35:53,520 --> 01:35:56,500
+并把他的尸体拖到乡下的沼泽地里
+{\r原文字幕}and she dragged his body out to a swamp in the country,
+
+1847
+01:35:56,960 --> 01:35:58,160
+尸体因此失踪
+{\r原文字幕}never to be found again.
+
+1848
+01:35:59,080 --> 01:36:00,170
+犯案手法十分残忍
+{\r原文字幕}That's cold-blooded.
+
+1849
+01:36:00,830 --> 01:36:02,130
+犯案过程精心设计
+{\r原文字幕}That is calculated.
+
+1850
+01:36:02,300 --> 01:36:04,550
+这是一起有预谋的谋杀
+{\r原文字幕}That is premeditated murder.
+
+1851
+01:36:05,500 --> 01:36:07,630
+请将她绳之以法
+{\r原文字幕}And it's your job to bring her to justice.
+
+1852
+01:36:07,920 --> 01:36:10,220
+你们有责任判她有罪
+{\r原文字幕}It is your job to find her guilty,
+
+1853
+01:36:10,220 --> 01:36:12,010
+我们完全信任你们
+{\r原文字幕}and we have the utmost faith in you,
+
+1854
+01:36:12,090 --> 01:36:14,160
+信任司法体制  你们会做出正确判断
+{\r原文字幕}and our legal system, that you will.
+
+1855
+01:36:15,220 --> 01:36:16,100
+谢谢你们
+{\r原文字幕}Thank you.
+
+1856
+01:36:20,180 --> 01:36:21,100
+布莱恩特女士
+{\r原文字幕}Mrs. Bryant?
+
+1857
+01:36:24,270 --> 01:36:25,730
+布莱恩特女士
+{\r原文字幕}Mrs. Bryant.
+
+1858
+01:36:27,320 --> 01:36:28,320
+你还好吗
+{\r原文字幕}Are you okay?
+
+1859
+01:36:31,940 --> 01:36:33,690
+辩方传唤萨拉·米勒出庭
+{\r原文字幕}The defense calls Sarah Miller.
+
+1860
+01:36:33,950 --> 01:36:36,290
+法官大人  控辩双方均于昨日同意终止
+{\r原文字幕}Your Honor, both sides rested yesterday.
+
+1861
+01:36:36,460 --> 01:36:37,910
+请上前来
+{\r原文字幕}Approach the bench.
+
+1862
+01:36:44,380 --> 01:36:45,960
+法官大人  双方均终止了控辩
+{\r原文字幕}Your Honor, both sides rested.
+
+1863
+01:36:46,050 --> 01:36:48,840
+我知道这律师是个新手  但这太荒唐了
+{\r原文字幕}I understand the counsel is a novice here. This is ridiculous.
+
+1864
+01:36:48,840 --> 01:36:51,550
+等等  检察官  布莱恩特女士
+{\r原文字幕}Hold on, Counsel. Mrs. Bryant,
+
+1865
+01:36:51,630 --> 01:36:55,220
+你清楚双方都终止控辩了吧
+{\r原文字幕}you do understand that both sides have rested?
+
+1866
+01:36:55,300 --> 01:36:56,430
+我清楚  法官大人
+{\r原文字幕}Yes, I do, Your Honor,
+
+1867
+01:36:56,510 --> 01:36:59,560
+但我想请米勒女士重新上证人席
+{\r原文字幕}but I would like to recall Miss Miller to the stand.
+
+1868
+01:36:59,640 --> 01:37:01,980
+有何缘由
+{\r原文字幕}On what grounds?
+
+1869
+01:37:02,800 --> 01:37:05,940
+她陈述后  我本应对她进行提问
+{\r原文字幕}I should have questioned her after she said what she said,
+
+1870
+01:37:06,230 --> 01:37:08,230
+我不应终止辩论
+{\r原文字幕}and I should not have rested,
+
+1871
+01:37:08,230 --> 01:37:10,360
+我想重新提问她  因为
+{\r原文字幕}and I would like to question her again because--
+
+1872
+01:37:10,360 --> 01:37:13,320
+这不符合规矩
+{\r原文字幕}That's not how this works.
+
+1873
+01:37:13,410 --> 01:37:17,370
+终止控辩后  你就不能再传唤证人了
+{\r原文字幕}Once you rest, you cannot call a witness.
+
+1874
+01:37:17,600 --> 01:37:19,040
+如有异议  可提起上诉
+{\r原文字幕}Just take it up in appeal.
+
+1875
+01:37:19,390 --> 01:37:21,120
+现在请做结案陈词
+{\r原文字幕}Closing arguments right now.
+
+1876
+01:37:21,200 --> 01:37:22,520
+但是  法官大人  如果我能
+{\r原文字幕}But, Your Honor, if I could just...
+
+1877
+01:37:23,840 --> 01:37:25,800
+退回去  陈词吧
+{\r原文字幕}Step back and argue.
+
+1878
+01:37:27,460 --> 01:37:29,170
+现在就去  律师
+{\r原文字幕}Now, Counselor.
+
+1879
+01:37:40,390 --> 01:37:42,730
+-辩方传唤萨拉·米勒  -法官大人
+{\r原文字幕}- The defense calls Sarah Miller. - Your Honor...
+
+1880
+01:37:42,730 --> 01:37:45,350
+布莱恩特女士  对此我已作出裁决了
+{\r原文字幕}Mrs. Bryant, I have already ruled on that,
+
+1881
+01:37:45,350 --> 01:37:46,980
+我不能再容忍
+{\r原文字幕}and I will not tolerate any more--
+
+1882
+01:37:46,980 --> 01:37:48,150
+米勒女士  到证人席上去
+{\r原文字幕}Take the stand, Miss Miller.
+
+1883
+01:37:48,610 --> 01:37:50,780
+-去证人席  -布莱恩特女士
+{\r原文字幕}- Take the stand. - Mrs. Bryant!
+
+1884
+01:37:51,530 --> 01:37:53,200
+米勒女士  坐回去
+{\r原文字幕}Miss Miller, sit back down.
+
+1885
+01:37:53,280 --> 01:37:54,950
+你不许上证人席
+{\r原文字幕}You are not taking the stand.
+
+1886
+01:37:55,030 --> 01:37:57,410
+两位律师  请去我的办公室
+{\r原文字幕}Counselors, in my chambers now.
+
+1887
+01:37:57,410 --> 01:38:00,290
+我不会去您的办公室  除非米勒女士
+{\r原文字幕}I will not be going to Your Honor's chambers until Miss Miller
+
+1888
+01:38:00,290 --> 01:38:02,060
+-上证人席  -对此我已有裁决
+{\r原文字幕}- takes the stand. - I have ruled on the matter,
+
+1889
+01:38:02,060 --> 01:38:04,750
+你必须到我的办公室来
+{\r原文字幕}and you will come to my chambers.
+
+1890
+01:38:04,750 --> 01:38:06,800
+米勒女士不上证人席
+{\r原文字幕}I'm not going into Your Honor's chambers
+
+1891
+01:38:06,800 --> 01:38:08,380
+我就不去您的办公室
+{\r原文字幕}until Miss Miller takes the stand.
+
+1892
+01:38:08,790 --> 01:38:10,550
+米勒女士  请上证人席
+{\r原文字幕}Miss Miller, take the stand, please.
+
+1893
+01:38:10,550 --> 01:38:14,800
+布莱恩特女士  如果你现在不来我的办公室
+{\r原文字幕}Mrs. Bryant, if you do not come into my chambers right now,
+
+1894
+01:38:15,630 --> 01:38:19,460
+我将以藐视法庭罪拘捕你
+{\r原文字幕}I will hold you in contempt.
+
+1895
+01:38:21,390 --> 01:38:23,680
+辩方请萨拉·米勒上证人席
+{\r原文字幕}The defense calls Sarah Miller to the stand.
+
+1896
+01:38:25,280 --> 01:38:26,140
+法警
+{\r原文字幕}Bailiff.
+
+1897
+01:38:29,520 --> 01:38:30,900
+你能相信吗
+{\r原文字幕}Can you believe this?
+
+1898
+01:38:37,580 --> 01:38:39,070
+你究竟在搞什么名堂
+{\r原文字幕}So what the hell was that?
+
+1899
+01:38:39,340 --> 01:38:40,630
+你在乎吗
+{\r原文字幕}The hell do you care?
+
+1900
+01:38:40,940 --> 01:38:42,100
+反正我被炒了
+{\r原文字幕}I'm fired anyway.
+
+1901
+01:38:43,410 --> 01:38:47,180
+那倒是  所以你自暴自弃了吗
+{\r原文字幕}Yeah, that's true. So you throw your life away anyway?
+
+1902
+01:38:49,040 --> 01:38:50,640
+这不正是你想要的吗
+{\r原文字幕}That's what you wanted, isn't it?
+
+1903
+01:38:52,000 --> 01:38:53,010
+我想要什么了
+{\r原文字幕}What I wanted?
+
+1904
+01:38:54,210 --> 01:38:56,550
+-不是的  -如果这就是代价的话
+{\r原文字幕}- No. - And if that's what it takes.
+
+1905
+01:38:57,180 --> 01:38:58,640
+她不该进监狱
+{\r原文字幕}She shouldn't go to jail.
+
+1906
+01:38:59,010 --> 01:38:59,970
+这不公平
+{\r原文字幕}This is unfair.
+
+1907
+01:39:00,050 --> 01:39:02,460
+不公平  不公平  就是这个词
+{\r原文字幕}Unfair, unfair. That's the word.
+
+1908
+01:39:03,820 --> 01:39:04,900
+现在你懂了吧
+{\r原文字幕}Now you get it.
+
+1909
+01:39:04,990 --> 01:39:07,100
+一切都是不公平的  法律也不可能公平
+{\r原文字幕}All of this is unfair. The law can be unfair,
+
+1910
+01:39:07,100 --> 01:39:10,270
+而你的职责就是走进法庭  让它公平
+{\r原文字幕}but it was your job to walk into that courtroom and make it fair.
+
+1911
+01:39:11,420 --> 01:39:12,520
+但恰恰相反  你做了什么
+{\r原文字幕}But instead, what'd you do?
+
+1912
+01:39:12,610 --> 01:39:14,990
+你在说服这个女人不接受认罪协议后
+{\r原文字幕}Go to court half-assed after you convinced this woman
+
+1913
+01:39:15,070 --> 01:39:16,820
+就半途而废了吗
+{\r原文字幕}to not take a great plea deal?
+
+1914
+01:39:17,450 --> 01:39:19,990
+瞧瞧吧  就是这么不公平
+{\r原文字幕}Now look, it's all unfair.
+
+1915
+01:39:20,180 --> 01:39:22,420
+听着  我很喜欢你现在的这种个人信念
+{\r原文字幕}Listen, I love this personal conviction that you got going on
+
+1916
+01:39:22,420 --> 01:39:24,200
+但现在时机不对
+{\r原文字幕}right now, but it's on the wrong side of time.
+
+1917
+01:39:24,540 --> 01:39:27,750
+你不道歉  法官是不会放你出来的
+{\r原文字幕}The judge is gonna make you sit here until you apologize.
+
+1918
+01:39:28,080 --> 01:39:29,940
+你觉得这很了不起  他让我们休庭
+{\r原文字幕}You think that's something, he gave us a recess
+
+1919
+01:39:29,940 --> 01:39:31,820
+好让我们替你做结案陈词
+{\r原文字幕}so that we can do your closing arguments.
+
+1920
+01:39:31,820 --> 01:39:33,420
+唐尼激动坏了
+{\r原文字幕}Donnie is thrilled.
+
+1921
+01:39:33,600 --> 01:39:36,220
+你不会被判无效辩护  你到底在想什么
+{\r原文字幕}You weren't gonna get a mistrial. What the hell were you thinking?
+
+1922
+01:39:38,300 --> 01:39:39,470
+在这里好好享受吧
+{\r原文字幕}Enjoy your time here.
+
+1923
+01:39:40,590 --> 01:39:41,470
+喂  罗里
+{\r原文字幕}Hey, Rory.
+
+1924
+01:39:43,010 --> 01:39:43,850
+怎么
+{\r原文字幕}Yeah?
+
+1925
+01:39:44,930 --> 01:39:45,980
+去你妈的
+{\r原文字幕}Fuck you.
+
+1926
+01:39:50,440 --> 01:39:52,230
+狱中激情
+{\r原文字幕}Passion behind bars.
+
+1927
+01:39:53,150 --> 01:39:53,980
+真不错
+{\r原文字幕}Nice.
+
+1928
+01:39:58,610 --> 01:39:59,950
+陪审团一致认为
+{\r原文字幕}We, the jury,
+
+1929
+01:40:00,030 --> 01:40:02,620
+被告人葛蕾丝·沃特斯
+{\r原文字幕}find Grace Waters, the defendant,
+
+1930
+01:40:02,700 --> 01:40:06,500
+被弗吉尼亚州指控犯有谋杀罪
+{\r原文字幕}guilty of murder as charged by the state of Virginia.
+
+1931
+01:40:20,590 --> 01:40:21,890
+我没事  亲爱的
+{\r原文字幕}I'm all right, baby.
+
+1932
+01:40:23,680 --> 01:40:24,680
+我没事
+{\r原文字幕}I'm all right.
+
+1933
+01:40:25,640 --> 01:40:27,890
+-没事的  萨拉
+{\r原文字幕}- It's okay - Sarah.
+
+1934
+01:40:28,270 --> 01:40:30,390
+-没事的  我来照顾他  -谢谢
+{\r原文字幕}- It's okay, I got him. - Thank you.
+
+1935
+01:40:32,020 --> 01:40:33,110
+没事的
+{\r原文字幕}It's all right.
+
+1936
+01:40:35,320 --> 01:40:36,400
+这是一个乌佐吗
+{\r原文字幕}Is that an Uzo?
+
+1937
+01:40:36,480 --> 01:40:38,940
+在非洲买的  很特别吧
+{\r原文字幕}Got this in Africa. One of a kind.
+
+1938
+01:40:42,280 --> 01:40:44,030
+我照顾他  没事的
+{\r原文字幕}I got him. It's okay.
+
+1939
+01:40:50,000 --> 01:40:52,790
+你绝对不会相信你的摄影师做了什么
+{\r原文字幕}You will not believe what your photographer did.
+
+1940
+01:40:52,880 --> 01:40:54,710
+需要我开车送你去吗
+{\r原文字幕}Do you need me to drive you?
+
+1941
+01:40:55,170 --> 01:40:56,880
+因为你要去
+{\r原文字幕}'Cause you are going.
+
+1942
+01:41:00,590 --> 01:41:02,130
+警卫
+{\r原文字幕}Guard!
+
+1943
+01:41:02,220 --> 01:41:04,550
+你想在你朋友面前和我吵架吗
+{\r原文字幕}You want to talk to me like that in front of your friend?
+
+1944
+01:41:05,050 --> 01:41:06,390
+她的朋友
+{\r原文字幕}Her friend.
+
+1945
+01:41:08,850 --> 01:41:09,930
+警卫
+{\r原文字幕}Guard!
+
+1946
+01:41:10,770 --> 01:41:12,520
+我要给我的律师打电话
+{\r原文字幕}I need to call my lawyer.
+
+1947
+01:41:12,600 --> 01:41:15,270
+陪审团裁决葛蕾丝·沃特斯有罪
+{\r原文字幕}The verdict in the Grace Waters case is guilty.
+
+1948
+01:41:15,360 --> 01:41:17,650
+判决将在数月内执行
+{\r原文字幕}Sentencing is scheduled in just a few months.
+
+1949
+01:41:18,190 --> 01:41:20,870
+对于今天在法庭的人或陪审员来说
+{\r原文字幕}This turn of events is no shock to anybody
+
+1950
+01:41:20,870 --> 01:41:22,860
+事态的转变并不令人意外
+{\r原文字幕}who was in the courtroom today or the jurors.
+
+1951
+01:41:22,950 --> 01:41:24,530
+这是意料之中的
+{\r原文字幕}This was what was expected.
+
+1952
+01:41:24,620 --> 01:41:26,580
+葛蕾丝被定罪是预料之中的事
+{\r原文字幕}Grace was expected to be convicted,
+
+1953
+01:41:26,580 --> 01:41:28,080
+并没有什么变化
+{\r原文字幕}and nothing changed here today.
+
+1954
+01:41:35,080 --> 01:41:37,630
+预计正在准备认罪协议
+{\r原文字幕}...predict that some sort of plea deal is in the works.
+
+1955
+01:41:43,930 --> 01:41:45,310
+亲爱的  向法官道歉吧
+{\r原文字幕}Baby, tell the judge that you're sorry
+
+1956
+01:41:45,310 --> 01:41:47,550
+这样我们才能回家  求你了
+{\r原文字幕}so we can go home, please.
+
+1957
+01:41:49,680 --> 01:41:50,930
+天气预报称
+{\r原文字幕}Looking at our forecast,
+
+1958
+01:41:51,020 --> 01:41:52,890
+下午将有场大雨
+{\r原文字幕}we have a bunch of rain coming this afternoon.
+
+1959
+01:41:52,980 --> 01:41:55,850
+这个季节我们从未有过异常高的降雨量
+{\r原文字幕}This season, we haven't had abnormally high amounts of rain...
+
+1960
+01:41:55,940 --> 01:41:56,940
+你还好吗
+{\r原文字幕}You okay?
+
+1961
+01:41:59,900 --> 01:42:00,780
+还好
+{\r原文字幕}Yeah.
+
+1962
+01:42:04,030 --> 01:42:05,160
+我没事
+{\r原文字幕}Yeah, I'm okay.
+
+1963
+01:42:05,410 --> 01:42:06,990
+宝贝  你确定今天要去见萨拉吗
+{\r原文字幕}You sure you want to see Sarah today, babe?
+
+1964
+01:42:07,070 --> 01:42:08,080
+只是...
+{\r原文字幕}It's just...
+
+1965
+01:42:08,910 --> 01:42:09,870
+是的  我该去
+{\r原文字幕}Yeah, I should.
+
+1966
+01:42:10,290 --> 01:42:11,370
+你知道
+{\r原文字幕}You know.
+
+1967
+01:42:12,620 --> 01:42:15,170
+我知道她现在的感觉和我一样糟
+{\r原文字幕}I know she's feeling just as bad as I am right now.
+
+1968
+01:42:17,750 --> 01:42:19,460
+-亲爱的就在这里停吧  -现在吗
+{\r原文字幕}- Babe, just pull over right here. - Right now?
+
+1969
+01:42:19,840 --> 01:42:22,460
+对  我走过去
+{\r原文字幕}Yeah. I can walk the rest of the way.
+
+1970
+01:42:22,550 --> 01:42:23,760
+-你确定吗  -是的
+{\r原文字幕}- You sure? - Yeah.
+
+1971
+01:42:23,840 --> 01:42:25,300
+你该回去上班了
+{\r原文字幕}And you gotta get back to work.
+
+1972
+01:42:26,010 --> 01:42:27,050
+你确定吗  亲爱的
+{\r原文字幕}You sure, babe?
+
+1973
+01:42:28,390 --> 01:42:29,390
+就要下雨了
+{\r原文字幕}It's about to rain.
+
+1974
+01:42:29,640 --> 01:42:30,680
+没事的
+{\r原文字幕}No, I'll be fine.
+
+1975
+01:42:32,140 --> 01:42:33,100
+好吧  我爱你
+{\r原文字幕}Okay. Love you.
+
+1976
+01:42:34,060 --> 01:42:34,940
+我也爱你
+{\r原文字幕}I love you, too.
+
+1977
+01:42:35,020 --> 01:42:36,810
+-注意安全  -我会的
+{\r原文字幕}- Be safe, all right? - I will.
+
+1978
+01:42:37,560 --> 01:42:38,810
+-再见  -再见  宝贝
+{\r原文字幕}- Bye. - Bye, baby.
+
+1979
+01:42:39,360 --> 01:42:41,070
+-我们回家见  -好
+{\r原文字幕}- I'll see you at home. - All right.
+
+1980
+01:42:56,460 --> 01:42:57,330
+你好
+{\r原文字幕}Hi.
+
+1981
+01:42:57,710 --> 01:42:59,000
+你好  我认识你
+{\r原文字幕}Hi, I know you.
+
+1982
+01:42:59,880 --> 01:43:01,250
+你要去哪里
+{\r原文字幕}Hey, where are you going?
+
+1983
+01:43:01,340 --> 01:43:02,300
+我该走了
+{\r原文字幕}I gotta go.
+
+1984
+01:43:02,380 --> 01:43:04,090
+不  不  来吧
+{\r原文字幕}No, no, no. Come on, come on.
+
+1985
+01:43:04,170 --> 01:43:05,840
+-你要去哪里  -我得离开
+{\r原文字幕}- Where are you going? - I gotta get away!
+
+1986
+01:43:05,920 --> 01:43:08,340
+好吧  我们回萨拉女士的家
+{\r原文字幕}Oh, okay, let's go back to Miss Sarah's house.
+
+1987
+01:43:08,430 --> 01:43:10,470
+来吧  没事的  她知道你出来了吗
+{\r原文字幕}Come on, it's okay. Does she know you're out here?
+
+1988
+01:43:10,550 --> 01:43:13,720
+她今天去银行了  今天是一号  再见
+{\r原文字幕}She go to the bank today. It's the first. Bye.
+
+1989
+01:43:13,810 --> 01:43:16,770
+好吧   我们回萨拉女士家
+{\r原文字幕}Okay. Well, let's-- let's go back to Miss Sarah's house.
+
+1990
+01:43:16,850 --> 01:43:19,060
+没事的  她可能甚至不知道你出来了
+{\r原文字幕}It's all right. She probably doesn't even know you're out here.
+
+1991
+01:43:19,150 --> 01:43:22,030
+-走吧  下雨了我们回去  -不要
+{\r原文字幕}- Let's go. Let's get you out this rain. - No.
+
+1992
+01:43:22,030 --> 01:43:25,280
+不  别逼我回去  求求你不要
+{\r原文字幕}No, don't... don't make me go back there. Please don't.
+
+1993
+01:43:25,360 --> 01:43:28,700
+-来吧  没事的  我帮你  -不要
+{\r原文字幕}- Come on, it's okay. It's okay. I got you. - No.
+
+1994
+01:43:28,780 --> 01:43:31,160
+-现在有我陪着你  -我要回我家
+{\r原文字幕}- You're with me now. - I want to go to my house.
+
+1995
+01:43:32,080 --> 01:43:33,160
+我家
+{\r原文字幕}My house.
+
+1996
+01:43:33,240 --> 01:43:34,830
+你家吗
+{\r原文字幕}Your house?
+
+1997
+01:43:35,160 --> 01:43:38,000
+来吧  没事  我陪你
+{\r原文字幕}Come on. It's okay. I got you.
+
+1998
+01:43:38,620 --> 01:43:41,380
+-我们进去  -别逼我再回去
+{\r原文字幕}-Let's go in to get some. - Don't make me go in no more.
+
+1999
+01:43:41,460 --> 01:43:43,460
+我再也不想待在那里了
+{\r原文字幕}I don't want to stay there no more.
+
+2000
+01:43:43,920 --> 01:43:46,300
+别逼我再回去  求你了  不要
+{\r原文字幕}Don't make me go back there. Please don't.
+
+2001
+01:43:46,380 --> 01:43:47,300
+来吧
+{\r原文字幕}Come on.
+
+2002
+01:43:47,720 --> 01:43:48,800
+你现在安全了
+{\r原文字幕}You're safe now.
+
+2003
+01:43:49,720 --> 01:43:51,640
+你走的时候没关门
+{\r原文字幕}You left the door wide open.
+
+2004
+01:43:51,930 --> 01:43:54,180
+我没钥匙
+{\r原文字幕}Well, I don't have all the keys.
+
+2005
+01:43:55,520 --> 01:43:57,480
+没有钥匙  好吧
+{\r原文字幕}All the keys? Oh, okay.
+
+2006
+01:43:57,980 --> 01:43:59,140
+进来吧
+{\r原文字幕}Just come on in.
+
+2007
+01:44:01,900 --> 01:44:04,190
+这是萨拉女士的家  你就住在这里
+{\r原文字幕}You're at Miss Sarah's house. This is where you live.
+
+2008
+01:44:04,270 --> 01:44:06,820
+-这你的家  没事的  -不  不是
+{\r原文字幕}- This is your house, it's okay. - No, no. No.
+
+2009
+01:44:06,940 --> 01:44:10,950
+我  我要回我自己家
+{\r原文字幕}I... I want to go to m-my own house.
+
+2010
+01:44:11,320 --> 01:44:14,660
+我  我的房子在
+{\r原文字幕}My... my house is... is...
+
+2011
+01:44:14,740 --> 01:44:15,660
+没事
+{\r原文字幕}It's all right.
+
+2012
+01:44:15,990 --> 01:44:17,750
+我给你倒点水  好吗
+{\r原文字幕}Let me get you some water, okay?
+
+2013
+01:44:19,620 --> 01:44:26,000
+我的房子在西卡摩街2989号
+{\r原文字幕}My house is two... 2989 Sycamore Street.
+
+2014
+01:44:26,090 --> 01:44:27,880
+-西卡摩街吗  -对
+{\r原文字幕}- Sycamore Street? - Yeah.
+
+2015
+01:44:27,970 --> 01:44:29,970
+那才是我住的地方
+{\r原文字幕}That's where I live.
+
+2016
+01:44:30,050 --> 01:44:34,890
+地址是西卡摩街2989号
+{\r原文字幕}The address is 2989 Sycamore Street.
+
+2017
+01:44:35,600 --> 01:44:37,390
+西卡摩街2989号
+{\r原文字幕}2989 Sycamore Street.
+
+2018
+01:44:38,230 --> 01:44:39,770
+我不想死在这里
+{\r原文字幕}I don't wanna die here like...
+
+2019
+01:44:40,600 --> 01:44:45,650
+就像葛瑞安  本达和珊娜那样
+{\r原文字幕}Gloria, and... and... Brenda, and... and Shane.
+
+2020
+01:44:46,110 --> 01:44:48,440
+珊娜从房顶跳了下去
+{\r原文字幕}Shane jumped off the roof.
+
+2021
+01:44:48,530 --> 01:44:50,450
+从房顶跳了下去  亲爱的
+{\r原文字幕}Jumped off the roof, dear.
+
+2022
+01:44:50,530 --> 01:44:53,120
+我什么都没了  都没了
+{\r原文字幕}I have nothing! Nothing!
+
+2023
+01:44:53,200 --> 01:44:54,780
+不
+{\r原文字幕}No!
+
+2024
+01:44:59,960 --> 01:45:01,670
+她是一名摄影师
+{\r原文字幕}She was a photographer.
+
+2025
+01:45:02,670 --> 01:45:05,420
+非常有天份
+{\r原文字幕}And so, so talented.
+
+2026
+01:45:05,500 --> 01:45:07,250
+我的天啊
+{\r原文字幕}Oh, my God. Is, um...
+
+2027
+01:45:08,340 --> 01:45:10,170
+这是珊娜的作品吗
+{\r原文字幕}Is this... is this Shane's work?
+
+2028
+01:45:13,300 --> 01:45:14,850
+是的  没错
+{\r原文字幕}Yes, yes. Yes.
+
+2029
+01:45:15,930 --> 01:45:17,180
+没有什么比
+{\r原文字幕}Seeing the world
+
+2030
+01:45:17,260 --> 01:45:20,930
+通过相机镜头来看这个世界更棒的事了
+{\r原文字幕}through the eyes of a 35-millimeter, there's nothing like that.
+
+2031
+01:45:22,190 --> 01:45:23,730
+有人进了我的账户
+{\r原文字幕}Somebody got into my accounts.
+
+2032
+01:45:23,810 --> 01:45:25,440
+他们有我的密码
+{\r原文字幕}They got my passwords.
+
+2033
+01:45:27,110 --> 01:45:29,860
+我要回我自己的家
+{\r原文字幕}You know, I-I was gonna go to my house
+
+2034
+01:45:30,360 --> 01:45:33,530
+报警  这样警察就能来帮我们了
+{\r原文字幕}and call the police so they could come and help us.
+
+2035
+01:45:35,700 --> 01:45:39,540
+我得先自保
+{\r原文字幕}I had to build my own boat first.
+
+2036
+01:45:39,620 --> 01:45:40,830
+这难道不对吗
+{\r原文字幕}Ain't that a fact?
+
+2037
+01:45:41,540 --> 01:45:44,250
+我帮不了所有的人
+{\r原文字幕}I mean, I can't help everybody.
+
+2038
+01:45:50,670 --> 01:45:52,220
+他们都很饿
+{\r原文字幕}They're hungry.
+
+2039
+01:45:56,510 --> 01:45:57,390
+好的
+{\r原文字幕}Okay.
+
+2040
+01:45:57,470 --> 01:45:58,720
+你待在这里
+{\r原文字幕}You stay here.
+
+2041
+01:45:59,850 --> 01:46:02,140
+待在这里  我一会就回  好吗
+{\r原文字幕}Stay here. I'll be right back, okay?
+
+2042
+01:46:04,020 --> 01:46:05,060
+就待在这里
+{\r原文字幕}Stay right here.
+
+2043
+01:46:14,110 --> 01:46:16,820
+-你有权保持沉默  -布莱恩特警官
+{\r原文字幕}- You have the right to remain silent. - Officer Bryant?
+
+2044
+01:46:17,240 --> 01:46:18,830
+布莱恩特收到  请讲沃特
+{\r原文字幕}Go for Bryant. Come back, Walt.
+
+2045
+01:46:18,910 --> 01:46:21,080
+你不会相信这个的  看看你的电脑
+{\r原文字幕}You won't believe this. Check your computer.
+
+2046
+01:46:22,160 --> 01:46:23,540
+待在这里别动
+{\r原文字幕}Stay right here. Don't move.
+
+2047
+01:46:33,340 --> 01:46:34,630
+该死
+{\r原文字幕}Oh, shit!
+
+2048
+01:47:33,570 --> 01:47:35,780
+救救我  救救我
+{\r原文字幕}Help me. Help me.
+
+2049
+01:47:56,340 --> 01:47:58,180
+你好  爱丽丝
+{\r原文字幕}Hello, Alice.
+
+2050
+01:48:00,760 --> 01:48:02,430
+不是我放她进来的
+{\r原文字幕}I... I didn't let her in.
+
+2051
+01:48:02,640 --> 01:48:03,850
+求求你别伤害我
+{\r原文字幕}Please don't hurt me.
+
+2052
+01:48:22,660 --> 01:48:23,660
+你抓住她了吗
+{\r原文字幕}You got her?
+
+2053
+01:48:40,630 --> 01:48:42,470
+有些人永远不会吸取教训
+{\r原文字幕}Some people never learn.
+
+2054
+01:48:44,140 --> 01:48:45,140
+是吗
+{\r原文字幕}Do they?
+
+2055
+01:48:46,220 --> 01:48:47,680
+我妈妈在和你说话
+{\r原文字幕}My mama's talking to you.
+
+2056
+01:48:50,230 --> 01:48:52,600
+但他们得会学会管好自己的事
+{\r原文字幕}But they gonna learn to mind their own damn business.
+
+2057
+01:49:05,450 --> 01:49:07,330
+警察  开门
+{\r原文字幕}Police, open up!
+
+2058
+01:49:07,410 --> 01:49:09,830
+乔丹
+{\r原文字幕}Jordan!
+
+2059
+01:49:09,910 --> 01:49:11,040
+警察  快开门
+{\r原文字幕}Police, open up!
+
+2060
+01:49:12,120 --> 01:49:15,540
+我是布莱恩特警官  现在在西课巷2342号
+{\r原文字幕}This is Officer Bryant, location 2342 West Lesson Lane,
+
+2061
+01:49:15,630 --> 01:49:17,920
+请求支援  警察  快开门
+{\r原文字幕}requesting backup. Police, open up!
+
+2062
+01:49:18,000 --> 01:49:19,260
+支援将在七分钟内到达
+{\r原文字幕}We're seven minutes out.
+
+2063
+01:49:20,470 --> 01:49:22,340
+-女士请开门  我是警察  -哪位
+{\r原文字幕}- Open up, ma'am, police. - Hello?
+
+2064
+01:49:22,430 --> 01:49:25,470
+-快开门  -好的  你好
+{\r原文字幕}- Yes, open up. - All right. All right. Hello.
+
+2065
+01:49:25,930 --> 01:49:26,970
+你好
+{\r原文字幕}Yes, hello.
+
+2066
+01:49:27,060 --> 01:49:28,100
+我在找我的妻子
+{\r原文字幕}I'm looking for my wife.
+
+2067
+01:49:28,520 --> 01:49:29,350
+你的妻子是谁
+{\r原文字幕}Who's your wife?
+
+2068
+01:49:29,430 --> 01:49:31,150
+你知道她是谁  她叫茉莉·布莱恩特
+{\r原文字幕}You know who she is. Jasmine Bryant,
+
+2069
+01:49:31,150 --> 01:49:33,270
+是你朋友葛蕾丝·沃特斯的代理律师
+{\r原文字幕}she was representing your friend Grace Waters?
+
+2070
+01:49:33,350 --> 01:49:36,360
+-她说她要来这里看看  -我没见过她
+{\r原文字幕}- She said she was gonna come by here. - Well, I haven't seen her.
+
+2071
+01:49:36,650 --> 01:49:37,980
+好吧  我可以进来吗
+{\r原文字幕}Okay, well, you mind if I come in?
+
+2072
+01:49:38,070 --> 01:49:39,320
+你有搜查证吗
+{\r原文字幕}Do you have a warrant?
+
+2073
+01:49:39,730 --> 01:49:41,650
+你没有的话你不能进来
+{\r原文字幕}If you don't have a warrant, you can't come in.
+
+2074
+01:49:41,740 --> 01:49:43,320
+我说过了  她不在这里
+{\r原文字幕}I told you, she's not here.
+
+2075
+01:49:43,910 --> 01:49:45,030
+她不在这里
+{\r原文字幕}She's not here.
+
+2076
+01:49:54,290 --> 01:49:55,540
+天啊
+{\r原文字幕}Jesus.
+
+2077
+01:49:57,880 --> 01:49:58,800
+茉莉
+{\r原文字幕}Jasmine!
+
+2078
+01:50:01,760 --> 01:50:03,090
+我的妻子在哪里
+{\r原文字幕}Where's my wife?
+
+2079
+01:50:03,510 --> 01:50:04,510
+茉莉
+{\r原文字幕}Jasmine!
+
+2080
+01:50:20,980 --> 01:50:22,530
+不  不要
+{\r原文字幕}No, no.
+
+2081
+01:50:27,280 --> 01:50:28,450
+好的  别动
+{\r原文字幕}Okay, don't move.
+
+2082
+01:50:29,280 --> 01:50:31,160
+别动
+{\r原文字幕}Don't move.
+
+2083
+01:50:33,250 --> 01:50:34,250
+待在这里
+{\r原文字幕}Stay right here.
+
+2084
+01:50:43,470 --> 01:50:44,420
+茉莉
+{\r原文字幕}Jasmine!
+
+2085
+01:50:57,690 --> 01:50:58,730
+茉莉
+{\r原文字幕}Jasmine!
+
+2086
+01:51:01,020 --> 01:51:01,900
+茉莉
+{\r原文字幕}Jasmine?
+
+2087
+01:51:03,900 --> 01:51:04,820
+茉莉
+{\r原文字幕}Jasmine!
+
+2088
+01:51:07,070 --> 01:51:08,280
+亲爱的
+{\r原文字幕}Oh, baby.
+
+2089
+01:51:46,030 --> 01:51:46,990
+住手
+{\r原文字幕}Stop!
+
+2090
+01:51:56,330 --> 01:51:58,160
+茉莉  把枪给我  来
+{\r原文字幕}Jasmine, give it to me. Here.
+
+2091
+01:51:59,540 --> 01:52:01,630
+我觉得他死了  他已经死了
+{\r原文字幕}I think he's done. He's done.
+
+2092
+01:52:03,420 --> 01:52:05,130
+我们发现香农·德隆的
+{\r原文字幕}What we've learned is that Shannon Delong,
+
+2093
+01:52:05,210 --> 01:52:06,590
+真名为马修斯 米勒斯
+{\r原文字幕}whose real name is Maurice Mills,
+
+2094
+01:52:06,670 --> 01:52:09,630
+他与其母巴蒂·米勒斯也就是萨拉·米勒
+{\r原文字幕}and his mother, Betty Mills, also known as Sarah Miller,
+
+2095
+01:52:09,720 --> 01:52:11,260
+一直以来绑架老年女性
+{\r原文字幕}have been kidnapping elderly women,
+
+2096
+01:52:11,340 --> 01:52:12,100
+侵占她们的财产
+{\r原文字幕}taking their wealth
+
+2097
+01:52:12,100 --> 01:52:14,640
+并为占有她们的社保而扣押她们
+{\r原文字幕}and holding them hostage for their social security.
+
+2098
+01:52:14,720 --> 01:52:16,730
+目前他因重婚罪  诈骗罪等多种罪名
+{\r原文字幕}Now he's wanted in nine states for bigamy
+
+2099
+01:52:16,810 --> 01:52:19,100
+在九个州被通缉
+{\r原文字幕}and several other crimes, including racketeering.
+
+2100
+01:52:19,190 --> 01:52:20,190
+此外我们还发现
+{\r原文字幕}And we've also discovered
+
+2101
+01:52:20,270 --> 01:52:23,360
+此二人不仅扣押老年女性作为人质
+{\r原文字幕}that not only were these two holding the elderly women hostage,
+
+2102
+01:52:23,440 --> 01:52:24,820
+据我们证实  其子在其他各州
+{\r原文字幕}but he's wanted in several states
+
+2103
+01:52:24,820 --> 01:52:28,490
+还因诈骗至少十六名中年女性而被通缉
+{\r原文字幕}for conning at least 16 middle-aged women that we can verify.
+
+2104
+01:52:28,570 --> 01:52:31,780
+这对母子从事该项犯罪活动已超过二十五年
+{\r原文字幕}Now, the mother-and-son duo have been at this for over 25 years,
+
+2105
+01:52:31,870 --> 01:52:34,620
+在此期间  从受害者处掠夺了大量财产
+{\r原文字幕}stealing millions from their victims over this time period.
+
+2106
+01:52:34,700 --> 01:52:36,910
+葛蕾丝·沃特斯是其中一名受害者
+{\r原文字幕}Grace Waters was one of the victims.
+
+2107
+01:52:37,000 --> 01:52:39,040
+根据我们收到的最新证据
+{\r原文字幕}In light of the new evidence we received,
+
+2108
+01:52:39,120 --> 01:52:43,090
+弗吉尼亚州希望向沃特斯女士道歉
+{\r原文字幕}the state of Virginia wishes to apologize to Miss Waters,
+
+2109
+01:52:43,090 --> 01:52:44,880
+你无罪释放
+{\r原文字幕}and you are free to go.
+
+2110
+01:53:07,320 --> 01:53:09,360
+我们仍在努力调查
+{\r原文字幕}We are working on finding out what happened
+
+2111
+01:53:09,440 --> 01:53:11,320
+这些妇女到底经历了什么
+{\r原文字幕}to the fortunes of these women.
+
+2112
+01:53:11,400 --> 01:53:13,070
+葛蕾丝·沃特斯的公开辩护人
+{\r原文字幕}Grace Waters' public defender,
+
+2113
+01:53:13,160 --> 01:53:16,530
+茉莉·布莱恩特是揭露整个事件的导火索
+{\r原文字幕}Jasmine Bryant, is the reason this entire scheme was uncovered.
+
+2114
+01:53:17,740 --> 01:53:19,750
+-沃特斯女士  -他们出来了
+{\r原文字幕}- Miss Waters - Here they come. Here they come.
+
+2115
+01:53:22,330 --> 01:53:23,790
+-好了 -沃特斯女士
+{\r原文字幕}- Okay. - Miss Waters.
+
+2116
+01:53:25,380 --> 01:53:27,630
+沃特斯女士  无罪释放后的感觉如何
+{\r原文字幕}Miss Waters, how does it feel to be free?
+
+2117
+01:53:28,050 --> 01:53:28,880
+太好了
+{\r原文字幕}Wonderful.
+
+2118
+01:53:30,050 --> 01:53:32,090
+沃特斯女士  事情结束了你高兴吗
+{\r原文字幕}Miss Waters, are you glad it's over?
+
+2119
+01:53:33,970 --> 01:53:35,050
+事情没有结束
+{\r原文字幕}It ain't over.
+
+2120
+01:53:36,890 --> 01:53:37,810
+借过一下
+{\r原文字幕}Excuse me.
+
+2121
+01:53:39,850 --> 01:53:44,060
+如今萨拉·米勒或者说巴蒂·米勒斯仍然在逃
+{\r原文字幕}At present, Sarah Miller, rather, Betty Mills, is still on the run.
+
+2122
+01:53:45,440 --> 01:53:48,360
+你在照顾老年人方面有什么经验吗
+{\r原文字幕}So what kind of experience do you have working with the elderly?
+
+2123
+01:53:48,440 --> 01:53:49,780
+我照顾他们
+{\r原文字幕}I take care of them.
+
+2124
+01:53:50,530 --> 01:53:51,440
+我爱他们
+{\r原文字幕}And I love them
+
+2125
+01:53:52,110 --> 01:53:53,860
+就好像他们是我的家人一样
+{\r原文字幕}just like they're my own family.
+
+2126
+01:53:54,820 --> 01:53:56,620
+来吧  来见见我妈
+{\r原文字幕}Well, come, I want you to meet my mother.
+
+2127
+01:53:56,700 --> 01:53:58,160
+好的
+{\r原文字幕}I'd like that.
+
+2128
+01:53:58,240 --> 01:53:59,410
+她叫什么名字来着
+{\r原文字幕}What's her name again?
+
+2129
+01:53:59,490 --> 01:54:01,500
+-露安  -露安
+{\r原文字幕}- LuAnn. - LuAnn.
+
+2130
+01:54:01,580 --> 01:54:03,830
+我好像听过这个名字
+{\r原文字幕}Oh, I think I read about her.
+
+2131
+01:54:04,120 --> 01:54:06,290
+她是不是在某个金融机构工作过
+{\r原文字幕}Didn't she work with some financial institution?
+
+2132
+01:54:06,790 --> 01:54:09,050
+对  确实是
+{\r原文字幕}Oh, yeah, she did.
+
+2133
+01:54:09,130 --> 01:54:10,630
+她当时的职位是什么来着
+{\r原文字幕}What was her position again?
+
+2134
+01:54:10,710 --> 01:54:13,420
+-她当过十年的经理  -天呐
+{\r原文字幕}- She was a manager for ten years. - Oh, my.
+
+2135
+01:54:13,510 --> 01:54:15,010
+令人印象深刻
+{\r原文字幕}Impressive.
+
