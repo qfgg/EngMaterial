@@ -1,0 +1,1191 @@
+﻿[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: cmct,Tahoma,14,&H00FFFFFF,&H00000000,&H00FF8000,&H00000000,-1,0,0,0,100,100,0,0,0,1,0,2,5,5,0,134
+Style: 9s,Tahoma,19,&H00FFFFFF,&H00000000,&H00FF8000,&H00000000,-1,0,0,0,100,100,0,0,0,1,0,2,10,10,0,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:25.87,0:00:29.80,9s,,0000,0000,0000,,(迪士尼影片)
+Dialogue: 0,0:00:41.68,0:00:44.08,9s,,0000,0000,0000,,(皮克斯动画)
+Dialogue: 0,0:00:49.52,0:00:53.12,9s,,0000,0000,0000,,(迪士尼影片出品)
+Dialogue: 0,0:00:59.97,0:01:04.10,9s,,0000,0000,0000,,(皮克斯动画工作室制作)
+Dialogue: 0,0:01:18.35,0:01:21.29,9s,,0000,0000,0000,,片名：玩具总动员2
+Dialogue: 0,0:01:24.73,0:01:28.32,9s,,0000,0000,0000,,(伽玛象限…第四区域)
+Dialogue: 0,0:02:18.55,0:02:19.94,9s,,0000,0000,0000,,巴斯光年任务日志\N{\fs16\3c&H000000&}Buzz Lightyear mission log.{\r}
+Dialogue: 0,0:02:20.01,0:02:23.07,9s,,0000,0000,0000,,所有的迹象都显示 这就是札克天王的星球\N{\fs16\3c&H000000&}All signs point to this planet as the location of Zurg's fortress,{\r}
+Dialogue: 0,0:02:23.18,0:02:26.98,9s,,0000,0000,0000,,但是却没有 智慧形生物的踪影\N{\fs16\3c&H000000&}but there seems to be no sign of intelligent life anywhere.{\r}
+Dialogue: 0,0:03:00.25,0:03:00.91,9s,,0000,0000,0000,,(太空骑警巴斯光年)
+Dialogue: 0,0:03:23.48,0:03:24.47,9s,,0000,0000,0000,,(札克天王监视器)
+Dialogue: 0,0:03:24.54,0:03:26.91,9s,,0000,0000,0000,,自投罗网吧，我的猎物\N{\fs16\3c&H000000&}Come to me, my prey.{\r}
+Dialogue: 0,0:03:45.33,0:03:47.32,9s,,0000,0000,0000,,(札克天王能量库)
+Dialogue: 0,0:04:09.19,0:04:12.56,9s,,0000,0000,0000,,飞向宇宙…浩瀚无垠\N{\fs16\3c&H000000&}To infinity and beyond!{\r}
+Dialogue: 0,0:04:16.93,0:04:19.26,9s,,0000,0000,0000,,(札克天王能量库)
+Dialogue: 0,0:04:23.37,0:04:24.90,9s,,0000,0000,0000,,我们又见面了，巴斯光年 这次你死定了\N{\fs16\3c&H000000&}So, we meet again, Buzz Lightyear, for the last time.{\r}
+Dialogue: 0,0:04:24.90,0:04:27.77,9s,,0000,0000,0000,,我们又见面了，巴斯光年 这次你死定了\N{\fs16\3c&H000000&}So, we meet again, Buzz Lightyear, for the last time.{\r}
+Dialogue: 0,0:04:27.84,0:04:30.54,9s,,0000,0000,0000,,你休想，札克\N{\fs16\3c&H000000&}Not today, Zurg!{\r}
+Dialogue: 0,0:04:46.86,0:04:48.29,9s,,0000,0000,0000,,(游戏结束)
+Dialogue: 0,0:04:49.36,0:04:51.26,9s,,0000,0000,0000,,不…不… 你差点就打败他\N{\fs16\3c&H000000&}You almost had him.{\r}
+Dialogue: 0,0:04:51.33,0:04:53.96,9s,,0000,0000,0000,,我永远都赢不了札克 你会赢的，抱抱龙\N{\fs16\3c&H000000&}- I'm never gonna defeat Zurg! - Sure, you will, Rex...{\r}
+Dialogue: 0,0:04:54.03,0:04:55.43,9s,,0000,0000,0000,,你当巴斯比我还要厉害\N{\fs16\3c&H000000&}In fact, you're a better Buzz than I am.{\r}
+Dialogue: 0,0:04:55.50,0:04:57.13,9s,,0000,0000,0000,,我的手太短了\N{\fs16\3c&H000000&}But look at my little arms!{\r}
+Dialogue: 0,0:04:57.20,0:05:01.33,9s,,0000,0000,0000,,我不能同时按 发射和跳跃的按键\N{\fs16\3c&H000000&}I can't press the "fire" button and jump at the same time!{\r}
+Dialogue: 0,0:05:01.44,0:05:03.41,9s,,0000,0000,0000,,在哪儿？\N{\fs16\3c&H000000&}Where is it? Where is it?{\r}
+Dialogue: 0,0:05:03.51,0:05:07.10,9s,,0000,0000,0000,,胡迪\N{\fs16\3c&H000000&}- Woody? - Huh?{\r}
+Dialogue: 0,0:05:09.85,0:05:12.18,9s,,0000,0000,0000,,别慌，牛仔\N{\fs16\3c&H000000&}Hang on, cowboy!{\r}
+Dialogue: 0,0:05:16.02,0:05:18.82,9s,,0000,0000,0000,,你没事吧？\N{\fs16\3c&H000000&}- Woody, are you all right? - Yeah.{\r}
+Dialogue: 0,0:05:18.89,0:05:22.69,9s,,0000,0000,0000,,我没事啦，巴斯 我不在的时候别忘了这些事\N{\fs16\3c&H000000&}Yeah, I'm fine, Buzz. OK. Here's your list of things to do while I'm gone.{\r}
+Dialogue: 0,0:05:22.76,0:05:24.02,9s,,0000,0000,0000,,记得要换电池\N{\fs16\3c&H000000&}Batteries need to be changed.{\r}
+Dialogue: 0,0:05:24.10,0:05:26.03,9s,,0000,0000,0000,,让柜底的玩具出来透透气\N{\fs16\3c&H000000&}Toys in the bottom of the chest need to be rotated.{\r}
+Dialogue: 0,0:05:26.10,0:05:28.62,9s,,0000,0000,0000,,大家都要上拼字先生的课\N{\fs16\3c&H000000&}And make sure everyone attends Mr. Spell's seminar...{\r}
+Dialogue: 0,0:05:28.70,0:05:30.64,9s,,0000,0000,0000,,「玩具被吞食该如何应变』\N{\fs16\3c&H000000&}on what to do if you or a part of you is swallowed.{\r}
+Dialogue: 0,0:05:30.70,0:05:32.26,9s,,0000,0000,0000,,好吗？很好\N{\fs16\3c&H000000&}OK? OK. Good. OK.{\r}
+Dialogue: 0,0:05:32.34,0:05:34.50,9s,,0000,0000,0000,,你还没找到帽子，对吧？\N{\fs16\3c&H000000&}Woody, you haven't found your hat yet, have you?{\r}
+Dialogue: 0,0:05:34.57,0:05:36.97,9s,,0000,0000,0000,,对，安弟要参加牛仔营\N{\fs16\3c&H000000&}And Andy's leaving for cowboy camp any minute,{\r}
+Dialogue: 0,0:05:37.04,0:05:38.27,9s,,0000,0000,0000,,我却找不到牛仔帽\N{\fs16\3c&H000000&}and I can't find it anywhere!{\r}
+Dialogue: 0,0:05:38.34,0:05:40.57,9s,,0000,0000,0000,,别担心，再过几个钟头\N{\fs16\3c&H000000&}Don't worry, Woody. In just a few hours,{\r}
+Dialogue: 0,0:05:40.65,0:05:45.41,9s,,0000,0000,0000,,你就能跟安弟坐在营火旁 一起烤香喷喷的马铃薯\N{\fs16\3c&H000000&}you'll be sitting around a campfire with Andy making delicious, hot "sch'moes."{\r}
+Dialogue: 0,0:05:45.48,0:05:48.21,9s,,0000,0000,0000,,是蕃薯啦，巴斯 没错，好吧\N{\fs16\3c&H000000&}- They're called s'mores, Buzz. - Right. Right. Of course.{\r}
+Dialogue: 0,0:05:48.32,0:05:50.19,9s,,0000,0000,0000,,谁找到胡迪的帽子吗？\N{\fs16\3c&H000000&}Has anyone found Woody's hat yet?{\r}
+Dialogue: 0,0:05:50.26,0:05:54.16,9s,,0000,0000,0000,,弟兄们，继续找 报告，我们还在找\N{\fs16\3c&H000000&}Keep looking, men. Dig deeper! Negatory. Still searching.{\r}
+Dialogue: 0,0:05:54.23,0:05:58.60,9s,,0000,0000,0000,,前院小矮人说不在院子里 但是他会继续找\N{\fs16\3c&H000000&}The lawn gnome next door says it's not in the yard, but he'll keep lookin'.{\r}
+Dialogue: 0,0:06:00.77,0:06:03.70,9s,,0000,0000,0000,,我们到处都找过了 不在茉莉房间\N{\fs16\3c&H000000&}It's not in Molly's room. We've looked everywhere.{\r}
+Dialogue: 0,0:06:03.77,0:06:05.63,9s,,0000,0000,0000,,我找到了 你找到我的帽子？\N{\fs16\3c&H000000&}- I found it. - You found my hat?{\r}
+Dialogue: 0,0:06:05.74,0:06:08.61,9s,,0000,0000,0000,,你的帽子？不是啦 我老婆丢了耳环\N{\fs16\3c&H000000&}Your hat? No. The missus lost her earring.{\r}
+Dialogue: 0,0:06:08.71,0:06:12.47,9s,,0000,0000,0000,,我的亲亲蛋头太太 你找到了\N{\fs16\3c&H000000&}- My little sweet potato! - You found it!{\r}
+Dialogue: 0,0:06:12.54,0:06:14.77,9s,,0000,0000,0000,,家里有个\N{\fs16\3c&H000000&}It's so nice...{\r}
+Dialogue: 0,0:06:14.85,0:06:18.51,9s,,0000,0000,0000,,强壮的蛋头老公真好\N{\fs16\3c&H000000&}to have a big, strong spud around the house.{\r}
+Dialogue: 0,0:06:19.92,0:06:21.04,9s,,0000,0000,0000,,这下可好了\N{\fs16\3c&H000000&}That's just great.{\r}
+Dialogue: 0,0:06:21.12,0:06:24.25,9s,,0000,0000,0000,,我去不成牛仔营 都是因为一顶蠢帽子\N{\fs16\3c&H000000&}This'll be the first year I miss cowboy camp, all because of my stupid hat!{\r}
+Dialogue: 0,0:06:24.32,0:06:26.72,9s,,0000,0000,0000,,胡迪，看看你的靴底 别傻了\N{\fs16\3c&H000000&}- Woody, look under your boot. - Don't be silly.{\r}
+Dialogue: 0,0:06:26.79,0:06:29.82,9s,,0000,0000,0000,,帽子不在那儿 你看看嘛\N{\fs16\3c&H000000&}- My hat is not under my boot. - Would you just look?{\r}
+Dialogue: 0,0:06:29.90,0:06:33.80,9s,,0000,0000,0000,,瞧，没有帽子 只有「安弟』这两个字\N{\fs16\3c&H000000&}No hat. Just the word "Andy."{\r}
+Dialogue: 0,0:06:33.87,0:06:35.63,9s,,0000,0000,0000,,不管你有没有帽子\N{\fs16\3c&H000000&}And the boy who wrote that{\r}
+Dialogue: 0,0:06:35.70,0:06:38.69,9s,,0000,0000,0000,,他还是会带你去牛仔营\N{\fs16\3c&H000000&}would take you to camp with or without your hat.{\r}
+Dialogue: 0,0:06:39.77,0:06:41.74,9s,,0000,0000,0000,,对不起，宝贝\N{\fs16\3c&H000000&}I'm sorry, Bo.{\r}
+Dialogue: 0,0:06:41.81,0:06:44.57,9s,,0000,0000,0000,,只是我等了一整年\N{\fs16\3c&H000000&}It's just that I've been lookin' forward to this all year.{\r}
+Dialogue: 0,0:06:44.64,0:06:46.63,9s,,0000,0000,0000,,才能单独跟安弟相处\N{\fs16\3c&H000000&}It's my one time with just me and Andy.{\r}
+Dialogue: 0,0:06:46.71,0:06:48.70,9s,,0000,0000,0000,,你这样好可爱哦\N{\fs16\3c&H000000&}You're cute when you care.{\r}
+Dialogue: 0,0:06:48.78,0:06:53.34,9s,,0000,0000,0000,,别在巴斯面前这样嘛 管他的，他爱看就看\N{\fs16\3c&H000000&}- Bo, not in front of Buzz. - Let him look.{\r}
+Dialogue: 0,0:06:54.49,0:06:56.82,9s,,0000,0000,0000,,宝贝小姐，你的绵羊\N{\fs16\3c&H000000&}Miss Peep, your sheep!{\r}
+Dialogue: 0,0:06:59.56,0:07:01.19,9s,,0000,0000,0000,,我是艾而玩具城的艾而\N{\fs16\3c&H000000&}This is Al from Al's Toy Barn{\r}
+Dialogue: 0,0:07:01.26,0:07:02.66,9s,,0000,0000,0000,,这儿有便宜货\N{\fs16\3c&H000000&}and I'm sittin' on good deals.{\r}
+Dialogue: 0,0:07:02.73,0:07:05.70,9s,,0000,0000,0000,,好东西正要破卵而出\N{\fs16\3c&H000000&}I think I'm feeling a deal hatching right now.{\r}
+Dialogue: 0,0:07:05.80,0:07:09.56,9s,,0000,0000,0000,,让我看看有什么 我有一块钱的玩具船、豆娃娃\N{\fs16\3c&H000000&}Let's see what we got. We got boats for a buck Beanies for a buck...{\r}
+Dialogue: 0,0:07:09.64,0:07:12.07,9s,,0000,0000,0000,,快关掉，有人会听到 怎么关呀？\N{\fs16\3c&H000000&}- Turn it off! Someone's gonna hear! - Which one is off?{\r}
+Dialogue: 0,0:07:12.14,0:07:15.57,9s,,0000,0000,0000,,价钱低得咕咕叫\N{\fs16\3c&H000000&}Buck-buck-buck! And that's cheap-cheap-cheap! So hurry on down...{\r}
+Dialogue: 0,0:07:15.64,0:07:17.77,9s,,0000,0000,0000,,是这个按钮\N{\fs16\3c&H000000&}For cryin' out loud, it's this one.{\r}
+Dialogue: 0,0:07:17.84,0:07:21.61,9s,,0000,0000,0000,,我最恨那只鸡 大伙儿\N{\fs16\3c&H000000&}- I despise that chicken. - Fellas! Fellas!{\r}
+Dialogue: 0,0:07:21.68,0:07:25.05,9s,,0000,0000,0000,,我有好消息跟坏消息\N{\fs16\3c&H000000&}OK, I got some good news, and I got some bad news.{\r}
+Dialogue: 0,0:07:25.12,0:07:26.85,9s,,0000,0000,0000,,快说吧 什么消息？\N{\fs16\3c&H000000&}What news?{\r}
+Dialogue: 0,0:07:26.92,0:07:28.91,9s,,0000,0000,0000,,好消息是我找到你的帽子\N{\fs16\3c&H000000&}The good news is I found your hat, Woody.{\r}
+Dialogue: 0,0:07:28.99,0:07:32.55,9s,,0000,0000,0000,,我的帽子 弹簧狗，谢谢你…\N{\fs16\3c&H000000&}My hat! Slink, thank you. Thank you, thank you, thank you.{\r}
+Dialogue: 0,0:07:32.62,0:07:35.86,9s,,0000,0000,0000,,你在哪儿找到的？ 这就是坏消息\N{\fs16\3c&H000000&}- Where'd you find it? - Well, that's the bad news.{\r}
+Dialogue: 0,0:07:37.00,0:07:38.59,9s,,0000,0000,0000,,是小狗巴斯特\N{\fs16\3c&H000000&}It's Buster!{\r}
+Dialogue: 0,0:07:38.66,0:07:40.96,9s,,0000,0000,0000,,恶犬来袭! 全面备战!\N{\fs16\3c&H000000&}Canine alert! Man your battle stations!{\r}
+Dialogue: 0,0:07:41.03,0:07:43.97,9s,,0000,0000,0000,,快行动!\N{\fs16\3c&H000000&}Let's move, move, move!{\r}
+Dialogue: 0,0:07:44.04,0:07:45.77,9s,,0000,0000,0000,,胡迪，快躲起来\N{\fs16\3c&H000000&}Woody! Hide! Quick!{\r}
+Dialogue: 0,0:08:07.19,0:08:10.25,9s,,0000,0000,0000,,好啦…好啦…你找到我了\N{\fs16\3c&H000000&}OK, OK, OK. OK, OK! You found me!{\r}
+Dialogue: 0,0:08:10.33,0:08:13.30,9s,,0000,0000,0000,,夠了，巴斯特 火腿，它的表现如何？\N{\fs16\3c&H000000&}Buster, all right. Hey, how did he do, Hamm?{\r}
+Dialogue: 0,0:08:13.37,0:08:17.32,9s,,0000,0000,0000,,它又刷新纪录 乖，狗狗，坐下\N{\fs16\3c&H000000&}- Looks like a new record. - OK, boy. Sit.{\r}
+Dialogue: 0,0:08:17.40,0:08:19.67,9s,,0000,0000,0000,,把手举起来\N{\fs16\3c&H000000&}Reach for the sky.{\r}
+Dialogue: 0,0:08:19.74,0:08:22.17,9s,,0000,0000,0000,,你死了\N{\fs16\3c&H000000&}Gotcha!{\r}
+Dialogue: 0,0:08:22.94,0:08:24.70,9s,,0000,0000,0000,,好棒哦，狗狗\N{\fs16\3c&H000000&}Great job, boy.{\r}
+Dialogue: 0,0:08:24.78,0:08:27.30,9s,,0000,0000,0000,,我走了谁会想我？\N{\fs16\3c&H000000&}Who's gonna miss me while I'm gone, huh?{\r}
+Dialogue: 0,0:08:27.38,0:08:28.64,9s,,0000,0000,0000,,谁会想我？\N{\fs16\3c&H000000&}Who's gonna miss me?{\r}
+Dialogue: 0,0:08:28.71,0:08:30.77,9s,,0000,0000,0000,,谁会想我呀？\N{\fs16\3c&H000000&}Who's gonna miss me?{\r}
+Dialogue: 0,0:08:30.85,0:08:32.25,9s,,0000,0000,0000,,安弟，你的袋子呢？\N{\fs16\3c&H000000&}Andy, you got all your stuff?{\r}
+Dialogue: 0,0:08:32.32,0:08:34.11,9s,,0000,0000,0000,,大伙儿周末愉快 礼拜天见\N{\fs16\3c&H000000&}Have a good weekend, everybody. I'll see you Sunday night.{\r}
+Dialogue: 0,0:08:34.19,0:08:36.68,9s,,0000,0000,0000,,在我的房间\N{\fs16\3c&H000000&}It's in my room.{\r}
+Dialogue: 0,0:08:38.86,0:08:40.98,9s,,0000,0000,0000,,手举起来\N{\fs16\3c&H000000&}Stick 'em up.{\r}
+Dialogue: 0,0:08:42.36,0:08:43.92,9s,,0000,0000,0000,,我改天再教你吧\N{\fs16\3c&H000000&}I guess we'll work on that later.{\r}
+Dialogue: 0,0:08:44.00,0:08:45.86,9s,,0000,0000,0000,,胡迪，准备去牛仔营啰\N{\fs16\3c&H000000&}Hey, Woody. Ready to go to cowboy camp?{\r}
+Dialogue: 0,0:08:45.93,0:08:49.70,9s,,0000,0000,0000,,安弟，快点，五分钟后出发\N{\fs16\3c&H000000&}Andy, honey, come on. Five minutes, and we're leavin'.{\r}
+Dialogue: 0,0:08:49.77,0:08:52.97,9s,,0000,0000,0000,,五分钟\N{\fs16\3c&H000000&}Five minutes.{\r}
+Dialogue: 0,0:08:53.04,0:08:55.10,9s,,0000,0000,0000,,救命啊!谁来救我？\N{\fs16\3c&H000000&}Help, help! Somebody help me!{\r}
+Dialogue: 0,0:08:55.17,0:08:57.47,9s,,0000,0000,0000,,邪恶的猪排博士，放开她\N{\fs16\3c&H000000&}Let her go, evil Dr. Pork Chop!{\r}
+Dialogue: 0,0:08:57.54,0:08:59.07,9s,,0000,0000,0000,,不行\N{\fs16\3c&H000000&}Never!{\r}
+Dialogue: 0,0:08:59.14,0:09:02.05,9s,,0000,0000,0000,,你得选择，胡迪警长 你要她怎么死？\N{\fs16\3c&H000000&}You must choose, Sheriff Woody. How shall she die?{\r}
+Dialogue: 0,0:09:02.11,0:09:06.35,9s,,0000,0000,0000,,鲨鱼？还是被猴子吃掉？\N{\fs16\3c&H000000&}Shark, or death by monkeys?{\r}
+Dialogue: 0,0:09:07.75,0:09:09.08,9s,,0000,0000,0000,,快选择吧\N{\fs16\3c&H000000&}Choose!{\r}
+Dialogue: 0,0:09:09.15,0:09:10.99,9s,,0000,0000,0000,,我选择巴斯光年\N{\fs16\3c&H000000&}I choose Buzz Lightyear!{\r}
+Dialogue: 0,0:09:11.06,0:09:11.99,9s,,0000,0000,0000,,(星际总部)
+Dialogue: 0,0:09:12.06,0:09:13.65,9s,,0000,0000,0000,,那可不行\N{\fs16\3c&H000000&}What? That's not a choice!{\r}
+Dialogue: 0,0:09:13.73,0:09:16.22,9s,,0000,0000,0000,,飞向宇宙…浩瀚无垠\N{\fs16\3c&H000000&}To infinity and beyond!{\r}
+Dialogue: 0,0:09:17.76,0:09:20.99,9s,,0000,0000,0000,,我来救你，宝贝小姐 我的大英雄\N{\fs16\3c&H000000&}- I'll save you, Miss Peep. - My hero.{\r}
+Dialogue: 0,0:09:22.07,0:09:24.56,9s,,0000,0000,0000,,谢了，巴斯 不客气，兄弟\N{\fs16\3c&H000000&}- Thanks, Buzz. - No problem, buddy.{\r}
+Dialogue: 0,0:09:24.64,0:09:26.90,9s,,0000,0000,0000,,千万别惹上所向无敌的…\N{\fs16\3c&H000000&}You should never tangle with the unstoppable duo{\r}
+Dialogue: 0,0:09:26.97,0:09:28.53,9s,,0000,0000,0000,,…胡迪和巴斯光年\N{\fs16\3c&H000000&}of Woody and Buzz Lightyear!{\r}
+Dialogue: 0,0:09:30.04,0:09:32.60,9s,,0000,0000,0000,,糟了\N{\fs16\3c&H000000&}Oh, no.{\r}
+Dialogue: 0,0:09:32.68,0:09:35.98,9s,,0000,0000,0000,,安弟，走了，妹妹都上车了\N{\fs16\3c&H000000&}Andy, let's go! Molly's already in her car seat.{\r}
+Dialogue: 0,0:09:36.05,0:09:39.28,9s,,0000,0000,0000,,妈咪，胡迪的手被扯破了 糟糕\N{\fs16\3c&H000000&}- But, Mom, Woody's arm ripped. - Oh, no.{\r}
+Dialogue: 0,0:09:39.35,0:09:43.52,9s,,0000,0000,0000,,也许可以在路上补好 不要，别带去吧\N{\fs16\3c&H000000&}- Maybe we can fix. Him on the way. - No, just leave him.{\r}
+Dialogue: 0,0:09:43.59,0:09:48.19,9s,,0000,0000,0000,,别难过，乖乖 玩具没有永远不坏的\N{\fs16\3c&H000000&}I'm sorry, honey, but you know toys don't last forever.{\r}
+Dialogue: 0,0:09:48.26,0:09:49.49,9s,,0000,0000,0000,,(三星级牛仔营)
+Dialogue: 0,0:09:59.81,0:10:02.71,9s,,0000,0000,0000,,怎么回事？ 胡迪被放到架子上\N{\fs16\3c&H000000&}- What happened? - Woody's been shelved.{\r}
+Dialogue: 0,0:10:10.32,0:10:11.41,9s,,0000,0000,0000,,安弟\N{\fs16\3c&H000000&}Andy!{\r}
+Dialogue: 0,0:10:14.12,0:10:16.05,9s,,0000,0000,0000,,(小狗岛)
+Dialogue: 0,0:10:16.12,0:10:19.32,9s,,0000,0000,0000,,(超大卡车)
+Dialogue: 0,0:10:29.53,0:10:34.16,9s,,0000,0000,0000,,胡迪？ 胡迪，帅哥，你还好吧？\N{\fs16\3c&H000000&}- Woody? - Woody? Honey, are you OK?{\r}
+Dialogue: 0,0:10:52.56,0:10:55.39,9s,,0000,0000,0000,,咿呀，快骑吧，牛仔\N{\fs16\3c&H000000&}Ride 'em, cowboy!{\r}
+Dialogue: 0,0:10:55.46,0:10:59.99,9s,,0000,0000,0000,,他回来了？他回来了 安弟从牛仔营提早回来了\N{\fs16\3c&H000000&}He's back? Hey, everybody! Andy's back! He's back early from cowboy camp!{\r}
+Dialogue: 0,0:11:00.07,0:11:01.93,9s,,0000,0000,0000,,各就各位，安弟来了\N{\fs16\3c&H000000&}Places, everybody! Andy's coming!{\r}
+Dialogue: 0,0:11:08.97,0:11:11.03,9s,,0000,0000,0000,,胡迪，你想我吗？\N{\fs16\3c&H000000&}Hey, Woody! Did you miss me?{\r}
+Dialogue: 0,0:11:11.14,0:11:14.87,9s,,0000,0000,0000,,跑吧…马儿 快骑吧，牛仔\N{\fs16\3c&H000000&}Giddyap, giddyap, giddyap. Ride 'em, cowboy!{\r}
+Dialogue: 0,0:11:14.95,0:11:18.97,9s,,0000,0000,0000,,我忘了，你坏了\N{\fs16\3c&H000000&}I forgot. You're broken.{\r}
+Dialogue: 0,0:11:19.05,0:11:23.42,9s,,0000,0000,0000,,我不要跟你玩了\N{\fs16\3c&H000000&}I don't wanna play with you anymore.{\r}
+Dialogue: 0,0:11:27.53,0:11:30.50,9s,,0000,0000,0000,,(安弟)
+Dialogue: 0,0:11:42.47,0:11:45.27,9s,,0000,0000,0000,,不，安弟，不!\N{\fs16\3c&H000000&}No, Andy! No. No, Andy! No!{\r}
+Dialogue: 0,0:11:45.38,0:11:48.01,9s,,0000,0000,0000,,安弟，安弟\N{\fs16\3c&H000000&}Andy. Andy.{\r}
+Dialogue: 0,0:11:48.08,0:11:51.07,9s,,0000,0000,0000,,永别了，胡迪\N{\fs16\3c&H000000&}Bye, Woody.{\r}
+Dialogue: 0,0:11:51.15,0:11:54.45,9s,,0000,0000,0000,,安弟，别走!\N{\fs16\3c&H000000&}No! No! Andy!{\r}
+Dialogue: 0,0:12:07.23,0:12:10.13,9s,,0000,0000,0000,,吱吱，是你吗？\N{\fs16\3c&H000000&}Wheezy, is that you?{\r}
+Dialogue: 0,0:12:10.20,0:12:12.76,9s,,0000,0000,0000,,嗨，胡迪 你怎么会在这儿？\N{\fs16\3c&H000000&}- Hey, Woody. - What are you doing up here?{\r}
+Dialogue: 0,0:12:12.84,0:12:16.00,9s,,0000,0000,0000,,我以为妈咪 老早就把你修好了\N{\fs16\3c&H000000&}I thought Mom took you to get your squeaker fix. Ed months ago.{\r}
+Dialogue: 0,0:12:16.07,0:12:18.20,9s,,0000,0000,0000,,安弟很着急耶 没有\N{\fs16\3c&H000000&}- Andy was so upset. - Nah.{\r}
+Dialogue: 0,0:12:18.28,0:12:20.54,9s,,0000,0000,0000,,她只是安慰安弟而已\N{\fs16\3c&H000000&}She just told him that to calm him down{\r}
+Dialogue: 0,0:12:20.61,0:12:22.60,9s,,0000,0000,0000,,然后就把我放上来\N{\fs16\3c&H000000&}and then put me on the shelf.{\r}
+Dialogue: 0,0:12:22.68,0:12:26.14,9s,,0000,0000,0000,,你怎么不求救呢？ 我试着吱吱叫\N{\fs16\3c&H000000&}- Why didn't you yell for help? - Well, I tried squeakin'.{\r}
+Dialogue: 0,0:12:26.22,0:12:28.98,9s,,0000,0000,0000,,可是没有用，没有人听得到\N{\fs16\3c&H000000&}But I'm still broken. No one could hear me.{\r}
+Dialogue: 0,0:12:31.46,0:12:35.72,9s,,0000,0000,0000,,况且灰尘让我病得更重\N{\fs16\3c&H000000&}Besides, the dust aggravates my condition.{\r}
+Dialogue: 0,0:12:39.83,0:12:42.80,9s,,0000,0000,0000,,反正我是无药可救了\N{\fs16\3c&H000000&}What's the point in prolonging the inevitable?{\r}
+Dialogue: 0,0:12:42.87,0:12:47.03,9s,,0000,0000,0000,,我们最后都会沦落到那儿的\N{\fs16\3c&H000000&}We're all just one stitch away from here to there.{\r}
+Dialogue: 0,0:12:48.34,0:12:51.14,9s,,0000,0000,0000,,前院拍卖\N{\fs16\3c&H000000&}Yard sale? Yard sale!{\r}
+Dialogue: 0,0:12:51.21,0:12:54.91,9s,,0000,0000,0000,,前院拍卖!大伙儿，醒醒 外面在拍卖\N{\fs16\3c&H000000&}Yard sale! Guys, wake up, wake up! There's a yard sale outside!{\r}
+Dialogue: 0,0:12:54.98,0:12:57.41,9s,,0000,0000,0000,,前院拍卖？ 队长，紧急点名\N{\fs16\3c&H000000&}- Yard sale? - Sarge, emergency roll call!{\r}
+Dialogue: 0,0:12:57.48,0:12:59.54,9s,,0000,0000,0000,,是，长官 紧急状况\N{\fs16\3c&H000000&}Sir, yes, sir! Red alert!{\r}
+Dialogue: 0,0:12:59.65,0:13:03.81,9s,,0000,0000,0000,,马上全体集合 排成一列，快点\N{\fs16\3c&H000000&}All civilians fall in position now! Single file! Let's move, move, move!{\r}
+Dialogue: 0,0:13:03.89,0:13:04.86,9s,,0000,0000,0000,,火腿\N{\fs16\3c&H000000&}- Hamm? - Here.{\r}
+Dialogue: 0,0:13:04.92,0:13:06.45,9s,,0000,0000,0000,,蛋头先生、太太 在\N{\fs16\3c&H000000&}- Potato Head, Mr. And Mrs? - Here.{\r}
+Dialogue: 0,0:13:06.52,0:13:08.29,9s,,0000,0000,0000,,蛋包蛋，在在在在在\N{\fs16\3c&H000000&}Troikas. Check, check, check, check, check.{\r}
+Dialogue: 0,0:13:08.36,0:13:10.35,9s,,0000,0000,0000,,我最讨厌大拍卖\N{\fs16\3c&H000000&}I hate yard sales!{\r}
+Dialogue: 0,0:13:10.43,0:13:13.09,9s,,0000,0000,0000,,有人来了\N{\fs16\3c&H000000&}Someone's coming!{\r}
+Dialogue: 0,0:13:15.47,0:13:18.09,9s,,0000,0000,0000,,好吧，让我看看有什么 (两毛五)\N{\fs16\3c&H000000&}OK. Let's see what's up here.{\r}
+Dialogue: 0,0:13:29.08,0:13:29.74,9s,,0000,0000,0000,,(组合玩具)
+Dialogue: 0,0:13:35.65,0:13:38.49,9s,,0000,0000,0000,,永别了，胡迪\N{\fs16\3c&H000000&}Bye, Woody.{\r}
+Dialogue: 0,0:13:43.69,0:13:47.15,9s,,0000,0000,0000,,吱吱 快点，胡迪，快想办法\N{\fs16\3c&H000000&}Wheezy! Think, think, Woody. Think, think, think.{\r}
+Dialogue: 0,0:13:51.17,0:13:52.62,9s,,0000,0000,0000,,狗狗，我在上面\N{\fs16\3c&H000000&}Hey. Here, boy. Here, Buster!{\r}
+Dialogue: 0,0:13:52.67,0:13:54.47,9s,,0000,0000,0000,,这里\N{\fs16\3c&H000000&}Up here!{\r}
+Dialogue: 0,0:13:54.51,0:13:56.03,9s,,0000,0000,0000,,不…不…
+Dialogue: 0,0:13:57.38,0:13:59.71,9s,,0000,0000,0000,,好了，快到前院\N{\fs16\3c&H000000&}OK, boy. To the yard sale!{\r}
+Dialogue: 0,0:13:59.78,0:14:01.71,9s,,0000,0000,0000,,怎么回事？ 他秀逗了\N{\fs16\3c&H000000&}What's goin' on? He's nuts.{\r}
+Dialogue: 0,0:14:01.78,0:14:02.94,9s,,0000,0000,0000,,他的手没那么糟嘛\N{\fs16\3c&H000000&}His arm ain't that bad.{\r}
+Dialogue: 0,0:14:03.01,0:14:05.04,9s,,0000,0000,0000,,别去找死，我们爱你\N{\fs16\3c&H000000&}Don't do it, Woody! We love you!{\r}
+Dialogue: 0,0:14:05.12,0:14:07.81,9s,,0000,0000,0000,,下楼梯小心点\N{\fs16\3c&H000000&}Careful on the steps, now.{\r}
+Dialogue: 0,0:14:23.33,0:14:26.60,9s,,0000,0000,0000,,走吧，狗狗 要装得若无其事\N{\fs16\3c&H000000&}OK, boy. Let's go. And keep it casual.{\r}
+Dialogue: 0,0:14:33.18,0:14:36.08,9s,,0000,0000,0000,,不是装腔作势啦\N{\fs16\3c&H000000&}Not that casual.{\r}
+Dialogue: 0,0:14:38.98,0:14:40.78,9s,,0000,0000,0000,,火腿大爷来也\N{\fs16\3c&H000000&}Piggy bank coming through, coming through.{\r}
+Dialogue: 0,0:14:40.85,0:14:44.12,9s,,0000,0000,0000,,他在外面吗？ 他在那儿\N{\fs16\3c&H000000&}- Is he out there? - There he is.{\r}
+Dialogue: 0,0:14:51.80,0:14:53.42,9s,,0000,0000,0000,,(两毛五)
+Dialogue: 0,0:14:53.50,0:14:55.09,9s,,0000,0000,0000,,他爬进箱子了\N{\fs16\3c&H000000&}He's in the box!{\r}
+Dialogue: 0,0:14:55.17,0:14:57.40,9s,,0000,0000,0000,,他只把自己标价两毛五\N{\fs16\3c&H000000&}He's sellin' himself for 25 cents!{\r}
+Dialogue: 0,0:14:57.47,0:14:58.99,9s,,0000,0000,0000,,胡迪，你没这么不值钱吧\N{\fs16\3c&H000000&}You're worth more than that.{\r}
+Dialogue: 0,0:14:59.07,0:15:01.33,9s,,0000,0000,0000,,等等，他找到什么\N{\fs16\3c&H000000&}Hold on. Hold on. He's got something.{\r}
+Dialogue: 0,0:15:01.41,0:15:03.46,9s,,0000,0000,0000,,是吱吱 吱吱？\N{\fs16\3c&H000000&}- It's Wheezy! - Wheezy?{\r}
+Dialogue: 0,0:15:03.54,0:15:06.37,9s,,0000,0000,0000,,他不是自杀，他是去救人\N{\fs16\3c&H000000&}Hey, it's not suicide. It's a rescue.{\r}
+Dialogue: 0,0:15:09.35,0:15:13.25,9s,,0000,0000,0000,,乖狗狗，别乱动 来吧，好兄弟\N{\fs16\3c&H000000&}Good boy, Buster. Hold still. There. There you go, pal.{\r}
+Dialogue: 0,0:15:13.35,0:15:15.75,9s,,0000,0000,0000,,你真好，胡迪 好了\N{\fs16\3c&H000000&}- Bless you, Woody. - All right, now.{\r}
+Dialogue: 0,0:15:15.82,0:15:17.45,9s,,0000,0000,0000,,回安弟房间吧\N{\fs16\3c&H000000&}Back to Andy's room.{\r}
+Dialogue: 0,0:15:17.59,0:15:20.68,9s,,0000,0000,0000,,干得好，牛仔\N{\fs16\3c&H000000&}Way to go, cowboy.{\r}
+Dialogue: 0,0:15:20.76,0:15:24.25,9s,,0000,0000,0000,,真是了不起 胡迪，我快掉下去了\N{\fs16\3c&H000000&}- Golly bob howdy! - Woody, I'm slipping!{\r}
+Dialogue: 0,0:15:31.10,0:15:33.57,9s,,0000,0000,0000,,妈咪，你看看\N{\fs16\3c&H000000&}Mommy... Mommy, look! Look at this!{\r}
+Dialogue: 0,0:15:33.64,0:15:37.04,9s,,0000,0000,0000,,你看，是一个牛仔娃娃 胡迪不是她的玩具\N{\fs16\3c&H000000&}- Mommy, look! It's a cowboy dolly! - Hey, that's not her toy!{\r}
+Dialogue: 0,0:15:37.11,0:15:39.41,9s,,0000,0000,0000,,那个小女孩想干嘛？\N{\fs16\3c&H000000&}What's that little gal think she's doin'?{\r}
+Dialogue: 0,0:15:39.48,0:15:42.07,9s,,0000,0000,0000,,妈咪，卖啦，好不好？\N{\fs16\3c&H000000&}Mommy, Mommy, can we get it? Please? Mommy, please?{\r}
+Dialogue: 0,0:15:42.15,0:15:44.27,9s,,0000,0000,0000,,乖乖，不要啦，它坏了\N{\fs16\3c&H000000&}You don't want that toy. It's broken.{\r}
+Dialogue: 0,0:15:44.35,0:15:46.71,9s,,0000,0000,0000,,我的靴子里有蛇\N{\fs16\3c&H000000&}There's a snake in my boot.{\r}
+Dialogue: 0,0:15:50.09,0:15:55.08,9s,,0000,0000,0000,,原版手工上漆 天然染色、锁边背心\N{\fs16\3c&H000000&}Original hand-painted face. Natural-dyed, blanket-stitched vest!{\r}
+Dialogue: 0,0:15:55.19,0:16:00.10,9s,,0000,0000,0000,,有点破，能补救 希望有你的手缝尼龙布制…\N{\fs16\3c&H000000&}Little rip. Fix. Able. If only you had your hand-stitched, polyvinyl...{\r}
+Dialogue: 0,0:16:00.20,0:16:04.43,9s,,0000,0000,0000,,…牛仔帽 我找到了，我找到了\N{\fs16\3c&H000000&}A hat! I found him! I found him! I found him!{\r}
+Dialogue: 0,0:16:04.50,0:16:08.17,9s,,0000,0000,0000,,巴斯特，安静\N{\fs16\3c&H000000&}Buster! Quiet down!{\r}
+Dialogue: 0,0:16:08.24,0:16:09.97,9s,,0000,0000,0000,,抱歉，我能帮忙吗？ 当然能\N{\fs16\3c&H000000&}- Ex. Cuse me. Can I help you? - Yes.{\r}
+Dialogue: 0,0:16:10.04,0:16:12.41,9s,,0000,0000,0000,,叫他别碰我的好友\N{\fs16\3c&H000000&}You can help take his paws off my pal.{\r}
+Dialogue: 0,0:16:12.48,0:16:14.94,9s,,0000,0000,0000,,我出五毛钱卖这个破玩具\N{\fs16\3c&H000000&}I'll give you 50 cents for all this junk.{\r}
+Dialogue: 0,0:16:15.01,0:16:17.74,9s,,0000,0000,0000,,这怎么会在这儿？ 乖乖的把警长…\N{\fs16\3c&H000000&}- Now, how did this get down here? - Hand her the sheriff.{\r}
+Dialogue: 0,0:16:17.82,0:16:20.05,9s,,0000,0000,0000,,…交给她\N{\fs16\3c&H000000&}Nice and easy.{\r}
+Dialogue: 0,0:16:20.12,0:16:23.02,9s,,0000,0000,0000,,五块钱 抱歉，这是家里的玩具\N{\fs16\3c&H000000&}- Five dollars. - I'm sorry. It's an old family toy.{\r}
+Dialogue: 0,0:16:23.29,0:16:24.41,9s,,0000,0000,0000,,乖乖给我走开\N{\fs16\3c&H000000&}Now just walk away.{\r}
+Dialogue: 0,0:16:24.49,0:16:26.48,9s,,0000,0000,0000,,另外一边\N{\fs16\3c&H000000&}- Wait. - The other way.{\r}
+Dialogue: 0,0:16:26.56,0:16:29.29,9s,,0000,0000,0000,,我出五十块钱 五十元不少钱耶\N{\fs16\3c&H000000&}- I'll give you 50 bucks for him. - Fifty bucks ain't bad.{\r}
+Dialogue: 0,0:16:29.36,0:16:31.95,9s,,0000,0000,0000,,我不卖 什么都能卖卖或交易\N{\fs16\3c&H000000&}- It's not for sale. - Everything's for sale.{\r}
+Dialogue: 0,0:16:32.03,0:16:35.12,9s,,0000,0000,0000,,喜欢我的表吗？ 抱歉\N{\fs16\3c&H000000&}- Or trade. You like my watch? - Sorry.{\r}
+Dialogue: 0,0:16:35.20,0:16:38.64,9s,,0000,0000,0000,,他得救了，安弟的妈咪万岁 棒呆了，她让他吃瘪\N{\fs16\3c&H000000&}- He's safe. Way to go! - She showed him!{\r}
+Dialogue: 0,0:16:38.70,0:16:43.54,9s,,0000,0000,0000,,茉莉，别乱摸 滚回家吧，胖子\N{\fs16\3c&H000000&}- Molly, don't touch that, sweetie. - Yeah. Go home, Mr. Fancy Car.{\r}
+Dialogue: 0,0:16:44.28,0:16:46.18,9s,,0000,0000,0000,,等等 什么事？\N{\fs16\3c&H000000&}- Hold on. - What's up?{\r}
+Dialogue: 0,0:16:46.24,0:16:48.91,9s,,0000,0000,0000,,巴斯，怎么了？\N{\fs16\3c&H000000&}What is it, Buzz?{\r}
+Dialogue: 0,0:16:49.81,0:16:50.80,9s,,0000,0000,0000,,发生什么事？\N{\fs16\3c&H000000&}What's happening?{\r}
+Dialogue: 0,0:16:50.88,0:16:51.91,9s,,0000,0000,0000,,他在干嘛？\N{\fs16\3c&H000000&}What's he doing?{\r}
+Dialogue: 0,0:16:51.98,0:16:54.95,9s,,0000,0000,0000,,我不敢看 矇住我的眼睛，好吗？\N{\fs16\3c&H000000&}I can't watch! Can someone cover my eyes?{\r}
+Dialogue: 0,0:16:55.02,0:16:57.39,9s,,0000,0000,0000,,他想要偷走胡迪 什么？\N{\fs16\3c&H000000&}- He's stealin' Woody! - What? He can't take Woody.{\r}
+Dialogue: 0,0:16:57.45,0:16:58.79,9s,,0000,0000,0000,,那是犯法的\N{\fs16\3c&H000000&}It's illegal.{\r}
+Dialogue: 0,0:16:58.86,0:17:00.65,9s,,0000,0000,0000,,他去哪儿？ 想想办法呀\N{\fs16\3c&H000000&}- Where's he going? - Do something.{\r}
+Dialogue: 0,0:17:00.72,0:17:02.59,9s,,0000,0000,0000,,巴斯\N{\fs16\3c&H000000&}Buzz!{\r}
+Dialogue: 0,0:17:03.63,0:17:04.82,9s,,0000,0000,0000,,巴斯，阻止他\N{\fs16\3c&H000000&}Get him, Buzz.{\r}
+Dialogue: 0,0:17:06.56,0:17:09.76,9s,,0000,0000,0000,,红色夹克在哪里？\N{\fs16\3c&H000000&}Where's the red jacket?{\r}
+Dialogue: 0,0:17:14.74,0:17:15.76,9s,,0000,0000,0000,,(要卖请早)
+Dialogue: 0,0:17:30.89,0:17:32.69,9s,,0000,0000,0000,,(三郡车牌)
+Dialogue: 0,0:17:42.67,0:17:46.23,9s,,0000,0000,0000,,怎么会有人要偷走胡迪呢？\N{\fs16\3c&H000000&}Why would someone steal Woody?{\r}
+Dialogue: 0,0:18:16.53,0:18:20.87,9s,,0000,0000,0000,,(儿童不宜进入)
+Dialogue: 0,0:18:23.37,0:18:23.44,9s,,0000,0000,0000,,(证物A)
+Dialogue: 0,0:18:23.44,0:18:24.37,9s,,0000,0000,0000,,(证物A)
+Dialogue: 0,0:18:24.44,0:18:27.57,9s,,0000,0000,0000,,我们再回顾一次\N{\fs16\3c&H000000&}All right. Let's review this one more time.{\r}
+Dialogue: 0,0:18:27.68,0:18:30.11,9s,,0000,0000,0000,,8时32分左右\N{\fs16\3c&H000000&}At precisely 8:32-ish,{\r}
+Dialogue: 0,0:18:30.21,0:18:33.08,9s,,0000,0000,0000,,证物A胡迪遭到绑架\N{\fs16\3c&H000000&}Ex. Hibit A, Woody, was kidnapped.{\r}
+Dialogue: 0,0:18:33.18,0:18:36.81,9s,,0000,0000,0000,,证物B绑匪的素描\N{\fs16\3c&H000000&}Ex. Hibit B, a composite sketch of the kidnapper.{\r}
+Dialogue: 0,0:18:37.29,0:18:41.16,9s,,0000,0000,0000,,他的胡子没那么长 好吧，画板，帮他刮胡子\N{\fs16\3c&H000000&}- He didn't have a beard like that. - Fine. Etch, give him a shave.{\r}
+Dialogue: 0,0:18:41.96,0:18:43.93,9s,,0000,0000,0000,,绑匪比较胖\N{\fs16\3c&H000000&}The kidnapper was bigger than that.{\r}
+Dialogue: 0,0:18:43.99,0:18:46.89,9s,,0000,0000,0000,,你们真挑剔 直接跳到证物F\N{\fs16\3c&H000000&}- Picky, picky, picky. - Let's just go straight to Ex. Hibit F.{\r}
+Dialogue: 0,0:18:46.96,0:18:48.26,9s,,0000,0000,0000,,绑匪的车子\N{\fs16\3c&H000000&}The kidnapper's vehicle.{\r}
+Dialogue: 0,0:18:48.33,0:18:50.66,9s,,0000,0000,0000,,他从这方向逃离现场\N{\fs16\3c&H000000&}Now, the vehicle fled the scene in this direction.{\r}
+Dialogue: 0,0:18:50.77,0:18:52.79,9s,,0000,0000,0000,,你的眼睛装反了 是另一边啦\N{\fs16\3c&H000000&}Your eyes are in backwards. It went the other way.{\r}
+Dialogue: 0,0:18:52.87,0:18:53.89,9s,,0000,0000,0000,,别教训我，猪头\N{\fs16\3c&H000000&}Hey. Put a cork in it.{\r}
+Dialogue: 0,0:18:53.97,0:18:56.40,9s,,0000,0000,0000,,FBI英文怎么拼呀？ 我的犯罪现场\N{\fs16\3c&H000000&}- How do you spell FBI? - My crime scene!{\r}
+Dialogue: 0,0:18:56.47,0:18:58.74,9s,,0000,0000,0000,,瞎眼龙，走路要看路，好吗？\N{\fs16\3c&H000000&}Why don't you watch where you're going, Godspilla?{\r}
+Dialogue: 0,0:18:58.81,0:19:01.40,9s,,0000,0000,0000,,我没看到犯罪现场 不好意思\N{\fs16\3c&H000000&}- I didn't know there was a crime scene. - Ex. Cuse me. Ex. Cuse me.{\r}
+Dialogue: 0,0:19:01.48,0:19:03.88,9s,,0000,0000,0000,,请安静点 谢谢\N{\fs16\3c&H000000&}A little quiet, please. Thank you.{\r}
+Dialogue: 0,0:19:07.12,0:19:10.45,9s,,0000,0000,0000,,懒骨头\N{\fs16\3c&H000000&}Lazy toy brain.{\r}
+Dialogue: 0,0:19:10.52,0:19:15.18,9s,,0000,0000,0000,,逊角色 巴斯，你在干嘛？\N{\fs16\3c&H000000&}- Lousy try Brian. - What are you doing, Buzz?{\r}
+Dialogue: 0,0:19:15.26,0:19:17.92,9s,,0000,0000,0000,,那辆车的车牌暗藏玄机\N{\fs16\3c&H000000&}It's some sort of message encoded on that vehicle's I.D. Tag.{\r}
+Dialogue: 0,0:19:17.99,0:19:19.99,9s,,0000,0000,0000,,车牌的字母没什么意义\N{\fs16\3c&H000000&}- Liz try bran. - It's just a license plate.{\r}
+Dialogue: 0,0:19:20.06,0:19:21.89,9s,,0000,0000,0000,,没错，本郡总共有\N{\fs16\3c&H000000&}- It's just a jumble of letters. - Yeah, and there are about{\r}
+Dialogue: 0,0:19:21.96,0:19:25.70,9s,,0000,0000,0000,,三百五十万辆汽车\N{\fs16\3c&H000000&}3.5 million registered cars in the tri-county area alone.{\r}
+Dialogue: 0,0:19:25.77,0:19:28.97,9s,,0000,0000,0000,,没用的软脚虾\N{\fs16\3c&H000000&}Lou's thigh burn.{\r}
+Dialogue: 0,0:19:29.04,0:19:32.60,9s,,0000,0000,0000,,没有用啦 让巴斯继续玩玩具吧\N{\fs16\3c&H000000&}This can't help. Let's leave Buzz to play with his toys.{\r}
+Dialogue: 0,0:19:32.68,0:19:36.04,9s,,0000,0000,0000,,玩具…等等!\N{\fs16\3c&H000000&}Toy. Toy. Toy. Hold on!{\r}
+Dialogue: 0,0:19:38.95,0:19:42.75,9s,,0000,0000,0000,,艾而玩具城 艾而玩具城!\N{\fs16\3c&H000000&}- Al's Toy Barn. - Al's Toy Barn!{\r}
+Dialogue: 0,0:19:44.05,0:19:46.99,9s,,0000,0000,0000,,画板，画出扮成公鸡的人\N{\fs16\3c&H000000&}Etch, draw that man in a chicken suit.{\r}
+Dialogue: 0,0:19:49.76,0:19:51.85,9s,,0000,0000,0000,,就是那个公鸡人\N{\fs16\3c&H000000&}It's the chicken man!{\r}
+Dialogue: 0,0:19:51.93,0:19:53.36,9s,,0000,0000,0000,,他就是嫌犯\N{\fs16\3c&H000000&}That's our guy.{\r}
+Dialogue: 0,0:19:53.43,0:19:56.56,9s,,0000,0000,0000,,我早就知道那只鸡有问题\N{\fs16\3c&H000000&}I knew there was something I didn't like about that chicken.{\r}
+Dialogue: 0,0:19:56.63,0:19:58.62,9s,,0000,0000,0000,,好啦，我马上来\N{\fs16\3c&H000000&}Yeah, yeah, yeah. I'll be right there.{\r}
+Dialogue: 0,0:19:58.70,0:20:01.19,9s,,0000,0000,0000,,这次广告要一次搞定\N{\fs16\3c&H000000&}And we're gonna do this commercial in one take, do you hear me,{\r}
+Dialogue: 0,0:20:01.27,0:20:04.43,9s,,0000,0000,0000,,因为我正在办一件正事\N{\fs16\3c&H000000&}because I am in the middle of something really important.{\r}
+Dialogue: 0,0:20:06.08,0:20:11.81,9s,,0000,0000,0000,,我的小牛仔朋友 你会让我发大猜…\N{\fs16\3c&H000000&}You, my little cowboy friend, are gonna make me big buck-buck-bucks.{\r}
+Dialogue: 0,0:20:40.51,0:20:42.67,9s,,0000,0000,0000,,安弟\N{\fs16\3c&H000000&}Andy!{\r}
+Dialogue: 0,0:20:45.31,0:20:49.38,9s,,0000,0000,0000,,我不敢相信 他们礼拜六竟然…\N{\fs16\3c&H000000&}I can't believe I have to drive all the way to work on a Saturday.{\r}
+Dialogue: 0,0:20:49.45,0:20:50.78,9s,,0000,0000,0000,,…要我大老远开车跑去上班\N{\fs16\3c&H000000&}All the way to work!{\r}
+Dialogue: 0,0:20:52.36,0:20:55.26,9s,,0000,0000,0000,,(艾而玩具城)
+Dialogue: 0,0:21:10.44,0:21:11.57,9s,,0000,0000,0000,,什么？\N{\fs16\3c&H000000&}What?{\r}
+Dialogue: 0,0:21:15.21,0:21:18.84,9s,,0000,0000,0000,,停!马儿，停!坐下来!\N{\fs16\3c&H000000&}Hey! Stop! Horsy, stop! Stop! Sit, boy!{\r}
+Dialogue: 0,0:21:18.92,0:21:22.18,9s,,0000,0000,0000,,我叫你坐!\N{\fs16\3c&H000000&}Stop it! Sit, I said!{\r}
+Dialogue: 0,0:21:29.29,0:21:32.89,9s,,0000,0000,0000,,是你…是你…是你…\N{\fs16\3c&H000000&}It's you! It's you! It's you! It's you! It's you!{\r}
+Dialogue: 0,0:21:32.96,0:21:35.29,9s,,0000,0000,0000,,真的是你! 是我\N{\fs16\3c&H000000&}- It's really you! - What's me?{\r}
+Dialogue: 0,0:21:37.50,0:21:39.56,9s,,0000,0000,0000,,我的靴子里有蛇\N{\fs16\3c&H000000&}There's a snake in my boot.{\r}
+Dialogue: 0,0:21:39.64,0:21:41.57,9s,,0000,0000,0000,,就是你 请你别再说了\N{\fs16\3c&H000000&}- It is you! - Please stop saying that.{\r}
+Dialogue: 0,0:21:41.64,0:21:44.07,9s,,0000,0000,0000,,老矿工就说有一天你会来\N{\fs16\3c&H000000&}Prospector said someday you'd come.{\r}
+Dialogue: 0,0:21:44.14,0:21:46.04,9s,,0000,0000,0000,,乖乖老天爷\N{\fs16\3c&H000000&}Sweet mother of Abraham Lincoln!{\r}
+Dialogue: 0,0:21:46.18,0:21:49.67,9s,,0000,0000,0000,,老矿工一定很想见你\N{\fs16\3c&H000000&}The Prospector! He'll wanna meet ya!{\r}
+Dialogue: 0,0:21:55.49,0:21:59.42,9s,,0000,0000,0000,,过来跟老矿工问好\N{\fs16\3c&H000000&}Say "hello" to the Prospector!{\r}
+Dialogue: 0,0:21:59.49,0:21:59.94,9s,,0000,0000,0000,,(邋遢矿工彼得)
+Dialogue: 0,0:21:59.99,0:22:03.72,9s,,0000,0000,0000,,这是个盒子 他是全新的\N{\fs16\3c&H000000&}- It... It's a box... - He's mint in the box...{\r}
+Dialogue: 0,0:22:03.79,0:22:05.69,9s,,0000,0000,0000,,没有拆封过\N{\fs16\3c&H000000&}Never been opened.{\r}
+Dialogue: 0,0:22:05.76,0:22:09.93,9s,,0000,0000,0000,,红心，把我转过来 让我看看\N{\fs16\3c&H000000&}Turn me around, Bullseye, so I can see.{\r}
+Dialogue: 0,0:22:10.00,0:22:12.02,9s,,0000,0000,0000,,(胡迪牛仔秀系列玩具)
+Dialogue: 0,0:22:12.10,0:22:15.33,9s,,0000,0000,0000,,浪子终于回头了\N{\fs16\3c&H000000&}Why, the prodigal son has returned.{\r}
+Dialogue: 0,0:22:17.31,0:22:18.80,9s,,0000,0000,0000,,是你，你来了\N{\fs16\3c&H000000&}It's you! It's you!{\r}
+Dialogue: 0,0:22:18.88,0:22:21.37,9s,,0000,0000,0000,,是你…是你…\N{\fs16\3c&H000000&}You're here! It's you! It's you! It's you!{\r}
+Dialogue: 0,0:22:21.44,0:22:24.00,9s,,0000,0000,0000,,我真的被吓坏了\N{\fs16\3c&H000000&}OK. I'm officially freaked-out now.{\r}
+Dialogue: 0,0:22:24.08,0:22:28.52,9s,,0000,0000,0000,,我们等了多少年 才等到这一天\N{\fs16\3c&H000000&}We've waited countless years for this day.{\r}
+Dialogue: 0,0:22:28.58,0:22:31.78,9s,,0000,0000,0000,,很高兴见到你，胡迪 听好，我不知道…\N{\fs16\3c&H000000&}- It's good to see you, Woody. - Listen. I don't know wh...{\r}
+Dialogue: 0,0:22:31.89,0:22:36.48,9s,,0000,0000,0000,,你怎么知道我的名字？ 你的名字家喻户晓，胡迪\N{\fs16\3c&H000000&}- Hey, how do you know my name? - Everyone knows your name, Wood-y.{\r}
+Dialogue: 0,0:22:37.89,0:22:43.09,9s,,0000,0000,0000,,你不记得自己是谁吗？ 红心\N{\fs16\3c&H000000&}Why, you don't know who you are, do you? Bullseye?{\r}
+Dialogue: 0,0:22:53.28,0:22:57.91,9s,,0000,0000,0000,,(胡迪牛仔秀)
+Dialogue: 0,0:22:57.98,0:23:01.01,9s,,0000,0000,0000,,那是我耶\N{\fs16\3c&H000000&}That's me.{\r}
+Dialogue: 0,0:23:03.29,0:23:04.69,9s,,0000,0000,0000,,(牛仔牌玉米脆片) (胡迪牛仔秀)
+Dialogue: 0,0:23:04.75,0:23:05.95,9s,,0000,0000,0000,,(牛仔牌玉米脆片)
+Dialogue: 0,0:23:06.02,0:23:08.32,9s,,0000,0000,0000,,(胡迪牛仔秀)
+Dialogue: 0,0:23:22.91,0:23:25.34,9s,,0000,0000,0000,,哇赛\N{\fs16\3c&H000000&}Wow.{\r}
+Dialogue: 0,0:23:25.41,0:23:29.34,9s,,0000,0000,0000,,(时代杂志) (生活杂志)
+Dialogue: 0,0:23:29.41,0:23:31.11,9s,,0000,0000,0000,,老天爷\N{\fs16\3c&H000000&}Holy cow.{\r}
+Dialogue: 0,0:23:37.15,0:23:38.59,9s,,0000,0000,0000,,牛仔牌玉米脆片\N{\fs16\3c&H000000&}Cowboy Crunchies{\r}
+Dialogue: 0,0:23:38.65,0:23:41.12,9s,,0000,0000,0000,,唯一的巧克力口味壳类早餐\N{\fs16\3c&H000000&}the cereal that's sugar-frosted and dipped in chocolate{\r}
+Dialogue: 0,0:23:41.19,0:23:42.75,9s,,0000,0000,0000,,热情赞助\N{\fs16\3c&H000000&}proudly presents:{\r}
+Dialogue: 0,0:23:42.83,0:23:46.76,9s,,0000,0000,0000,,胡迪牛仔秀，大家一起玩\N{\fs16\3c&H000000&}Woody's Roundup Come on it's time to play{\r}
+Dialogue: 0,0:23:46.83,0:23:48.82,9s,,0000,0000,0000,,那是翠丝，唱歌女牛仔\N{\fs16\3c&H000000&}There's Jessie the yodeling cowgirl{\r}
+Dialogue: 0,0:23:50.03,0:23:51.90,9s,,0000,0000,0000,,瞧，那是我\N{\fs16\3c&H000000&}Look it! That's me!{\r}
+Dialogue: 0,0:23:51.97,0:23:55.70,9s,,0000,0000,0000,,红心，胡迪的好马儿 他真聪明\N{\fs16\3c&H000000&}- Bullseye he's Woody's horse - He's a smart one{\r}
+Dialogue: 0,0:23:55.77,0:23:59.90,9s,,0000,0000,0000,,邋遢矿工彼得 我的丁字鎚呢？\N{\fs16\3c&H000000&}- Pete the old Prospector - Has anyone seen my pick?{\r}
+Dialogue: 0,0:24:00.01,0:24:03.41,9s,,0000,0000,0000,,当然还有男主角他本人\N{\fs16\3c&H000000&}And the man himself Of course it's time for Sheriff Woody{\r}
+Dialogue: 0,0:24:03.48,0:24:04.91,9s,,0000,0000,0000,,胡迪警长他最行\N{\fs16\3c&H000000&}He's the very best{\r}
+Dialogue: 0,0:24:04.98,0:24:07.45,9s,,0000,0000,0000,,他是西部\N{\fs16\3c&H000000&}He's the rootin'-est tootin'-est cowboy{\r}
+Dialogue: 0,0:24:07.55,0:24:10.31,9s,,0000,0000,0000,,最棒最酷最炫的警长\N{\fs16\3c&H000000&}In the wild wild west{\r}
+Dialogue: 0,0:24:10.39,0:24:14.02,9s,,0000,0000,0000,,胡迪牛仔秀\N{\fs16\3c&H000000&}Woody's Roundup{\r}
+Dialogue: 0,0:24:14.09,0:24:14.16,9s,,0000,0000,0000,,(选台音量)
+Dialogue: 0,0:24:14.16,0:24:16.15,9s,,0000,0000,0000,,(选台音量)
+Dialogue: 0,0:24:16.23,0:24:19.29,9s,,0000,0000,0000,,我找不到 每一台都找不到\N{\fs16\3c&H000000&}I can't find it! It doesn't seem to be on any of these stations.{\r}
+Dialogue: 0,0:24:19.36,0:24:21.19,9s,,0000,0000,0000,,继续找 你转得太慢了\N{\fs16\3c&H000000&}- Keep looking. - You're going too slow.{\r}
+Dialogue: 0,0:24:21.26,0:24:22.75,9s,,0000,0000,0000,,让我来\N{\fs16\3c&H000000&}Let me take the wheel.{\r}
+Dialogue: 0,0:24:22.87,0:24:25.39,9s,,0000,0000,0000,,太快了\N{\fs16\3c&H000000&}It's too fast.{\r}
+Dialogue: 0,0:24:25.47,0:24:27.37,9s,,0000,0000,0000,,你怎么看得到？ 我看得到\N{\fs16\3c&H000000&}- How can you even tell what's on? - I can tell.{\r}
+Dialogue: 0,0:24:29.34,0:24:30.83,9s,,0000,0000,0000,,转回去 回去\N{\fs16\3c&H000000&}Stop! Back, back, back!{\r}
+Dialogue: 0,0:24:30.91,0:24:34.36,9s,,0000,0000,0000,,太晚了，转过头了 我要从头开始\N{\fs16\3c&H000000&}Too late. I'm in the 40s. Got to go 'round the horn. It's faster.{\r}
+Dialogue: 0,0:24:34.44,0:24:37.34,9s,,0000,0000,0000,,对了 找到大公鸡就没错\N{\fs16\3c&H000000&}- Back, back! Stop! - And look for the giant chicken!{\r}
+Dialogue: 0,0:24:37.41,0:24:40.04,9s,,0000,0000,0000,,画板，快画吧\N{\fs16\3c&H000000&}Now, Etch!{\r}
+Dialogue: 0,0:24:41.22,0:24:43.65,9s,,0000,0000,0000,,我一定要去这里\N{\fs16\3c&H000000&}That's where I need to go.{\r}
+Dialogue: 0,0:24:43.72,0:24:45.74,9s,,0000,0000,0000,,不行，巴斯，你办不到的\N{\fs16\3c&H000000&}You can't go, Buzz. You'll never make it there.{\r}
+Dialogue: 0,0:24:45.82,0:24:48.09,9s,,0000,0000,0000,,上次胡迪冒险救我\N{\fs16\3c&H000000&}Woody once risked his life to save me.{\r}
+Dialogue: 0,0:24:48.16,0:24:52.25,9s,,0000,0000,0000,,这次我不去救他 就不配当他的朋友\N{\fs16\3c&H000000&}I couldn't call myself his friend if I weren't willing to do the same.{\r}
+Dialogue: 0,0:24:52.33,0:24:54.26,9s,,0000,0000,0000,,谁要跟来？\N{\fs16\3c&H000000&}So who's with me?{\r}
+Dialogue: 0,0:24:54.33,0:25:00.00,9s,,0000,0000,0000,,我替你多装一双鞋 还有愤怒的双眼，以防万一\N{\fs16\3c&H000000&}I'm packing you an extra pair of shoes and your angry eyes just in case.{\r}
+Dialogue: 0,0:25:02.04,0:25:04.91,9s,,0000,0000,0000,,我要你找到胡迪 替我亲他一下\N{\fs16\3c&H000000&}This is for Woody when you find him.{\r}
+Dialogue: 0,0:25:08.08,0:25:09.24,9s,,0000,0000,0000,,好吧，可是我亲他\N{\fs16\3c&H000000&}All right,{\r}
+Dialogue: 0,0:25:09.31,0:25:11.61,9s,,0000,0000,0000,,跟你亲他的意义很不同\N{\fs16\3c&H000000&}but I don't think it'll mean the same coming from me.{\r}
+Dialogue: 0,0:25:11.68,0:25:16.52,9s,,0000,0000,0000,,巴斯光年先生 你一定要把胡迪救出来\N{\fs16\3c&H000000&}Mr. Buzz Lightyear, you just gotta save my pal Woody.{\r}
+Dialogue: 0,0:25:17.75,0:25:19.55,9s,,0000,0000,0000,,我会尽力而为，吱吱\N{\fs16\3c&H000000&}I'll do my best, son.{\r}
+Dialogue: 0,0:25:20.72,0:25:22.92,9s,,0000,0000,0000,,好了，大伙儿，出发吧\N{\fs16\3c&H000000&}OK, fellas. Let's roll.{\r}
+Dialogue: 0,0:25:28.23,0:25:30.63,9s,,0000,0000,0000,,我跳了\N{\fs16\3c&H000000&}Geronimo!{\r}
+Dialogue: 0,0:25:31.77,0:25:34.26,9s,,0000,0000,0000,,我有这么多打电玩的经验\N{\fs16\3c&H000000&}You'd think with all my video game ex. Perience,{\r}
+Dialogue: 0,0:25:34.34,0:25:36.67,9s,,0000,0000,0000,,所以应该是难不倒我\N{\fs16\3c&H000000&}I'd be feeling more prepared.{\r}
+Dialogue: 0,0:25:39.01,0:25:41.81,9s,,0000,0000,0000,,重点是…你得放手\N{\fs16\3c&H000000&}The idea is to let go.{\r}
+Dialogue: 0,0:25:41.88,0:25:44.51,9s,,0000,0000,0000,,我们会赶在安弟之前回来\N{\fs16\3c&H000000&}We'll be back before Andy gets home.{\r}
+Dialogue: 0,0:25:44.58,0:25:47.85,9s,,0000,0000,0000,,别随便跟陌生玩具说话\N{\fs16\3c&H000000&}Don't talk to any toy you don't know!{\r}
+Dialogue: 0,0:25:47.92,0:25:51.32,9s,,0000,0000,0000,,飞向艾而玩具城\N{\fs16\3c&H000000&}To Al's Toy Barn and beyond!{\r}
+Dialogue: 0,0:26:03.67,0:26:04.93,9s,,0000,0000,0000,,老矿工\N{\fs16\3c&H000000&}They don't call this{\r}
+Dialogue: 0,0:26:05.00,0:26:06.73,9s,,0000,0000,0000,,这座废弃矿坑真是可怕\N{\fs16\3c&H000000&}the old abandoned mine for nothin' Prospector.{\r}
+Dialogue: 0,0:26:06.80,0:26:08.79,9s,,0000,0000,0000,,我们最好赶紧出去\N{\fs16\3c&H000000&}I reckon we oughta get outta here.{\r}
+Dialogue: 0,0:26:08.87,0:26:12.17,9s,,0000,0000,0000,,我的黄金呢？ 等等，我来点蜡烛\N{\fs16\3c&H000000&}Where's my gold? Hold on. I'll light me a candle.{\r}
+Dialogue: 0,0:26:12.24,0:26:14.33,9s,,0000,0000,0000,,这根蜡烛烧得好快\N{\fs16\3c&H000000&}This sure is a fast-burnin' wick.{\r}
+Dialogue: 0,0:26:14.41,0:26:17.74,9s,,0000,0000,0000,,这是炸药，我们完蛋了\N{\fs16\3c&H000000&}Blast us to smithereens! That there's dynamite!{\r}
+Dialogue: 0,0:26:17.85,0:26:19.87,9s,,0000,0000,0000,,我的妈呀 让我来求救\N{\fs16\3c&H000000&}- Holy tarnation! - I'll call for help.{\r}
+Dialogue: 0,0:26:22.45,0:26:26.48,9s,,0000,0000,0000,,小动物，去找胡迪警长 快去\N{\fs16\3c&H000000&}Hey critters go get Sheriff Woody. Now scurry!{\r}
+Dialogue: 0,0:26:26.56,0:26:28.28,9s,,0000,0000,0000,,真好，红心\N{\fs16\3c&H000000&}Good job Bullseye.{\r}
+Dialogue: 0,0:26:28.36,0:26:30.95,9s,,0000,0000,0000,,新的学校终于盖好了\N{\fs16\3c&H000000&}I reckon the new schoolhouse is finally done.{\r}
+Dialogue: 0,0:26:31.46,0:26:32.62,9s,,0000,0000,0000,,什么？\N{\fs16\3c&H000000&}What's that?{\r}
+Dialogue: 0,0:26:32.70,0:26:35.10,9s,,0000,0000,0000,,翠丝和老矿工 被困在废弃矿坑\N{\fs16\3c&H000000&}Jessie and Prospector are trapped in the old abandoned mine{\r}
+Dialogue: 0,0:26:35.16,0:26:37.33,9s,,0000,0000,0000,,老矿工误触炸药\N{\fs16\3c&H000000&}and Prospectorjust lit a stick of dynamite thinkin' it was a candle{\r}
+Dialogue: 0,0:26:37.40,0:26:39.33,9s,,0000,0000,0000,,他们就快要被炸成碎片？\N{\fs16\3c&H000000&}and now they're about to be blown to smithereens?{\r}
+Dialogue: 0,0:26:40.44,0:26:43.23,9s,,0000,0000,0000,,红心，快马加鞭吧\N{\fs16\3c&H000000&}Ride like the wind Bullseye!{\r}
+Dialogue: 0,0:26:46.44,0:26:50.78,9s,,0000,0000,0000,,别煽风点火，翠丝 你得用头脑才能熄灭炸药\N{\fs16\3c&H000000&}You're fannin' the flames Jessie! It takes brains to put out that fire.{\r}
+Dialogue: 0,0:26:51.31,0:26:52.94,9s,,0000,0000,0000,,我的屁股着火了\N{\fs16\3c&H000000&}My biscuits are burnin'!{\r}
+Dialogue: 0,0:26:54.92,0:26:56.65,9s,,0000,0000,0000,,(大峡谷)
+Dialogue: 0,0:26:58.22,0:27:00.65,9s,,0000,0000,0000,,胡迪跟红心能跃过大峡谷吗？\N{\fs16\3c&H000000&}Will Woody and Bullseye land to safety?{\r}
+Dialogue: 0,0:27:00.72,0:27:03.25,9s,,0000,0000,0000,,他们能及时救出 翠丝跟老矿工彼得吗？\N{\fs16\3c&H000000&}Can they reach Jessie and Stinky Pete in time?{\r}
+Dialogue: 0,0:27:03.33,0:27:07.13,9s,,0000,0000,0000,,下周同一时间记得收看 「胡迪冒险记』大结局\N{\fs16\3c&H000000&}Tune in net week for the eciting conclusion: "Woody's Finest Hour."{\r}
+Dialogue: 0,0:27:07.20,0:27:10.13,9s,,0000,0000,0000,,棒呆了，下一集\N{\fs16\3c&H000000&}All right! All right! Next tape!{\r}
+Dialogue: 0,0:27:10.47,0:27:13.06,9s,,0000,0000,0000,,等等，接下来怎么样？\N{\fs16\3c&H000000&}Hey, wait. What happened? What happens next?{\r}
+Dialogue: 0,0:27:13.14,0:27:15.50,9s,,0000,0000,0000,,我要看大结局 没有了\N{\fs16\3c&H000000&}- Come on! Let's see the next episode! - That's it.{\r}
+Dialogue: 0,0:27:15.57,0:27:16.56,9s,,0000,0000,0000,,什么？\N{\fs16\3c&H000000&}What?{\r}
+Dialogue: 0,0:27:16.64,0:27:19.90,9s,,0000,0000,0000,,后来节目被迫停播\N{\fs16\3c&H000000&}The show was canceled after that.{\r}
+Dialogue: 0,0:27:19.98,0:27:22.07,9s,,0000,0000,0000,,慢着，那座废弃矿坑\N{\fs16\3c&H000000&}Wait, wait, wait. What about the gold mine{\r}
+Dialogue: 0,0:27:22.14,0:27:24.67,9s,,0000,0000,0000,,可爱的小动物跟炸药呢？\N{\fs16\3c&H000000&}and the cute little critters and the dynamite?{\r}
+Dialogue: 0,0:27:24.75,0:27:27.51,9s,,0000,0000,0000,,这么精采的节目 怎么会被停播呢？\N{\fs16\3c&H000000&}That was a great show! I mean, why cancel it?{\r}
+Dialogue: 0,0:27:27.58,0:27:30.02,9s,,0000,0000,0000,,三个字：太空人\N{\fs16\3c&H000000&}Two words: Sput-nik.{\r}
+Dialogue: 0,0:27:30.09,0:27:35.02,9s,,0000,0000,0000,,太空人一登陆月球 小孩子只想玩太空玩具\N{\fs16\3c&H000000&}Once the astronauts went up, children only wanted to play with space toys.{\r}
+Dialogue: 0,0:27:35.09,0:27:38.69,9s,,0000,0000,0000,,我知道那种感觉 我有自己的节目耶\N{\fs16\3c&H000000&}I know how that feels. But still, my own show.{\r}
+Dialogue: 0,0:27:38.76,0:27:41.13,9s,,0000,0000,0000,,你们看看这些玩意 你不知道吗？\N{\fs16\3c&H000000&}- I mean, look at all this stuff! - Didn't you know?{\r}
+Dialogue: 0,0:27:41.20,0:27:44.10,9s,,0000,0000,0000,,你是热门的抢手货耶\N{\fs16\3c&H000000&}Why, you're valuable property!{\r}
+Dialogue: 0,0:27:44.17,0:27:47.10,9s,,0000,0000,0000,,真希望我的朋友们能来分享 哇赛，是我耶\N{\fs16\3c&H000000&}I wish the guys could see this. Hey-howdy-hey. That's me.{\r}
+Dialogue: 0,0:27:47.20,0:27:48.26,9s,,0000,0000,0000,,我有溜溜球\N{\fs16\3c&H000000&}I'm on a yo-yo.{\r}
+Dialogue: 0,0:27:48.34,0:27:49.70,9s,,0000,0000,0000,,(胡迪牛仔秀)
+Dialogue: 0,0:27:50.31,0:27:54.40,9s,,0000,0000,0000,,洁白的牙齿 帅气依然不减\N{\fs16\3c&H000000&}Nice teeth. And yet, still a good-lookin' guy.{\r}
+Dialogue: 0,0:27:55.58,0:27:56.57,9s,,0000,0000,0000,,(孤儿)
+Dialogue: 0,0:27:56.65,0:28:00.14,9s,,0000,0000,0000,,这是存钱筒，酷毙了\N{\fs16\3c&H000000&}It's a bank! Cool.{\r}
+Dialogue: 0,0:28:00.22,0:28:03.15,9s,,0000,0000,0000,,这是什么？只要按一下\N{\fs16\3c&H000000&}What do you do? You push the hat, and out co...{\r}
+Dialogue: 0,0:28:03.22,0:28:06.88,9s,,0000,0000,0000,,就会吹泡泡，真高明\N{\fs16\3c&H000000&}Out come bubbles. Clever.{\r}
+Dialogue: 0,0:28:06.96,0:28:09.75,9s,,0000,0000,0000,,这玩意是做什么的？\N{\fs16\3c&H000000&}Wow. What's this thing do?{\r}
+Dialogue: 0,0:28:09.86,0:28:12.56,9s,,0000,0000,0000,,我懂了\N{\fs16\3c&H000000&}I get it.{\r}
+Dialogue: 0,0:28:12.63,0:28:14.79,9s,,0000,0000,0000,,我的靴子里有蛇\N{\fs16\3c&H000000&}"There's a snake in my boot."{\r}
+Dialogue: 0,0:28:14.90,0:28:19.49,9s,,0000,0000,0000,,红心，向前跑\N{\fs16\3c&H000000&}Hey, Bullseye. Go long! Go long!{\r}
+Dialogue: 0,0:28:21.47,0:28:22.94,9s,,0000,0000,0000,,一台老唱机\N{\fs16\3c&H000000&}A record player!{\r}
+Dialogue: 0,0:28:23.01,0:28:27.24,9s,,0000,0000,0000,,我好久没看到这个了\N{\fs16\3c&H000000&}I haven't seen one of these in ages.{\r}
+Dialogue: 0,0:28:27.31,0:28:29.90,9s,,0000,0000,0000,,好了，现在慢一点\N{\fs16\3c&H000000&}OK, now. Slow.{\r}
+Dialogue: 0,0:28:30.01,0:28:32.91,9s,,0000,0000,0000,,好好笑哦，红心\N{\fs16\3c&H000000&}That's funny, Bullseye.{\r}
+Dialogue: 0,0:28:32.98,0:28:35.51,9s,,0000,0000,0000,,上来吧，女牛仔 快一点\N{\fs16\3c&H000000&}Hop on, cowgirl! Think fast!{\r}
+Dialogue: 0,0:28:38.52,0:28:41.15,9s,,0000,0000,0000,,不错嘛 胡迪牛仔秀，大家一起玩\N{\fs16\3c&H000000&}- Not bad. - It's time for Woody's Roundup{\r}
+Dialogue: 0,0:28:41.22,0:28:43.62,9s,,0000,0000,0000,,他是西部\N{\fs16\3c&H000000&}He's the very best{\r}
+Dialogue: 0,0:28:43.69,0:28:46.82,9s,,0000,0000,0000,,最棒最酷最炫的警长\N{\fs16\3c&H000000&}He's the rootin'-est tootin'-est cowboy...{\r}
+Dialogue: 0,0:28:46.90,0:28:50.53,9s,,0000,0000,0000,,你看，我们凑成一整组了\N{\fs16\3c&H000000&}Look at us! We're a complete set!{\r}
+Dialogue: 0,0:28:50.60,0:28:53.26,9s,,0000,0000,0000,,现在可以去博物馆了 博物馆？\N{\fs16\3c&H000000&}- Now it's on to the museum. - Museum?{\r}
+Dialogue: 0,0:28:55.97,0:28:57.96,9s,,0000,0000,0000,,什么博物馆？ 独一无二的博物馆\N{\fs16\3c&H000000&}- What museum? - The museum.{\r}
+Dialogue: 0,0:28:58.04,0:29:02.07,9s,,0000,0000,0000,,我们被卖到东京的 小西玩具博物馆\N{\fs16\3c&H000000&}We're being sold to the Konishi Toy Museum in Tokyo.{\r}
+Dialogue: 0,0:29:02.14,0:29:04.34,9s,,0000,0000,0000,,在日本耶 日本？\N{\fs16\3c&H000000&}- That's in japan! - Japan?{\r}
+Dialogue: 0,0:29:04.41,0:29:07.01,9s,,0000,0000,0000,,不行，我不能去日本\N{\fs16\3c&H000000&}No, no, no, no, no. I can't go to japan.{\r}
+Dialogue: 0,0:29:08.02,0:29:09.45,9s,,0000,0000,0000,,什么意思？\N{\fs16\3c&H000000&}What do you mean?{\r}
+Dialogue: 0,0:29:09.52,0:29:11.65,9s,,0000,0000,0000,,我得回去找我的主人安弟\N{\fs16\3c&H000000&}I've got to get back home to my owner, Andy.{\r}
+Dialogue: 0,0:29:11.72,0:29:13.19,9s,,0000,0000,0000,,你们看\N{\fs16\3c&H000000&}Hey, look, look. See?{\r}
+Dialogue: 0,0:29:13.26,0:29:16.35,9s,,0000,0000,0000,,他还有主人 我的老天\N{\fs16\3c&H000000&}- He still has an owner. - My goodness.{\r}
+Dialogue: 0,0:29:17.99,0:29:19.62,9s,,0000,0000,0000,,我…不要\N{\fs16\3c&H000000&}No. Can't go.{\r}
+Dialogue: 0,0:29:19.70,0:29:22.66,9s,,0000,0000,0000,,我不要回去储藏室\N{\fs16\3c&H000000&}I can't do storage again. I just can't!{\r}
+Dialogue: 0,0:29:22.73,0:29:24.79,9s,,0000,0000,0000,,翠丝 我不要回到黑暗中\N{\fs16\3c&H000000&}- Jessie. - I won't go back in the dark!{\r}
+Dialogue: 0,0:29:24.87,0:29:26.73,9s,,0000,0000,0000,,她是怎么了？\N{\fs16\3c&H000000&}What's the matter? What's wrong with her?{\r}
+Dialogue: 0,0:29:26.80,0:29:29.36,9s,,0000,0000,0000,,我们一直被关在储藏室\N{\fs16\3c&H000000&}Well, we've been in storage for a long time{\r}
+Dialogue: 0,0:29:29.44,0:29:31.46,9s,,0000,0000,0000,,等你来\N{\fs16\3c&H000000&}waiting for you.{\r}
+Dialogue: 0,0:29:31.54,0:29:33.37,9s,,0000,0000,0000,,为什么？ 一定要有你\N{\fs16\3c&H000000&}- Why me? - The museum's{\r}
+Dialogue: 0,0:29:33.44,0:29:36.54,9s,,0000,0000,0000,,博物馆才肯收藏我们\N{\fs16\3c&H000000&}only interested in the collection if you're in it, Woody.{\r}
+Dialogue: 0,0:29:36.61,0:29:39.91,9s,,0000,0000,0000,,没有你，我们就得回储藏室\N{\fs16\3c&H000000&}Without you, we go back into storage.{\r}
+Dialogue: 0,0:29:39.98,0:29:42.64,9s,,0000,0000,0000,,就这么简单 不公平\N{\fs16\3c&H000000&}- It's that simple. - It's not fair!{\r}
+Dialogue: 0,0:29:42.72,0:29:44.45,9s,,0000,0000,0000,,你怎么可以这样？\N{\fs16\3c&H000000&}How can you do this to us?{\r}
+Dialogue: 0,0:29:44.52,0:29:47.51,9s,,0000,0000,0000,,对不起，这是个错误\N{\fs16\3c&H000000&}Hey, look. I'm sorry, but this is all a big mistake.{\r}
+Dialogue: 0,0:29:47.59,0:29:50.65,9s,,0000,0000,0000,,我在前院拍卖时被… 前院拍卖？\N{\fs16\3c&H000000&}- You see, I was in this yard sale... - Yard sale?{\r}
+Dialogue: 0,0:29:50.73,0:29:52.92,9s,,0000,0000,0000,,如果你有主人 怎么会被拍卖？\N{\fs16\3c&H000000&}Why were you in a yard sale if you have an owner?{\r}
+Dialogue: 0,0:29:53.00,0:29:55.90,9s,,0000,0000,0000,,我只是去救一个朋友\N{\fs16\3c&H000000&}Well, I wasn't supposed to be there. I was trying to save another toy when...{\r}
+Dialogue: 0,0:29:55.97,0:29:59.63,9s,,0000,0000,0000,,是因为你坏了吗？ 安弟把你弄坏了吗？\N{\fs16\3c&H000000&}Was it because you're damaged? Did this Andy break you?{\r}
+Dialogue: 0,0:29:59.70,0:30:03.60,9s,,0000,0000,0000,,对，但是…不对! 那只是个意外\N{\fs16\3c&H000000&}Yeah, but... No, no, no, no, no! It was... It was an accident.{\r}
+Dialogue: 0,0:30:03.67,0:30:06.30,9s,,0000,0000,0000,,听起来他真是爱惜你\N{\fs16\3c&H000000&}- I mean... - Sounds like he really loves you.{\r}
+Dialogue: 0,0:30:06.38,0:30:10.31,9s,,0000,0000,0000,,才不是这样 我也不想去博物馆\N{\fs16\3c&H000000&}It's not like that, OK? And I'm not going to any museum!{\r}
+Dialogue: 0,0:30:10.38,0:30:12.90,9s,,0000,0000,0000,,我也不想回储藏室\N{\fs16\3c&H000000&}Well, I'm not going back into storage!{\r}
+Dialogue: 0,0:30:14.62,0:30:16.28,9s,,0000,0000,0000,,艾而回来了\N{\fs16\3c&H000000&}Al's coming!{\r}
+Dialogue: 0,0:30:16.35,0:30:17.91,9s,,0000,0000,0000,,翠丝，跳进去\N{\fs16\3c&H000000&}Go! Go on, jessie.{\r}
+Dialogue: 0,0:30:17.99,0:30:19.35,9s,,0000,0000,0000,,翠丝，看着我\N{\fs16\3c&H000000&}Jessie, look at me.{\r}
+Dialogue: 0,0:30:19.42,0:30:23.36,9s,,0000,0000,0000,,我保证你一定出得来 快跳进去吧\N{\fs16\3c&H000000&}I promise you'll come out of the box... Now go! Go!{\r}
+Dialogue: 0,0:30:30.13,0:30:32.10,9s,,0000,0000,0000,,好戏登场了\N{\fs16\3c&H000000&}It's show time!{\r}
+Dialogue: 0,0:30:33.37,0:30:36.30,9s,,0000,0000,0000,,钱来也…钱来也…\N{\fs16\3c&H000000&}Money, baby. Money, money, money.{\r}
+Dialogue: 0,0:30:37.67,0:30:41.54,9s,,0000,0000,0000,,现在轮到男主角登场\N{\fs16\3c&H000000&}And now, the main attraction.{\r}
+Dialogue: 0,0:30:52.54,0:30:55.07,9s,,0000,0000,0000,,不!他的手呢？\N{\fs16\3c&H000000&}No! His arm! Where's his arm?{\r}
+Dialogue: 0,0:30:56.75,0:30:58.98,9s,,0000,0000,0000,,糟了，不!
+Dialogue: 0,0:30:59.15,0:31:01.84,9s,,0000,0000,0000,,我该怎么办？我知道了\N{\fs16\3c&H000000&}What am I gonna do? I know. I know.{\r}
+Dialogue: 0,0:31:01.92,0:31:05.35,9s,,0000,0000,0000,,快接…快接电话\N{\fs16\3c&H000000&}Come on! Come on! Come on! Pick up the phone!{\r}
+Dialogue: 0,0:31:05.42,0:31:07.25,9s,,0000,0000,0000,,是我艾而\N{\fs16\3c&H000000&}- Hello? - It's me. It's Al.{\r}
+Dialogue: 0,0:31:07.32,0:31:08.31,9s,,0000,0000,0000,,我有紧急状况\N{\fs16\3c&H000000&}I got an emergency.{\r}
+Dialogue: 0,0:31:08.39,0:31:10.15,9s,,0000,0000,0000,,我在忙 大家都在忙\N{\fs16\3c&H000000&}- I'm busy. - Yes, we're all busy.{\r}
+Dialogue: 0,0:31:10.23,0:31:12.99,9s,,0000,0000,0000,,你今晚一定要过来\N{\fs16\3c&H000000&}Look. It has to be tonight.{\r}
+Dialogue: 0,0:31:13.06,0:31:15.69,9s,,0000,0000,0000,,好吧，明天一大早就来\N{\fs16\3c&H000000&}All right. All right. But first thing in the morning.{\r}
+Dialogue: 0,0:31:15.76,0:31:18.36,9s,,0000,0000,0000,,完了，天啊 我不敢相信\N{\fs16\3c&H000000&}It's gone! I can't believe it!{\r}
+Dialogue: 0,0:31:18.43,0:31:21.06,9s,,0000,0000,0000,,我的手断了 过来让我瞧瞧\N{\fs16\3c&H000000&}- My arm is completely gone! - All right. Come here. Let me see that.{\r}
+Dialogue: 0,0:31:21.14,0:31:24.44,9s,,0000,0000,0000,,只是线断了，很容易补的\N{\fs16\3c&H000000&}It's just a popped seam, easily repaired.{\r}
+Dialogue: 0,0:31:24.51,0:31:26.84,9s,,0000,0000,0000,,算你走运 走运？\N{\fs16\3c&H000000&}- You should consider yourself lucky. - Lucky?{\r}
+Dialogue: 0,0:31:26.94,0:31:29.93,9s,,0000,0000,0000,,你是老糊涂吗？ 我的手断了耶\N{\fs16\3c&H000000&}Are you shrink-wrapped? I am missing my arm!{\r}
+Dialogue: 0,0:31:30.01,0:31:32.17,9s,,0000,0000,0000,,那又怎样？\N{\fs16\3c&H000000&}Big deal.{\r}
+Dialogue: 0,0:31:32.25,0:31:33.61,9s,,0000,0000,0000,,(嗨，大家好)
+Dialogue: 0,0:31:33.68,0:31:36.98,9s,,0000,0000,0000,,让他走吧，他的主人这么好\N{\fs16\3c&H000000&}Let him go. I'm sure his precious Andy{\r}
+Dialogue: 0,0:31:37.05,0:31:40.15,9s,,0000,0000,0000,,一定很想跟一个 独臂牛仔玩的\N{\fs16\3c&H000000&}is dying to play with a one-armed cowboy doll.{\r}
+Dialogue: 0,0:31:40.22,0:31:44.42,9s,,0000,0000,0000,,翠丝，你知道他这种情况 在外头撑不了一小时\N{\fs16\3c&H000000&}Why, jessie, you know he wouldn't last an hour on the streets in his condition.{\r}
+Dialogue: 0,0:31:44.49,0:31:48.59,9s,,0000,0000,0000,,外面的世界对玩具而言 太危险了\N{\fs16\3c&H000000&}It's a dangerous world out there for a toy.{\r}
+Dialogue: 0,0:32:10.59,0:32:13.52,9s,,0000,0000,0000,,在我赛好之前别偷看\N{\fs16\3c&H000000&}All right. Nobody look till I get my cork back in.{\r}
+Dialogue: 0,0:32:13.59,0:32:16.75,9s,,0000,0000,0000,,干得好，走了两条街 剩下十九条街\N{\fs16\3c&H000000&}Good work, men. Two blocks down and only 19 more to go.{\r}
+Dialogue: 0,0:32:16.83,0:32:18.16,9s,,0000,0000,0000,,什么？ 十九条街？\N{\fs16\3c&H000000&}- What? - Nineteen?{\r}
+Dialogue: 0,0:32:18.23,0:32:20.92,9s,,0000,0000,0000,,还要多久啊？我快累毙了\N{\fs16\3c&H000000&}Are we gonna do this all night? My parts are killing me.{\r}
+Dialogue: 0,0:32:21.00,0:32:22.16,9s,,0000,0000,0000,,别这样\N{\fs16\3c&H000000&}Come on, fellas.{\r}
+Dialogue: 0,0:32:22.23,0:32:25.36,9s,,0000,0000,0000,,我被小薛抓走胡迪有放弃吗？ 没有\N{\fs16\3c&H000000&}Did Woody give up when Sid had me strapped to a rocket?{\r}
+Dialogue: 0,0:32:27.07,0:32:30.23,9s,,0000,0000,0000,,没错，你把他踢下卡车 他有放弃吗？\N{\fs16\3c&H000000&}And did he give up when you threw him out of the back of that moving van?{\r}
+Dialogue: 0,0:32:30.34,0:32:32.77,9s,,0000,0000,0000,,你非得提这档事吗？ 他没有放弃\N{\fs16\3c&H000000&}- You had to bring that up. - No, he didn't!{\r}
+Dialogue: 0,0:32:32.84,0:32:37.97,9s,,0000,0000,0000,,有一个朋友需要我们 我们一定要把他安全救回家\N{\fs16\3c&H000000&}We have a friend in need, and we will not rest until he's safe in Andy's room!{\r}
+Dialogue: 0,0:32:38.08,0:32:39.84,9s,,0000,0000,0000,,继续前进\N{\fs16\3c&H000000&}Now let's move out!{\r}
+Dialogue: 0,0:32:45.75,0:32:48.69,9s,,0000,0000,0000,,今天的节目全部播放完毕\N{\fs16\3c&H000000&}And that concludes our broadcast day.{\r}
+Dialogue: 0,0:33:33.33,0:33:36.57,9s,,0000,0000,0000,,红心，走开\N{\fs16\3c&H000000&}Bullseye. Bullseye, go, go, go, go.{\r}
+Dialogue: 0,0:33:36.64,0:33:38.90,9s,,0000,0000,0000,,别帮我的忙 我是坏人，记得吗？\N{\fs16\3c&H000000&}Come on. You don't wanna help me. I'm the bad guy.{\r}
+Dialogue: 0,0:33:38.97,0:33:42.67,9s,,0000,0000,0000,,我会害你们被收起来 快走开\N{\fs16\3c&H000000&}You're gonna go back in storage because of me, remember? Just go.{\r}
+Dialogue: 0,0:33:42.74,0:33:45.64,9s,,0000,0000,0000,,好啦，好啦\N{\fs16\3c&H000000&}Bullseye... All right. All right.{\r}
+Dialogue: 0,0:33:45.71,0:33:50.95,9s,,0000,0000,0000,,但是你不能出声 来吧\N{\fs16\3c&H000000&}But you have got to keep quiet. Come on.{\r}
+Dialogue: 0,0:33:55.72,0:33:58.45,9s,,0000,0000,0000,,过来，好马儿\N{\fs16\3c&H000000&}Over here. Attaboy.{\r}
+Dialogue: 0,0:33:58.53,0:34:01.02,9s,,0000,0000,0000,,好了，把我抬起来\N{\fs16\3c&H000000&}OK, Bullseye. Upsy-daisy.{\r}
+Dialogue: 0,0:34:16.58,0:34:17.94,9s,,0000,0000,0000,,红心，别乱来\N{\fs16\3c&H000000&}Bullseye. Cut it out.{\r}
+Dialogue: 0,0:34:18.01,0:34:20.85,9s,,0000,0000,0000,,别这样，红心\N{\fs16\3c&H000000&}Stop it. Stop it, Bullseye. Stop it. Stop it.{\r}
+Dialogue: 0,0:34:20.92,0:34:23.25,9s,,0000,0000,0000,,别闹了\N{\fs16\3c&H000000&}Stop it.{\r}
+Dialogue: 0,0:34:53.45,0:34:54.85,9s,,0000,0000,0000,,胡迪牛仔秀，大家一起玩\N{\fs16\3c&H000000&}Woody's Roundup Come on it's time to play{\r}
+Dialogue: 0,0:34:56.42,0:35:01.01,9s,,0000,0000,0000,,警察先生，我发誓我没有…\N{\fs16\3c&H000000&}No, Officer! I swear. What?{\r}
+Dialogue: 0,0:35:07.80,0:35:11.36,9s,,0000,0000,0000,,进去吧，好了 烂盒子\N{\fs16\3c&H000000&}Get in there. There you go. Cheap case.{\r}
+Dialogue: 0,0:35:11.43,0:35:16.03,9s,,0000,0000,0000,,电视遥控器呢？ 遥控器呢？\N{\fs16\3c&H000000&}Where is the remote? Where is the remote?{\r}
+Dialogue: 0,0:35:17.77,0:35:20.71,9s,,0000,0000,0000,,我每次都乱放…在这儿\N{\fs16\3c&H000000&}Why don't I put it in the same place every... Here it is.{\r}
+Dialogue: 0,0:35:31.99,0:35:33.25,9s,,0000,0000,0000,,你太卑鄙了\N{\fs16\3c&H000000&}What is your problem?{\r}
+Dialogue: 0,0:35:33.32,0:35:35.29,9s,,0000,0000,0000,,很抱歉我帮不了你\N{\fs16\3c&H000000&}Look, I'm sorry I can't help you guys out.{\r}
+Dialogue: 0,0:35:35.36,0:35:38.05,9s,,0000,0000,0000,,不过你也不必耍这一招\N{\fs16\3c&H000000&}Really, I am. But you didn't have to go and pull a stunt like that.{\r}
+Dialogue: 0,0:35:38.13,0:35:40.69,9s,,0000,0000,0000,,你说是我干的\N{\fs16\3c&H000000&}What? You think I did that?{\r}
+Dialogue: 0,0:35:40.76,0:35:42.85,9s,,0000,0000,0000,,是啊，难道电视会自动打开\N{\fs16\3c&H000000&}Right. The TV just happened to turn on,{\r}
+Dialogue: 0,0:35:42.93,0:35:45.26,9s,,0000,0000,0000,,遥控器会自己 飞到你面前吗？\N{\fs16\3c&H000000&}and the remote magically ended up in front of you!{\r}
+Dialogue: 0,0:35:45.37,0:35:48.20,9s,,0000,0000,0000,,你是说我是骗子吗？ 你是不打自招\N{\fs16\3c&H000000&}- You calling me a liar? - Well, if the boot fits...{\r}
+Dialogue: 0,0:35:48.30,0:35:50.43,9s,,0000,0000,0000,,再说一次\N{\fs16\3c&H000000&}Say that again.{\r}
+Dialogue: 0,0:35:50.50,0:35:53.84,9s,,0000,0000,0000,,你是不打自招\N{\fs16\3c&H000000&}If the boot fits.{\r}
+Dialogue: 0,0:35:53.91,0:35:56.47,9s,,0000,0000,0000,,好吧，牛仔\N{\fs16\3c&H000000&}OK, cowboy.{\r}
+Dialogue: 0,0:36:01.85,0:36:06.05,9s,,0000,0000,0000,,尝到苦头了吧 把话收回去，收回去\N{\fs16\3c&H000000&}How do you like that? Take it back! Take it back!{\r}
+Dialogue: 0,0:36:06.19,0:36:08.68,9s,,0000,0000,0000,,别以为你是女孩子 我就会饶过你\N{\fs16\3c&H000000&}Don't think just 'cause you're a girl, I'm gonna take it easy on you.{\r}
+Dialogue: 0,0:36:08.76,0:36:11.42,9s,,0000,0000,0000,,翠丝、胡迪，马上住手\N{\fs16\3c&H000000&}Jessie, Woody, you stop this at once.{\r}
+Dialogue: 0,0:36:11.49,0:36:12.72,9s,,0000,0000,0000,,(拿丁字鎚的玩偶 他还会说话哟)
+Dialogue: 0,0:36:12.79,0:36:13.49,9s,,0000,0000,0000,,(胡迪牛仔秀系列玩具)
+Dialogue: 0,0:36:13.56,0:36:16.89,9s,,0000,0000,0000,,我不知道电视怎么会打开\N{\fs16\3c&H000000&}I don't know how that television turned on,{\r}
+Dialogue: 0,0:36:16.96,0:36:19.23,9s,,0000,0000,0000,,不过打架没有用\N{\fs16\3c&H000000&}but fighting about it isn't helping anything.{\r}
+Dialogue: 0,0:36:19.30,0:36:22.57,9s,,0000,0000,0000,,要是我的双手健全… 你没有双手\N{\fs16\3c&H000000&}- If I had both my arms... - The fact is, you don't, Woody,{\r}
+Dialogue: 0,0:36:22.64,0:36:25.04,9s,,0000,0000,0000,,所以你最好等到早上\N{\fs16\3c&H000000&}so I suggest you just wait until morning.{\r}
+Dialogue: 0,0:36:25.11,0:36:28.30,9s,,0000,0000,0000,,工匠会来修补你 然后我就走人\N{\fs16\3c&H000000&}- The cleaner will come, fix. Your arm... - And then I'm outta here!{\r}
+Dialogue: 0,0:36:30.08,0:36:34.24,9s,,0000,0000,0000,,红心，你不要这样\N{\fs16\3c&H000000&}Oh, no, no. Bullseye, don't take it that way.{\r}
+Dialogue: 0,0:36:34.32,0:36:36.37,9s,,0000,0000,0000,,只是安弟… 安弟…安弟…\N{\fs16\3c&H000000&}- It's just that Andy... - Andy, Andy, Andy.{\r}
+Dialogue: 0,0:36:36.45,0:36:39.28,9s,,0000,0000,0000,,他只关心安弟\N{\fs16\3c&H000000&}That's all he ever talks about.{\r}
+Dialogue: 0,0:36:48.66,0:36:50.69,9s,,0000,0000,0000,,巴斯，慢一点好吗？\N{\fs16\3c&H000000&}Hey, Buzz, can we slow down?{\r}
+Dialogue: 0,0:36:50.76,0:36:54.63,9s,,0000,0000,0000,,我要提醒你 我可是身怀巨款耶\N{\fs16\3c&H000000&}May I remind you that some of us are carrying over six. Dollars in change?{\r}
+Dialogue: 0,0:36:54.70,0:36:57.80,9s,,0000,0000,0000,,能量减低，必须休息\N{\fs16\3c&H000000&}Losing health units. Must rest.{\r}
+Dialogue: 0,0:36:57.87,0:37:01.00,9s,,0000,0000,0000,,大家都到齐了吗？ 还没有\N{\fs16\3c&H000000&}- Is everyone present and accounted for? - Not quite everyone.{\r}
+Dialogue: 0,0:37:01.11,0:37:03.70,9s,,0000,0000,0000,,谁落后了？ 我的屁股\N{\fs16\3c&H000000&}- Who's behind? - Mine.{\r}
+Dialogue: 0,0:37:07.65,0:37:11.21,9s,,0000,0000,0000,,大伙儿 玩具为什么要过马路？\N{\fs16\3c&H000000&}Hey, guys. Why do the toys cross the road?{\r}
+Dialogue: 0,0:37:11.29,0:37:14.25,9s,,0000,0000,0000,,火腿，别闹了 我最爱猜迷，为什么？\N{\fs16\3c&H000000&}- Not now, Hamm. - I love riddles. Why?{\r}
+Dialogue: 0,0:37:14.32,0:37:17.12,9s,,0000,0000,0000,,为了到对面的公鸡城\N{\fs16\3c&H000000&}To get to the chicken on the other side!{\r}
+Dialogue: 0,0:37:17.19,0:37:19.52,9s,,0000,0000,0000,,(艾而玩具城)
+Dialogue: 0,0:37:19.59,0:37:21.29,9s,,0000,0000,0000,,是那只公鸡\N{\fs16\3c&H000000&}The chicken!{\r}
+Dialogue: 0,0:37:25.83,0:37:28.36,9s,,0000,0000,0000,,我们已经尽了力 我们一定要过马路\N{\fs16\3c&H000000&}- Oh, well. We tried. - We'll have to cross.{\r}
+Dialogue: 0,0:37:28.44,0:37:29.70,9s,,0000,0000,0000,,什么？\N{\fs16\3c&H000000&}What the...{\r}
+Dialogue: 0,0:37:29.77,0:37:31.76,9s,,0000,0000,0000,,我可不想变成洋芋泥\N{\fs16\3c&H000000&}You're not turning me into a mashed potato.{\r}
+Dialogue: 0,0:37:31.84,0:37:36.14,9s,,0000,0000,0000,,我虽然不聪明 但是我知道马路如虎口\N{\fs16\3c&H000000&}I may not be a smart dog, but I know what roadkill is.{\r}
+Dialogue: 0,0:37:36.21,0:37:38.34,9s,,0000,0000,0000,,一定有安全的办法\N{\fs16\3c&H000000&}There must be a safe way.{\r}
+Dialogue: 0,0:37:42.22,0:37:45.15,9s,,0000,0000,0000,,机会来了 预备，走吧\N{\fs16\3c&H000000&}OK. Here's our chance. Ready. Set. Go.{\r}
+Dialogue: 0,0:37:54.66,0:37:56.36,9s,,0000,0000,0000,,停!\N{\fs16\3c&H000000&}Drop!{\r}
+Dialogue: 0,0:38:02.04,0:38:04.03,9s,,0000,0000,0000,,走\N{\fs16\3c&H000000&}Go!{\r}
+Dialogue: 0,0:38:05.84,0:38:08.87,9s,,0000,0000,0000,,停!我说停!\N{\fs16\3c&H000000&}Drop! I said "drop"!{\r}
+Dialogue: 0,0:38:10.54,0:38:11.88,9s,,0000,0000,0000,,走\N{\fs16\3c&H000000&}Go!{\r}
+Dialogue: 0,0:38:19.29,0:38:21.41,9s,,0000,0000,0000,,停\N{\fs16\3c&H000000&}Drop.{\r}
+Dialogue: 0,0:38:29.30,0:38:30.70,9s,,0000,0000,0000,,走\N{\fs16\3c&H000000&}Go.{\r}
+Dialogue: 0,0:38:55.29,0:38:57.38,9s,,0000,0000,0000,,挺顺利的嘛\N{\fs16\3c&H000000&}That went well.{\r}
+Dialogue: 0,0:39:03.40,0:39:06.59,9s,,0000,0000,0000,,大伙儿，干得好 就快找到胡迪了\N{\fs16\3c&H000000&}Good job, troops. We're that much closer to Woody.{\r}
+Dialogue: 0,0:39:11.07,0:39:13.13,9s,,0000,0000,0000,,谢天谢地，你终于来了\N{\fs16\3c&H000000&}Thank goodness you're here.{\r}
+Dialogue: 0,0:39:13.21,0:39:16.23,9s,,0000,0000,0000,,这里有玩具要修理吗？\N{\fs16\3c&H000000&}Is the specimen ready for cleaning?{\r}
+Dialogue: 0,0:39:47.51,0:39:49.67,9s,,0000,0000,0000,,你要花多久时间？\N{\fs16\3c&H000000&}So how long is this gonna take?{\r}
+Dialogue: 0,0:39:49.74,0:39:53.04,9s,,0000,0000,0000,,这是艺术，急不得\N{\fs16\3c&H000000&}You can't rush art.{\r}
+Dialogue: 0,0:40:00.72,0:40:04.38,9s,,0000,0000,0000,,(艾而玩具城)
+Dialogue: 0,0:40:04.79,0:40:07.06,9s,,0000,0000,0000,,(休息中)
+Dialogue: 0,0:40:07.46,0:40:09.95,9s,,0000,0000,0000,,糟糕，休息了\N{\fs16\3c&H000000&}Oh, no. It's closed.{\r}
+Dialogue: 0,0:40:10.03,0:40:13.83,9s,,0000,0000,0000,,我又不是学龄前玩具 我识字\N{\fs16\3c&H000000&}We're not preschool toys, Slinky. We can read.{\r}
+Dialogue: 0,0:40:17.64,0:40:20.00,9s,,0000,0000,0000,,你迟到了\N{\fs16\3c&H000000&}Hey, joe, you're late.{\r}
+Dialogue: 0,0:40:20.07,0:40:21.60,9s,,0000,0000,0000,,快工作吧\N{\fs16\3c&H000000&}We've got a ton of toys to unload.{\r}
+Dialogue: 0,0:40:21.67,0:40:23.94,9s,,0000,0000,0000,,好啦，我来了啦\N{\fs16\3c&H000000&}All right. All right. I'm comin'. I'm comin'.{\r}
+Dialogue: 0,0:40:24.01,0:40:25.71,9s,,0000,0000,0000,,好了，走吧\N{\fs16\3c&H000000&}All right. Let's go.{\r}
+Dialogue: 0,0:40:25.78,0:40:29.04,9s,,0000,0000,0000,,可是上面写“休息了”耶\N{\fs16\3c&H000000&}But the sign says it's closed.{\r}
+Dialogue: 0,0:40:32.42,0:40:34.82,9s,,0000,0000,0000,,等等，一起来，跳!\N{\fs16\3c&H000000&}No, no, no, no. All together. Now!{\r}
+Dialogue: 0,0:40:41.03,0:40:43.02,9s,,0000,0000,0000,,(击败札克天王必胜秘笈)
+Dialogue: 0,0:40:43.10,0:40:45.00,9s,,0000,0000,0000,,(想击败札克天王？)
+Dialogue: 0,0:40:55.51,0:40:58.67,9s,,0000,0000,0000,,我的妈 地方这么大怎么找呀？\N{\fs16\3c&H000000&}Whoa, Nelly! How are we going to find Woody in this place?{\r}
+Dialogue: 0,0:40:58.74,0:41:02.70,9s,,0000,0000,0000,,只要找到艾而，就能找到胡迪 出发\N{\fs16\3c&H000000&}Look for Al. We find Al, we find Woody. Now move out!{\r}
+Dialogue: 0,0:41:02.78,0:41:06.41,9s,,0000,0000,0000,,胡迪…\N{\fs16\3c&H000000&}- Woody? - Woody.{\r}
+Dialogue: 0,0:42:07.35,0:42:10.34,9s,,0000,0000,0000,,(安弟)
+Dialogue: 0,0:42:14.22,0:42:17.19,9s,,0000,0000,0000,,好了\N{\fs16\3c&H000000&}There you go.{\r}
+Dialogue: 0,0:42:18.46,0:42:20.65,9s,,0000,0000,0000,,他是展示品\N{\fs16\3c&H000000&}He's for display only.{\r}
+Dialogue: 0,0:42:20.73,0:42:23.22,9s,,0000,0000,0000,,一直玩的话就会坏掉\N{\fs16\3c&H000000&}You handle him too much, he's not gonna last.{\r}
+Dialogue: 0,0:42:23.33,0:42:26.30,9s,,0000,0000,0000,,不可思议，你是个天才 他就像全新的\N{\fs16\3c&H000000&}It's amazing. You're a genius. He's just like new.{\r}
+Dialogue: 0,0:42:26.40,0:42:27.37,9s,,0000,0000,0000,,(全新)
+Dialogue: 0,0:42:41.85,0:42:43.91,9s,,0000,0000,0000,,(太空骑警巴斯光年)
+Dialogue: 0,0:42:48.15,0:42:50.85,9s,,0000,0000,0000,,哇赛\N{\fs16\3c&H000000&}Wow.{\r}
+Dialogue: 0,0:43:01.13,0:43:03.33,9s,,0000,0000,0000,,(全新配备)
+Dialogue: 0,0:43:03.40,0:43:04.40,9s,,0000,0000,0000,,这玩意我倒是用得上\N{\fs16\3c&H000000&}I could use one of those.{\r}
+Dialogue: 0,0:43:04.40,0:43:06.17,9s,,0000,0000,0000,,这玩意我倒是用得上\N{\fs16\3c&H000000&}I could use one of those.{\r}
+Dialogue: 0,0:43:15.11,0:43:18.17,9s,,0000,0000,0000,,(太空骑警巴斯光年)
+Dialogue: 0,0:43:18.28,0:43:21.78,9s,,0000,0000,0000,,一定要卖这本书 才能打败札克\N{\fs16\3c&H000000&}You know, they make it so you can't defeat Zurg unless you buy this book.{\r}
+Dialogue: 0,0:43:21.89,0:43:23.79,9s,,0000,0000,0000,,这简直是敲诈嘛\N{\fs16\3c&H000000&}It's extortion. That's what it is.{\r}
+Dialogue: 0,0:43:23.86,0:43:26.95,9s,,0000,0000,0000,,我以为黄金宝杖是用来…\N{\fs16\3c&H000000&}Hey, I always thought the golden sector was the only...{\r}
+Dialogue: 0,0:43:28.29,0:43:30.52,9s,,0000,0000,0000,,这样找起来比较拉风\N{\fs16\3c&H000000&}I thought we could search in style.{\r}
+Dialogue: 0,0:43:30.60,0:43:34.69,9s,,0000,0000,0000,,干得好，火腿 你没有手指，我来开车\N{\fs16\3c&H000000&}Nice going there, Hamm. So how about letting a toy with fingers drive?{\r}
+Dialogue: 0,0:43:44.54,0:43:46.88,9s,,0000,0000,0000,,我真的有这么胖吗？\N{\fs16\3c&H000000&}Am I really that fat?{\r}
+Dialogue: 0,0:43:54.55,0:43:56.35,9s,,0000,0000,0000,,你在干嘛？\N{\fs16\3c&H000000&}- What are you doing? - You're in direct violation{\r}
+Dialogue: 0,0:43:56.42,0:43:58.18,9s,,0000,0000,0000,,你违反了6404.5条规\N{\fs16\3c&H000000&}of Code 6404.5,{\r}
+Dialogue: 0,0:43:58.26,0:44:00.99,9s,,0000,0000,0000,,太空战警一定要留在睡眠舱\N{\fs16\3c&H000000&}stating all space rangers are to be in hyper-sleep{\r}
+Dialogue: 0,0:44:01.06,0:44:03.25,9s,,0000,0000,0000,,等待上级的指令\N{\fs16\3c&H000000&}until awakened by authorized personnel.{\r}
+Dialogue: 0,0:44:03.33,0:44:04.30,9s,,0000,0000,0000,,不是吧\N{\fs16\3c&H000000&}Oh, no.{\r}
+Dialogue: 0,0:44:04.36,0:44:06.35,9s,,0000,0000,0000,,你这是脱队行动\N{\fs16\3c&H000000&}You're breakin' ranks, ranger.{\r}
+Dialogue: 0,0:44:06.43,0:44:09.09,9s,,0000,0000,0000,,巴斯光年呼叫星际总部\N{\fs16\3c&H000000&}Buzz Lightyear to Star Command.{\r}
+Dialogue: 0,0:44:09.17,0:44:12.83,9s,,0000,0000,0000,,这儿有一名逃兵 我以前没这么神经吧？\N{\fs16\3c&H000000&}- I've got an AWOL space ranger. - Tell me I wasn't this deluded.{\r}
+Dialogue: 0,0:44:12.90,0:44:16.67,9s,,0000,0000,0000,,不准顶嘴，我有雷射光 别逼我使用它\N{\fs16\3c&H000000&}No back talk! I have a laser, and I will use it.{\r}
+Dialogue: 0,0:44:16.74,0:44:19.23,9s,,0000,0000,0000,,什么雷射，它只是灯泡\N{\fs16\3c&H000000&}You mean the laser that's a light bulb?{\r}
+Dialogue: 0,0:44:19.34,0:44:23.97,9s,,0000,0000,0000,,你是脑袋有问题吗？ 你差点把我害死\N{\fs16\3c&H000000&}Has your mind been melded? You could've killed me, space ranger.{\r}
+Dialogue: 0,0:44:24.05,0:44:26.54,9s,,0000,0000,0000,,你这个星际叛徒\N{\fs16\3c&H000000&}Or should I say "traitor"?{\r}
+Dialogue: 0,0:44:26.62,0:44:29.31,9s,,0000,0000,0000,,我没时间跟你穷蘑菇\N{\fs16\3c&H000000&}- I don't have time for this. - Halt!{\r}
+Dialogue: 0,0:44:29.39,0:44:31.75,9s,,0000,0000,0000,,我命令你站住\N{\fs16\3c&H000000&}I order you to halt!{\r}
+Dialogue: 0,0:44:38.06,0:44:41.43,9s,,0000,0000,0000,,听我说，听好\N{\fs16\3c&H000000&}Listen to me. Listen. Wait.{\r}
+Dialogue: 0,0:44:41.53,0:44:44.40,9s,,0000,0000,0000,,这条通道走过了 才没有\N{\fs16\3c&H000000&}- We've been down this aisle already. - We've never been down this aisle.{\r}
+Dialogue: 0,0:44:44.47,0:44:47.73,9s,,0000,0000,0000,,这排是粉红色的 我们迷路了\N{\fs16\3c&H000000&}- It's pink. - Face it. We're lost.{\r}
+Dialogue: 0,0:44:47.81,0:44:49.14,9s,,0000,0000,0000,,退后，退后\N{\fs16\3c&H000000&}Back it up. Back it up.{\r}
+Dialogue: 0,0:44:52.54,0:44:55.01,9s,,0000,0000,0000,,好棒的派对\N{\fs16\3c&H000000&}What a great party!{\r}
+Dialogue: 0,0:44:55.08,0:44:59.64,9s,,0000,0000,0000,,你能弯多低？你能弯多低？\N{\fs16\3c&H000000&}How low can you go? How low can you go?{\r}
+Dialogue: 0,0:45:01.69,0:45:03.09,9s,,0000,0000,0000,,美女们\N{\fs16\3c&H000000&}Ex. Cuse me, ladies.{\r}
+Dialogue: 0,0:45:03.15,0:45:06.02,9s,,0000,0000,0000,,你们知道艾而在哪儿吗？\N{\fs16\3c&H000000&}Does anyone know where we might find the Al of Al's Toy Barn?{\r}
+Dialogue: 0,0:45:06.09,0:45:09.15,9s,,0000,0000,0000,,我来帮忙\N{\fs16\3c&H000000&}I can help.{\r}
+Dialogue: 0,0:45:09.23,0:45:11.59,9s,,0000,0000,0000,,我是导游芭比\N{\fs16\3c&H000000&}I'm Tour Guide Barbie.{\r}
+Dialogue: 0,0:45:11.66,0:45:14.56,9s,,0000,0000,0000,,请别把头手和配件伸出车外\N{\fs16\3c&H000000&}Please keep your hands, arms and accessories inside the car,{\r}
+Dialogue: 0,0:45:14.63,0:45:16.46,9s,,0000,0000,0000,,请别用闪光灯\N{\fs16\3c&H000000&}and no flash photography.{\r}
+Dialogue: 0,0:45:16.54,0:45:19.60,9s,,0000,0000,0000,,谢谢 我是有妇之夫…\N{\fs16\3c&H000000&}- Thank you. - I'm a married spud. I'm a married spud.{\r}
+Dialogue: 0,0:45:19.67,0:45:22.90,9s,,0000,0000,0000,,那就把机会让给单身汉\N{\fs16\3c&H000000&}- I'm a married spud. - Then make room for the single fellas.{\r}
+Dialogue: 0,0:45:22.97,0:45:26.10,9s,,0000,0000,0000,,右手边是模型汽车系列 1967年系列有16辆车\N{\fs16\3c&H000000&}To our right is the Hot Wheels aisle. Developed in 1967,{\r}
+Dialogue: 0,0:45:26.18,0:45:28.67,9s,,0000,0000,0000,,包括雪佛兰跑车\N{\fs16\3c&H000000&}the original series had 16 cars, including the Corvette.{\r}
+Dialogue: 0,0:45:28.81,0:45:30.91,9s,,0000,0000,0000,,对不起，小姐，请问 艾而的办公室在哪儿？\N{\fs16\3c&H000000&}I beg your pardon, ma'am, but where's Al's office?{\r}
+Dialogue: 0,0:45:30.98,0:45:34.08,9s,,0000,0000,0000,,请在导览之后再发问 感谢您\N{\fs16\3c&H000000&}Please hold all questions until the end of the tour. Thank you.{\r}
+Dialogue: 0,0:45:34.15,0:45:36.38,9s,,0000,0000,0000,,上面教你怎么打败札克天王\N{\fs16\3c&H000000&}It says how you defeat Zurg! Look!{\r}
+Dialogue: 0,0:45:36.45,0:45:39.22,9s,,0000,0000,0000,,抱抱龙，快拿开\N{\fs16\3c&H000000&}- Ex. Cuse me, sir. - Get this outta here, "geek-osaur."{\r}
+Dialogue: 0,0:45:39.32,0:45:42.23,9s,,0000,0000,0000,,小心! 停车!停车!\N{\fs16\3c&H000000&}- Look out! - Stop, stop, stop!{\r}
+Dialogue: 0,0:45:48.97,0:45:50.33,9s,,0000,0000,0000,,方向盘打直\N{\fs16\3c&H000000&}Turn into the spin, Barbie!{\r}
+Dialogue: 0,0:45:50.40,0:45:54.03,9s,,0000,0000,0000,,我的必胜秘笈\N{\fs16\3c&H000000&}My source of power!{\r}
+Dialogue: 0,0:45:54.11,0:45:57.84,9s,,0000,0000,0000,,回来!\N{\fs16\3c&H000000&}No! Come back! Hey!{\r}
+Dialogue: 0,0:45:57.94,0:46:01.61,9s,,0000,0000,0000,,等等我，慢一点\N{\fs16\3c&H000000&}Wait up! Hey! Come on! Slow down!{\r}
+Dialogue: 0,0:46:01.68,0:46:04.95,9s,,0000,0000,0000,,恐龙在后面，慢一点\N{\fs16\3c&H000000&}Dinosaur overboard! Slow down!{\r}
+Dialogue: 0,0:46:05.45,0:46:07.25,9s,,0000,0000,0000,,请留在座位上\N{\fs16\3c&H000000&}Remain seated, please.{\r}
+Dialogue: 0,0:46:07.32,0:46:09.84,9s,,0000,0000,0000,,“西班牙语”
+Dialogue: 0,0:46:11.06,0:46:13.82,9s,,0000,0000,0000,,听我说，你不是太空战警\N{\fs16\3c&H000000&}Listen to me. Listen to me. You're not really a space ranger.{\r}
+Dialogue: 0,0:46:13.93,0:46:16.83,9s,,0000,0000,0000,,你是个玩具 我们都是玩具\N{\fs16\3c&H000000&}You're a toy. We're all toys. Do you hear me?{\r}
+Dialogue: 0,0:46:16.90,0:46:19.56,9s,,0000,0000,0000,,你等着受军法审判吧\N{\fs16\3c&H000000&}Well, that should hold you till the court martial.{\r}
+Dialogue: 0,0:46:19.63,0:46:23.47,9s,,0000,0000,0000,,放开我，你搞不懂状况\N{\fs16\3c&H000000&}Let me go! You don't realize what you're doing!{\r}
+Dialogue: 0,0:46:23.57,0:46:26.26,9s,,0000,0000,0000,,这里是巴斯光年区\N{\fs16\3c&H000000&}And this is the Buzz Lightyear aisle.{\r}
+Dialogue: 0,0:46:26.34,0:46:31.33,9s,,0000,0000,0000,,1995那年 巴斯光年玩偶供不应求\N{\fs16\3c&H000000&}In 1995, shortsighted retailers did not order enough dolls to meet demand.{\r}
+Dialogue: 0,0:46:31.41,0:46:33.84,9s,,0000,0000,0000,,巴斯 停车，你们是谁？\N{\fs16\3c&H000000&}- Hey, Buzz! - Halt! Who goes there?{\r}
+Dialogue: 0,0:46:33.91,0:46:36.54,9s,,0000,0000,0000,,别闹了，上车吧\N{\fs16\3c&H000000&}Quit clownin' around and get in the car!{\r}
+Dialogue: 0,0:46:36.62,0:46:38.85,9s,,0000,0000,0000,,巴斯 我知道该怎么击败札克\N{\fs16\3c&H000000&}Buzz, Buzz, I know how to defeat Zurg!{\r}
+Dialogue: 0,0:46:38.92,0:46:42.18,9s,,0000,0000,0000,,真的吗？ 上车后我再告诉你\N{\fs16\3c&H000000&}- You do? - Come on. I'll tell you on the way.{\r}
+Dialogue: 0,0:46:42.25,0:46:47.75,9s,,0000,0000,0000,,大伙儿，他不是真的巴斯 你们认错人了\N{\fs16\3c&H000000&}No, no, guys! You've got the wrong Buzz! You've got the wrong Buzz!{\r}
+Dialogue: 0,0:46:47.83,0:46:50.12,9s,,0000,0000,0000,,这么酷的皮带哪来的？\N{\fs16\3c&H000000&}Say, where'd you get the cool belt, Buzz?{\r}
+Dialogue: 0,0:46:50.20,0:46:52.56,9s,,0000,0000,0000,,猪扑满，这是标准配备\N{\fs16\3c&H000000&}Well, slotted pig, they're standard issue.{\r}
+Dialogue: 0,0:47:01.27,0:47:01.93,9s,,0000,0000,0000,,(西部服饰，牛仔头巾)
+Dialogue: 0,0:47:02.01,0:47:02.67,9s,,0000,0000,0000,,(和胡迪一起学弹吉他)
+Dialogue: 0,0:47:05.68,0:47:08.58,9s,,0000,0000,0000,,我就像在印钞票一样\N{\fs16\3c&H000000&}It's like printing my own money.{\r}
+Dialogue: 0,0:47:09.28,0:47:10.65,9s,,0000,0000,0000,,喂，干嘛？\N{\fs16\3c&H000000&}Yeah? What?{\r}
+Dialogue: 0,0:47:10.72,0:47:15.45,9s,,0000,0000,0000,,小西先生，是的 照片都在这儿\N{\fs16\3c&H000000&}Mr. Konishi. Yes, I have the pictures right here.{\r}
+Dialogue: 0,0:47:15.52,0:47:19.85,9s,,0000,0000,0000,,我正开车赶去办公室 准备传真给你\N{\fs16\3c&H000000&}In fact, I'm in the car right now on my way to the office to fax. Them to you.{\r}
+Dialogue: 0,0:47:19.92,0:47:22.86,9s,,0000,0000,0000,,我在过隧道，讯号不清楚\N{\fs16\3c&H000000&}I'm going through a tunnel! I'm breakin' up!{\r}
+Dialogue: 0,0:47:22.96,0:47:26.62,9s,,0000,0000,0000,,你们看，我真是焕然一新\N{\fs16\3c&H000000&}Wow! Will you look at me? It's like I'm fresh out of the box!{\r}
+Dialogue: 0,0:47:26.73,0:47:30.93,9s,,0000,0000,0000,,他缝得好牢 这下安弟一定扯不坏\N{\fs16\3c&H000000&}Look at this stitching! Andy's gonna have a hard time rippin' this! Hello!{\r}
+Dialogue: 0,0:47:31.00,0:47:33.13,9s,,0000,0000,0000,,嗨，你好\N{\fs16\3c&H000000&}Hi! Hello!{\r}
+Dialogue: 0,0:47:33.24,0:47:35.76,9s,,0000,0000,0000,,太好了，你可以走了\N{\fs16\3c&H000000&}Great. Now you can go.{\r}
+Dialogue: 0,0:47:38.38,0:47:41.31,9s,,0000,0000,0000,,真是个好主意\N{\fs16\3c&H000000&}Well, what a good idea.{\r}
+Dialogue: 0,0:47:50.22,0:47:52.78,9s,,0000,0000,0000,,胡迪，别生翠丝的气\N{\fs16\3c&H000000&}Woody, don't be mad at jessie.{\r}
+Dialogue: 0,0:47:52.86,0:47:55.09,9s,,0000,0000,0000,,她受的苦也夠多了\N{\fs16\3c&H000000&}She's been through more than you know.{\r}
+Dialogue: 0,0:47:55.16,0:47:57.65,9s,,0000,0000,0000,,你在走之前跟她和好吧\N{\fs16\3c&H000000&}Why not make amends before you leave, huh?{\r}
+Dialogue: 0,0:47:57.73,0:48:00.46,9s,,0000,0000,0000,,这是你应该做的\N{\fs16\3c&H000000&}It's the least you can do.{\r}
+Dialogue: 0,0:48:08.24,0:48:11.77,9s,,0000,0000,0000,,好吧，不过没什么用\N{\fs16\3c&H000000&}All right. But I don't know what good it'll do.{\r}
+Dialogue: 0,0:48:18.15,0:48:20.64,9s,,0000,0000,0000,,你在上面干嘛？\N{\fs16\3c&H000000&}Hey. Whatcha doin' way up here?{\r}
+Dialogue: 0,0:48:20.72,0:48:25.55,9s,,0000,0000,0000,,我想再看太阳一眼 然后就会永远被关起来\N{\fs16\3c&H000000&}Thought I'd get one last look at the sun before I get packed away again.{\r}
+Dialogue: 0,0:48:26.73,0:48:29.06,9s,,0000,0000,0000,,我知道你很恨我\N{\fs16\3c&H000000&}Look, jessie. I know you hate me for leaving,{\r}
+Dialogue: 0,0:48:29.13,0:48:31.62,9s,,0000,0000,0000,,但是我一定要回家\N{\fs16\3c&H000000&}but I have to go back.{\r}
+Dialogue: 0,0:48:31.70,0:48:34.46,9s,,0000,0000,0000,,我还是安弟的玩具\N{\fs16\3c&H000000&}I'm still Andy's toy.{\r}
+Dialogue: 0,0:48:34.53,0:48:37.47,9s,,0000,0000,0000,,要是你认识安弟 一定会了解…\N{\fs16\3c&H000000&}Well, if you knew him, you'd understand. Andy's a real...{\r}
+Dialogue: 0,0:48:37.54,0:48:41.13,9s,,0000,0000,0000,,让我猜，他是个特别的小孩\N{\fs16\3c&H000000&}Let me guess. Andy's a real special kid.{\r}
+Dialogue: 0,0:48:41.24,0:48:43.64,9s,,0000,0000,0000,,你是他最好的朋友\N{\fs16\3c&H000000&}And to him, you're his buddy, his best friend.{\r}
+Dialogue: 0,0:48:43.74,0:48:49.31,9s,,0000,0000,0000,,只要安弟跟你一起玩 虽然你不会动\N{\fs16\3c&H000000&}And when Andy plays with you, it's like even though you're not moving,{\r}
+Dialogue: 0,0:48:49.41,0:48:53.41,9s,,0000,0000,0000,,你却觉得自己是活的 因为他也认为你是真的\N{\fs16\3c&H000000&}you feel like you're alive, because that's how he sees you.{\r}
+Dialogue: 0,0:48:53.49,0:48:55.68,9s,,0000,0000,0000,,你怎么知道？\N{\fs16\3c&H000000&}How did you know that?{\r}
+Dialogue: 0,0:48:55.75,0:48:59.09,9s,,0000,0000,0000,,因为爱咪莉也一样\N{\fs16\3c&H000000&}Because Emily was just the same.{\r}
+Dialogue: 0,0:48:59.16,0:49:01.99,9s,,0000,0000,0000,,她是我的一切\N{\fs16\3c&H000000&}She was my whole world.{\r}
+Dialogue: 0,0:49:04.76,0:49:07.76,9s,,0000,0000,0000,,当我有人爱\N{\fs16\3c&H000000&}When somebody loved me{\r}
+Dialogue: 0,0:49:07.87,0:49:11.06,9s,,0000,0000,0000,,一切都美好\N{\fs16\3c&H000000&}Everything was beautiful{\r}
+Dialogue: 0,0:49:11.17,0:49:14.97,9s,,0000,0000,0000,,每一分每一秒\N{\fs16\3c&H000000&}Every hour we spent together{\r}
+Dialogue: 0,0:49:15.04,0:49:18.03,9s,,0000,0000,0000,,都活在我心中\N{\fs16\3c&H000000&}Lives within my heart{\r}
+Dialogue: 0,0:49:19.18,0:49:22.31,9s,,0000,0000,0000,,每当她流泪\N{\fs16\3c&H000000&}And when she was sad{\r}
+Dialogue: 0,0:49:22.38,0:49:25.94,9s,,0000,0000,0000,,我为她擦干\N{\fs16\3c&H000000&}I was there to dry her tears{\r}
+Dialogue: 0,0:49:26.02,0:49:31.58,9s,,0000,0000,0000,,每当她开心，我也很快乐\N{\fs16\3c&H000000&}And when she was happy so was I{\r}
+Dialogue: 0,0:49:31.66,0:49:36.56,9s,,0000,0000,0000,,当她还爱我\N{\fs16\3c&H000000&}When she loved me{\r}
+Dialogue: 0,0:49:39.80,0:49:43.10,9s,,0000,0000,0000,,不管寒冬或酷暑\N{\fs16\3c&H000000&}Through the summer and the fall{\r}
+Dialogue: 0,0:49:43.17,0:49:47.33,9s,,0000,0000,0000,,只要有彼此，我们不寂莫\N{\fs16\3c&H000000&}We had each other That was all{\r}
+Dialogue: 0,0:49:47.44,0:49:50.46,9s,,0000,0000,0000,,我跟她一起\N{\fs16\3c&H000000&}Just she and I together{\r}
+Dialogue: 0,0:49:50.54,0:49:55.04,9s,,0000,0000,0000,,永远相偎依\N{\fs16\3c&H000000&}Like it was meant to be{\r}
+Dialogue: 0,0:49:55.11,0:49:58.45,9s,,0000,0000,0000,,每当她孤单\N{\fs16\3c&H000000&}And when she was lonely{\r}
+Dialogue: 0,0:49:58.52,0:50:02.04,9s,,0000,0000,0000,,我就陪着她\N{\fs16\3c&H000000&}I was there to comfort her{\r}
+Dialogue: 0,0:50:02.12,0:50:05.56,9s,,0000,0000,0000,,我也知道\N{\fs16\3c&H000000&}And I knew that{\r}
+Dialogue: 0,0:50:05.62,0:50:11.62,9s,,0000,0000,0000,,她爱我\N{\fs16\3c&H000000&}She loved me{\r}
+Dialogue: 0,0:50:18.30,0:50:21.17,9s,,0000,0000,0000,,一年一年过去\N{\fs16\3c&H000000&}So the years went by{\r}
+Dialogue: 0,0:50:21.24,0:50:23.87,9s,,0000,0000,0000,,我还是一样\N{\fs16\3c&H000000&}I stayed the same{\r}
+Dialogue: 0,0:50:23.94,0:50:27.81,9s,,0000,0000,0000,,她却越走越远\N{\fs16\3c&H000000&}But she began to drift away{\r}
+Dialogue: 0,0:50:27.88,0:50:31.94,9s,,0000,0000,0000,,丢下我一个\N{\fs16\3c&H000000&}I was left alone{\r}
+Dialogue: 0,0:50:32.02,0:50:35.38,9s,,0000,0000,0000,,但我仍然期待她\N{\fs16\3c&H000000&}Still I waited for the day{\r}
+Dialogue: 0,0:50:36.12,0:50:37.82,9s,,0000,0000,0000,,说一声\N{\fs16\3c&H000000&}When she'd say{\r}
+Dialogue: 0,0:50:37.89,0:50:41.55,9s,,0000,0000,0000,,我永远…\N{\fs16\3c&H000000&}I will always{\r}
+Dialogue: 0,0:50:41.63,0:50:45.19,9s,,0000,0000,0000,,…都爱你\N{\fs16\3c&H000000&}Love you{\r}
+Dialogue: 0,0:50:46.23,0:50:50.22,9s,,0000,0000,0000,,于是我痴痴的等\N{\fs16\3c&H000000&}Lonely and forgotten{\r}
+Dialogue: 0,0:50:50.30,0:50:53.74,9s,,0000,0000,0000,,希望她再看一眼\N{\fs16\3c&H000000&}I never thought she'd look my way{\r}
+Dialogue: 0,0:50:53.84,0:50:57.43,9s,,0000,0000,0000,,终于她笑着抱着我\N{\fs16\3c&H000000&}She smiled at me and held me{\r}
+Dialogue: 0,0:50:57.54,0:51:01.57,9s,,0000,0000,0000,,就像美好的从前\N{\fs16\3c&H000000&}Just like she used to do{\r}
+Dialogue: 0,0:51:01.65,0:51:05.24,9s,,0000,0000,0000,,她是那么地爱我\N{\fs16\3c&H000000&}Like she loved me{\r}
+Dialogue: 0,0:51:05.35,0:51:09.18,9s,,0000,0000,0000,,疼我\N{\fs16\3c&H000000&}When she loved me{\r}
+Dialogue: 0,0:51:10.82,0:51:14.09,9s,,0000,0000,0000,,当我有人爱\N{\fs16\3c&H000000&}When somebody loved me{\r}
+Dialogue: 0,0:51:14.16,0:51:18.99,9s,,0000,0000,0000,,一切都美好\N{\fs16\3c&H000000&}Everything was beautiful{\r}
+Dialogue: 0,0:51:19.06,0:51:23.02,9s,,0000,0000,0000,,每一分每一秒\N{\fs16\3c&H000000&}Every hour we spent together{\r}
+Dialogue: 0,0:51:23.10,0:51:27.07,9s,,0000,0000,0000,,都活在我心中\N{\fs16\3c&H000000&}Lives within my heart{\r}
+Dialogue: 0,0:51:27.07,0:51:28.23,9s,,0000,0000,0000,,(爱心捐献)\N{\fs16\3c&H000000&}When she loved me{\r}
+Dialogue: 0,0:51:28.31,0:51:33.00,9s,,0000,0000,0000,,当她还爱我
+Dialogue: 0,0:51:45.79,0:51:51.35,9s,,0000,0000,0000,,我们忘不了爱咪莉或安弟\N{\fs16\3c&H000000&}You never forget kids like Emily or Andy.{\r}
+Dialogue: 0,0:51:53.33,0:51:55.99,9s,,0000,0000,0000,,但是他们会忘了我们\N{\fs16\3c&H000000&}But they forget you.{\r}
+Dialogue: 0,0:51:56.07,0:51:59.26,9s,,0000,0000,0000,,翠丝，我不知道 你走吧\N{\fs16\3c&H000000&}- Jessie, I... I didn't know. - Just go.{\r}
+Dialogue: 0,0:52:21.46,0:52:23.15,9s,,0000,0000,0000,,友情能维持多久？\N{\fs16\3c&H000000&}How long will it last, Woody?{\r}
+Dialogue: 0,0:52:23.23,0:52:26.75,9s,,0000,0000,0000,,你真的以为安弟 会带你一起上大学\N{\fs16\3c&H000000&}Do you really think Andy is gonna take you to college{\r}
+Dialogue: 0,0:52:26.83,0:52:28.53,9s,,0000,0000,0000,,或是度蜜月吗？\N{\fs16\3c&H000000&}or on his honeymoon?{\r}
+Dialogue: 0,0:52:30.67,0:52:32.73,9s,,0000,0000,0000,,安弟会长大\N{\fs16\3c&H000000&}Andy's growing up,{\r}
+Dialogue: 0,0:52:32.80,0:52:35.83,9s,,0000,0000,0000,,你无法阻止他\N{\fs16\3c&H000000&}and there's nothing you can do about it.{\r}
+Dialogue: 0,0:52:37.01,0:52:39.07,9s,,0000,0000,0000,,你有两个选择\N{\fs16\3c&H000000&}It's your choice, Woody.{\r}
+Dialogue: 0,0:52:39.14,0:52:43.27,9s,,0000,0000,0000,,你可以回去 或是跟我们一起永远保存\N{\fs16\3c&H000000&}You can go back, or you can stay with us and last forever.{\r}
+Dialogue: 0,0:52:43.35,0:52:48.34,9s,,0000,0000,0000,,受到世世代代小孩的喜爱\N{\fs16\3c&H000000&}You'll be adored by children for generations.{\r}
+Dialogue: 0,0:53:04.37,0:53:08.03,9s,,0000,0000,0000,,我算哪根葱，怎么能拆散 「胡迪牛仔秀」？\N{\fs16\3c&H000000&}Who am I to break up the Roundup gang?{\r}
+Dialogue: 0,0:53:24.09,0:53:27.49,9s,,0000,0000,0000,,胡迪，你在吗？ 这也是空盒子\N{\fs16\3c&H000000&}- Hey, Woody, are you in here? - Nah. This one's empty too.{\r}
+Dialogue: 0,0:53:27.56,0:53:30.36,9s,,0000,0000,0000,,胡迪…\N{\fs16\3c&H000000&}- Woody! Woody! - Woody!{\r}
+Dialogue: 0,0:53:30.43,0:53:33.99,9s,,0000,0000,0000,,打扰了，请问两位 有没有看到断手的牛仔？\N{\fs16\3c&H000000&}Pardon me, gentlemen, but have either of you seen a cowboy doll with a bad arm?{\r}
+Dialogue: 0,0:53:34.06,0:53:36.36,9s,,0000,0000,0000,,没有耶 嘿，他在跟我讲话\N{\fs16\3c&H000000&}- Why, no, I haven't. - Hey! He was talkin' to me!{\r}
+Dialogue: 0,0:53:36.43,0:53:38.73,9s,,0000,0000,0000,,他是在跟我讲话 可恶\N{\fs16\3c&H000000&}- No! He was talkin' to me! - Why, you...{\r}
+Dialogue: 0,0:53:40.64,0:53:41.63,9s,,0000,0000,0000,,我们一直以为\N{\fs16\3c&H000000&}You see, all along,{\r}
+Dialogue: 0,0:53:41.70,0:53:44.37,9s,,0000,0000,0000,,入口是札克城堡的大门\N{\fs16\3c&H000000&}we thought the way into Zurg's fortress was through the main gate,{\r}
+Dialogue: 0,0:53:44.44,0:53:49.24,9s,,0000,0000,0000,,其实秘密入口在左边 藏在阴影底下\N{\fs16\3c&H000000&}but in fact, the secret entrance is to the left, hidden in the shadows.{\r}
+Dialogue: 0,0:53:49.35,0:53:51.58,9s,,0000,0000,0000,,左边的阴影下，知道了\N{\fs16\3c&H000000&}To the left in the shadows. Got it.{\r}
+Dialogue: 0,0:53:52.98,0:53:55.92,9s,,0000,0000,0000,,有人来了 大家快找掩护\N{\fs16\3c&H000000&}- Someone's coming. - Everyone, take cover.{\r}
+Dialogue: 0,0:53:55.99,0:53:58.45,9s,,0000,0000,0000,,路上大赛车，就甭提了\N{\fs16\3c&H000000&}It was a big pile-up, but I don't want to bore you with the details.{\r}
+Dialogue: 0,0:53:58.52,0:54:00.79,9s,,0000,0000,0000,,请问你的传真几号？\N{\fs16\3c&H000000&}Yes. Now, let me confirm your fax. Number.{\r}
+Dialogue: 0,0:54:00.89,0:54:02.15,9s,,0000,0000,0000,,{\fs16\3c&H000000&}42…\N- 011... - 011. Wait.{\r}
+Dialogue: 0,0:54:02.23,0:54:03.89,9s,,0000,0000,0000,,好多号码哦 知道了\N{\fs16\3c&H000000&}That's a lot of numbers. No. I got it.{\r}
+Dialogue: 0,0:54:03.96,0:54:06.16,9s,,0000,0000,0000,,是他 公鸡人\N{\fs16\3c&H000000&}- It's him. - The chicken man.{\r}
+Dialogue: 0,0:54:06.23,0:54:07.49,9s,,0000,0000,0000,,奇怪，他一点都不像家禽\N{\fs16\3c&H000000&}Funny, he doesn't look like poultry.{\r}
+Dialogue: 0,0:54:07.56,0:54:10.33,9s,,0000,0000,0000,,他就是绑匪没错\N{\fs16\3c&H000000&}That's the kidnapper, all right.{\r}
+Dialogue: 0,0:54:10.40,0:54:13.99,9s,,0000,0000,0000,,他才不是绑匪 他是札克的爪牙\N{\fs16\3c&H000000&}A kidnapper! An agent of Zurg if I ever saw one.{\r}
+Dialogue: 0,0:54:21.08,0:54:24.91,9s,,0000,0000,0000,,这就是我的无价之宝\N{\fs16\3c&H000000&}And the piece de resistance!{\r}
+Dialogue: 0,0:54:25.01,0:54:27.78,9s,,0000,0000,0000,,我保证这会是 你最耀眼的收藏品\N{\fs16\3c&H000000&}I promise the collection will be the crown jewel of your museum.{\r}
+Dialogue: 0,0:54:27.85,0:54:30.28,9s,,0000,0000,0000,,那是胡迪 这些货你都看了\N{\fs16\3c&H000000&}- It's Woody! - Now that I have your attention,{\r}
+Dialogue: 0,0:54:30.35,0:54:33.55,9s,,0000,0000,0000,,我要在价钱后面加一个零 什么？\N{\fs16\3c&H000000&}imagine we added another zero to the price, huh?{\r}
+Dialogue: 0,0:54:35.26,0:54:38.25,9s,,0000,0000,0000,,你要多少钱都行 棒呆了\N{\fs16\3c&H000000&}- I'll pay anything you want. - Yes! Yes!{\r}
+Dialogue: 0,0:54:38.33,0:54:41.06,9s,,0000,0000,0000,,咱们一言为定 我搭下一班机到日本\N{\fs16\3c&H000000&}You got a deal! I'll be on the next flight to japan!{\r}
+Dialogue: 0,0:54:41.13,0:54:43.16,9s,,0000,0000,0000,,快跳进家禽人的货舱\N{\fs16\3c&H000000&}Quick. Into the poultry man's cargo unit.{\r}
+Dialogue: 0,0:54:43.27,0:54:46.63,9s,,0000,0000,0000,,他会带我们找到札克 快…快…\N{\fs16\3c&H000000&}He'll lead us to Zurg. Move, move, move!{\r}
+Dialogue: 0,0:54:47.24,0:54:49.30,9s,,0000,0000,0000,,莎哟娜啦，再见啰\N{\fs16\3c&H000000&}Don't touch my moustache!{\r}
+Dialogue: 0,0:54:55.31,0:54:58.37,9s,,0000,0000,0000,,发了!发了!\N{\fs16\3c&H000000&}Rich, rich, rich, rich!{\r}
+Dialogue: 0,0:55:55.20,0:55:58.20,9s,,0000,0000,0000,,(巴斯光年死敌 札克天王)
+Dialogue: 0,0:56:07.15,0:56:09.31,9s,,0000,0000,0000,,(看这里)
+Dialogue: 0,0:56:09.39,0:56:12.72,9s,,0000,0000,0000,,(札克天王远视镜)
+Dialogue: 0,0:56:12.79,0:56:15.95,9s,,0000,0000,0000,,消灭巴斯光年\N{\fs16\3c&H000000&}Destroy Buzz Lightyear.{\r}
+Dialogue: 0,0:56:16.03,0:56:19.89,9s,,0000,0000,0000,,消灭巴斯光年…\N{\fs16\3c&H000000&}Destroy Buzz Lightyear. Destroy Buzz Lightyear.{\r}
+Dialogue: 0,0:56:25.10,0:56:27.43,9s,,0000,0000,0000,,他没拿走袋子 不能浪费时间\N{\fs16\3c&H000000&}- He didn't take the bag! - No time to lose!{\r}
+Dialogue: 0,0:56:36.95,0:56:39.14,9s,,0000,0000,0000,,他搭乘垂直输送机\N{\fs16\3c&H000000&}He's ascending in the vertical transporter.{\r}
+Dialogue: 0,0:56:39.22,0:56:42.48,9s,,0000,0000,0000,,抓紧了，我们要冲到屋顶\N{\fs16\3c&H000000&}All right, everyone. Hang on. We're gonna blast through the roof.{\r}
+Dialogue: 0,0:56:42.55,0:56:46.61,9s,,0000,0000,0000,,巴斯 飞向宇宙…浩瀚无垠\N{\fs16\3c&H000000&}- Buzz? - To infinity and beyond!{\r}
+Dialogue: 0,0:56:48.49,0:56:53.02,9s,,0000,0000,0000,,你秀逗啦？别浪费时间 站好了，抱抱龙\N{\fs16\3c&H000000&}What are you? Insane? We're wasting time. Stand still, Godzilla.{\r}
+Dialogue: 0,0:56:54.96,0:56:56.12,9s,,0000,0000,0000,,我搞不懂\N{\fs16\3c&H000000&}I don't understand.{\r}
+Dialogue: 0,0:56:56.20,0:56:58.93,9s,,0000,0000,0000,,我的电瓶怎么会没有电\N{\fs16\3c&H000000&}Somehow my fuel cells have gone dry.{\r}
+Dialogue: 0,0:57:16.39,0:57:18.51,9s,,0000,0000,0000,,糟了，他到了23楼\N{\fs16\3c&H000000&}Blast. He's on level 23.{\r}
+Dialogue: 0,0:57:18.59,0:57:20.92,9s,,0000,0000,0000,,我们该怎么上去？\N{\fs16\3c&H000000&}How are we gonna get up there?{\r}
+Dialogue: 0,0:57:20.99,0:57:23.42,9s,,0000,0000,0000,,我们可以找几个气球漂上去\N{\fs16\3c&H000000&}Maybe if we find some balloons, we could float to the top.{\r}
+Dialogue: 0,0:57:23.53,0:57:26.19,9s,,0000,0000,0000,,别开玩笑了 我们叠罗汉\N{\fs16\3c&H000000&}Are you kidding? I say we stack ourselves up,{\r}
+Dialogue: 0,0:57:26.26,0:57:28.73,9s,,0000,0000,0000,,再按对讲机 假扮我们在送比萨\N{\fs16\3c&H000000&}push the intercom and pretend we're delivering a pizza.{\r}
+Dialogue: 0,0:57:28.80,0:57:32.10,9s,,0000,0000,0000,,火腿三明治薯条加热狗 怎么样？\N{\fs16\3c&H000000&}How about a ham sandwich... with fries and a hot dog?{\r}
+Dialogue: 0,0:57:32.17,0:57:33.16,9s,,0000,0000,0000,,那我呢？\N{\fs16\3c&H000000&}What about me?{\r}
+Dialogue: 0,0:57:33.24,0:57:34.96,9s,,0000,0000,0000,,你是随餐附赠玩具\N{\fs16\3c&H000000&}You can be the toy that comes with the meal.{\r}
+Dialogue: 0,0:57:35.07,0:57:37.90,9s,,0000,0000,0000,,弟兄们，这儿\N{\fs16\3c&H000000&}Troops! Over here.{\r}
+Dialogue: 0,0:57:41.51,0:57:44.84,9s,,0000,0000,0000,,大蜥蜴，跟你说的一样 入口在左边的阴影下\N{\fs16\3c&H000000&}Just like you said, lizard man. "In the shadows to the left."{\r}
+Dialogue: 0,0:57:44.95,0:57:48.18,9s,,0000,0000,0000,,出动\N{\fs16\3c&H000000&}OK. Let's move!{\r}
+Dialogue: 0,0:57:48.28,0:57:51.65,9s,,0000,0000,0000,,任务日志，我们潜入敌区\N{\fs16\3c&H000000&}Mission log. Have infiltrated enemy territory without detection{\r}
+Dialogue: 0,0:57:51.72,0:57:54.42,9s,,0000,0000,0000,,进入札克天王的城堡\N{\fs16\3c&H000000&}and are making our way through the bowels of Zurg's fortress.{\r}
+Dialogue: 0,0:57:54.52,0:57:58.02,9s,,0000,0000,0000,,我看他是被冲昏了头\N{\fs16\3c&H000000&}You know, I think that Buzz aisle went to his head.{\r}
+Dialogue: 0,0:57:58.13,0:58:00.96,9s,,0000,0000,0000,,糟糕，往哪个方向？\N{\fs16\3c&H000000&}Oh, no. Which way do we go?{\r}
+Dialogue: 0,0:58:01.06,0:58:03.12,9s,,0000,0000,0000,,这边 你怎么这么有把握？\N{\fs16\3c&H000000&}- This way! - What makes you so sure?{\r}
+Dialogue: 0,0:58:03.20,0:58:06.69,9s,,0000,0000,0000,,巴斯光年从不做没把握的事\N{\fs16\3c&H000000&}I'm Buzz Lightyear. I'm always sure.{\r}
+Dialogue: 0,0:58:07.07,0:58:10.04,9s,,0000,0000,0000,,我们被发现了 墙壁会把我们夹死\N{\fs16\3c&H000000&}We've been detected. The walls! They're closing in! Quick!{\r}
+Dialogue: 0,0:58:10.11,0:58:12.51,9s,,0000,0000,0000,,马铃薯快帮我挡一下\N{\fs16\3c&H000000&}Help me prop up vegetable man, or we're done for.{\r}
+Dialogue: 0,0:58:12.58,0:58:14.60,9s,,0000,0000,0000,,笨蛋，快放我下来\N{\fs16\3c&H000000&}Hey! Put me down, you moron!{\r}
+Dialogue: 0,0:58:14.68,0:58:17.58,9s,,0000,0000,0000,,不是墙啦，是电梯\N{\fs16\3c&H000000&}Guys, look! It's not the walls! It's the elevator!{\r}
+Dialogue: 0,0:58:24.29,0:58:28.12,9s,,0000,0000,0000,,我们来不及了 大伙儿，抓住我\N{\fs16\3c&H000000&}Come on. We've got no time to lose. Everyone, grab hold!{\r}
+Dialogue: 0,0:58:28.19,0:58:30.16,9s,,0000,0000,0000,,什么？\N{\fs16\3c&H000000&}What?{\r}
+Dialogue: 0,0:58:30.26,0:58:33.19,9s,,0000,0000,0000,,巴斯 为什么不直接坐电梯？\N{\fs16\3c&H000000&}Buzz, why not just take the elevator?{\r}
+Dialogue: 0,0:58:33.26,0:58:35.89,9s,,0000,0000,0000,,这招会被他们料到\N{\fs16\3c&H000000&}They'll be ex. Pecting that.{\r}
+Dialogue: 0,0:58:37.13,0:58:41.16,9s,,0000,0000,0000,,(残障停车位)
+Dialogue: 0,0:58:49.41,0:58:51.90,9s,,0000,0000,0000,,巴斯，等等\N{\fs16\3c&H000000&}Hey, Buzz! Stop!{\r}
+Dialogue: 0,0:58:51.98,0:58:54.81,9s,,0000,0000,0000,,慢一点\N{\fs16\3c&H000000&}Slow down!{\r}
+Dialogue: 0,0:58:54.92,0:58:57.72,9s,,0000,0000,0000,,六件隔天要送到日本的 快捷包裹要多少钱？\N{\fs16\3c&H000000&}To overnight six. Packages to japan is how much?{\r}
+Dialogue: 0,0:58:58.29,0:59:00.52,9s,,0000,0000,0000,,什么？是日园吧？\N{\fs16\3c&H000000&}- What? That's in yen, right? - No dollars sir.{\r}
+Dialogue: 0,0:59:00.59,0:59:01.99,9s,,0000,0000,0000,,美元？\N{\fs16\3c&H000000&}- Dollars? - Yes.{\r}
+Dialogue: 0,0:59:02.06,0:59:06.15,9s,,0000,0000,0000,,我在赶时间 你们是故意抢钱耶\N{\fs16\3c&H000000&}You are deliberately taking advantage of people in a hurry, you know that?{\r}
+Dialogue: 0,0:59:06.23,0:59:09.22,9s,,0000,0000,0000,,好啦…好吧\N{\fs16\3c&H000000&}All right. I'll do it! All right. Fine.{\r}
+Dialogue: 0,0:59:09.30,0:59:12.53,9s,,0000,0000,0000,,我会在大厅等 你们最好十五分钟后到\N{\fs16\3c&H000000&}I'll have the stuff in the lobby, and you'd better be here in 15 minutes,{\r}
+Dialogue: 0,0:59:12.60,0:59:15.16,9s,,0000,0000,0000,,我要赶飞机，听到吗？\N{\fs16\3c&H000000&}because I have a plane to catch, do you hear me?{\r}
+Dialogue: 0,0:59:17.97,0:59:20.94,9s,,0000,0000,0000,,我们终于要走了 你相信吗？\N{\fs16\3c&H000000&}We're finally going. Can you believe it?{\r}
+Dialogue: 0,0:59:21.68,0:59:25.01,9s,,0000,0000,0000,,那是特别订做的箱子\N{\fs16\3c&H000000&}That's custom-fitted foam insulation you'll be riding in, Bullseye.{\r}
+Dialogue: 0,0:59:25.08,0:59:27.31,9s,,0000,0000,0000,,这一趟要坐头等舱\N{\fs16\3c&H000000&}First class all the way!{\r}
+Dialogue: 0,0:59:27.38,0:59:31.11,9s,,0000,0000,0000,,老实说，我觉得很兴奋\N{\fs16\3c&H000000&}You know what? I'm actually ex. Cited about this.{\r}
+Dialogue: 0,0:59:31.19,0:59:33.21,9s,,0000,0000,0000,,我是说真的\N{\fs16\3c&H000000&}I mean it. I really am!{\r}
+Dialogue: 0,0:59:33.29,0:59:34.72,9s,,0000,0000,0000,,那是当然了\N{\fs16\3c&H000000&}And why shouldn't you be?{\r}
+Dialogue: 0,0:59:36.09,0:59:38.15,9s,,0000,0000,0000,,跟着舞伴左摇右晃\N{\fs16\3c&H000000&}Swing your partner do-si-do{\r}
+Dialogue: 0,0:59:38.23,0:59:42.63,9s,,0000,0000,0000,,你是个跳舞的牛仔 瞧，我在跳方块舞耶\N{\fs16\3c&H000000&}- Look at you, dancing cowboy! - Look! I'm doin' the box. Step!{\r}
+Dialogue: 0,0:59:52.34,0:59:55.14,9s,,0000,0000,0000,,下面小心点\N{\fs16\3c&H000000&}Hey, heads up down there!{\r}
+Dialogue: 0,0:59:55.24,1:00:00.11,9s,,0000,0000,0000,,猪肚掉下来了 还有多远呀？\N{\fs16\3c&H000000&}- Pork bellies are fallin'. - Hey, how much farther, Buzz?{\r}
+Dialogue: 0,1:00:00.22,1:00:03.19,9s,,0000,0000,0000,,就快到了\N{\fs16\3c&H000000&}Halfway there.{\r}
+Dialogue: 0,1:00:03.29,1:00:06.55,9s,,0000,0000,0000,,我的手撑不下去了\N{\fs16\3c&H000000&}My arms can't hold on much longer!{\r}
+Dialogue: 0,1:00:10.63,1:00:12.89,9s,,0000,0000,0000,,太重了\N{\fs16\3c&H000000&}Too... heavy.{\r}
+Dialogue: 0,1:00:13.00,1:00:14.79,9s,,0000,0000,0000,,我真傻\N{\fs16\3c&H000000&}What was I thinking?{\r}
+Dialogue: 0,1:00:14.86,1:00:17.73,9s,,0000,0000,0000,,我有反重力功能\N{\fs16\3c&H000000&}My antigravity servos!{\r}
+Dialogue: 0,1:00:17.83,1:00:21.36,9s,,0000,0000,0000,,抓紧了，我要放手了\N{\fs16\3c&H000000&}Hang tight, everyone. I'm going to let go of the wall.{\r}
+Dialogue: 0,1:00:21.47,1:00:22.99,9s,,0000,0000,0000,,什么？ 他不会吧\N{\fs16\3c&H000000&}- What? - He wouldn't.{\r}
+Dialogue: 0,1:00:23.07,1:00:24.90,9s,,0000,0000,0000,,一 他会\N{\fs16\3c&H000000&}- One... - He would.{\r}
+Dialogue: 0,1:00:24.97,1:00:27.17,9s,,0000,0000,0000,,二 别放手…\N{\fs16\3c&H000000&}Two...{\r}
+Dialogue: 0,1:00:27.28,1:00:28.64,9s,,0000,0000,0000,,三!\N{\fs16\3c&H000000&}Three!{\r}
+Dialogue: 0,1:00:31.81,1:00:36.38,9s,,0000,0000,0000,,飞向宇宙…浩瀚无垠\N{\fs16\3c&H000000&}To infinity and beyond!{\r}
+Dialogue: 0,1:00:38.02,1:00:40.28,9s,,0000,0000,0000,,接近目标，恢复重力\N{\fs16\3c&H000000&}Approaching destination. Reengaging gravity.{\r}
+Dialogue: 0,1:00:49.33,1:00:52.03,9s,,0000,0000,0000,,安全\N{\fs16\3c&H000000&}Area secure.{\r}
+Dialogue: 0,1:00:52.10,1:00:53.09,9s,,0000,0000,0000,,没事了\N{\fs16\3c&H000000&}It's OK, troops.{\r}
+Dialogue: 0,1:00:53.17,1:00:58.13,9s,,0000,0000,0000,,反重力引起的晕眩 马上就会消失，前进吧\N{\fs16\3c&H000000&}The antigravity sickness will wear off momentarily. Now let's move!{\r}
+Dialogue: 0,1:00:58.21,1:01:01.47,9s,,0000,0000,0000,,记得提醒我回去以后 要好好教训他一顿\N{\fs16\3c&H000000&}Remind me to glue his helmet shut when we get back.{\r}
+Dialogue: 0,1:01:10.19,1:01:13.12,9s,,0000,0000,0000,,翠丝，介绍我出场吧\N{\fs16\3c&H000000&}How 'bout givin' me a little intro there, jessie?{\r}
+Dialogue: 0,1:01:13.19,1:01:16.39,9s,,0000,0000,0000,,我要介绍 西部最棒最酷的牛仔\N{\fs16\3c&H000000&}Introducing the high-ridin'-est cowboy around...{\r}
+Dialogue: 0,1:01:16.53,1:01:17.86,9s,,0000,0000,0000,,你忘了说最炫\N{\fs16\3c&H000000&}You forgot "rootin'-tootin'-est"!{\r}
+Dialogue: 0,1:01:18.93,1:01:22.76,9s,,0000,0000,0000,,西部最棒最酷 最炫的牛仔英雄\N{\fs16\3c&H000000&}The high-ridin'-est, rootin'-tootin'-est cowboy hero of all time,{\r}
+Dialogue: 0,1:01:22.87,1:01:24.93,9s,,0000,0000,0000,,胡迪警长\N{\fs16\3c&H000000&}Sheriff Woody!{\r}
+Dialogue: 0,1:01:33.74,1:01:37.22,9s,,0000,0000,0000,,嘿，小妞，这儿有麻烦吗？\N{\fs16\3c&H000000&}Say, little missy, you notice any trouble around these parts?{\r}
+Dialogue: 0,1:01:37.27,1:01:40.10,9s,,0000,0000,0000,,没有，胡迪警长会搞定一切\N{\fs16\3c&H000000&}Nary a bit, not with Sheriff Woody around.{\r}
+Dialogue: 0,1:01:40.20,1:01:42.19,9s,,0000,0000,0000,,等等，我有了\N{\fs16\3c&H000000&}Wait-wait-wait! I got it! This is great! OK!{\r}
+Dialogue: 0,1:01:42.27,1:01:44.71,9s,,0000,0000,0000,,强盗把小动物 关在着火的壳仓\N{\fs16\3c&H000000&}The bandits got the critters tied up in the burning barn. Now the best part!{\r}
+Dialogue: 0,1:01:44.77,1:01:46.90,9s,,0000,0000,0000,,救命呀，壳仓着火了\N{\fs16\3c&H000000&}Help us! The barn's on fire!{\r}
+Dialogue: 0,1:01:46.98,1:01:49.38,9s,,0000,0000,0000,,我来了，别害怕\N{\fs16\3c&H000000&}I've got ya, critters. No need to worry.{\r}
+Dialogue: 0,1:01:49.45,1:01:51.54,9s,,0000,0000,0000,,胡迪又解除了危机\N{\fs16\3c&H000000&}Woody saves the day again!{\r}
+Dialogue: 0,1:01:51.61,1:01:54.81,9s,,0000,0000,0000,,我的爱马红心呢？\N{\fs16\3c&H000000&}Now, where's my trusty steed Bullseye?{\r}
+Dialogue: 0,1:01:54.88,1:01:57.55,9s,,0000,0000,0000,,我得潇洒的骑向落日\N{\fs16\3c&H000000&}I have to ride off into the sunset...{\r}
+Dialogue: 0,1:01:57.62,1:02:01.15,9s,,0000,0000,0000,,快马加鞭吧，红心\N{\fs16\3c&H000000&}Ride like the wind, Bullseye!{\r}
+Dialogue: 0,1:02:05.43,1:02:07.90,9s,,0000,0000,0000,,别这样，我怕痒\N{\fs16\3c&H000000&}Watch it. Wait. I'm ticklish, OK?{\r}
+Dialogue: 0,1:02:07.96,1:02:09.79,9s,,0000,0000,0000,,是吗？\N{\fs16\3c&H000000&}Oh, you are?{\r}
+Dialogue: 0,1:02:09.87,1:02:12.06,9s,,0000,0000,0000,,住手，别这样\N{\fs16\3c&H000000&}No, no, no. Cut it out. Stop it. Stop it.{\r}
+Dialogue: 0,1:02:12.13,1:02:14.10,9s,,0000,0000,0000,,快住手，住手\N{\fs16\3c&H000000&}No, please. No, no. Stop! Stop!{\r}
+Dialogue: 0,1:02:23.95,1:02:26.61,9s,,0000,0000,0000,,任务日志 这是札克的指挥舱\N{\fs16\3c&H000000&}Mission log. Have reached Zurg's command deck,{\r}
+Dialogue: 0,1:02:26.68,1:02:29.34,9s,,0000,0000,0000,,没有他和木头俘虏的踪影\N{\fs16\3c&H000000&}but no sign of him or his wooden captive.{\r}
+Dialogue: 0,1:02:29.45,1:02:31.75,9s,,0000,0000,0000,,那是胡迪\N{\fs16\3c&H000000&}- Please, no! - That's Woody!{\r}
+Dialogue: 0,1:02:31.82,1:02:34.25,9s,,0000,0000,0000,,这里\N{\fs16\3c&H000000&}This way!{\r}
+Dialogue: 0,1:02:36.43,1:02:38.39,9s,,0000,0000,0000,,拜托，住手\N{\fs16\3c&H000000&}Please, please, no!{\r}
+Dialogue: 0,1:02:38.46,1:02:40.62,9s,,0000,0000,0000,,你看得到吗？ 怎么回事？\N{\fs16\3c&H000000&}Buzz, can you see? What's going on?{\r}
+Dialogue: 0,1:02:42.97,1:02:45.13,9s,,0000,0000,0000,,左边\N{\fs16\3c&H000000&}- Take that! - To the left.{\r}
+Dialogue: 0,1:02:45.20,1:02:46.76,9s,,0000,0000,0000,,你的左边啦\N{\fs16\3c&H000000&}No, your left.{\r}
+Dialogue: 0,1:02:46.84,1:02:48.89,9s,,0000,0000,0000,,高一点 怎么回事？\N{\fs16\3c&H000000&}- Take it up higher. - What's happening?{\r}
+Dialogue: 0,1:02:48.97,1:02:52.03,9s,,0000,0000,0000,,太可怕了，他们在拷问他\N{\fs16\3c&H000000&}It's horrible. They're torturing him.{\r}
+Dialogue: 0,1:02:52.11,1:02:55.41,9s,,0000,0000,0000,,我们该怎么办？ 用用你的脑袋\N{\fs16\3c&H000000&}- What are we gonna do, Buzz? - Use your head!{\r}
+Dialogue: 0,1:02:55.48,1:02:58.21,9s,,0000,0000,0000,,但是我不想要用我的脑袋\N{\fs16\3c&H000000&}But I don't wanna use my head!{\r}
+Dialogue: 0,1:03:03.05,1:03:05.42,9s,,0000,0000,0000,,这是怎么回事？\N{\fs16\3c&H000000&}What's going on here?{\r}
+Dialogue: 0,1:03:05.52,1:03:07.65,9s,,0000,0000,0000,,巴斯，大伙儿 你们怎么找得到我？\N{\fs16\3c&H000000&}Buzz, guys! Hey, how did you find me?{\r}
+Dialogue: 0,1:03:07.72,1:03:08.85,9s,,0000,0000,0000,,小心点\N{\fs16\3c&H000000&}Watch yourself!{\r}
+Dialogue: 0,1:03:08.92,1:03:10.48,9s,,0000,0000,0000,,我们来救你了\N{\fs16\3c&H000000&}We're here to spring ya, Woody!{\r}
+Dialogue: 0,1:03:10.56,1:03:12.62,9s,,0000,0000,0000,,听过无影腿吗？\N{\fs16\3c&H000000&}You heard of kung fu?{\r}
+Dialogue: 0,1:03:12.69,1:03:14.32,9s,,0000,0000,0000,,尝尝我的火腿\N{\fs16\3c&H000000&}Well, get ready for pork chop.{\r}
+Dialogue: 0,1:03:14.40,1:03:19.53,9s,,0000,0000,0000,,见识我愤怒双眼的威力\N{\fs16\3c&H000000&}Prepare to meet Mr. Angry Eyes!{\r}
+Dialogue: 0,1:03:19.64,1:03:22.76,9s,,0000,0000,0000,,等等，你们搞错了 他们是我的朋友\N{\fs16\3c&H000000&}Hold it, now! Hey, you don't understand! These are my friends!{\r}
+Dialogue: 0,1:03:22.84,1:03:26.00,9s,,0000,0000,0000,,没错，我们是他的朋友 不是啦，我是说他们\N{\fs16\3c&H000000&}- Yeah, we're his friends! - No, Rex., I mean they're my friends!{\r}
+Dialogue: 0,1:03:26.11,1:03:29.51,9s,,0000,0000,0000,,站住，笨狗，给我放开他\N{\fs16\3c&H000000&}Hey, stop it! You leave him alone, springy dog!{\r}
+Dialogue: 0,1:03:30.18,1:03:32.20,9s,,0000,0000,0000,,快去救胡迪\N{\fs16\3c&H000000&}- Grab Woody, and let's go! - Fellas, hold it!{\r}
+Dialogue: 0,1:03:32.28,1:03:34.75,9s,,0000,0000,0000,,巴斯，放我下来 撤退，冲到通风孔\N{\fs16\3c&H000000&}- Buzz, put me down! - Quick! To the vent!{\r}
+Dialogue: 0,1:03:34.82,1:03:37.55,9s,,0000,0000,0000,,他被抢走了\N{\fs16\3c&H000000&}- They're stealing him! - No!{\r}
+Dialogue: 0,1:03:38.39,1:03:39.79,9s,,0000,0000,0000,,大伙儿别动\N{\fs16\3c&H000000&}Hold it right there!{\r}
+Dialogue: 0,1:03:39.86,1:03:41.76,9s,,0000,0000,0000,,巴斯 又是你\N{\fs16\3c&H000000&}- Buzz? - You again?{\r}
+Dialogue: 0,1:03:41.86,1:03:43.12,9s,,0000,0000,0000,,胡迪，幸好你没事\N{\fs16\3c&H000000&}Woody! Thank goodness you're all right.{\r}
+Dialogue: 0,1:03:43.19,1:03:44.66,9s,,0000,0000,0000,,这是怎么回事？\N{\fs16\3c&H000000&}Buzz, what is going on?{\r}
+Dialogue: 0,1:03:44.73,1:03:48.32,9s,,0000,0000,0000,,慢着，我是巴斯光年 这里由我指挥\N{\fs16\3c&H000000&}Hold on. I am Buzz Lightyear, and I'm in charge of this detachment.{\r}
+Dialogue: 0,1:03:48.40,1:03:49.80,9s,,0000,0000,0000,,我才是巴斯光年\N{\fs16\3c&H000000&}No, I'm Buzz Lightyear.{\r}
+Dialogue: 0,1:03:49.87,1:03:51.16,9s,,0000,0000,0000,,我是巴斯光年 我才是\N{\fs16\3c&H000000&}- I'm Buzz Lightyear! - I'm Buzz Lightyear!{\r}
+Dialogue: 0,1:03:51.23,1:03:53.33,9s,,0000,0000,0000,,谁是真的巴斯？\N{\fs16\3c&H000000&}So, who's the real Buzz?{\r}
+Dialogue: 0,1:03:53.44,1:03:54.42,9s,,0000,0000,0000,,我是\N{\fs16\3c&H000000&}- I am! - I am!{\r}
+Dialogue: 0,1:03:54.50,1:03:55.97,9s,,0000,0000,0000,,别上这个冒牌货的当\N{\fs16\3c&H000000&}Don't let this impostor fool you!{\r}
+Dialogue: 0,1:03:56.04,1:03:59.53,9s,,0000,0000,0000,,札克训练他模仿 我的一举一动\N{\fs16\3c&H000000&}He's been trained by Zurg himself to mimic my every move.{\r}
+Dialogue: 0,1:04:05.28,1:04:06.34,9s,,0000,0000,0000,,(安弟)
+Dialogue: 0,1:04:06.42,1:04:07.40,9s,,0000,0000,0000,,巴斯\N{\fs16\3c&H000000&}Buzz!{\r}
+Dialogue: 0,1:04:07.48,1:04:08.95,9s,,0000,0000,0000,,我就知道是你\N{\fs16\3c&H000000&}I had a feelin' it was you.{\r}
+Dialogue: 0,1:04:09.02,1:04:12.95,9s,,0000,0000,0000,,只是我有时候头尾不分\N{\fs16\3c&H000000&}My front end just had to catch up with my back end.{\r}
+Dialogue: 0,1:04:13.02,1:04:15.32,9s,,0000,0000,0000,,请你们解释好吗？\N{\fs16\3c&H000000&}Will somebody please ex. Plain what's going on?{\r}
+Dialogue: 0,1:04:15.42,1:04:18.48,9s,,0000,0000,0000,,没事了，太空战警 这是546密令\N{\fs16\3c&H000000&}It's all right, space ranger. It's a code 546.{\r}
+Dialogue: 0,1:04:18.59,1:04:21.19,9s,,0000,0000,0000,,你是说… 没错\N{\fs16\3c&H000000&}- You mean it's a... - Yes.{\r}
+Dialogue: 0,1:04:21.30,1:04:23.73,9s,,0000,0000,0000,,他就是… 是的\N{\fs16\3c&H000000&}- And he's a... - Oh, yeah.{\r}
+Dialogue: 0,1:04:25.23,1:04:27.57,9s,,0000,0000,0000,,陛下\N{\fs16\3c&H000000&}Your Majesty.{\r}
+Dialogue: 0,1:04:27.64,1:04:29.76,9s,,0000,0000,0000,,胡迪，你有危险，快走吧\N{\fs16\3c&H000000&}Woody, you're in danger here. We need to leave now.{\r}
+Dialogue: 0,1:04:29.84,1:04:32.36,9s,,0000,0000,0000,,艾而要把你卖到 日本的博物馆\N{\fs16\3c&H000000&}Al's selling you to a museum in japan!{\r}
+Dialogue: 0,1:04:32.44,1:04:36.64,9s,,0000,0000,0000,,我知道，没关系 其实我也想去\N{\fs16\3c&H000000&}I know. It's OK, Buzz. I actually wanna go.{\r}
+Dialogue: 0,1:04:36.71,1:04:38.34,9s,,0000,0000,0000,,什么？ 你疯啦？\N{\fs16\3c&H000000&}- What? - Are you crazy?{\r}
+Dialogue: 0,1:04:38.41,1:04:41.31,9s,,0000,0000,0000,,我是稀有的胡迪警长玩偶\N{\fs16\3c&H000000&}Look, the thing is, I'm a rare Sheriff Woody doll,{\r}
+Dialogue: 0,1:04:41.38,1:04:44.25,9s,,0000,0000,0000,,他们是我的牛仔秀伙伴\N{\fs16\3c&H000000&}and these guys are my Roundup gang.{\r}
+Dialogue: 0,1:04:44.32,1:04:47.35,9s,,0000,0000,0000,,你在说什么呀？ 胡迪牛仔秀\N{\fs16\3c&H000000&}- What are you talking about? - Woody's Roundup!{\r}
+Dialogue: 0,1:04:47.42,1:04:51.02,9s,,0000,0000,0000,,我是一个电视节目的明星\N{\fs16\3c&H000000&}It's this great old TV show, and I was the star. See? Now look.{\r}
+Dialogue: 0,1:04:51.09,1:04:53.43,9s,,0000,0000,0000,,你看，你们看，那是我耶\N{\fs16\3c&H000000&}Look! Look at me! See? That's me!{\r}
+Dialogue: 0,1:04:53.50,1:04:56.99,9s,,0000,0000,0000,,我受不了了 我曾经轰动一时\N{\fs16\3c&H000000&}- This is weirdin' me out. - Buzz, it was a national phenomenon.{\r}
+Dialogue: 0,1:04:57.07,1:05:00.40,9s,,0000,0000,0000,,我还有一大堆周边商品 你们应该瞧瞧\N{\fs16\3c&H000000&}There was all this merchandise that got packed up. You should have seen it.{\r}
+Dialogue: 0,1:05:00.50,1:05:03.40,9s,,0000,0000,0000,,唱机、溜溜球 我曾经是溜溜球耶\N{\fs16\3c&H000000&}There was a record player and a yo-yo. Buzz, I was a yo-yo!{\r}
+Dialogue: 0,1:05:03.47,1:05:06.57,9s,,0000,0000,0000,,曾经？ 别说傻话了，咱们走吧\N{\fs16\3c&H000000&}- "Was"? - Stop this nonsense and let's go.{\r}
+Dialogue: 0,1:05:06.64,1:05:07.90,9s,,0000,0000,0000,,巴斯\N{\fs16\3c&H000000&}Buzz.{\r}
+Dialogue: 0,1:05:09.98,1:05:13.35,9s,,0000,0000,0000,,我不能丢下这些朋友\N{\fs16\3c&H000000&}I can't go. I can't abandon these guys.{\r}
+Dialogue: 0,1:05:13.42,1:05:15.71,9s,,0000,0000,0000,,他们需要我才能进博物馆\N{\fs16\3c&H000000&}They need me to get into this museum.{\r}
+Dialogue: 0,1:05:15.82,1:05:19.48,9s,,0000,0000,0000,,否则他们就得回去储藏室 永远被关起来\N{\fs16\3c&H000000&}Without me, they'll go back into storage. Maybe forever!{\r}
+Dialogue: 0,1:05:19.59,1:05:23.55,9s,,0000,0000,0000,,你不是收藏品 你是给小孩玩的\N{\fs16\3c&H000000&}Woody, you're not a collector's item. You're a child's plaything.{\r}
+Dialogue: 0,1:05:23.63,1:05:26.15,9s,,0000,0000,0000,,你是个玩具\N{\fs16\3c&H000000&}You are a toy!{\r}
+Dialogue: 0,1:05:26.23,1:05:29.79,9s,,0000,0000,0000,,我还能撑多久？ 我再被扯破安弟就会抛弃我\N{\fs16\3c&H000000&}For how much longer? One more rip, and Andy's done with me.{\r}
+Dialogue: 0,1:05:29.90,1:05:32.26,9s,,0000,0000,0000,,到时候我该怎么办？ 你倒是说啊\N{\fs16\3c&H000000&}And what do I do then, Buzz? Huh? You tell me.{\r}
+Dialogue: 0,1:05:32.33,1:05:35.70,9s,,0000,0000,0000,,我记得你曾经告诉我\N{\fs16\3c&H000000&}Somewhere in that pad of stuffing is a toy who taught me{\r}
+Dialogue: 0,1:05:35.77,1:05:38.83,9s,,0000,0000,0000,,当有小孩爱你时 生命才有价值\N{\fs16\3c&H000000&}that life's only worth living if you're bein' loved by a kid.{\r}
+Dialogue: 0,1:05:38.91,1:05:42.40,9s,,0000,0000,0000,,我大老远跑来救你\N{\fs16\3c&H000000&}And I traveled all this way to rescue that toy{\r}
+Dialogue: 0,1:05:42.48,1:05:44.45,9s,,0000,0000,0000,,因为我相信你的话\N{\fs16\3c&H000000&}because I believed him.{\r}
+Dialogue: 0,1:05:45.48,1:05:48.04,9s,,0000,0000,0000,,你白跑一趟了\N{\fs16\3c&H000000&}Well, you wasted your time.{\r}
+Dialogue: 0,1:05:53.42,1:05:56.02,9s,,0000,0000,0000,,走吧，大伙儿 胡迪呢？\N{\fs16\3c&H000000&}- Let's go, everyone. - What about Woody?{\r}
+Dialogue: 0,1:05:57.19,1:05:59.42,9s,,0000,0000,0000,,他不跟来了\N{\fs16\3c&H000000&}He's not coming with us.{\r}
+Dialogue: 0,1:06:00.53,1:06:03.73,9s,,0000,0000,0000,,今晚安弟要回家耶\N{\fs16\3c&H000000&}But... But Andy's coming home tonight.{\r}
+Dialogue: 0,1:06:03.80,1:06:06.67,9s,,0000,0000,0000,,那我们最好赶回去等他\N{\fs16\3c&H000000&}Then we'd better make sure we're there waiting for him.{\r}
+Dialogue: 0,1:06:16.35,1:06:20.21,9s,,0000,0000,0000,,我别无选择 这是我唯一的机会\N{\fs16\3c&H000000&}I don't have a choice, Buzz. This is my only chance.{\r}
+Dialogue: 0,1:06:20.28,1:06:25.12,9s,,0000,0000,0000,,什么机会？永远隔着玻璃 看着小孩玩吗？\N{\fs16\3c&H000000&}To do what, Woody? Watch kids from behind glass and never be loved again?{\r}
+Dialogue: 0,1:06:25.19,1:06:27.12,9s,,0000,0000,0000,,真可悲\N{\fs16\3c&H000000&}Some life.{\r}
+Dialogue: 0,1:06:31.76,1:06:34.25,9s,,0000,0000,0000,,大家都没事吧？ 胡迪警长\N{\fs16\3c&H000000&}- Is everybody OK? - Sheriff Woody!{\r}
+Dialogue: 0,1:06:34.33,1:06:37.79,9s,,0000,0000,0000,,你救了我们 记住了，小朋友\N{\fs16\3c&H000000&}- I knew you'd make it! - Now remember deputies{\r}
+Dialogue: 0,1:06:37.90,1:06:40.60,9s,,0000,0000,0000,,家人和朋友才是你们的一切\N{\fs16\3c&H000000&}the real treasures are your friends and family.{\r}
+Dialogue: 0,1:06:40.67,1:06:44.23,9s,,0000,0000,0000,,我在走之前 想要跟你们分享这首歌\N{\fs16\3c&H000000&}Before I go kids I want to share somethin' special with you{\r}
+Dialogue: 0,1:06:44.31,1:06:46.97,9s,,0000,0000,0000,,太好了\N{\fs16\3c&H000000&}- for the times I'm not around. - Good going, Woody!{\r}
+Dialogue: 0,1:06:47.04,1:06:48.63,9s,,0000,0000,0000,,终于摆脱他们了\N{\fs16\3c&H000000&}I thought they'd never leave.{\r}
+Dialogue: 0,1:06:48.74,1:06:51.08,9s,,0000,0000,0000,,我是你好朋友\N{\fs16\3c&H000000&}You've got a friend in me{\r}
+Dialogue: 0,1:06:51.15,1:06:53.55,9s,,0000,0000,0000,,我是你好朋友\N{\fs16\3c&H000000&}You've got a friend in me{\r}
+Dialogue: 0,1:06:55.22,1:06:57.15,9s,,0000,0000,0000,,胡迪 如果你有麻烦\N{\fs16\3c&H000000&}- Woody? - You've got troubles{\r}
+Dialogue: 0,1:06:57.22,1:07:00.05,9s,,0000,0000,0000,,我会来帮忙\N{\fs16\3c&H000000&}Well I've got 'em too{\r}
+Dialogue: 0,1:07:00.12,1:07:04.15,9s,,0000,0000,0000,,我愿为你赴汤蹈火\N{\fs16\3c&H000000&}There isn't anything I wouldn't do for you{\r}
+Dialogue: 0,1:07:04.23,1:07:07.13,9s,,0000,0000,0000,,只要团结就能解决\N{\fs16\3c&H000000&}We stick together and see it through{\r}
+Dialogue: 0,1:07:07.20,1:07:10.49,9s,,0000,0000,0000,,因为我是你好朋友\N{\fs16\3c&H000000&}'Cause you've got a friend in me{\r}
+Dialogue: 0,1:07:12.43,1:07:16.00,9s,,0000,0000,0000,,也许别人比我聪明一点\N{\fs16\3c&H000000&}Some other folks might be a little bit smarter than I am{\r}
+Dialogue: 0,1:07:16.07,1:07:18.54,9s,,0000,0000,0000,,也比我高大比我强\N{\fs16\3c&H000000&}Bigger and stronger too{\r}
+Dialogue: 0,1:07:18.61,1:07:20.40,9s,,0000,0000,0000,,也许吧\N{\fs16\3c&H000000&}Maybe{\r}
+Dialogue: 0,1:07:20.48,1:07:24.10,9s,,0000,0000,0000,,但是从来没有人\N{\fs16\3c&H000000&}But none of them will ever love you{\r}
+Dialogue: 0,1:07:24.18,1:07:26.01,9s,,0000,0000,0000,,像我这么爱你\N{\fs16\3c&H000000&}The way I do{\r}
+Dialogue: 0,1:07:26.08,1:07:28.74,9s,,0000,0000,0000,,我们是好朋友\N{\fs16\3c&H000000&}It's me and you boy{\r}
+Dialogue: 0,1:07:28.82,1:07:31.58,9s,,0000,0000,0000,,一年一年过去\N{\fs16\3c&H000000&}And as the years go by{\r}
+Dialogue: 0,1:07:33.05,1:07:36.65,9s,,0000,0000,0000,,我们的友谊更加坚固\N{\fs16\3c&H000000&}Our friendship will never die{\r}
+Dialogue: 0,1:07:36.86,1:07:40.66,9s,,0000,0000,0000,,我这是在干嘛？\N{\fs16\3c&H000000&}- What am I doing? - You're gonna see it's our destiny{\r}
+Dialogue: 0,1:07:40.73,1:07:43.79,9s,,0000,0000,0000,,巴斯，等等我 你要去哪里？\N{\fs16\3c&H000000&}- Buzz! Wait! Wait! - Woody, where are you going?{\r}
+Dialogue: 0,1:07:43.87,1:07:47.30,9s,,0000,0000,0000,,你说得对，安弟一定会长大\N{\fs16\3c&H000000&}You're right, Prospector. I can't stop Andy from growing up.{\r}
+Dialogue: 0,1:07:47.37,1:07:49.70,9s,,0000,0000,0000,,但是我不想错过每一刻\N{\fs16\3c&H000000&}But I wouldn't miss it for the world.{\r}
+Dialogue: 0,1:07:49.77,1:07:51.90,9s,,0000,0000,0000,,不! 巴斯\N{\fs16\3c&H000000&}- No! - Buzz!{\r}
+Dialogue: 0,1:07:51.97,1:07:53.57,9s,,0000,0000,0000,,干嘛？\N{\fs16\3c&H000000&}- Yes? - Yes?{\r}
+Dialogue: 0,1:07:53.64,1:07:55.04,9s,,0000,0000,0000,,我要跟你们走\N{\fs16\3c&H000000&}I'm coming with you!{\r}
+Dialogue: 0,1:07:55.11,1:07:58.31,9s,,0000,0000,0000,,等一下，我马上回来\N{\fs16\3c&H000000&}Wait... wait... wait. I'll be back in just a second.{\r}
+Dialogue: 0,1:07:58.38,1:08:00.28,9s,,0000,0000,0000,,干得好，牛仔\N{\fs16\3c&H000000&}Way to go, cowboy!{\r}
+Dialogue: 0,1:08:00.45,1:08:04.01,9s,,0000,0000,0000,,大伙儿，跟我一起来吧 什么？\N{\fs16\3c&H000000&}- Hey, you guys... Come with me. - What?{\r}
+Dialogue: 0,1:08:04.09,1:08:06.25,9s,,0000,0000,0000,,安弟会跟我们一起玩\N{\fs16\3c&H000000&}Andy will play with all of us. I know it!{\r}
+Dialogue: 0,1:08:06.32,1:08:08.41,9s,,0000,0000,0000,,胡迪，我不晓得耶\N{\fs16\3c&H000000&}Woody, I... I... I don't know. I...{\r}
+Dialogue: 0,1:08:08.49,1:08:12.15,9s,,0000,0000,0000,,难道你不想再陪伴爱咪莉吗？\N{\fs16\3c&H000000&}Wouldn't you give anything just to have one more day with Emily?{\r}
+Dialogue: 0,1:08:12.23,1:08:16.60,9s,,0000,0000,0000,,翠丝，最重要的是 让一个小孩快乐\N{\fs16\3c&H000000&}Come on, jessie. This is what it's all about: To make a child happy.{\r}
+Dialogue: 0,1:08:16.67,1:08:19.79,9s,,0000,0000,0000,,你心里很明白 红心，你来不来？\N{\fs16\3c&H000000&}And you know it. Bullseye, are you with me?{\r}
+Dialogue: 0,1:08:20.84,1:08:22.77,9s,,0000,0000,0000,,好马儿\N{\fs16\3c&H000000&}OK, good boy.{\r}
+Dialogue: 0,1:08:22.84,1:08:24.81,9s,,0000,0000,0000,,老矿工，你说呢？\N{\fs16\3c&H000000&}Prospector, how 'bout you?{\r}
+Dialogue: 0,1:08:28.84,1:08:31.54,9s,,0000,0000,0000,,老矿工？ 你离开盒子了\N{\fs16\3c&H000000&}- Prospector? - You're outta your box!{\r}
+Dialogue: 0,1:08:32.85,1:08:35.11,9s,,0000,0000,0000,,我试着跟你讲道理\N{\fs16\3c&H000000&}I tried reasoning with you, Woody,{\r}
+Dialogue: 0,1:08:35.18,1:08:38.81,9s,,0000,0000,0000,,但是你逼得我不择手段\N{\fs16\3c&H000000&}but you keep forcing me to take extreme measures.{\r}
+Dialogue: 0,1:08:40.36,1:08:43.81,9s,,0000,0000,0000,,昨晚是你打开电视 不是翠丝\N{\fs16\3c&H000000&}Wait a minute. You turned on the TV last night, not jessie.{\r}
+Dialogue: 0,1:08:43.89,1:08:47.45,9s,,0000,0000,0000,,我们要永远一起留在博物馆\N{\fs16\3c&H000000&}Look, we have an eternity to spend together in the museum.{\r}
+Dialogue: 0,1:08:47.53,1:08:50.26,9s,,0000,0000,0000,,你不要破坏咱们之间的感情\N{\fs16\3c&H000000&}Let's not start off by pointing fingers, shall we?{\r}
+Dialogue: 0,1:08:50.33,1:08:52.49,9s,,0000,0000,0000,,你真的很可恶耶\N{\fs16\3c&H000000&}You really are Stinky Pete, aren't you?{\r}
+Dialogue: 0,1:08:52.57,1:08:53.97,9s,,0000,0000,0000,,老矿工，这样很不公平\N{\fs16\3c&H000000&}Prospector, this isn't fair.{\r}
+Dialogue: 0,1:08:54.04,1:08:57.53,9s,,0000,0000,0000,,不公平？什么叫不公平？\N{\fs16\3c&H000000&}"Fair"? I'll tell you what's not fair.{\r}
+Dialogue: 0,1:08:57.64,1:09:03.13,9s,,0000,0000,0000,,我一辈子都坐在架子上 看着别的玩具被卖走\N{\fs16\3c&H000000&}Spending a lifetime on a dime-store shelf watching every other toy be sold.{\r}
+Dialogue: 0,1:09:03.21,1:09:05.44,9s,,0000,0000,0000,,现在我终于熬出头\N{\fs16\3c&H000000&}Well, finally my waiting has paid off,{\r}
+Dialogue: 0,1:09:05.51,1:09:10.54,9s,,0000,0000,0000,,一个臭牛仔 休想坏了我的好事\N{\fs16\3c&H000000&}and no hand-me-down cowboy doll is gonna mess it up for me now!{\r}
+Dialogue: 0,1:09:12.22,1:09:14.88,9s,,0000,0000,0000,,巴斯 救命呀，巴斯\N{\fs16\3c&H000000&}Buzz. Help, Buzz! Guys!{\r}
+Dialogue: 0,1:09:14.96,1:09:19.05,9s,,0000,0000,0000,,太迟了 那个撒隆巴斯帮不了你\N{\fs16\3c&H000000&}It's too late, Woody. That silly Buzz Lightweight can't help you.{\r}
+Dialogue: 0,1:09:19.13,1:09:21.36,9s,,0000,0000,0000,,他的名字是巴斯光年\N{\fs16\3c&H000000&}His name is Buzz Lightyear.{\r}
+Dialogue: 0,1:09:21.43,1:09:25.70,9s,,0000,0000,0000,,随便啦 我最讨厌太空玩具了\N{\fs16\3c&H000000&}Whatever. I've always hated those upstart space toys.{\r}
+Dialogue: 0,1:09:25.77,1:09:28.17,9s,,0000,0000,0000,,卡住了，怎么办？\N{\fs16\3c&H000000&}It's stuck! What do we do?{\r}
+Dialogue: 0,1:09:28.24,1:09:30.60,9s,,0000,0000,0000,,要用我脑袋吗？\N{\fs16\3c&H000000&}Should I use my head?{\r}
+Dialogue: 0,1:09:32.01,1:09:33.00,9s,,0000,0000,0000,,是艾而\N{\fs16\3c&H000000&}It's Al!{\r}
+Dialogue: 0,1:09:35.24,1:09:37.84,9s,,0000,0000,0000,,我快赶不及了\N{\fs16\3c&H000000&}Look at the time. I'm gonna be late!{\r}
+Dialogue: 0,1:09:37.91,1:09:40.07,9s,,0000,0000,0000,,我不能错过班机，我得打包\N{\fs16\3c&H000000&}Figures. I can't miss this flight! I've gotta pack.{\r}
+Dialogue: 0,1:09:40.15,1:09:42.38,9s,,0000,0000,0000,,钱包、钥匙、机票\N{\fs16\3c&H000000&}All right. Let's see. Wallet, keys, tickets,{\r}
+Dialogue: 0,1:09:42.45,1:09:45.35,9s,,0000,0000,0000,,护照、牛肉干…在日本很贵\N{\fs16\3c&H000000&}passport, beef jerky, very ex. Pensive over there.{\r}
+Dialogue: 0,1:09:45.42,1:09:48.12,9s,,0000,0000,0000,,洗澡 来不及洗了\N{\fs16\3c&H000000&}Shower! I can skip the shower.{\r}
+Dialogue: 0,1:09:48.19,1:09:52.09,9s,,0000,0000,0000,,我得走了\N{\fs16\3c&H000000&}I just gotta get outta here now!{\r}
+Dialogue: 0,1:09:52.23,1:09:54.75,9s,,0000,0000,0000,,快去坐电梯\N{\fs16\3c&H000000&}Quick! To the elevator!{\r}
+Dialogue: 0,1:10:00.30,1:10:01.89,9s,,0000,0000,0000,,快点，电梯来了\N{\fs16\3c&H000000&}Hurry. I can hear it coming.{\r}
+Dialogue: 0,1:10:06.78,1:10:09.71,9s,,0000,0000,0000,,巴斯光年，我们又见面了\N{\fs16\3c&H000000&}So, we meet again, Buzz Lightyear,{\r}
+Dialogue: 0,1:10:09.78,1:10:11.41,9s,,0000,0000,0000,,这次你死定了\N{\fs16\3c&H000000&}for the last time.{\r}
+Dialogue: 0,1:10:11.48,1:10:15.31,9s,,0000,0000,0000,,是札克天王 小心，他有离子炮\N{\fs16\3c&H000000&}It's Zurg! Watch out! He's got an ion blaster!{\r}
+Dialogue: 0,1:10:29.56,1:10:32.03,9s,,0000,0000,0000,,快上电梯\N{\fs16\3c&H000000&}Quick! Get on!{\r}
+Dialogue: 0,1:10:34.64,1:10:37.04,9s,,0000,0000,0000,,紧急逃生口，快点\N{\fs16\3c&H000000&}The emergency hatch! Come on!{\r}
+Dialogue: 0,1:10:56.83,1:11:01.23,9s,,0000,0000,0000,,来吧，快点 巴斯有危险耶\N{\fs16\3c&H000000&}- Come on! Hurry! - But Buzz is in peril!{\r}
+Dialogue: 0,1:11:01.30,1:11:04.27,9s,,0000,0000,0000,,巴斯光年…拯救世界\N{\fs16\3c&H000000&}Buzz... Buzz... Buzz... Lightyear to the rescue!{\r}
+Dialogue: 0,1:11:14.01,1:11:17.88,9s,,0000,0000,0000,,投降吧，巴斯光年，我赢了\N{\fs16\3c&H000000&}Surrender, Buzz Lightyear. I have won.{\r}
+Dialogue: 0,1:11:17.95,1:11:20.85,9s,,0000,0000,0000,,我不会投降，你杀了我父亲\N{\fs16\3c&H000000&}I'll never give in. You killed my father!{\r}
+Dialogue: 0,1:11:20.92,1:11:25.01,9s,,0000,0000,0000,,不，巴斯，我就是你父亲\N{\fs16\3c&H000000&}No, Buzz. I am your father.{\r}
+Dialogue: 0,1:11:25.19,1:11:28.95,9s,,0000,0000,0000,,不!
+Dialogue: 0,1:11:31.06,1:11:32.49,9s,,0000,0000,0000,,快点…快点…\N{\fs16\3c&H000000&}Come on! Come on! Come on!{\r}
+Dialogue: 0,1:11:35.83,1:11:39.73,9s,,0000,0000,0000,,巴斯，你可以打败札克\N{\fs16\3c&H000000&}Buzz, you could have defeated Zurg all along!{\r}
+Dialogue: 0,1:11:39.80,1:11:42.74,9s,,0000,0000,0000,,你只要相信自己\N{\fs16\3c&H000000&}You just need to believe in yourself!{\r}
+Dialogue: 0,1:11:42.80,1:11:46.33,9s,,0000,0000,0000,,领死吧 我不敢看\N{\fs16\3c&H000000&}- Prepare to die! - I can't look!{\r}
+Dialogue: 0,1:11:53.38,1:11:58.34,9s,,0000,0000,0000,,我成功了 我终于打败札克了\N{\fs16\3c&H000000&}I did it. I finally defeated Zurg!{\r}
+Dialogue: 0,1:11:58.42,1:11:59.98,9s,,0000,0000,0000,,爸爸\N{\fs16\3c&H000000&}Father.{\r}
+Dialogue: 0,1:12:08.16,1:12:09.29,9s,,0000,0000,0000,,终于到了\N{\fs16\3c&H000000&}Finally!{\r}
+Dialogue: 0,1:12:34.25,1:12:36.02,9s,,0000,0000,0000,,我们该怎么救他？\N{\fs16\3c&H000000&}How are we gonna get him now?{\r}
+Dialogue: 0,1:12:37.16,1:12:38.82,9s,,0000,0000,0000,,谁要吃比萨？\N{\fs16\3c&H000000&}Pizza, anyone?{\r}
+Dialogue: 0,1:12:38.89,1:12:40.09,9s,,0000,0000,0000,,(比萨星球)
+Dialogue: 0,1:12:40.16,1:12:42.09,9s,,0000,0000,0000,,快走，快走 我接到了\N{\fs16\3c&H000000&}- Go, go, go! - I got it!{\r}
+Dialogue: 0,1:12:42.20,1:12:43.25,9s,,0000,0000,0000,,巴斯，你来不来？\N{\fs16\3c&H000000&}Buzz, are you coming?{\r}
+Dialogue: 0,1:12:43.33,1:12:47.36,9s,,0000,0000,0000,,不了，我要多陪陪我爸爸\N{\fs16\3c&H000000&}No, I have a lot of catching up to do with my dad.{\r}
+Dialogue: 0,1:12:48.37,1:12:52.39,9s,,0000,0000,0000,,丢得好，乖儿子 跑远一点，小巴斯\N{\fs16\3c&H000000&}Good throw, son. That's my boy. Go long, Buzzy!{\r}
+Dialogue: 0,1:12:52.47,1:12:56.34,9s,,0000,0000,0000,,你是个好爸爸，万岁 再见了\N{\fs16\3c&H000000&}- You're a great dad. - Farewell.{\r}
+Dialogue: 0,1:12:56.44,1:12:58.21,9s,,0000,0000,0000,,有人会开车吗？\N{\fs16\3c&H000000&}Does anyone know how to drive?{\r}
+Dialogue: 0,1:12:58.28,1:13:00.58,9s,,0000,0000,0000,,弹簧狗，踩油门 抱抱龙，看方向\N{\fs16\3c&H000000&}Slink, take the pedals. Rex., you navigate.{\r}
+Dialogue: 0,1:13:00.68,1:13:03.58,9s,,0000,0000,0000,,火腿和蛋头，控制按键\N{\fs16\3c&H000000&}Hamm and Potato, operate the levers and knobs.{\r}
+Dialogue: 0,1:13:08.29,1:13:10.05,9s,,0000,0000,0000,,陌生人 外面来的\N{\fs16\3c&H000000&}- Strangers. - From the outside.{\r}
+Dialogue: 0,1:13:10.12,1:13:13.29,9s,,0000,0000,0000,,惨了 是红灯，快追上去\N{\fs16\3c&H000000&}- Oh, no. - He's at a red light! We can catch him!{\r}
+Dialogue: 0,1:13:13.36,1:13:14.69,9s,,0000,0000,0000,,弹簧狗，全速前进\N{\fs16\3c&H000000&}Max. Imum power, Slink!{\r}
+Dialogue: 0,1:13:16.86,1:13:19.23,9s,,0000,0000,0000,,绿灯了，快点\N{\fs16\3c&H000000&}It turned green! Hurry!{\r}
+Dialogue: 0,1:13:19.30,1:13:21.96,9s,,0000,0000,0000,,为什么不动？ 你们要用动力棍\N{\fs16\3c&H000000&}- Why won't it go? - Use the Wand of Power.{\r}
+Dialogue: 0,1:13:29.11,1:13:32.44,9s,,0000,0000,0000,,抱抱龙，往哪儿？ 左，我是说右\N{\fs16\3c&H000000&}- Rex., which way? - Left! No, no! I mean right!{\r}
+Dialogue: 0,1:13:32.51,1:13:35.50,9s,,0000,0000,0000,,对了，左边才对\N{\fs16\3c&H000000&}That's right! No, I mean left! Left is right!{\r}
+Dialogue: 0,1:13:35.58,1:13:40.61,9s,,0000,0000,0000,,巴斯，他左转了\N{\fs16\3c&H000000&}Buzz, he's turning left! He's turning left!{\r}
+Dialogue: 0,1:13:40.69,1:13:42.65,9s,,0000,0000,0000,,天啊\N{\fs16\3c&H000000&}Oh, boy!{\r}
+Dialogue: 0,1:13:45.02,1:13:47.55,9s,,0000,0000,0000,,这辆车吃油吃得很凶\N{\fs16\3c&H000000&}I seriously doubt he's gettin' this kind of mileage.{\r}
+Dialogue: 0,1:13:47.63,1:13:50.39,9s,,0000,0000,0000,,右转!右转!\N{\fs16\3c&H000000&}Go right! To the right! Right-right-right-right!{\r}
+Dialogue: 0,1:13:54.83,1:13:57.46,9s,,0000,0000,0000,,你救了我们 我们永远感谢你\N{\fs16\3c&H000000&}You have saved our lives. We are eternally grateful.{\r}
+Dialogue: 0,1:13:57.54,1:13:59.03,9s,,0000,0000,0000,,好啦，随便啦\N{\fs16\3c&H000000&}Yeah, yeah, yeah. Whatever.{\r}
+Dialogue: 0,1:14:01.61,1:14:03.67,9s,,0000,0000,0000,,(国际机场)
+Dialogue: 0,1:14:07.25,1:14:11.05,9s,,0000,0000,0000,,白线只准卸货或上下乘客\N{\fs16\3c&H000000&}The white zone is for immediate loading and unloading...{\r}
+Dialogue: 0,1:14:12.42,1:14:14.41,9s,,0000,0000,0000,,不准停车\N{\fs16\3c&H000000&}No parking.{\r}
+Dialogue: 0,1:14:14.49,1:14:16.48,9s,,0000,0000,0000,,(远东航空)
+Dialogue: 0,1:14:16.56,1:14:19.12,9s,,0000,0000,0000,,不能停这儿，这是白线\N{\fs16\3c&H000000&}Guys, we can't park here! It's a white zone!{\r}
+Dialogue: 0,1:14:19.19,1:14:22.18,9s,,0000,0000,0000,,你救了我们 我们永远感谢你\N{\fs16\3c&H000000&}You have saved our lives. We are eternally grateful.{\r}
+Dialogue: 0,1:14:22.26,1:14:24.16,9s,,0000,0000,0000,,他在那儿\N{\fs16\3c&H000000&}- Final boarding call... - There he is!{\r}
+Dialogue: 0,1:14:24.23,1:14:26.86,9s,,0000,0000,0000,,前往东京的班机马上起飞\N{\fs16\3c&H000000&}... for Far East Airlines flight 451 to Tokyo.{\r}
+Dialogue: 0,1:14:26.93,1:14:31.06,9s,,0000,0000,0000,,已登记的旅客请马上登机\N{\fs16\3c&H000000&}All confirmed passengers must board at this time.{\r}
+Dialogue: 0,1:14:31.14,1:14:36.07,9s,,0000,0000,0000,,旅客托维奇 请和地勤人员联络…\N{\fs16\3c&H000000&}Passenger Twitch passenger Leon Twitch please pick up...{\r}
+Dialogue: 0,1:14:36.14,1:14:38.91,9s,,0000,0000,0000,,你救了我们 我们永远感谢你\N{\fs16\3c&H000000&}You have saved our lives. We are eternally grateful.{\r}
+Dialogue: 0,1:14:38.98,1:14:41.47,9s,,0000,0000,0000,,别缠着我，好吗？ 有人来了\N{\fs16\3c&H000000&}- Will you leave me alone? - Someone's coming!{\r}
+Dialogue: 0,1:14:41.55,1:14:44.21,9s,,0000,0000,0000,,小狗狗\N{\fs16\3c&H000000&}- A puppy! - Bark-bark-bark-bark.{\r}
+Dialogue: 0,1:14:44.28,1:14:46.77,9s,,0000,0000,0000,,汪汪汪…\N{\fs16\3c&H000000&}Bark-bark-bark-bark-bark.{\r}
+Dialogue: 0,1:14:46.85,1:14:47.84,9s,,0000,0000,0000,,给我听好，小飞仔\N{\fs16\3c&H000000&}Listen, flyboy.{\r}
+Dialogue: 0,1:14:47.92,1:14:50.86,9s,,0000,0000,0000,,箱子里的东西你赔不起\N{\fs16\3c&H000000&}The contents of that case are worth more than you make in a year!{\r}
+Dialogue: 0,1:14:50.92,1:14:53.32,9s,,0000,0000,0000,,瞭不瞭？ 我明白\N{\fs16\3c&H000000&}- You got that? You be careful! - I understand, sir.{\r}
+Dialogue: 0,1:14:53.39,1:14:55.76,9s,,0000,0000,0000,,给我小心点 没有「易碎」的标签吗？\N{\fs16\3c&H000000&}Do you have a "fragile" sticker or something?{\r}
+Dialogue: 0,1:14:55.83,1:14:58.26,9s,,0000,0000,0000,,我带过一盒饼干 结果变成饼干屑\N{\fs16\3c&H000000&}I had a box. Of cookies once that came back as crumbs!{\r}
+Dialogue: 0,1:14:59.67,1:15:01.66,9s,,0000,0000,0000,,神奇的入口\N{\fs16\3c&H000000&}The Mystic Portal!{\r}
+Dialogue: 0,1:15:01.73,1:15:06.30,9s,,0000,0000,0000,,我们进去后 只要找到箱子就行了\N{\fs16\3c&H000000&}Once we go through, we just need to find that case.{\r}
+Dialogue: 0,1:15:18.02,1:15:23.32,9s,,0000,0000,0000,,箱子在那儿 是那个箱子\N{\fs16\3c&H000000&}- There's the case! - No, there's the case!{\r}
+Dialogue: 0,1:15:23.39,1:15:26.42,9s,,0000,0000,0000,,你去追那个 我们追这个\N{\fs16\3c&H000000&}You take that one! We'll take this one!{\r}
+Dialogue: 0,1:15:30.13,1:15:33.46,9s,,0000,0000,0000,,(屁屁)
+Dialogue: 0,1:15:40.14,1:15:43.97,9s,,0000,0000,0000,,巴斯 我的尾巴要往德州去了\N{\fs16\3c&H000000&}Buzz, my back end's goin' to Baton Rouge!{\r}
+Dialogue: 0,1:15:44.04,1:15:45.34,9s,,0000,0000,0000,,弹簧狗\N{\fs16\3c&H000000&}Slinky!{\r}
+Dialogue: 0,1:15:47.65,1:15:50.71,9s,,0000,0000,0000,,胡迪，我们来了 胡迪\N{\fs16\3c&H000000&}Here we come, Woody! Woody, here we come! Woody!{\r}
+Dialogue: 0,1:15:51.45,1:15:52.94,9s,,0000,0000,0000,,好炫的闪光灯\N{\fs16\3c&H000000&}Nice flash though.{\r}
+Dialogue: 0,1:16:04.66,1:16:08.07,9s,,0000,0000,0000,,胡迪，走吧\N{\fs16\3c&H000000&}OK, Woody, let's go!{\r}
+Dialogue: 0,1:16:09.70,1:16:11.40,9s,,0000,0000,0000,,吃我一拳，太空玩具\N{\fs16\3c&H000000&}Take that, space toy.{\r}
+Dialogue: 0,1:16:11.47,1:16:14.13,9s,,0000,0000,0000,,你不能打我的朋友\N{\fs16\3c&H000000&}Hey! No one does that to my friend!{\r}
+Dialogue: 0,1:16:20.61,1:16:22.60,9s,,0000,0000,0000,,我警告你\N{\fs16\3c&H000000&}Your choice, Woody.{\r}
+Dialogue: 0,1:16:22.68,1:16:25.48,9s,,0000,0000,0000,,你再不乖乖合作 我就把你拆了\N{\fs16\3c&H000000&}You can go to japan together or in pieces.{\r}
+Dialogue: 0,1:16:25.55,1:16:28.99,9s,,0000,0000,0000,,他一样能把你补好 给我进去\N{\fs16\3c&H000000&}If he fix. Ed ya once, he can fix. Ya again. Now get in the box!{\r}
+Dialogue: 0,1:16:29.06,1:16:31.52,9s,,0000,0000,0000,,不要 好吧\N{\fs16\3c&H000000&}- Never! - Fine!{\r}
+Dialogue: 0,1:16:37.70,1:16:39.69,9s,,0000,0000,0000,,逮到你了\N{\fs16\3c&H000000&}- No! - Gotcha!{\r}
+Dialogue: 0,1:16:39.77,1:16:42.23,9s,,0000,0000,0000,,白痴，小孩子会毁了玩具\N{\fs16\3c&H000000&}Idiots! Children destroy toys!{\r}
+Dialogue: 0,1:16:42.30,1:16:44.67,9s,,0000,0000,0000,,你们会被玩坏、遗忘\N{\fs16\3c&H000000&}You'll all be ruined, forgotten!{\r}
+Dialogue: 0,1:16:44.74,1:16:47.57,9s,,0000,0000,0000,,永远被埋在垃圾场\N{\fs16\3c&H000000&}Spending eternity rotting in some landfill!{\r}
+Dialogue: 0,1:16:47.64,1:16:52.84,9s,,0000,0000,0000,,邋遢彼得 你该学会怎么跟小孩玩了\N{\fs16\3c&H000000&}Well, Stinky Pete, I think it's time you learned the true meaning of playtime.{\r}
+Dialogue: 0,1:16:52.91,1:16:57.18,9s,,0000,0000,0000,,把他放到那儿 不!不!\N{\fs16\3c&H000000&}- Right over there, guys! - No. No! No!{\r}
+Dialogue: 0,1:16:57.25,1:17:02.02,9s,,0000,0000,0000,,大西洋航空810号班机\N{\fs16\3c&H000000&}Atlantic Air flight 810 from Point Richmond{\r}
+Dialogue: 0,1:17:02.09,1:17:04.02,9s,,0000,0000,0000,,抵达三号登机门\N{\fs16\3c&H000000&}now arriving at Gate 3.{\r}
+Dialogue: 0,1:17:04.09,1:17:07.03,9s,,0000,0000,0000,,芭比，你看，好丑的老娃娃\N{\fs16\3c&H000000&}Look, Barbie. A big ugly man doll.{\r}
+Dialogue: 0,1:17:07.09,1:17:08.15,9s,,0000,0000,0000,,(芭比)
+Dialogue: 0,1:17:08.23,1:17:09.92,9s,,0000,0000,0000,,我要帮他整容\N{\fs16\3c&H000000&}He needs a makeover.{\r}
+Dialogue: 0,1:17:11.86,1:17:15.30,9s,,0000,0000,0000,,嗨，你会喜欢艾美\N{\fs16\3c&H000000&}Hi! You'll like Amy.{\r}
+Dialogue: 0,1:17:15.37,1:17:17.89,9s,,0000,0000,0000,,她是天才艺术家\N{\fs16\3c&H000000&}She's an artist!{\r}
+Dialogue: 0,1:17:20.07,1:17:22.06,9s,,0000,0000,0000,,走吧，乖乖\N{\fs16\3c&H000000&}Come on, hon!{\r}
+Dialogue: 0,1:17:24.14,1:17:26.13,9s,,0000,0000,0000,,祝你幸福，老矿工\N{\fs16\3c&H000000&}Happy trails, Prospector.{\r}
+Dialogue: 0,1:17:26.21,1:17:28.20,9s,,0000,0000,0000,,巴斯、胡迪 帮帮忙\N{\fs16\3c&H000000&}- Buzz! Woody! - Help us out here!{\r}
+Dialogue: 0,1:17:28.95,1:17:30.04,9s,,0000,0000,0000,,快点\N{\fs16\3c&H000000&}Hurry!{\r}
+Dialogue: 0,1:17:30.12,1:17:33.45,9s,,0000,0000,0000,,糟了，翠丝，快点 救命啊\N{\fs16\3c&H000000&}- Oh, no. Jessie! Come on! - Woody!{\r}
+Dialogue: 0,1:17:42.63,1:17:44.72,9s,,0000,0000,0000,,翠丝\N{\fs16\3c&H000000&}Jessie!{\r}
+Dialogue: 0,1:17:44.80,1:17:47.23,9s,,0000,0000,0000,,巴斯，上来吧\N{\fs16\3c&H000000&}Come on, Buzz.{\r}
+Dialogue: 0,1:17:47.30,1:17:49.70,9s,,0000,0000,0000,,快马加鞭吧，红心\N{\fs16\3c&H000000&}Ride like the wind, Bullseye!{\r}
+Dialogue: 0,1:17:59.85,1:18:01.75,9s,,0000,0000,0000,,快点，马儿\N{\fs16\3c&H000000&}Hey-howdy-hey! Giddyap!{\r}
+Dialogue: 0,1:18:01.81,1:18:04.01,9s,,0000,0000,0000,,跑快点，红心\N{\fs16\3c&H000000&}Come on, Bullseye!{\r}
+Dialogue: 0,1:18:06.49,1:18:09.18,9s,,0000,0000,0000,,巴斯，把我抬起来\N{\fs16\3c&H000000&}Buzz, give me a boost!{\r}
+Dialogue: 0,1:18:18.10,1:18:19.36,9s,,0000,0000,0000,,胡迪\N{\fs16\3c&H000000&}Woody!{\r}
+Dialogue: 0,1:18:19.43,1:18:20.83,9s,,0000,0000,0000,,(远东航空)
+Dialogue: 0,1:18:42.96,1:18:45.08,9s,,0000,0000,0000,,(远东航空)
+Dialogue: 0,1:18:53.07,1:18:54.46,9s,,0000,0000,0000,,只剩下这些了\N{\fs16\3c&H000000&}Here's the rest!{\r}
+Dialogue: 0,1:19:15.52,1:19:18.75,9s,,0000,0000,0000,,抱歉，小姐，你搭错班机了\N{\fs16\3c&H000000&}Ex. Cuse me, ma'am, but I believe you're on the wrong flight.{\r}
+Dialogue: 0,1:19:18.82,1:19:20.85,9s,,0000,0000,0000,,胡迪 来吧，翠丝\N{\fs16\3c&H000000&}- Woody! - Come on, jess.{\r}
+Dialogue: 0,1:19:20.93,1:19:22.69,9s,,0000,0000,0000,,我带你回家\N{\fs16\3c&H000000&}It's time to take you home.{\r}
+Dialogue: 0,1:19:22.76,1:19:25.99,9s,,0000,0000,0000,,要是安弟不喜欢我怎么办？ 别傻了，他会喜欢你\N{\fs16\3c&H000000&}- But what if Andy doesn't like me? - Nonsense! Andy'll love you!{\r}
+Dialogue: 0,1:19:26.07,1:19:29.33,9s,,0000,0000,0000,,而且他有个小妹妹 真的吗？\N{\fs16\3c&H000000&}- Besides, he's got a little sister. - He does?{\r}
+Dialogue: 0,1:19:29.40,1:19:32.17,9s,,0000,0000,0000,,你怎么不早说？ 快走吧\N{\fs16\3c&H000000&}Why didn't you say so? Let's go!{\r}
+Dialogue: 0,1:19:35.64,1:19:39.34,9s,,0000,0000,0000,,等等，还有几件行李没到\N{\fs16\3c&H000000&}Hold it! There's a couple more bags coming from the terminal!{\r}
+Dialogue: 0,1:19:39.41,1:19:41.35,9s,,0000,0000,0000,,我数到三\N{\fs16\3c&H000000&}OK. On three.{\r}
+Dialogue: 0,1:19:41.41,1:19:43.71,9s,,0000,0000,0000,,一、二… 太迟了\N{\fs16\3c&H000000&}- One, two... - Too late!{\r}
+Dialogue: 0,1:19:43.78,1:19:46.18,9s,,0000,0000,0000,,等下一班机吧\N{\fs16\3c&H000000&}Put 'em on the next flight!{\r}
+Dialogue: 0,1:19:53.16,1:19:55.29,9s,,0000,0000,0000,,这下可糟了 我们该怎么出去？\N{\fs16\3c&H000000&}- This is bad. - How are we gonna get outta here?{\r}
+Dialogue: 0,1:19:57.30,1:19:59.09,9s,,0000,0000,0000,,这儿，来吧\N{\fs16\3c&H000000&}Over there! Come on!{\r}
+Dialogue: 0,1:20:11.58,1:20:15.10,9s,,0000,0000,0000,,你确定吗？ 不!来吧!\N{\fs16\3c&H000000&}- You sure about this? - No! Let's go!{\r}
+Dialogue: 0,1:20:17.32,1:20:20.31,9s,,0000,0000,0000,,(调准水平)
+Dialogue: 0,1:20:35.94,1:20:37.84,9s,,0000,0000,0000,,抓紧了，胡迪\N{\fs16\3c&H000000&}Hold on, Woody!{\r}
+Dialogue: 0,1:20:43.24,1:20:45.94,9s,,0000,0000,0000,,牛仔没有牛仔帽怎么行？ 巴斯\N{\fs16\3c&H000000&}- What's a cowboy without his hat? - Buzz!{\r}
+Dialogue: 0,1:20:59.43,1:21:02.02,9s,,0000,0000,0000,,巴斯，到轮胎后面\N{\fs16\3c&H000000&}Buzz! Buzz, get behind the tires!{\r}
+Dialogue: 0,1:21:07.60,1:21:09.90,9s,,0000,0000,0000,,翠丝，放手\N{\fs16\3c&H000000&}Jessie, let go of the plane!{\r}
+Dialogue: 0,1:21:09.97,1:21:11.33,9s,,0000,0000,0000,,你疯啦？\N{\fs16\3c&H000000&}What? Are you crazy?{\r}
+Dialogue: 0,1:21:11.40,1:21:14.50,9s,,0000,0000,0000,,假装这是 「胡迪牛仔秀」大结局\N{\fs16\3c&H000000&}Just pretend it's the final episode of Woody's Roundup.{\r}
+Dialogue: 0,1:21:14.57,1:21:18.07,9s,,0000,0000,0000,,它被停播了，你不知道结局\N{\fs16\3c&H000000&}But it was canceled! We never saw if you made it!{\r}
+Dialogue: 0,1:21:18.14,1:21:20.17,9s,,0000,0000,0000,,我们现在一起演吧\N{\fs16\3c&H000000&}Well, then, let's find out together!{\r}
+Dialogue: 0,1:21:34.69,1:21:37.16,9s,,0000,0000,0000,,成功了!成功了!\N{\fs16\3c&H000000&}We did it! We did it! We did it!{\r}
+Dialogue: 0,1:21:37.23,1:21:38.72,9s,,0000,0000,0000,,干得好，牛仔\N{\fs16\3c&H000000&}Nice ropin', cowboy.{\r}
+Dialogue: 0,1:21:38.80,1:21:41.63,9s,,0000,0000,0000,,这是胡迪最光荣的一刻\N{\fs16\3c&H000000&}That was definitely Woody's finest hour!{\r}
+Dialogue: 0,1:21:41.70,1:21:44.50,9s,,0000,0000,0000,,你的帽子，伙伴\N{\fs16\3c&H000000&}Your hat, partner.{\r}
+Dialogue: 0,1:21:50.01,1:21:52.71,9s,,0000,0000,0000,,咱们回家吧\N{\fs16\3c&H000000&}Let's... go home.{\r}
+Dialogue: 0,1:22:07.13,1:22:10.89,9s,,0000,0000,0000,,胡迪，胡迪？\N{\fs16\3c&H000000&}Hey, Woody! Woody?{\r}
+Dialogue: 0,1:22:11.03,1:22:14.16,9s,,0000,0000,0000,,(安弟，欢迎回家)
+Dialogue: 0,1:22:16.57,1:22:18.73,9s,,0000,0000,0000,,新玩具，酷毙了\N{\fs16\3c&H000000&}Wow! New toys!{\r}
+Dialogue: 0,1:22:18.80,1:22:20.90,9s,,0000,0000,0000,,谢了，妈咪\N{\fs16\3c&H000000&}Cool! Thanks, Mom!{\r}
+Dialogue: 0,1:22:21.67,1:22:25.94,9s,,0000,0000,0000,,火箭炮珍妮和她的喷射马\N{\fs16\3c&H000000&}It's Bazooka jane and her jet-propelled horse!{\r}
+Dialogue: 0,1:22:26.01,1:22:29.31,9s,,0000,0000,0000,,胡迪、巴斯 札克偷走我的太空牛\N{\fs16\3c&H000000&}Woody, Buzz, that polecat Zurg has stolen my space cows{\r}
+Dialogue: 0,1:22:29.38,1:22:32.25,9s,,0000,0000,0000,,他们飞到陨石带了\N{\fs16\3c&H000000&}and they're headed for the asteroid!{\r}
+Dialogue: 0,1:22:38.39,1:22:40.98,9s,,0000,0000,0000,,安弟，该走了\N{\fs16\3c&H000000&}Andy, come on, hon. Time to go.{\r}
+Dialogue: 0,1:22:41.06,1:22:43.79,9s,,0000,0000,0000,,你把胡迪补好了 是啊\N{\fs16\3c&H000000&}- Hey, you fix. Ed Woody! - Yeah.{\r}
+Dialogue: 0,1:22:43.86,1:22:47.80,9s,,0000,0000,0000,,幸好我没带他去牛仔营 要不然他整只手都会被扯断\N{\fs16\3c&H000000&}Glad I decided not to take him to camp. His whole arm might have come off.{\r}
+Dialogue: 0,1:22:53.67,1:22:55.70,9s,,0000,0000,0000,,真没想到\N{\fs16\3c&H000000&}Well, what do you know?{\r}
+Dialogue: 0,1:22:57.88,1:23:02.11,9s,,0000,0000,0000,,红心，我们又有新的家了\N{\fs16\3c&H000000&}Bullseye, we're part of a family again!{\r}
+Dialogue: 0,1:23:02.98,1:23:05.21,9s,,0000,0000,0000,,(弟安)
+Dialogue: 0,1:23:05.28,1:23:06.51,9s,,0000,0000,0000,,(安弟)
+Dialogue: 0,1:23:06.59,1:23:09.11,9s,,0000,0000,0000,,小姐，我想告诉你\N{\fs16\3c&H000000&}Ma'am, I...{\r}
+Dialogue: 0,1:23:09.19,1:23:11.32,9s,,0000,0000,0000,,你是个毛线飘逸的…\N{\fs16\3c&H000000&}I wanted to say you're a bright young woman{\r}
+Dialogue: 0,1:23:11.39,1:23:13.22,9s,,0000,0000,0000,,…漂亮姑娘\N{\fs16\3c&H000000&}with a beautiful "yarnful" of hair.{\r}
+Dialogue: 0,1:23:13.33,1:23:16.16,9s,,0000,0000,0000,,我是说秀发飘逸\N{\fs16\3c&H000000&}"Hairful" of yarn. It's...{\r}
+Dialogue: 0,1:23:16.23,1:23:17.35,9s,,0000,0000,0000,,我得走了\N{\fs16\3c&H000000&}I must go.{\r}
+Dialogue: 0,1:23:17.43,1:23:21.26,9s,,0000,0000,0000,,你是我见过 最可爱的太空玩具\N{\fs16\3c&H000000&}Well, aren't you the sweetest space toy I ever met?{\r}
+Dialogue: 0,1:23:23.80,1:23:25.93,9s,,0000,0000,0000,,什么事？\N{\fs16\3c&H000000&}What's that? Bark-bark?{\r}
+Dialogue: 0,1:23:26.00,1:23:29.37,9s,,0000,0000,0000,,小狗狗得到后院方便一下\N{\fs16\3c&H000000&}This fella says he needs to go out for a little private time.{\r}
+Dialogue: 0,1:23:29.44,1:23:31.88,9s,,0000,0000,0000,,那只狗需要帮忙\N{\fs16\3c&H000000&}That critter needs help!{\r}
+Dialogue: 0,1:23:43.16,1:23:45.18,9s,,0000,0000,0000,,抱抱龙，帮帮忙\N{\fs16\3c&H000000&}Rex., I could use a hand over here, buddy.{\r}
+Dialogue: 0,1:23:45.26,1:23:48.12,9s,,0000,0000,0000,,我不必玩了 我亲手打败过札克\N{\fs16\3c&H000000&}I don't need to play. I've lived it!{\r}
+Dialogue: 0,1:23:48.73,1:23:50.66,9s,,0000,0000,0000,,惨了惨了，可恶\N{\fs16\3c&H000000&}Oh, nuts!{\r}
+Dialogue: 0,1:23:50.73,1:23:52.89,9s,,0000,0000,0000,,欢迎光临艾而玩具城\N{\fs16\3c&H000000&}Welcome to Al's Toy Barn.{\r}
+Dialogue: 0,1:23:52.97,1:23:55.83,9s,,0000,0000,0000,,我们的价格最便宜\N{\fs16\3c&H000000&}We've got the lowest prices in town.{\r}
+Dialogue: 0,1:23:55.90,1:24:00.27,9s,,0000,0000,0000,,每样玩具都一块钱\N{\fs16\3c&H000000&}Everything for a buck-buck-buck.{\r}
+Dialogue: 0,1:24:00.34,1:24:03.74,9s,,0000,0000,0000,,犯罪没有好下场\N{\fs16\3c&H000000&}Well, I guess crime doesn't pay.{\r}
+Dialogue: 0,1:24:03.81,1:24:07.11,9s,,0000,0000,0000,,安弟把我缝得好结实\N{\fs16\3c&H000000&}Andy did a great job, huh? Nice and strong!{\r}
+Dialogue: 0,1:24:07.18,1:24:10.08,9s,,0000,0000,0000,,我喜欢，你很强壮\N{\fs16\3c&H000000&}I like it. Makes you look... tough.{\r}
+Dialogue: 0,1:24:12.92,1:24:15.35,9s,,0000,0000,0000,,你救了我们 我们永远感谢你\N{\fs16\3c&H000000&}You have saved our lives. We are eternally grateful.{\r}
+Dialogue: 0,1:24:15.42,1:24:19.29,9s,,0000,0000,0000,,你救了他们？ 喔，我的英雄\N{\fs16\3c&H000000&}You saved their lives? My hero!{\r}
+Dialogue: 0,1:24:19.36,1:24:22.82,9s,,0000,0000,0000,,他们好可爱 我们领养他们吧\N{\fs16\3c&H000000&}And they're so adorable! Let's adopt them!{\r}
+Dialogue: 0,1:24:22.90,1:24:24.16,9s,,0000,0000,0000,,爸爸\N{\fs16\3c&H000000&}Daddy!{\r}
+Dialogue: 0,1:24:24.23,1:24:25.56,9s,,0000,0000,0000,,不要吧\N{\fs16\3c&H000000&}Oh, no.{\r}
+Dialogue: 0,1:24:26.70,1:24:29.00,9s,,0000,0000,0000,,吱吱，你被修好了\N{\fs16\3c&H000000&}Wheezy, you're fix. Ed!{\r}
+Dialogue: 0,1:24:29.07,1:24:33.44,9s,,0000,0000,0000,,是啊 鲨鱼先生找到一个吱吱盒\N{\fs16\3c&H000000&}Oh, yeah. Mr. Shark looked in the toy box. And found me an extra squeaker.{\r}
+Dialogue: 0,1:24:33.51,1:24:36.74,9s,,0000,0000,0000,,你觉得怎样？ 好得不得了\N{\fs16\3c&H000000&}- And... how do you feel? - I feel swell.{\r}
+Dialogue: 0,1:24:36.81,1:24:41.21,9s,,0000,0000,0000,,我想要为大家献唱一曲\N{\fs16\3c&H000000&}In fact, I think I feel a song comin' on.{\r}
+Dialogue: 0,1:24:44.18,1:24:46.52,9s,,0000,0000,0000,,我是你好朋友\N{\fs16\3c&H000000&}You've got a friend in me{\r}
+Dialogue: 0,1:24:47.72,1:24:51.52,9s,,0000,0000,0000,,我是你好朋友\N{\fs16\3c&H000000&}You've got a friend in me{\r}
+Dialogue: 0,1:24:51.59,1:24:54.32,9s,,0000,0000,0000,,紧紧记住这句话\N{\fs16\3c&H000000&}You just remember what your old pal said{\r}
+Dialogue: 0,1:24:54.39,1:24:57.92,9s,,0000,0000,0000,,我是你好朋友\N{\fs16\3c&H000000&}Babe you've got a friend in me{\r}
+Dialogue: 0,1:24:58.00,1:25:00.86,9s,,0000,0000,0000,,我是你好朋友\N{\fs16\3c&H000000&}Yeah you've got a friend in me{\r}
+Dialogue: 0,1:25:00.93,1:25:04.37,9s,,0000,0000,0000,,妹妹，你越长越高啰\N{\fs16\3c&H000000&}Come on over. You are such a big girl.{\r}
+Dialogue: 0,1:25:04.44,1:25:06.56,9s,,0000,0000,0000,,你看她可以开车了吗？\N{\fs16\3c&H000000&}Andy, you think she's ready to drive the car yet?{\r}
+Dialogue: 0,1:25:06.64,1:25:08.50,9s,,0000,0000,0000,,可以啊，我来教她\N{\fs16\3c&H000000&}Yeah, and I can teach her.{\r}
+Dialogue: 0,1:25:08.57,1:25:11.48,9s,,0000,0000,0000,,你还在担心？ 担心安弟？\N{\fs16\3c&H000000&}- You still worried? - About Andy?{\r}
+Dialogue: 0,1:25:11.54,1:25:15.84,9s,,0000,0000,0000,,才不，好时光要珍惜 我以你为傲，牛仔\N{\fs16\3c&H000000&}- No, it'll be fun while it lasts. - I'm proud of you, cowboy.{\r}
+Dialogue: 0,1:25:15.91,1:25:21.01,9s,,0000,0000,0000,,就算安弟长大了 巴斯光年还是我的好朋友\N{\fs16\3c&H000000&}Besides, when it all ends, I'll have old Buzz Lightyear to keep me company...{\r}
+Dialogue: 0,1:25:21.12,1:25:23.09,9s,,0000,0000,0000,,一同飞向宇宙…直到永远\N{\fs16\3c&H000000&}...for infinity and beyond.{\r}
+Dialogue: 0,1:25:23.09,1:25:24.39,9s,,0000,0000,0000,,一同飞向宇宙…直到永远\N{\fs16\3c&H000000&}...for infinity and beyond.{\r}
+Dialogue: 0,1:25:24.46,1:25:28.48,9s,,0000,0000,0000,,这是上天注定的命运\N{\fs16\3c&H000000&}You're gonna see it's our destiny{\r}
+Dialogue: 0,1:25:30.03,1:25:30.90,9s,,0000,0000,0000,,我是你好朋友 一点也没错\N{\fs16\3c&H000000&}- You've got a friend in me - Yes you do{\r}
+Dialogue: 0,1:25:30.90,1:25:33.36,9s,,0000,0000,0000,,我是你好朋友 一点也没错\N{\fs16\3c&H000000&}- You've got a friend in me - Yes you do{\r}
+Dialogue: 0,1:25:33.43,1:25:36.99,9s,,0000,0000,0000,,我是你好朋友 说得好\N{\fs16\3c&H000000&}- You've got a friend in me - That's the truth{\r}
+Dialogue: 0,1:25:37.07,1:25:40.16,9s,,0000,0000,0000,,我是你…\N{\fs16\3c&H000000&}You've got a friend{\r}
+Dialogue: 0,1:25:40.24,1:25:43.44,9s,,0000,0000,0000,,…好朋友\N{\fs16\3c&H000000&}In me{\r}
+Dialogue: 0,1:25:43.44,1:25:45.14,9s,,0000,0000,0000,,…好朋友\N{\fs16\3c&H000000&}In me{\r}
+Dialogue: 0,1:25:45.21,1:25:46.54,9s,,0000,0000,0000,,(吱吱)
+Dialogue: 0,1:25:46.61,1:25:47.60,9s,,0000,0000,0000,,好耶\N{\fs16\3c&H000000&}Yeah!{\r}
+Dialogue: 0,1:25:48.41,1:25:50.74,9s,,0000,0000,0000,,谢谢观赏
+Dialogue: 0,1:17:02.47,1:17:06.00,9s,,0000,0000,0000,,-哇...小狗狗\N{\fs16\3c&H000000&}-Wow! A puppy!{\r}
+Dialogue: 0,0:00:02.60,0:00:03.00,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nw\N招募Q号:76846146
+Dialogue: 0,0:00:03.00,0:00:03.40,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nww\N招募Q号:76846146
+Dialogue: 0,0:00:03.40,0:00:03.80,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww\N招募Q号:76846146
+Dialogue: 0,0:00:03.80,0:00:04.20,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.\N招募Q号:76846146
+Dialogue: 0,0:00:04.20,0:00:04.60,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.H\N招募Q号:76846146
+Dialogue: 0,0:00:04.60,0:00:05.00,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HD\N招募Q号:76846146
+Dialogue: 0,0:00:05.00,0:00:05.40,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDc\N招募Q号:76846146
+Dialogue: 0,0:00:05.40,0:00:05.80,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcm\N招募Q号:76846146
+Dialogue: 0,0:00:05.80,0:00:06.20,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcmc\N招募Q号:76846146
+Dialogue: 0,0:00:06.20,0:00:06.60,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcmct\N招募Q号:76846146
+Dialogue: 0,0:00:06.60,0:00:07.00,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcmct.\N招募Q号:76846146
+Dialogue: 0,0:00:07.00,0:00:07.40,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcmct.c\N招募Q号:76846146
+Dialogue: 0,0:00:07.40,0:00:07.80,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcmct.co\N招募Q号:76846146
+Dialogue: 0,0:00:07.80,0:00:12.00,cmct,,0000,0000,0000,,--==CMCT团队 荣誉出品==--\N影片压制: 君子九思  字幕调校: 君子九思\Nwww.HDcmct.com\N招募Q号:76846146
